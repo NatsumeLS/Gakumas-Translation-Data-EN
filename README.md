@@ -12,6 +12,6 @@
 
 # Contributors
 
-<a href="https://github.com/NatsumeLS/Gakumas-Translation-Data-EN">
+<a href="https://github.com/NatsumeLS/Gakumas-Translation-Data-EN/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=NatsumeLS/Gakumas-Translation-Data-EN" />
 </a>
