@@ -5,8 +5,9 @@
 ## Files and Folder Structure
 
 - `./local-files/localization.json`: Localization strings.
-- `./local-files/generic.json`: Other tracked strings.
-- `./local-files/genericTrans`: Function the same as `generic.json`. Folder and file names can be customized to to distinguish translation content.
+- `./local-files/generic.json`: General strings.
+- `./local-files/genericTrans`: Same as `generic.json`.
+- Folder and file names in `genericTrans` can be customized to to distinguish translation content.
 - `./local-files/resource` Resource files.
 
 # Contributors
