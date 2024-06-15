@@ -23,7 +23,7 @@
 [message text=そこまで褒めてもらえるような\nデキじゃ～なかったよーな気も…… name=ことね clip=\{"_startTime":15.4848344446,"_duration":6.0200033715,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [voice voice=sud_vo_adv_pstory_001_fktn_ending-normal-04_fktn-003 actorId=fktn channel=1 clip=\{"_startTime":15.5848378161,"_duration":5.92,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [message text=いいえ、いい模擬練習でしたよ。 name={user} se=sud_se_adv_message-01 clip=\{"_startTime":21.7048338724,"_duration":2.1078843436,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[choicegroup choices=[choice text=nan] choices=[choice text=nan] clip=\{"_startTime":24.0127182159,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[choicegroup choices=[choice text=いまの実力を\n確認できました] choices=[choice text=いま、どんな\n気持ちですか？] clip=\{"_startTime":24.0127182159,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [branchgroup type=Choice groupLength=2]
 [branch groupLength=11]
 [backgroundsetting id=ryomon_mae clip=\{"_startTime":25.2127182159,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

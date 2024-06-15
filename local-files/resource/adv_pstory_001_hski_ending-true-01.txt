@@ -44,7 +44,7 @@
 [actormotion id=hski motion=mot_all_chr_cmmn_talk-005_in transition=0.7 clip=\{"_startTime":43.5350025512,"_duration":1.1896699548,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actorfacialmotion id=hski motion=mot_all_chr_hski_facial-all-default_in clip=\{"_startTime":43.5350025512,"_duration":0.0333333351,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [message text=なら―― name={user} se=sud_se_adv_message-01 clip=\{"_startTime":43.5350025512,"_duration":1.1896699548,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[choicegroup choices=[choice text=nan] choices=[choice text=nan] clip=\{"_startTime":44.9313391703,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[choicegroup choices=[choice text=満足しましたか？] choices=[choice text=自慢できそう\nですか？] clip=\{"_startTime":44.9313391703,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [branchgroup type=Choice groupLength=2]
 [branch groupLength=17]
 [message text=いいえっ！　ちっとも！ name=咲季 clip=\{"_startTime":46.1313391703,"_duration":1.6370007821,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

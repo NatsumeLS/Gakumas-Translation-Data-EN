@@ -22,7 +22,7 @@
 [actorfacialmotion id=hski motion=mot_all_chr_cmmn_facial-all-ikari1-egao2_in clip=\{"_startTime":12.8113334333,"_duration":0.0333333351,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [message text=さぁてっ！　次は―――― name=咲季 clip=\{"_startTime":12.8113334333,"_duration":2.1199964713,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [voice voice=sud_vo_adv_pstory_001_hski_ending-normal-03_hski-004 actorId=hski channel=1 clip=\{"_startTime":12.9113299046,"_duration":2.02,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[choicegroup choices=[choice text=nan] choices=[choice text=nan] clip=\{"_startTime":15.1180002239,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[choicegroup choices=[choice text=新しいレッスン\nプランについて] choices=[choice text=休養が必要です] clip=\{"_startTime":15.1180002239,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [branchgroup type=Choice groupLength=2]
 [branch groupLength=17]
 [actormotion id=hski motion=mot_all_chr_cmmn_talk-015_in transition=0.7 clip=\{"_startTime":16.3180002239,"_duration":1.6666667461,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
