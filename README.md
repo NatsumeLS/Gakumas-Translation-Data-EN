@@ -1,6 +1,11 @@
+[![](https://github.com/NatsumeLS/Gakumas-Translation-Data-EN/actions/workflows/dispatch_update.yml/badge.svg)](https://github.com/NatsumeLS/Gakumas-Translation-Data-EN/actions/workflows/dispatch_update.yml)
+[![](https://hits.dwyl.com/NatsumeLS/Gakumas-Translation-Data-EN.svg?style=flat-square)](https://github.com/NatsumeLS/Gakumas-Translation-Data-EN/graphs/traffic)
+
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/qARc4Hdc3n)](https://natsume.io/GakumasLocalize)
+
 # Gakumas-Translation-Data-EN
 
-- Localization data for [Gakumas-Localify-EN](https://github.com/NatsumeLS/Gakumas-Localify-EN)
+- Localization Data for [Gakumas-Localify-EN](https://github.com/NatsumeLS/Gakumas-Localify-EN)
 
 ## Files and Folder Structure
 
