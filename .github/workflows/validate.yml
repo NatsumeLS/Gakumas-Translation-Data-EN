@@ -1,0 +1,22 @@
+name: Validate
+
+on: [push, pull_request, workflow_dispatch]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  dispatch:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Validate
+      id: json-yaml-validate
+      uses: GrantBirki/json-yaml-validate@v3
+      with:
+        comment: true
