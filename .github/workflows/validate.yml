@@ -7,7 +7,7 @@ permissions:
   pull-requests: write
 
 jobs:
-  dispatch:
+  validate:
 
     runs-on: ubuntu-latest
 
