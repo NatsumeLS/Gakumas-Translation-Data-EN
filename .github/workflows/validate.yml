@@ -1,4 +1,4 @@
-name: Validate
+name: Validator
 
 on: [push, pull_request, workflow_dispatch]
 
@@ -19,4 +19,5 @@ jobs:
       id: json-yaml-validate
       uses: GrantBirki/json-yaml-validate@v3
       with:
-        comment: true
+        comment: "true"
+        use_gitignore: "false"
