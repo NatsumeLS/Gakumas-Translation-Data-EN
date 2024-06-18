@@ -26,15 +26,6 @@ jobs:
       id: resource-validate
       run: python ./scripts/resource_validator.py ./local-files/resource
 
-    - name: Send Notification to Discord
-      uses: sarisia/actions-status-discord@v1
-      if: always()
-      with:
-        webhook: ${{ secrets.DISCORD_WEBHOOK }}
-        status: ${{ job.status }}
-        title: "Validate"
-        url: "https://github.com/NatsumeLS/Gakumas-Translation-Data-EN/actions/runs/${{ job.container.id }}"
-
   dispatch:
 
     runs-on: ubuntu-latest
@@ -48,3 +39,11 @@ jobs:
         token: ${{ secrets.PAT }}
         repository: NatsumeLS/Gakumas-Localify-EN
         event-type: update-submodule
+
+    - name: Send Notification to Discord
+      uses: sarisia/actions-status-discord@v1
+      if: always()
+      with:
+        webhook: ${{ secrets.DISCORD_WEBHOOK }}
+        status: ${{ job.status }}
+        title: "Dispatch"
