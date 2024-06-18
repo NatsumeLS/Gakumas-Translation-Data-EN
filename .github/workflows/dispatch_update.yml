@@ -1,9 +1,6 @@
 name: Dispatch Update
 
-on:
-  push:
-    branches:
-      - main
+on: [push, pull_request, workflow_dispatch]
 
 jobs:
   dispatch:
@@ -11,9 +8,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Dispatch Update to Gakumas-Localify-EN
-        uses: peter-evans/repository-dispatch@v3
-        with:
-          token: ${{ secrets.PAT }}
-          repository: NatsumeLS/Gakumas-Localify-EN
-          event-type: update-submodule
+    - name: Dispatch Update to Gakumas-Localify-EN
+      uses: peter-evans/repository-dispatch@v3
+      with:
+        token: ${{ secrets.PAT }}
+        repository: NatsumeLS/Gakumas-Localify-EN
+        event-type: update-submodule
