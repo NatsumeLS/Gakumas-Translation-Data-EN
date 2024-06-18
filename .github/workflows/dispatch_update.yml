@@ -1,13 +1,17 @@
-name: Dispatch Update Submodule
+name: Dispatch Update
+
 on:
   push:
     branches:
       - main
+
 jobs:
   dispatch:
+
     runs-on: ubuntu-latest
+
     steps:
-      - name: Dispatch update to Gakumas-Localify-EN
+      - name: Dispatch Update to Gakumas-Localify-EN
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.PAT }}
