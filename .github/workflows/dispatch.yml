@@ -24,7 +24,7 @@ jobs:
     needs: validate
 
     steps:
-    - name: Dispatch Update to Gakumas-Localify-EN
+    - name: Dispatch Update Submodule to Gakumas-Localify-EN
       uses: peter-evans/repository-dispatch@v3
       with:
         token: ${{ secrets.PAT }}
