@@ -11,11 +11,20 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
-    - name: Validate
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Validate JSON and YAML
       id: json-yaml-validate
       uses: GrantBirki/json-yaml-validate@v3
       with:
         use_gitignore: false
+
+    - name: Validate Resource
+      id: resource-validate
+      run: python ./scripts/resource_validator.py ./local-files/resource
 
   dispatch:
 
