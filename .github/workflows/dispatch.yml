@@ -26,6 +26,14 @@ jobs:
       id: resource-validate
       run: python ./scripts/resource_validator.py ./local-files/resource
 
+    - name: Send Notification to Discord
+      uses: sarisia/actions-status-discord@v1
+      if: failure()
+      with:
+        webhook: ${{ secrets.DISCORD_WEBHOOK }}
+        status: ${{ job.status }}
+        title: "Validate"
+
   dispatch:
 
     runs-on: ubuntu-latest
