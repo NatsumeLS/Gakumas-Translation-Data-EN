@@ -8,9 +8,36 @@ def check_syntax(file_path):
     
     errors = []
     for line_number, line in enumerate(lines, 1):
-        if not re.match(r'^\[.*\]$', line.strip()) and line.strip():
-            errors.append(f"Error: ❌ Syntax error in {file_path} on line {line_number}")
-    
+        stack = []
+        in_quotes = False
+        for char in line.strip():
+            if char == '"':
+                in_quotes = not in_quotes
+            elif char == '{':
+                stack.append(char)
+            elif char == '}':
+                if not stack or stack[-1] != '{':
+                    errors.append(f"Error: ❌ Unmatched closing brace in {file_path} on line {line_number}")
+                    break
+                stack.pop()
+            elif char == '[':
+                stack.append(char)
+            elif char == ']':
+                if not stack or stack[-1] != '[':
+                    errors.append(f"Error: ❌ Unmatched closing bracket in {file_path} on line {line_number}")
+                    break
+                stack.pop()
+        
+        if stack:
+            unmatched = stack[-1]
+            if unmatched == '{':
+                errors.append(f"Error: ❌ Unmatched opening brace in {file_path} on line {line_number}")
+            elif unmatched == '[':
+                errors.append(f"Error: ❌ Unmatched opening bracket in {file_path} on line {line_number}")
+        
+        if in_quotes:
+            errors.append(f"Error: ❌ Unmatched quote in {file_path} on line {line_number}")
+
     return errors
 
 def check_directory(directory):
