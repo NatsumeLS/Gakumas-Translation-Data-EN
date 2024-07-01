@@ -54,18 +54,14 @@ jobs:
       with:
         node-version: '18'
 
-    - name: Install Prettier and JSON Sort Plugin
-      run: npm install --global prettier prettier-plugin-sort-json
-  
-    - name: Create Prettier Configuration
-      run: |
-        echo '{
-          "plugins": ["prettier-plugin-sort-json"],
-          "jsonRecursiveSort": true
-        }' > .prettierrc.json
+    - name: Install Dependencies
+      run: npm install --global prettier sort-json
 
-    - name: Run Prettier to format JSON files
-      run: prettier --plugin-search-dir "$(npm root -g)" --write "local-files/**/*.json"
+    - name: Run Prettier
+      run: prettier --write "local-files/**/*.json"
+
+    - name: Sort JSON files
+      run: find local-files -type f -name '*.json' -exec sort-json {} \;
 
     - name: Authorize Git
       run: |
@@ -75,7 +71,7 @@ jobs:
     - name: Commit Changes
       run: |
         git add local-files/**/*.json
-        git commit -m "chore(format): Format JSON files with Prettier"
+        git commit -m "chore(format): Format and Sort JSON files"
         git push origin main
       env:
         GITHUB_TOKEN: ${{ secrets.PAT }}
