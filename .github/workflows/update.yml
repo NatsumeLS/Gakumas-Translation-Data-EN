@@ -1,4 +1,4 @@
-name: Dispatch
+name: Update
 
 on: [push, pull_request, workflow_dispatch]
 
@@ -76,7 +76,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.PAT }}
 
-  dispatch:
+  update:
 
     runs-on: ubuntu-latest
 
@@ -85,12 +85,27 @@ jobs:
     if: github.event_name != 'pull_request'
 
     steps:
-    - name: Dispatch Update Submodule to Gakumas-Localify-EN
-      uses: peter-evans/repository-dispatch@v3
-      with:
-        token: ${{ secrets.PAT }}
-        repository: NatsumeLS/Gakumas-Localify-EN
-        event-type: update-submodule
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Authorize Git
+      run: |
+        git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
+        git config --global user.name "$GITHUB_ACTOR"
+
+    - name: Write Branch and Hash Info
+      run: |
+        branch=$(git rev-parse --abbrev-ref HEAD)
+        hash=$(git rev-parse --short=7 HEAD)
+        echo "$branch.$hash" > version.txt
+        echo "VERSION=$branch.$hash" >> $GITHUB_ENV
+
+    - name: Commit Changes
+      run: |
+        git commit -am "chore(update): Update Version Info"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.PAT }}
 
     - name: Send Notification to Discord
       uses: sarisia/actions-status-discord@v1
@@ -98,4 +113,4 @@ jobs:
       with:
         webhook: ${{ secrets.DISCORD_WEBHOOK }}
         status: ${{ job.status }}
-        title: "Dispatch"
+        title: "Update"
