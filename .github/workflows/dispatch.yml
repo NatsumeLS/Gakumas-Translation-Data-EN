@@ -58,10 +58,10 @@ jobs:
       run: npm install --global prettier sort-json
 
     - name: Run Prettier
-      run: prettier --write "local-files/**/*.json"
+      run: prettier --write "local-files/*.json" "local-files/**/*.json"
 
     - name: Sort JSON files
-      run: find local-files -type f -name '*.json' -not -path "local-files/genericTrans/lyrics/*" -exec sort-json {} \;
+      run: find local-files -type f -name '*.json' -not -path "local-files/genericTrans/lyrics/*" -exec sort-json {} +
 
     - name: Authorize Git
       run: |
@@ -70,7 +70,7 @@ jobs:
 
     - name: Commit Changes
       run: |
-        git add local-files/**/*.json
+        git add local-files/*.json local-files/**/*.json
         git commit -m "chore(format): Format and Sort JSON files"
         git push origin main
       env:
