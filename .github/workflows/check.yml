@@ -1,4 +1,4 @@
-name: Update
+name: Check
 
 on: [push, pull_request, workflow_dispatch]
 
@@ -103,6 +103,7 @@ jobs:
 
     - name: Commit Changes
       run: |
+        git pull
         git commit -am "chore(update): Update Version Info"
         git push origin main
       env:
