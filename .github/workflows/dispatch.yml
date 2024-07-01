@@ -65,7 +65,7 @@ jobs:
         }' > .prettierrc.json
 
     - name: Run Prettier to format JSON files
-      run: prettier --write "local-files/**/*.json"
+      run: prettier --plugin-search-dir "$(npm root -g)" --write "local-files/**/*.json"
 
     - name: Authorize Git
       run: |
