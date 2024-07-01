@@ -1,5 +1,5 @@
 [![](https://img.shields.io/endpoint?url=https://hits.dwyl.com/NatsumeLS/Gakumas-Translation-Data-EN.json?color=pink&style=flat-square&label=Views)](https://github.com/NatsumeLS/Gakumas-Translation-Data-EN/graphs/traffic)
-[![](https://img.shields.io/github/actions/workflow/status/NatsumeLS/Gakumas-Translation-Data-EN/dispatch.yml?style=flat-square&label=Dispatch)](https://github.com/NatsumeLS/Gakumas-Translation-Data-EN/actions/workflows/dispatch.yml)
+[![](https://img.shields.io/github/actions/workflow/status/NatsumeLS/Gakumas-Translation-Data-EN/update.yml?style=flat-square&label=Update)](https://github.com/NatsumeLS/Gakumas-Translation-Data-EN/actions/workflows/update.yml)
 
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/qARc4Hdc3n)](https://natsume.io/GakumasLocalize)
 
