@@ -42,6 +42,7 @@ jobs:
 
     permissions:
       contents: write
+      pull-requests: write
 
     steps:
     - name: Checkout
@@ -70,7 +71,11 @@ jobs:
       run: |
         git add local-files/*.json local-files/**/*.json
         git commit -m "chore(format): Format and Sort JSON files"
-        git push origin main
+        if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+          git push origin HEAD:${{ github.head_ref }}
+        else
+          git push origin main
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.PAT }}
       continue-on-error: true
