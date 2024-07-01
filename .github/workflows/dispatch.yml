@@ -34,11 +34,57 @@ jobs:
         status: ${{ job.status }}
         title: "Validate"
 
-  dispatch:
+  format:
 
     runs-on: ubuntu-latest
 
     needs: validate
+
+    if: github.event_name != 'pull_request'
+
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Install Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+
+    - name: Install Prettier and JSON Sort Plugin
+      run: npm install --global prettier prettier-plugin-sort-json
+  
+    - name: Create Prettier Configuration
+      run: |
+        echo '{
+          "plugins": ["prettier-plugin-sort-json"],
+          "jsonRecursiveSort": true
+        }' > .prettierrc.json
+
+    - name: Run Prettier to format JSON files
+      run: prettier --write "local-files/**/*.json"
+
+    - name: Authorize Git
+      run: |
+        git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
+        git config --global user.name "$GITHUB_ACTOR"
+
+    - name: Commit Changes
+      run: |
+        git add local-files/**/*.json
+        git commit -m "chore(format): Format JSON files with Prettier"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.PAT }}
+
+  dispatch:
+
+    runs-on: ubuntu-latest
+
+    needs: [validate, format]
 
     if: github.event_name != 'pull_request'
 
