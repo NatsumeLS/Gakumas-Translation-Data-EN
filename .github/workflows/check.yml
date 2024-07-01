@@ -40,8 +40,6 @@ jobs:
 
     needs: validate
 
-    if: github.event_name != 'pull_request'
-
     permissions:
       contents: write
 
