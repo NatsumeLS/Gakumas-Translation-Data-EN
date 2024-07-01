@@ -75,6 +75,7 @@ jobs:
         git push origin main
       env:
         GITHUB_TOKEN: ${{ secrets.PAT }}
+      continue-on-error: true
 
   update:
 
