@@ -85,7 +85,7 @@ Instructions for `LSPosed` won't be provided here since it is unique for each de
 
 # Updating the translation data
 Update the translation datas via the `resource settings` tab in the `gakuen-imas-localify` app.
-Any updates made to the translation datas will be visible in #en-translation-data
+Any updates made to the translation datas will be visible in this repo push history, or the discord server inside #en-translation-data
 
 ## Files and Folder Structure
 
