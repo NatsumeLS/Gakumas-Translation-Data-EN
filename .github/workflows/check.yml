@@ -57,7 +57,7 @@ jobs:
       run: npm install --global prettier sort-json
 
     - name: Run Prettier
-      run: prettier --write "local-files/*.json" "local-files/genericTrans/*.json"
+      run: prettier --write "local-files/*.json" "local-files/genericTrans/index/*.json" "local-files/genericTrans/lyrics/*.json"
 
     - name: Sort JSON files
       run: find local-files -type f -name '*.json' -not -path "local-files/genericTrans/*" -exec sort-json {} +
