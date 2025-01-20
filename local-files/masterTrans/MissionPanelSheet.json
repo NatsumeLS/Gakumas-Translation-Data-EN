@@ -1,60 +1,60 @@
 {
-  "data": [
-    {
-      "missionPanelSheetGroupId": "panel_mission-event-002",
-      "name": "1st",
-      "number": 1
-    },
-    {
-      "missionPanelSheetGroupId": "panel_mission-event-002",
-      "name": "2nd",
-      "number": 2
-    },
-    {
-      "missionPanelSheetGroupId": "panel_mission-event-003",
-      "name": "1st",
-      "number": 1
-    },
-    {
-      "missionPanelSheetGroupId": "panel_mission-event-004",
-      "name": "1st",
-      "number": 1
-    },
-    {
-      "missionPanelSheetGroupId": "panel_mission-event-004",
-      "name": "2nd",
-      "number": 2
-    },
-    {
-      "missionPanelSheetGroupId": "panel_mission-event-006",
-      "name": "1st",
-      "number": 1
-    },
-    {
-      "missionPanelSheetGroupId": "panel_mission-event-006",
-      "name": "2nd",
-      "number": 2
-    },
-    {
-      "missionPanelSheetGroupId": "panel_mission-event-niv",
-      "name": "1st",
-      "number": 1
-    },
-    {
-      "missionPanelSheetGroupId": "panel-mission-01",
-      "name": "1st",
-      "number": 1
-    },
-    {
-      "missionPanelSheetGroupId": "panel-mission-01",
-      "name": "2nd",
-      "number": 2
-    }
-  ],
   "rules": {
     "primaryKeys": [
       "missionPanelSheetGroupId",
       "number"
     ]
-  }
+  },
+  "data": [
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-002",
+      "number": 1,
+      "name": "1st"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-002",
+      "number": 2,
+      "name": "2nd"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-003",
+      "number": 1,
+      "name": "1st"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-004",
+      "number": 1,
+      "name": "1st"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-004",
+      "number": 2,
+      "name": "2nd"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-006",
+      "number": 1,
+      "name": "1st"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-006",
+      "number": 2,
+      "name": "2nd"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-niv",
+      "number": 1,
+      "name": "1st"
+    },
+    {
+      "missionPanelSheetGroupId": "panel-mission-01",
+      "number": 1,
+      "name": "1st"
+    },
+    {
+      "missionPanelSheetGroupId": "panel-mission-01",
+      "number": 2,
+      "name": "2nd"
+    }
+  ]
 }

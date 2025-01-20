@@ -1,4 +1,9 @@
 {
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
   "data": [
     {
       "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-amao",
@@ -2992,10 +2997,5 @@
       "id": "photo_pose-photo_photobooth-01-2-2-3-reaction-ttmr",
       "name": "Hand on chest"
     }
-  ],
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  }
+  ]
 }

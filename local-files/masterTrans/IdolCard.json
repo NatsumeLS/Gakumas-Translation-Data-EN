@@ -1,4 +1,9 @@
 {
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
   "data": [
     {
       "id": "i_card-amao-1-000",
@@ -304,10 +309,5 @@
       "id": "i_card-ttmr-3-007",
       "name": "Campus mode!!"
     }
-  ],
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  }
+  ]
 }

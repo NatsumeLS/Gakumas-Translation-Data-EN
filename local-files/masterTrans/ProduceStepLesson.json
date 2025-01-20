@@ -1,4 +1,9 @@
 {
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
   "data": [
     {
       "id": "p_step_lesson_level-001-amao-hard-da-001",
@@ -3580,10 +3585,5 @@
       "id": "p_step_lesson-produce-003-exam_review_03-hard-02",
       "name": "Intensive Lesson"
     }
-  ],
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  }
+  ]
 }

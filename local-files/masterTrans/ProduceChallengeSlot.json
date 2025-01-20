@@ -1,4 +1,10 @@
 {
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "number"
+    ]
+  },
   "data": [
     {
       "id": "challenge_slot-exam_card_play_aggressive",
@@ -90,11 +96,5 @@
       "number": 3,
       "unlockDescription": "Obtain a Produce Rating of S in the \"Master\" difficulty"
     }
-  ],
-  "rules": {
-    "primaryKeys": [
-      "id",
-      "number"
-    ]
-  }
+  ]
 }

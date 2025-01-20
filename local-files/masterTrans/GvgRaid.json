@@ -1,15 +1,15 @@
 {
-  "data": [
-    {
-      "id": "circle-battle-event-001",
-      "name": "#AnimateCheers",
-      "order": 1
-    }
-  ],
   "rules": {
     "primaryKeys": [
       "id",
       "order"
     ]
-  }
+  },
+  "data": [
+    {
+      "id": "circle-battle-event-001",
+      "order": 1,
+      "name": "#AnimateCheers"
+    }
+  ]
 }

@@ -1,4 +1,9 @@
 {
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
   "data": [
     {
       "id": "photo_background-danceroom-01",
@@ -24,10 +29,5 @@
       "id": "photo_photobooth-01",
       "name": "Animate"
     }
-  ],
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  }
+  ]
 }

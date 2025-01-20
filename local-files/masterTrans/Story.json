@@ -1,4 +1,9 @@
 {
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
   "data": [
     {
       "id": "dearness-story-amao-10",
@@ -516,10 +521,5 @@
       "id": "story-main-01-04-05",
       "title": "Ch.4 Ep.5"
     }
-  ],
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  }
+  ]
 }

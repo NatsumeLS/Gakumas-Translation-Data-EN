@@ -1,4 +1,9 @@
 {
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
   "data": [
     {
       "id": "tower_001-amao",
@@ -44,10 +49,5 @@
       "id": "tower_001-ttmr",
       "title": "Temari Tsukimura's Idol Road"
     }
-  ],
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  }
+  ]
 }

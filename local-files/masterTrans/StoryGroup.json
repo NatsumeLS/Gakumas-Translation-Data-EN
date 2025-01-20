@@ -1,4 +1,9 @@
 {
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
   "data": [
     {
       "id": "box_gasha_event-01-01",
@@ -164,10 +169,5 @@
       "id": "story_gvg_group-01-01",
       "title": ""
     }
-  ],
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  }
+  ]
 }

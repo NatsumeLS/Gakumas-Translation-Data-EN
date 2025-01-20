@@ -1,4 +1,9 @@
 {
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
   "data": [
     {
       "id": "hidden_mission-app-review-main-task-clear",
@@ -5324,10 +5329,5 @@
       "id": "main_task_group-03-01#50",
       "name": "Achieve S rank or higher in production"
     }
-  ],
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  }
+  ]
 }
