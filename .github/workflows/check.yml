@@ -60,7 +60,8 @@ jobs:
       run: prettier --write "local-files/*.json" "local-files/genericTrans/index/*.json" "local-files/genericTrans/lyrics/*.json"
 
     - name: Sort JSON files
-      run: find local-files -type f -name '*.json' -not -path "local-files/genericTrans/*" -exec sort-json {} +
+      run: find local-files -type f -name '*.json' -not -path "local-files/genericTrans/*" -not -path "local-files/masterTrans/*" -exec sort-json {} +
+
 
     - name: Authorize Git
       run: |
