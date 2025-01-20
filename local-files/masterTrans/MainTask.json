@@ -1,632 +1,1480 @@
 {
-    "main_task_group-01-01|1|title": "Hatsuboshi Task 1",
-    "main_task_group-01-01|1|description": "Challenge Produce Mode",
-    "main_task_group-01-01|1|homeDescription": "Challenge Produce Mode",
-    "main_task_group-01-01|2|title": "Hatsuboshi Task 2",
-    "main_task_group-01-01|2|description": "Let's watch Ch.1, Ep.1",
-    "main_task_group-01-01|2|homeDescription": "Let's watch Ch.1, Ep.1",
-    "main_task_group-01-01|3|title": "Hatsuboshi Task 3",
-    "main_task_group-01-01|3|description": "Enhance Support Cards",
-    "main_task_group-01-01|3|homeDescription": "Enhance Support Cards",
-    "main_task_group-01-01|4|title": "Hatsuboshi Task 4",
-    "main_task_group-01-01|4|description": "Edit your Business Card",
-    "main_task_group-01-01|4|homeDescription": "Edit your Business Card",
-    "main_task_group-01-01|5|title": "Hatsuboshi Task 5",
-    "main_task_group-01-01|5|description": "Follow another Producer",
-    "main_task_group-01-01|5|homeDescription": "Follow another Producer",
-    "main_task_group-01-01|6|title": "Hatsuboshi Task 6",
-    "main_task_group-01-01|6|description": "Clear 1 Training module",
-    "main_task_group-01-01|6|homeDescription": "Clear 1 Training module",
-    "main_task_group-01-01|7|title": "Hatsuboshi Task 7",
-    "main_task_group-01-01|7|description": "Clear 1 Exam Training module",
-    "main_task_group-01-01|7|homeDescription": "Clear 1 Exam Training module",
-    "main_task_group-01-01|8|title": "Hatsuboshi Task 8",
-    "main_task_group-01-01|8|description": "Challenge Produce Mode",
-    "main_task_group-01-01|8|homeDescription": "Challenge Produce Mode",
-    "main_task_group-01-01|9|title": "Hatsuboshi Task 9",
-    "main_task_group-01-01|9|description": "Let's watch Ch.1, Ep.2",
-    "main_task_group-01-01|9|homeDescription": "Let's watch Ch.1, Ep.2",
-    "main_task_group-01-01|10|title": "Hatsuboshi Task 10",
-    "main_task_group-01-01|10|description": "Train a Produce Idol",
-    "main_task_group-01-01|10|homeDescription": "Train a Produce Idol",
-    "main_task_group-01-01|11|title": "Hatsuboshi Task 11",
-    "main_task_group-01-01|11|description": "Collect Activity Funds",
-    "main_task_group-01-01|11|homeDescription": "Collect Activity Funds",
-    "main_task_group-01-01|12|title": "Hatsuboshi Task 12",
-    "main_task_group-01-01|12|description": "Exchange in the Money Exchange Shop",
-    "main_task_group-01-01|12|homeDescription": "Exchange in the Money Exchange Shop",
-    "main_task_group-01-01|13|title": "Hatsuboshi Task 13",
-    "main_task_group-01-01|13|description": "Challenge Produce Mode",
-    "main_task_group-01-01|13|homeDescription": "Challenge Produce Mode",
-    "main_task_group-01-01|14|title": "Hatsuboshi Task 14",
-    "main_task_group-01-01|14|description": "Let's watch Ch.1, Ep.3",
-    "main_task_group-01-01|14|homeDescription": "Let's watch Ch.1, Ep.3",
-    "main_task_group-01-01|15|title": "Hatsuboshi Task 15",
-    "main_task_group-01-01|15|description": "Start a Job",
-    "main_task_group-01-01|15|homeDescription": "Start a Job",
-    "main_task_group-01-01|16|title": "Hatsuboshi Task 16",
-    "main_task_group-01-01|16|description": "Challenge Produce Mode\n[Condition]: Plan: Sense Produce Idol",
-    "main_task_group-01-01|16|homeDescription": "Challenge Produce Mode\n[Condition]: Plan: Sense Produce Idol",
-    "main_task_group-01-01|17|title": "Hatsuboshi Task 17",
-    "main_task_group-01-01|17|description": "Pull the Sense Gacha once",
-    "main_task_group-01-01|17|homeDescription": "Pull the Sense Gacha once",
-    "main_task_group-01-01|18|title": "Hatsuboshi Task 18",
-    "main_task_group-01-01|18|description": "Let's watch Ch.1, Ep.4",
-    "main_task_group-01-01|18|homeDescription": "Let's watch Ch.1, Ep.4",
-    "main_task_group-01-01|19|title": "Hatsuboshi Task 19",
-    "main_task_group-01-01|19|description": "Raise {threshold} Support Cards to Lv20",
-    "main_task_group-01-01|19|homeDescription": "Raise {threshold} Support Cards to Lv20",
-    "main_task_group-01-01|20|title": "Hatsuboshi Task 20",
-    "main_task_group-01-01|20|description": "Achieve {threshold} Achievements",
-    "main_task_group-01-01|20|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-01-01|21|title": "Hatsuboshi Task 21",
-    "main_task_group-01-01|21|description": "Challenge Produce Mode\n[Condition]: Plan: Logic Produce Idol",
-    "main_task_group-01-01|21|homeDescription": "Challenge Produce Mode\n[Condition]: Plan: Logic Produce Idol",
-    "main_task_group-01-01|22|title": "Hatsuboshi Task 22",
-    "main_task_group-01-01|22|description": "Pull the Logic Gacha once",
-    "main_task_group-01-01|22|homeDescription": "Pull the Logic Gacha once",
-    "main_task_group-01-01|23|title": "Hatsuboshi Task 23",
-    "main_task_group-01-01|23|description": "Let's watch Ch.1, Ep.5",
-    "main_task_group-01-01|23|homeDescription": "Let's watch Ch.1, Ep.5",
-    "main_task_group-01-01|24|title": "Hatsuboshi Task 24",
-    "main_task_group-01-01|24|description": "Reach Producer Lv{threshold}",
-    "main_task_group-01-01|24|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-01-01|25|title": "Hatsuboshi Task 25",
-    "main_task_group-01-01|25|description": "Complete the production of {threshold} different idols",
-    "main_task_group-01-01|25|homeDescription": "Complete the production of {threshold} different idols",
-    "main_task_group-01-01|26|title": "Hatsuboshi Task 26",
-    "main_task_group-01-01|26|description": "Form a unit for a Contest",
-    "main_task_group-01-01|26|homeDescription": "Form a unit for a Contest",
-    "main_task_group-01-01|27|title": "Hatsuboshi Task 27",
-    "main_task_group-01-01|27|description": "Raise any idol’s Bond Level to {threshold}",
-    "main_task_group-01-01|27|homeDescription": "Raise any idol’s Bond Level to {threshold}",
-    "main_task_group-01-01|28|title": "Hatsuboshi Task 28",
-    "main_task_group-01-01|28|description": "Let's watch Ch.1, Ep.6",
-    "main_task_group-01-01|28|homeDescription": "Let's watch Ch.1, Ep.6",
-    "main_task_group-01-01|29|title": "Hatsuboshi Task 29",
-    "main_task_group-01-01|29|description": "Raise {threshold} Support Cards to Lv20",
-    "main_task_group-01-01|29|homeDescription": "Raise {threshold} Support Cards to Lv20",
-    "main_task_group-01-01|30|title": "Hatsuboshi Task 30",
-    "main_task_group-01-01|30|description": "Achieve a C+ Rating in Produce Mode",
-    "main_task_group-01-01|30|homeDescription": "Achieve a C+ Rating in Produce Mode",
-    "main_task_group-01-01|31|title": "Hatsuboshi Task 31",
-    "main_task_group-01-01|31|description": "Let's watch Ch.1, Ep.7",
-    "main_task_group-01-01|31|homeDescription": "Let's watch Ch.1, Ep.7",
-    "main_task_group-01-01|32|title": "Hatsuboshi Task 32",
-    "main_task_group-01-01|32|description": "Reach Producer Lv{threshold}",
-    "main_task_group-01-01|32|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-01-01|33|title": "Hatsuboshi Task 33",
-    "main_task_group-01-01|33|description": "Clear Training [Advanced 1]: Plan: Sense",
-    "main_task_group-01-01|33|homeDescription": "Clear Training [Advanced 1]: Plan: Sense",
-    "main_task_group-01-01|34|title": "Hatsuboshi Task 34",
-    "main_task_group-01-01|34|description": "Achieve a C+ Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
-    "main_task_group-01-01|34|homeDescription": "Achieve a C+ Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
-    "main_task_group-01-01|35|title": "Hatsuboshi Task 35",
-    "main_task_group-01-01|35|description": "Let's watch Ch.1, Ep.8",
-    "main_task_group-01-01|35|homeDescription": "Let's watch Ch.1, Ep.8",
-    "main_task_group-01-01|36|title": "Hatsuboshi Task 36",
-    "main_task_group-01-01|36|description": "Clear Training [Advanced 2]: Plan: Logic",
-    "main_task_group-01-01|36|homeDescription": "Clear Training [Advanced 2]: Plan: Logic",
-    "main_task_group-01-01|37|title": "Hatsuboshi Task 37",
-    "main_task_group-01-01|37|description": "Achieve a C+ Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
-    "main_task_group-01-01|37|homeDescription": "Achieve a C+ Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
-    "main_task_group-01-01|38|title": "Hatsuboshi Task 38",
-    "main_task_group-01-01|38|description": "Achieve {threshold} Achievements",
-    "main_task_group-01-01|38|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-01-01|39|title": "Hatsuboshi Task 39",
-    "main_task_group-01-01|39|description": "Let's watch Ch.1, Ep.9",
-    "main_task_group-01-01|39|homeDescription": "Let's watch Ch.1, Ep.9",
-    "main_task_group-01-01|40|title": "Hatsuboshi Task 40",
-    "main_task_group-01-01|40|description": "Raise the Training Stage of {threshold} Produce Idols to 2",
-    "main_task_group-01-01|40|homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 2",
-    "main_task_group-01-01|41|title": "Hatsuboshi Task 41",
-    "main_task_group-01-01|41|description": "Challenge the Pro Difficulty in Produce Mode",
-    "main_task_group-01-01|41|homeDescription": "Challenge the Pro Difficulty in Produce Mode",
-    "main_task_group-01-01|42|title": "Hatsuboshi Task 42",
-    "main_task_group-01-01|42|description": "Raise {threshold} Support Cards to Lv20",
-    "main_task_group-01-01|42|homeDescription": "Raise {threshold} Support Cards to Lv20",
-    "main_task_group-01-01|43|title": "Hatsuboshi Task 43",
-    "main_task_group-01-01|43|description": "Let's watch Ch.1, Ep.10",
-    "main_task_group-01-01|43|homeDescription": "Let's watch Ch.1, Ep.10",
-    "main_task_group-01-01|44|title": "Hatsuboshi Task 44",
-    "main_task_group-01-01|44|description": "Raise any idol’s Bond Level to {threshold}",
-    "main_task_group-01-01|44|homeDescription": "Raise any idol’s Bond Level to {threshold}",
-    "main_task_group-01-01|45|title": "Hatsuboshi Task 45",
-    "main_task_group-01-01|45|description": "Reach Producer Lv{threshold}",
-    "main_task_group-01-01|45|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-01-01|46|title": "Hatsuboshi Task 46",
-    "main_task_group-01-01|46|description": "Raise any parameter to 600 or more in Produce Mode",
-    "main_task_group-01-01|46|homeDescription": "Raise any parameter to 600 or more in Produce Mode",
-    "main_task_group-01-01|47|title": "Hatsuboshi Task 47",
-    "main_task_group-01-01|47|description": "Let's watch Ch.1, Ep.11",
-    "main_task_group-01-01|47|homeDescription": "Let's watch Ch.1, Ep.11",
-    "main_task_group-01-01|48|title": "Hatsuboshi Task 48",
-    "main_task_group-01-01|48|description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-01-01|48|homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-01-01|49|title": "Hatsuboshi Task 49",
-    "main_task_group-01-01|49|description": "Achieve a B Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
-    "main_task_group-01-01|49|homeDescription": "Achieve a B Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
-    "main_task_group-01-01|50|title": "Hatsuboshi Task 50",
-    "main_task_group-01-01|50|description": "Achieve a B Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
-    "main_task_group-01-01|50|homeDescription": "Achieve a B Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
-    "main_task_group-01-01|51|title": "Hatsuboshi Task 51",
-    "main_task_group-01-01|51|description": "Let's watch Ch.1, Ep.12",
-    "main_task_group-01-01|51|homeDescription": "Let's watch Ch.1, Ep.12",
-    "main_task_group-01-01|52|title": "Hatsuboshi Task 52",
-    "main_task_group-01-01|52|description": "Raise the Level of a Support Card to {threshold}",
-    "main_task_group-01-01|52|homeDescription": "Raise the Level of a Support Card to {threshold}",
-    "main_task_group-01-01|53|title": "Hatsuboshi Task 53",
-    "main_task_group-01-01|53|description": "Place 1st in the Final Exam",
-    "main_task_group-01-01|53|homeDescription": "Place 1st in the Final Exam",
-    "main_task_group-01-01|54|title": "Hatsuboshi Task 54",
-    "main_task_group-01-01|54|description": "Let's watch Ch.1, Ep.13",
-    "main_task_group-01-01|54|homeDescription": "Let's watch Ch.1, Ep.13",
-    "main_task_group-01-01|55|title": "Hatsuboshi Task 55",
-    "main_task_group-01-01|55|description": "Reach Producer Lv{threshold}",
-    "main_task_group-01-01|55|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-01-01|56|title": "Hatsuboshi Task 56",
-    "main_task_group-01-01|56|description": "Raise the Training Stage of {threshold} Produce Idols to 3",
-    "main_task_group-01-01|56|homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 3",
-    "main_task_group-01-01|57|title": "Hatsuboshi Task 57",
-    "main_task_group-01-01|57|description": "Raise any parameter to 800 or more in Produce Mode",
-    "main_task_group-01-01|57|homeDescription": "Raise any parameter to 800 or more in Produce Mode",
-    "main_task_group-01-01|58|title": "Hatsuboshi Task 58",
-    "main_task_group-01-01|58|description": "Let's watch Ch.1, Ep.14",
-    "main_task_group-01-01|58|homeDescription": "Let's watch Ch.1, Ep.14",
-    "main_task_group-01-01|59|title": "Hatsuboshi Task 59",
-    "main_task_group-01-01|59|description": "Raise any idol’s Bond Level to {threshold}",
-    "main_task_group-01-01|59|homeDescription": "Raise any idol’s Bond Level to {threshold}",
-    "main_task_group-01-01|60|title": "Hatsuboshi Task 60",
-    "main_task_group-01-01|60|description": "Watch the True End",
-    "main_task_group-01-01|60|homeDescription": "Watch the True End",
-    "main_task_group-02-01|1|title": "P-Task 1",
-    "main_task_group-02-01|1|description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-02-01|1|homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-02-01|2|title": "P-Task 2",
-    "main_task_group-02-01|2|description": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|2|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|3|title": "P-Task 3",
-    "main_task_group-02-01|3|description": "Raise any parameter to 1000 or more in Produce Mode",
-    "main_task_group-02-01|3|homeDescription": "Raise any parameter to 1000 or more in Produce Mode",
-    "main_task_group-02-01|4|title": "P-Task 4",
-    "main_task_group-02-01|4|description": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-02-01|4|homeDescription": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-02-01|5|title": "P-Task 5",
-    "main_task_group-02-01|5|description": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|5|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|6|title": "P-Task 6",
-    "main_task_group-02-01|6|description": "Raise the Training Stage of {threshold} Produce Idols to 3",
-    "main_task_group-02-01|6|homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 3",
-    "main_task_group-02-01|7|title": "P-Task 7",
-    "main_task_group-02-01|7|description": "Clear SP Lessons {threshold} times",
-    "main_task_group-02-01|7|homeDescription": "Clear SP Lessons {threshold} times",
-    "main_task_group-02-01|8|title": "P-Task 8",
-    "main_task_group-02-01|8|description": "Raise {threshold} Support Cards to Lv30",
-    "main_task_group-02-01|8|homeDescription": "Raise {threshold} Support Cards to Lv30",
-    "main_task_group-02-01|9|title": "P-Task 9",
-    "main_task_group-02-01|9|description": "Acquire {threshold} types of Skill Cards",
-    "main_task_group-02-01|9|homeDescription": "Acquire {threshold} types of Skill Cards",
-    "main_task_group-02-01|10|title": "P-Task 10",
-    "main_task_group-02-01|10|description": "Achieve a B+ Rating in Produce Mode",
-    "main_task_group-02-01|10|homeDescription": "Achieve a B+ Rating in Produce Mode",
-    "main_task_group-02-01|11|title": "P-Task 11",
-    "main_task_group-02-01|11|description": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|11|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|12|title": "P-Task 12",
-    "main_task_group-02-01|12|description": "Work a total of {threshold} hours",
-    "main_task_group-02-01|12|homeDescription": "Work a total of {threshold} hours",
-    "main_task_group-02-01|13|title": "P-Task 13",
-    "main_task_group-02-01|13|description": "Achieve a B+ Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
-    "main_task_group-02-01|13|homeDescription": "Achieve a B+ Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
-    "main_task_group-02-01|14|title": "P-Task 14",
-    "main_task_group-02-01|14|description": "Achieve a B+ Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
-    "main_task_group-02-01|14|homeDescription": "Achieve a B+ Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
-    "main_task_group-02-01|15|title": "P-Task 15",
-    "main_task_group-02-01|15|description": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|15|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|16|title": "P-Task 16",
-    "main_task_group-02-01|16|description": "Raise the Training Stage of {threshold} Produce Idols to 3",
-    "main_task_group-02-01|16|homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 3",
-    "main_task_group-02-01|17|title": "P-Task 17",
-    "main_task_group-02-01|17|description": "Watch the True End for {threshold} idols",
-    "main_task_group-02-01|17|homeDescription": "Watch the True End for {threshold} idols",
-    "main_task_group-02-01|18|title": "P-Task 18",
-    "main_task_group-02-01|18|description": "Raise the Level of a Support Card to {threshold}",
-    "main_task_group-02-01|18|homeDescription": "Raise the Level of a Support Card to {threshold}",
-    "main_task_group-02-01|19|title": "P-Task 19",
-    "main_task_group-02-01|19|description": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|19|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|20|title": "P-Task 20",
-    "main_task_group-02-01|20|description": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|20|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|21|title": "P-Task 21",
-    "main_task_group-02-01|21|description": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-02-01|21|homeDescription": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-02-01|22|title": "P-Task 22",
-    "main_task_group-02-01|22|description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-02-01|22|homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-02-01|23|title": "P-Task 23",
-    "main_task_group-02-01|23|description": "Acquire {threshold} types of Skill Cards",
-    "main_task_group-02-01|23|homeDescription": "Acquire {threshold} types of Skill Cards",
-    "main_task_group-02-01|24|title": "P-Task 24",
-    "main_task_group-02-01|24|description": "Raise {threshold} Support Cards to Lv30",
-    "main_task_group-02-01|24|homeDescription": "Raise {threshold} Support Cards to Lv30",
-    "main_task_group-02-01|25|title": "P-Task 25",
-    "main_task_group-02-01|25|description": "Raise the Training Stage of {threshold} Produce Idols to 4",
-    "main_task_group-02-01|25|homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 4",
-    "main_task_group-02-01|26|title": "P-Task 26",
-    "main_task_group-02-01|26|description": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|26|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|27|title": "P-Task 27",
-    "main_task_group-02-01|27|description": "Challenge a Contest",
-    "main_task_group-02-01|27|homeDescription": "Challenge a Contest",
-    "main_task_group-02-01|28|title": "P-Task 28",
-    "main_task_group-02-01|28|description": "Watch the True End for {threshold} idols",
-    "main_task_group-02-01|28|homeDescription": "Watch the True End for {threshold} idols",
-    "main_task_group-02-01|29|title": "P-Task 29",
-    "main_task_group-02-01|29|description": "Raise {threshold} Support Cards to Lv30",
-    "main_task_group-02-01|29|homeDescription": "Raise {threshold} Support Cards to Lv30",
-    "main_task_group-02-01|30|title": "P-Task 30",
-    "main_task_group-02-01|30|description": "Pass the Final Exam in Produce Mode\n[Condition]: Saki Hanami",
-    "main_task_group-02-01|30|homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Saki Hanami",
-    "main_task_group-02-01|31|title": "P-Task 31",
-    "main_task_group-02-01|31|description": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-02-01|31|homeDescription": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-02-01|32|title": "P-Task 32",
-    "main_task_group-02-01|32|description": "Pass the Final Exam in Produce Mode\n[Condition]: Temari Tsukimura",
-    "main_task_group-02-01|32|homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Temari Tsukimura",
-    "main_task_group-02-01|33|title": "P-Task 33",
-    "main_task_group-02-01|33|description": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|33|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|34|title": "P-Task 34",
-    "main_task_group-02-01|34|description": "Pass the Final Exam in Produce Mode\n[Condition]: Kotone Fujita",
-    "main_task_group-02-01|34|homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Kotone Fujita",
-    "main_task_group-02-01|35|title": "P-Task 35",
-    "main_task_group-02-01|35|description": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|35|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|36|title": "P-Task 36",
-    "main_task_group-02-01|36|description": "Let's get {threshold} kinds of P-drinks!",
-    "main_task_group-02-01|36|homeDescription": "Let's get {threshold} kinds of P-drinks!",
-    "main_task_group-02-01|37|title": "P-Task 37",
-    "main_task_group-02-01|37|description": "Pass the Final Exam in Produce Mode\n[Condition]: Mao Arimura",
-    "main_task_group-02-01|37|homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Mao Arimura",
-    "main_task_group-02-01|38|title": "P-Task 38",
-    "main_task_group-02-01|38|description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-02-01|38|homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-02-01|39|title": "P-Task 39",
-    "main_task_group-02-01|39|description": "Pass the Final Exam in Produce Mode\n[Condition]: Rinami Himesaki",
-    "main_task_group-02-01|39|homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Rinami Himesaki",
-    "main_task_group-02-01|40|title": "P-Task 40",
-    "main_task_group-02-01|40|description": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|40|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|41|title": "P-Task 41",
-    "main_task_group-02-01|41|description": "Pass the Final Exam in Produce Mode\n[Condition]: Lilja Katsuragi",
-    "main_task_group-02-01|41|homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Lilja Katsuragi",
-    "main_task_group-02-01|42|title": "P-Task 42",
-    "main_task_group-02-01|42|description": "Challenge a Contest",
-    "main_task_group-02-01|42|homeDescription": "Challenge a Contest",
-    "main_task_group-02-01|43|title": "P-Task 43",
-    "main_task_group-02-01|43|description": "Raise the Training Stage of {threshold} Produce Idols to 4",
-    "main_task_group-02-01|43|homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 4",
-    "main_task_group-02-01|44|title": "P-Task 44",
-    "main_task_group-02-01|44|description": "Pass the Final Exam in Produce Mode\n[Condition]: Sumika Shiun",
-    "main_task_group-02-01|44|homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Sumika Shiun",
-    "main_task_group-02-01|45|title": "P-Task 45",
-    "main_task_group-02-01|45|description": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|45|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|46|title": "P-Task 46",
-    "main_task_group-02-01|46|description": "Pass the Final Exam in Produce Mode\n[Condition]: Hiro Shinosawa",
-    "main_task_group-02-01|46|homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Hiro Shinosawa",
-    "main_task_group-02-01|47|title": "P-Task 47",
-    "main_task_group-02-01|47|description": "Raise {threshold} Support Cards to Lv40",
-    "main_task_group-02-01|47|homeDescription": "Raise {threshold} Support Cards to Lv40",
-    "main_task_group-02-01|48|title": "P-Task 48",
-    "main_task_group-02-01|48|description": "Pass the Final Exam in Produce Mode\n[Condition]: China Kuramoto",
-    "main_task_group-02-01|48|homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: China Kuramoto",
-    "main_task_group-02-01|49|title": "P-Task 49",
-    "main_task_group-02-01|49|description": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-02-01|49|homeDescription": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-02-01|50|title": "P-Task 50",
-    "main_task_group-02-01|50|description": "Acquire {threshold} types of Skill Cards",
-    "main_task_group-02-01|50|homeDescription": "Acquire {threshold} types of Skill Cards",
-    "main_task_group-02-01|51|title": "P-Task 51",
-    "main_task_group-02-01|51|description": "Achieve an A Rating in Produce Mode",
-    "main_task_group-02-01|51|homeDescription": "Achieve an A Rating in Produce Mode",
-    "main_task_group-02-01|52|title": "P-Task 52",
-    "main_task_group-02-01|52|description": "Work a total of {threshold} hours",
-    "main_task_group-02-01|52|homeDescription": "Work a total of {threshold} hours",
-    "main_task_group-02-01|53|title": "P-Task 53",
-    "main_task_group-02-01|53|description": "Raise the Training Stage of {threshold} Produce Idols to 4",
-    "main_task_group-02-01|53|homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 4",
-    "main_task_group-02-01|54|title": "P-Task 54",
-    "main_task_group-02-01|54|description": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
-    "main_task_group-02-01|54|homeDescription": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
-    "main_task_group-02-01|55|title": "P-Task 55",
-    "main_task_group-02-01|55|description": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
-    "main_task_group-02-01|55|homeDescription": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
-    "main_task_group-02-01|56|title": "P-Task 56",
-    "main_task_group-02-01|56|description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-02-01|56|homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-02-01|57|title": "P-Task 57",
-    "main_task_group-02-01|57|description": "Challenge a Contest",
-    "main_task_group-02-01|57|homeDescription": "Challenge a Contest",
-    "main_task_group-02-01|58|title": "P-Task 58",
-    "main_task_group-02-01|58|description": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|58|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|59|title": "P-Task 59",
-    "main_task_group-02-01|59|description": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|59|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|60|title": "P-Task 60",
-    "main_task_group-02-01|60|description": "Raise any idol’s Bond Level to {threshold}",
-    "main_task_group-02-01|60|homeDescription": "Raise any idol’s Bond Level to {threshold}",
-    "main_task_group-02-01|61|title": "P-Task 61",
-    "main_task_group-02-01|61|description": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-02-01|61|homeDescription": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-02-01|62|title": "P-Task 62",
-    "main_task_group-02-01|62|description": "Achieve an A Rating in Produce Mode",
-    "main_task_group-02-01|62|homeDescription": "Achieve an A Rating in Produce Mode",
-    "main_task_group-02-01|63|title": "P-Task 63",
-    "main_task_group-02-01|63|description": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-02-01|63|homeDescription": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-02-01|64|title": "P-Task 64",
-    "main_task_group-02-01|64|description": "Raise {threshold} Support Cards to Lv40",
-    "main_task_group-02-01|64|homeDescription": "Raise {threshold} Support Cards to Lv40",
-    "main_task_group-02-01|65|title": "P-Task 65",
-    "main_task_group-02-01|65|description": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|65|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|66|title": "P-Task 66",
-    "main_task_group-02-01|66|description": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
-    "main_task_group-02-01|66|homeDescription": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
-    "main_task_group-02-01|67|title": "P-Task 67",
-    "main_task_group-02-01|67|description": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
-    "main_task_group-02-01|67|homeDescription": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
-    "main_task_group-02-01|68|title": "P-Task 68",
-    "main_task_group-02-01|68|description": "Reach a total of {threshold} fans",
-    "main_task_group-02-01|68|homeDescription": "Reach a total of {threshold} fans",
-    "main_task_group-02-01|69|title": "P-Task 69",
-    "main_task_group-02-01|69|description": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|69|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|70|title": "P-Task 70",
-    "main_task_group-02-01|70|description": "Enhance Skill Cards {threshold} times in Produce Mode",
-    "main_task_group-02-01|70|homeDescription": "Enhance Skill Cards {threshold} times in Produce Mode",
-    "main_task_group-02-01|71|title": "P-Task 71",
-    "main_task_group-02-01|71|description": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-02-01|71|homeDescription": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-02-01|72|title": "P-Task 72",
-    "main_task_group-02-01|72|description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-02-01|72|homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-02-01|73|title": "P-Task 73",
-    "main_task_group-02-01|73|description": "Watch the True End for {threshold} idols",
-    "main_task_group-02-01|73|homeDescription": "Watch the True End for {threshold} idols",
-    "main_task_group-02-01|74|title": "P-Task 74",
-    "main_task_group-02-01|74|description": "Raise {threshold} Support Cards to Lv40",
-    "main_task_group-02-01|74|homeDescription": "Raise {threshold} Support Cards to Lv40",
-    "main_task_group-02-01|75|title": "P-Task 75",
-    "main_task_group-02-01|75|description": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|75|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|76|title": "P-Task 76",
-    "main_task_group-02-01|76|description": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-02-01|76|homeDescription": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-02-01|77|title": "P-Task 77",
-    "main_task_group-02-01|77|description": "Pass the Final Exam and achieve an A Rating {threshold} times with Hiro Shinosawa",
-    "main_task_group-02-01|77|homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Hiro Shinosawa",
-    "main_task_group-02-01|78|title": "P-Task 78",
-    "main_task_group-02-01|78|description": "Pass the Final Exam and achieve an A Rating {threshold} times with China Kuramoto",
-    "main_task_group-02-01|78|homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with China Kuramoto",
-    "main_task_group-02-01|79|title": "P-Task 79",
-    "main_task_group-02-01|79|description": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|79|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|80|title": "P-Task 80",
-    "main_task_group-02-01|80|description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-02-01|80|homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-02-01|81|title": "P-Task 81",
-    "main_task_group-02-01|81|description": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-02-01|81|homeDescription": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-02-01|82|title": "P-Task 82",
-    "main_task_group-02-01|82|description": "Pass the Final Exam and achieve an A Rating {threshold} times with Lilja Katsuragi",
-    "main_task_group-02-01|82|homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Lilja Katsuragi",
-    "main_task_group-02-01|83|title": "P-Task 83",
-    "main_task_group-02-01|83|description": "Pass the Final Exam and achieve an A Rating {threshold} times with Sumika Shiun",
-    "main_task_group-02-01|83|homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Sumika Shiun",
-    "main_task_group-02-01|84|title": "P-Task 84",
-    "main_task_group-02-01|84|description": "Raise the Training Stage of {threshold} Produce Idols to 5",
-    "main_task_group-02-01|84|homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 5",
-    "main_task_group-02-01|85|title": "P-Task 85",
-    "main_task_group-02-01|85|description": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|85|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|86|title": "P-Task 86",
-    "main_task_group-02-01|86|description": "Earn a total of {threshold} Produce Ratings",
-    "main_task_group-02-01|86|homeDescription": "Earn a total of {threshold} Produce Ratings",
-    "main_task_group-02-01|87|title": "P-Task 87",
-    "main_task_group-02-01|87|description": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-02-01|87|homeDescription": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-02-01|88|title": "P-Task 88",
-    "main_task_group-02-01|88|description": "Pass the Final Exam and achieve an A Rating {threshold} times with Mao Arimura",
-    "main_task_group-02-01|88|homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Mao Arimura",
-    "main_task_group-02-01|89|title": "P-Task 89",
-    "main_task_group-02-01|89|description": "Pass the Final Exam and achieve an A Rating {threshold} times with Rinami Himesaki",
-    "main_task_group-02-01|89|homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Rinami Himesaki",
-    "main_task_group-02-01|90|title": "P-Task 90",
-    "main_task_group-02-01|90|description": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|90|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-02-01|91|title": "P-Task 91",
-    "main_task_group-02-01|91|description": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-02-01|91|homeDescription": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-02-01|92|title": "P-Task 92",
-    "main_task_group-02-01|92|description": "Pass the Final Exam and achieve an A Rating {threshold} times with Temari Tsukimura",
-    "main_task_group-02-01|92|homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Temari Tsukimura",
-    "main_task_group-02-01|93|title": "P-Task 93",
-    "main_task_group-02-01|93|description": "Pass the Final Exam and achieve an A Rating {threshold} times with Kotone Fujita",
-    "main_task_group-02-01|93|homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Kotone Fujita",
-    "main_task_group-02-01|94|title": "P-Task 94",
-    "main_task_group-02-01|94|description": "Acquire {threshold} types of Skill Cards",
-    "main_task_group-02-01|94|homeDescription": "Acquire {threshold} types of Skill Cards",
-    "main_task_group-02-01|95|title": "P-Task 95",
-    "main_task_group-02-01|95|description": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|95|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-02-01|96|title": "P-Task 96",
-    "main_task_group-02-01|96|description": "Raise the Training Stage of {threshold} Produce Idols to 6",
-    "main_task_group-02-01|96|homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 6",
-    "main_task_group-02-01|97|title": "P-Task 97",
-    "main_task_group-02-01|97|description": "Pass the Final Exam and achieve an A Rating {threshold} times with Saki Hanami",
-    "main_task_group-02-01|97|homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Saki Hanami",
-    "main_task_group-02-01|98|title": "P-Task 98",
-    "main_task_group-02-01|98|description": "Pass the Final Exam and achieve an A Rating {threshold} times with Ume Hanami",
-    "main_task_group-02-01|98|homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Ume Hanami",
-    "main_task_group-02-01|99|title": "P-Task 99",
-    "main_task_group-02-01|99|description": "Watch the True End for {threshold} idols",
-    "main_task_group-02-01|99|homeDescription": "Watch the True End for {threshold} idols",
-    "main_task_group-02-01|100|title": "P-Task 100",
-    "main_task_group-02-01|100|description": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-02-01|100|homeDescription": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-03-01|1|title": "P-Task 2-1",
-    "main_task_group-03-01|1|description": "Clear Training [Basic 7]: All-Out Effort",
-    "main_task_group-03-01|1|homeDescription": "Clear Training [Basic 7]: All-Out Effort",
-    "main_task_group-03-01|2|title": "P-Task 2-2",
-    "main_task_group-03-01|2|description": "Clear Training [Basic 8]: Confidence",
-    "main_task_group-03-01|2|homeDescription": "Clear Training [Basic 8]: Confidence",
-    "main_task_group-03-01|3|title": "P-Task 2-3",
-    "main_task_group-03-01|3|description": "With a \"Plan: Anomaly\" Produce Idol, pass the Final Exam {threshold} times",
-    "main_task_group-03-01|3|homeDescription": "With a \"Plan: Anomaly\" Produce Idol, pass the Final Exam {threshold} times",
-    "main_task_group-03-01|4|title": "P-Task 2-4",
-    "main_task_group-03-01|4|description": "Pull the Anomaly Gacha {threshold} times",
-    "main_task_group-03-01|4|homeDescription": "Pull the Anomaly Gacha {threshold} times",
-    "main_task_group-03-01|5|title": "P-Task 2-5",
-    "main_task_group-03-01|5|description": "Clear Training [Advanced 5]: Plan: Anomaly",
-    "main_task_group-03-01|5|homeDescription": "Clear Training [Advanced 5]: Plan: Anomaly",
-    "main_task_group-03-01|6|title": "P-Task 2-6",
-    "main_task_group-03-01|6|description": "Raise the Training Stage of {threshold} Produce Idols to 4",
-    "main_task_group-03-01|6|homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 4",
-    "main_task_group-03-01|7|title": "P-Task 2-7",
-    "main_task_group-03-01|7|description": "Raise Sena Juo’s Bond Level to {threshold}",
-    "main_task_group-03-01|7|homeDescription": "Raise Sena Juo’s Bond Level to {threshold}",
-    "main_task_group-03-01|8|title": "P-Task 2-8",
-    "main_task_group-03-01|8|description": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-03-01|8|homeDescription": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-03-01|9|title": "P-Task 2-9",
-    "main_task_group-03-01|9|description": "Acquire {threshold} types of Skill Cards",
-    "main_task_group-03-01|9|homeDescription": "Acquire {threshold} types of Skill Cards",
-    "main_task_group-03-01|10|title": "P-Task 2-10",
-    "main_task_group-03-01|10|description": "Raise Sena Juo’s Bond Level to {threshold}",
-    "main_task_group-03-01|10|homeDescription": "Raise Sena Juo’s Bond Level to {threshold}",
-    "main_task_group-03-01|11|title": "P-Task 2-11",
-    "main_task_group-03-01|11|description": "Achieve {threshold} Achievements",
-    "main_task_group-03-01|11|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-03-01|12|title": "P-Task 2-12",
-    "main_task_group-03-01|12|description": "Raise Sena Juo’s Bond Level to {threshold}",
-    "main_task_group-03-01|12|homeDescription": "Raise Sena Juo’s Bond Level to {threshold}",
-    "main_task_group-03-01|13|title": "P-Task 2-13",
-    "main_task_group-03-01|13|description": "Clear any \"Producer Training\" module",
-    "main_task_group-03-01|13|homeDescription": "Clear any \"Producer Training\" module",
-    "main_task_group-03-01|14|title": "P-Task 2-14",
-    "main_task_group-03-01|14|description": "Challenge the Master Difficulty in Produce Mode",
-    "main_task_group-03-01|14|homeDescription": "Challenge the Master Difficulty in Produce Mode",
-    "main_task_group-03-01|15|title": "P-Task 2-15",
-    "main_task_group-03-01|15|description": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-03-01|15|homeDescription": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-03-01|16|title": "P-Task 2-16",
-    "main_task_group-03-01|16|description": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-03-01|16|homeDescription": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-03-01|17|title": "P-Task 2-17",
-    "main_task_group-03-01|17|description": "Raise {threshold} Support Cards to Lv40",
-    "main_task_group-03-01|17|homeDescription": "Raise {threshold} Support Cards to Lv40",
-    "main_task_group-03-01|18|title": "P-Task 2-18",
-    "main_task_group-03-01|18|description": "With a \"Plan: Anomaly\" Produce Idol, pass the Final Exam and achieve an A Rating {threshold} times",
-    "main_task_group-03-01|18|homeDescription": "With a \"Plan: Anomaly\" Produce Idol, pass the Final Exam and achieve an A Rating {threshold} times",
-    "main_task_group-03-01|19|title": "P-Task 2-19",
-    "main_task_group-03-01|19|description": "Raise the Training Stage of {threshold} Produce Idols to 6",
-    "main_task_group-03-01|19|homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 6",
-    "main_task_group-03-01|20|title": "P-Task 2-20",
-    "main_task_group-03-01|20|description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-03-01|20|homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-03-01|21|title": "P-Task 2-21",
-    "main_task_group-03-01|21|description": "Let's spend {threshold} of AP!",
-    "main_task_group-03-01|21|homeDescription": "Let's spend {threshold} of AP!",
-    "main_task_group-03-01|22|title": "P-Task 2-22",
-    "main_task_group-03-01|22|description": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-03-01|22|homeDescription": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-03-01|23|title": "P-Task 2-23",
-    "main_task_group-03-01|23|description": "Achieve {threshold} Achievements",
-    "main_task_group-03-01|23|homeDescription": "Achieve {threshold} Achievements",
-    "main_task_group-03-01|24|title": "P-Task 2-24",
-    "main_task_group-03-01|24|description": "Raise any parameter to 1500 or more in Produce Mode",
-    "main_task_group-03-01|24|homeDescription": "Raise any parameter to 1500 or more in Produce Mode",
-    "main_task_group-03-01|25|title": "P-Task 2-25",
-    "main_task_group-03-01|25|description": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-03-01|25|homeDescription": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-03-01|26|title": "P-Task 2-26",
-    "main_task_group-03-01|26|description": "Reach Producer Lv{threshold}",
-    "main_task_group-03-01|26|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-03-01|27|title": "P-Task 2-27",
-    "main_task_group-03-01|27|description": "Acquire {threshold} types of Skill Cards",
-    "main_task_group-03-01|27|homeDescription": "Acquire {threshold} types of Skill Cards",
-    "main_task_group-03-01|28|title": "P-Task 2-28",
-    "main_task_group-03-01|28|description": "Reach a total of {threshold} fans",
-    "main_task_group-03-01|28|homeDescription": "Reach a total of {threshold} fans",
-    "main_task_group-03-01|29|title": "P-Task 2-29",
-    "main_task_group-03-01|29|description": "Pass the Final Exam {threshold} times at Master Difficulty\n[Condition]: Plan: Anomaly Produce Idol",
-    "main_task_group-03-01|29|homeDescription": "Pass the Final Exam {threshold} times at Master Difficulty\n[Condition]: Plan: Anomaly Produce Idol",
-    "main_task_group-03-01|30|title": "P-Task 2-30",
-    "main_task_group-03-01|30|description": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-03-01|30|homeDescription": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-03-01|31|title": "P-Task 2-31",
-    "main_task_group-03-01|31|description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-03-01|31|homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher",
-    "main_task_group-03-01|32|title": "P-Task 2-32",
-    "main_task_group-03-01|32|description": "Work a total of {threshold} hours",
-    "main_task_group-03-01|32|homeDescription": "Work a total of {threshold} hours",
-    "main_task_group-03-01|33|title": "P-Task 2-33",
-    "main_task_group-03-01|33|description": "Raise the Training Stage of {threshold} Produce Idols to 6",
-    "main_task_group-03-01|33|homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 6",
-    "main_task_group-03-01|34|title": "P-Task 2-34",
-    "main_task_group-03-01|34|description": "Achieve an A+ Rating in Produce Mode",
-    "main_task_group-03-01|34|homeDescription": "Achieve an A+ Rating in Produce Mode",
-    "main_task_group-03-01|35|title": "P-Task 2-35",
-    "main_task_group-03-01|35|description": "Earn {threshold} fans for Sena Juo",
-    "main_task_group-03-01|35|homeDescription": "Earn {threshold} fans for Sena Juo",
-    "main_task_group-03-01|36|title": "P-Task 2-36",
-    "main_task_group-03-01|36|description": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-03-01|36|homeDescription": "Earn a score of {threshold} or higher in a Contest",
-    "main_task_group-03-01|37|title": "P-Task 2-37",
-    "main_task_group-03-01|37|description": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-03-01|37|homeDescription": "Earn a total of {threshold}★ in The Idol Road",
-    "main_task_group-03-01|38|title": "P-Task 2-38",
-    "main_task_group-03-01|38|description": "Reach Producer Lv{threshold}",
-    "main_task_group-03-01|38|homeDescription": "Reach Producer Lv{threshold}",
-    "main_task_group-03-01|39|title": "P-Task 2-39",
-    "main_task_group-03-01|39|description": "Raise Saki Hanami’s Bond Level to {threshold}",
-    "main_task_group-03-01|39|homeDescription": "Raise Saki Hanami’s Bond Level to {threshold}",
-    "main_task_group-03-01|40|title": "P-Task 2-40",
-    "main_task_group-03-01|40|description": "Raise Temari Tsukimura’s Bond Level to {threshold}",
-    "main_task_group-03-01|40|homeDescription": "Raise Temari Tsukimura’s Bond Level to {threshold}",
-    "main_task_group-03-01|41|title": "P-Task 2-41",
-    "main_task_group-03-01|41|description": "Raise Kotone Fujita’s Bond Level to {threshold}",
-    "main_task_group-03-01|41|homeDescription": "Raise Kotone Fujita’s Bond Level to {threshold}",
-    "main_task_group-03-01|42|title": "P-Task 2-42",
-    "main_task_group-03-01|42|description": "Raise Mao Arimura’s Bond Level to {threshold}",
-    "main_task_group-03-01|42|homeDescription": "Raise Mao Arimura’s Bond Level to {threshold}",
-    "main_task_group-03-01|43|title": "P-Task 2-43",
-    "main_task_group-03-01|43|description": "Raise Lilja Katsuragi’s Bond Level to {threshold}",
-    "main_task_group-03-01|43|homeDescription": "Raise Lilja Katsuragi’s Bond Level to {threshold}",
-    "main_task_group-03-01|44|title": "P-Task 2-44",
-    "main_task_group-03-01|44|description": "Raise China Kuramoto’s Bond Level to {threshold}",
-    "main_task_group-03-01|44|homeDescription": "Raise China Kuramoto’s Bond Level to {threshold}",
-    "main_task_group-03-01|45|title": "P-Task 2-45",
-    "main_task_group-03-01|45|description": "Raise Sumika Shiun’s Bond Level to {threshold}",
-    "main_task_group-03-01|45|homeDescription": "Raise Sumika Shiun’s Bond Level to {threshold}",
-    "main_task_group-03-01|46|title": "P-Task 2-46",
-    "main_task_group-03-01|46|description": "Raise Hiro Shinosawa’s Bond Level to {threshold}",
-    "main_task_group-03-01|46|homeDescription": "Raise Hiro Shinosawa’s Bond Level to {threshold}",
-    "main_task_group-03-01|47|title": "P-Task 2-47",
-    "main_task_group-03-01|47|description": "Raise Ume Hanami’s Bond Level to {threshold}",
-    "main_task_group-03-01|47|homeDescription": "Raise Ume Hanami’s Bond Level to {threshold}",
-    "main_task_group-03-01|48|title": "P-Task 2-48",
-    "main_task_group-03-01|48|description": "Raise Rinami Himesaki’s Bond Level to {threshold}",
-    "main_task_group-03-01|48|homeDescription": "Raise Rinami Himesaki’s Bond Level to {threshold}",
-    "main_task_group-03-01|49|title": "P-Task 2-49",
-    "main_task_group-03-01|49|description": "Raise Sena Juo’s Bond Level to {threshold}",
-    "main_task_group-03-01|49|homeDescription": "Raise Sena Juo’s Bond Level to {threshold}",
-    "main_task_group-03-01|50|title": "P-Task 2-50",
-    "main_task_group-03-01|50|description": "Achieve an S Rating in Produce Mode",
-    "main_task_group-03-01|50|homeDescription": "Achieve an S Rating in Produce Mode"
+  "rules": {
+    "primaryKeys": [
+      "mainTaskGroupId",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 1,
+      "title": "Hatsuboshi Task 1",
+      "description": "Challenge Produce Mode",
+      "homeDescription": "Challenge Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 2,
+      "title": "Hatsuboshi Task 2",
+      "description": "Let's watch Ch.1, Ep.1",
+      "homeDescription": "Let's watch Ch.1, Ep.1"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 3,
+      "title": "Hatsuboshi Task 3",
+      "description": "Enhance Support Cards",
+      "homeDescription": "Enhance Support Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 4,
+      "title": "Hatsuboshi Task 4",
+      "description": "Edit your Business Card",
+      "homeDescription": "Edit your Business Card"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 5,
+      "title": "Hatsuboshi Task 5",
+      "description": "Follow another Producer",
+      "homeDescription": "Follow another Producer"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 6,
+      "title": "Hatsuboshi Task 6",
+      "description": "Clear 1 Training module",
+      "homeDescription": "Clear 1 Training module"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 7,
+      "title": "Hatsuboshi Task 7",
+      "description": "Clear 1 Exam Training module",
+      "homeDescription": "Clear 1 Exam Training module"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 8,
+      "title": "Hatsuboshi Task 8",
+      "description": "Challenge Produce Mode",
+      "homeDescription": "Challenge Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 9,
+      "title": "Hatsuboshi Task 9",
+      "description": "Let's watch Ch.1, Ep.2",
+      "homeDescription": "Let's watch Ch.1, Ep.2"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 10,
+      "title": "Hatsuboshi Task 10",
+      "description": "Train a Produce Idol",
+      "homeDescription": "Train a Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 11,
+      "title": "Hatsuboshi Task 11",
+      "description": "Collect Activity Funds",
+      "homeDescription": "Collect Activity Funds"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 12,
+      "title": "Hatsuboshi Task 12",
+      "description": "Exchange in the Money Exchange Shop",
+      "homeDescription": "Exchange in the Money Exchange Shop"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 13,
+      "title": "Hatsuboshi Task 13",
+      "description": "Challenge Produce Mode",
+      "homeDescription": "Challenge Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 14,
+      "title": "Hatsuboshi Task 14",
+      "description": "Let's watch Ch.1, Ep.3",
+      "homeDescription": "Let's watch Ch.1, Ep.3"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 15,
+      "title": "Hatsuboshi Task 15",
+      "description": "Start a Job",
+      "homeDescription": "Start a Job"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 16,
+      "title": "Hatsuboshi Task 16",
+      "description": "Challenge Produce Mode\n[Condition]: Plan: Sense Produce Idol",
+      "homeDescription": "Challenge Produce Mode\n[Condition]: Plan: Sense Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 17,
+      "title": "Hatsuboshi Task 17",
+      "description": "Pull the Sense Gacha once",
+      "homeDescription": "Pull the Sense Gacha once"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 18,
+      "title": "Hatsuboshi Task 18",
+      "description": "Let's watch Ch.1, Ep.4",
+      "homeDescription": "Let's watch Ch.1, Ep.4"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 19,
+      "title": "Hatsuboshi Task 19",
+      "description": "Raise {threshold} Support Cards to Lv20",
+      "homeDescription": "Raise {threshold} Support Cards to Lv20"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 20,
+      "title": "Hatsuboshi Task 20",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 21,
+      "title": "Hatsuboshi Task 21",
+      "description": "Challenge Produce Mode\n[Condition]: Plan: Logic Produce Idol",
+      "homeDescription": "Challenge Produce Mode\n[Condition]: Plan: Logic Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 22,
+      "title": "Hatsuboshi Task 22",
+      "description": "Pull the Logic Gacha once",
+      "homeDescription": "Pull the Logic Gacha once"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 23,
+      "title": "Hatsuboshi Task 23",
+      "description": "Let's watch Ch.1, Ep.5",
+      "homeDescription": "Let's watch Ch.1, Ep.5"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 24,
+      "title": "Hatsuboshi Task 24",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 25,
+      "title": "Hatsuboshi Task 25",
+      "description": "Complete the production of {threshold} different idols",
+      "homeDescription": "Complete the production of {threshold} different idols"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 26,
+      "title": "Hatsuboshi Task 26",
+      "description": "Form a unit for a Contest",
+      "homeDescription": "Form a unit for a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 27,
+      "title": "Hatsuboshi Task 27",
+      "description": "Raise any idol’s Bond Level to {threshold}",
+      "homeDescription": "Raise any idol’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 28,
+      "title": "Hatsuboshi Task 28",
+      "description": "Let's watch Ch.1, Ep.6",
+      "homeDescription": "Let's watch Ch.1, Ep.6"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 29,
+      "title": "Hatsuboshi Task 29",
+      "description": "Raise {threshold} Support Cards to Lv20",
+      "homeDescription": "Raise {threshold} Support Cards to Lv20"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 30,
+      "title": "Hatsuboshi Task 30",
+      "description": "Achieve a C+ Rating in Produce Mode",
+      "homeDescription": "Achieve a C+ Rating in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 31,
+      "title": "Hatsuboshi Task 31",
+      "description": "Let's watch Ch.1, Ep.7",
+      "homeDescription": "Let's watch Ch.1, Ep.7"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 32,
+      "title": "Hatsuboshi Task 32",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 33,
+      "title": "Hatsuboshi Task 33",
+      "description": "Clear Training [Advanced 1]: Plan: Sense",
+      "homeDescription": "Clear Training [Advanced 1]: Plan: Sense"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 34,
+      "title": "Hatsuboshi Task 34",
+      "description": "Achieve a C+ Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
+      "homeDescription": "Achieve a C+ Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 35,
+      "title": "Hatsuboshi Task 35",
+      "description": "Let's watch Ch.1, Ep.8",
+      "homeDescription": "Let's watch Ch.1, Ep.8"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 36,
+      "title": "Hatsuboshi Task 36",
+      "description": "Clear Training [Advanced 2]: Plan: Logic",
+      "homeDescription": "Clear Training [Advanced 2]: Plan: Logic"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 37,
+      "title": "Hatsuboshi Task 37",
+      "description": "Achieve a C+ Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
+      "homeDescription": "Achieve a C+ Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 38,
+      "title": "Hatsuboshi Task 38",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 39,
+      "title": "Hatsuboshi Task 39",
+      "description": "Let's watch Ch.1, Ep.9",
+      "homeDescription": "Let's watch Ch.1, Ep.9"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 40,
+      "title": "Hatsuboshi Task 40",
+      "description": "Raise the Training Stage of {threshold} Produce Idols to 2",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 2"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 41,
+      "title": "Hatsuboshi Task 41",
+      "description": "Challenge the Pro Difficulty in Produce Mode",
+      "homeDescription": "Challenge the Pro Difficulty in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 42,
+      "title": "Hatsuboshi Task 42",
+      "description": "Raise {threshold} Support Cards to Lv20",
+      "homeDescription": "Raise {threshold} Support Cards to Lv20"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 43,
+      "title": "Hatsuboshi Task 43",
+      "description": "Let's watch Ch.1, Ep.10",
+      "homeDescription": "Let's watch Ch.1, Ep.10"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 44,
+      "title": "Hatsuboshi Task 44",
+      "description": "Raise any idol’s Bond Level to {threshold}",
+      "homeDescription": "Raise any idol’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 45,
+      "title": "Hatsuboshi Task 45",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 46,
+      "title": "Hatsuboshi Task 46",
+      "description": "Raise any parameter to 600 or more in Produce Mode",
+      "homeDescription": "Raise any parameter to 600 or more in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 47,
+      "title": "Hatsuboshi Task 47",
+      "description": "Let's watch Ch.1, Ep.11",
+      "homeDescription": "Let's watch Ch.1, Ep.11"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 48,
+      "title": "Hatsuboshi Task 48",
+      "description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 49,
+      "title": "Hatsuboshi Task 49",
+      "description": "Achieve a B Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
+      "homeDescription": "Achieve a B Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 50,
+      "title": "Hatsuboshi Task 50",
+      "description": "Achieve a B Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
+      "homeDescription": "Achieve a B Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 51,
+      "title": "Hatsuboshi Task 51",
+      "description": "Let's watch Ch.1, Ep.12",
+      "homeDescription": "Let's watch Ch.1, Ep.12"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 52,
+      "title": "Hatsuboshi Task 52",
+      "description": "Raise the Level of a Support Card to {threshold}",
+      "homeDescription": "Raise the Level of a Support Card to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 53,
+      "title": "Hatsuboshi Task 53",
+      "description": "Place 1st in the Final Exam",
+      "homeDescription": "Place 1st in the Final Exam"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 54,
+      "title": "Hatsuboshi Task 54",
+      "description": "Let's watch Ch.1, Ep.13",
+      "homeDescription": "Let's watch Ch.1, Ep.13"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 55,
+      "title": "Hatsuboshi Task 55",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 56,
+      "title": "Hatsuboshi Task 56",
+      "description": "Raise the Training Stage of {threshold} Produce Idols to 3",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 3"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 57,
+      "title": "Hatsuboshi Task 57",
+      "description": "Raise any parameter to 800 or more in Produce Mode",
+      "homeDescription": "Raise any parameter to 800 or more in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 58,
+      "title": "Hatsuboshi Task 58",
+      "description": "Let's watch Ch.1, Ep.14",
+      "homeDescription": "Let's watch Ch.1, Ep.14"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 59,
+      "title": "Hatsuboshi Task 59",
+      "description": "Raise any idol’s Bond Level to {threshold}",
+      "homeDescription": "Raise any idol’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 60,
+      "title": "Hatsuboshi Task 60",
+      "description": "Watch the True End",
+      "homeDescription": "Watch the True End"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 1,
+      "title": "P-Task 1",
+      "description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 2,
+      "title": "P-Task 2",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 3,
+      "title": "P-Task 3",
+      "description": "Raise any parameter to 1000 or more in Produce Mode",
+      "homeDescription": "Raise any parameter to 1000 or more in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 4,
+      "title": "P-Task 4",
+      "description": "Earn a score of {threshold} or higher in a Contest",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 5,
+      "title": "P-Task 5",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 6,
+      "title": "P-Task 6",
+      "description": "Raise the Training Stage of {threshold} Produce Idols to 3",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 3"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 7,
+      "title": "P-Task 7",
+      "description": "Clear SP Lessons {threshold} times",
+      "homeDescription": "Clear SP Lessons {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 8,
+      "title": "P-Task 8",
+      "description": "Raise {threshold} Support Cards to Lv30",
+      "homeDescription": "Raise {threshold} Support Cards to Lv30"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 9,
+      "title": "P-Task 9",
+      "description": "Acquire {threshold} types of Skill Cards",
+      "homeDescription": "Acquire {threshold} types of Skill Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 10,
+      "title": "P-Task 10",
+      "description": "Achieve a B+ Rating in Produce Mode",
+      "homeDescription": "Achieve a B+ Rating in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 11,
+      "title": "P-Task 11",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 12,
+      "title": "P-Task 12",
+      "description": "Work a total of {threshold} hours",
+      "homeDescription": "Work a total of {threshold} hours"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 13,
+      "title": "P-Task 13",
+      "description": "Achieve a B+ Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
+      "homeDescription": "Achieve a B+ Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 14,
+      "title": "P-Task 14",
+      "description": "Achieve a B+ Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
+      "homeDescription": "Achieve a B+ Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 15,
+      "title": "P-Task 15",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 16,
+      "title": "P-Task 16",
+      "description": "Raise the Training Stage of {threshold} Produce Idols to 3",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 3"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 17,
+      "title": "P-Task 17",
+      "description": "Watch the True End for {threshold} idols",
+      "homeDescription": "Watch the True End for {threshold} idols"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 18,
+      "title": "P-Task 18",
+      "description": "Raise the Level of a Support Card to {threshold}",
+      "homeDescription": "Raise the Level of a Support Card to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 19,
+      "title": "P-Task 19",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 20,
+      "title": "P-Task 20",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 21,
+      "title": "P-Task 21",
+      "description": "Earn a score of {threshold} or higher in a Contest",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 22,
+      "title": "P-Task 22",
+      "description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 23,
+      "title": "P-Task 23",
+      "description": "Acquire {threshold} types of Skill Cards",
+      "homeDescription": "Acquire {threshold} types of Skill Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 24,
+      "title": "P-Task 24",
+      "description": "Raise {threshold} Support Cards to Lv30",
+      "homeDescription": "Raise {threshold} Support Cards to Lv30"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 25,
+      "title": "P-Task 25",
+      "description": "Raise the Training Stage of {threshold} Produce Idols to 4",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 4"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 26,
+      "title": "P-Task 26",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 27,
+      "title": "P-Task 27",
+      "description": "Challenge a Contest",
+      "homeDescription": "Challenge a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 28,
+      "title": "P-Task 28",
+      "description": "Watch the True End for {threshold} idols",
+      "homeDescription": "Watch the True End for {threshold} idols"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 29,
+      "title": "P-Task 29",
+      "description": "Raise {threshold} Support Cards to Lv30",
+      "homeDescription": "Raise {threshold} Support Cards to Lv30"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 30,
+      "title": "P-Task 30",
+      "description": "Pass the Final Exam in Produce Mode\n[Condition]: Saki Hanami",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Saki Hanami"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 31,
+      "title": "P-Task 31",
+      "description": "Earn a score of {threshold} or higher in a Contest",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 32,
+      "title": "P-Task 32",
+      "description": "Pass the Final Exam in Produce Mode\n[Condition]: Temari Tsukimura",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Temari Tsukimura"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 33,
+      "title": "P-Task 33",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 34,
+      "title": "P-Task 34",
+      "description": "Pass the Final Exam in Produce Mode\n[Condition]: Kotone Fujita",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Kotone Fujita"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 35,
+      "title": "P-Task 35",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 36,
+      "title": "P-Task 36",
+      "description": "Let's get {threshold} kinds of P-drinks!",
+      "homeDescription": "Let's get {threshold} kinds of P-drinks!"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 37,
+      "title": "P-Task 37",
+      "description": "Pass the Final Exam in Produce Mode\n[Condition]: Mao Arimura",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Mao Arimura"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 38,
+      "title": "P-Task 38",
+      "description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 39,
+      "title": "P-Task 39",
+      "description": "Pass the Final Exam in Produce Mode\n[Condition]: Rinami Himesaki",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Rinami Himesaki"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 40,
+      "title": "P-Task 40",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 41,
+      "title": "P-Task 41",
+      "description": "Pass the Final Exam in Produce Mode\n[Condition]: Lilja Katsuragi",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Lilja Katsuragi"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 42,
+      "title": "P-Task 42",
+      "description": "Challenge a Contest",
+      "homeDescription": "Challenge a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 43,
+      "title": "P-Task 43",
+      "description": "Raise the Training Stage of {threshold} Produce Idols to 4",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 4"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 44,
+      "title": "P-Task 44",
+      "description": "Pass the Final Exam in Produce Mode\n[Condition]: Sumika Shiun",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Sumika Shiun"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 45,
+      "title": "P-Task 45",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 46,
+      "title": "P-Task 46",
+      "description": "Pass the Final Exam in Produce Mode\n[Condition]: Hiro Shinosawa",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Hiro Shinosawa"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 47,
+      "title": "P-Task 47",
+      "description": "Raise {threshold} Support Cards to Lv40",
+      "homeDescription": "Raise {threshold} Support Cards to Lv40"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 48,
+      "title": "P-Task 48",
+      "description": "Pass the Final Exam in Produce Mode\n[Condition]: China Kuramoto",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: China Kuramoto"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 49,
+      "title": "P-Task 49",
+      "description": "Earn a score of {threshold} or higher in a Contest",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 50,
+      "title": "P-Task 50",
+      "description": "Acquire {threshold} types of Skill Cards",
+      "homeDescription": "Acquire {threshold} types of Skill Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 51,
+      "title": "P-Task 51",
+      "description": "Achieve an A Rating in Produce Mode",
+      "homeDescription": "Achieve an A Rating in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 52,
+      "title": "P-Task 52",
+      "description": "Work a total of {threshold} hours",
+      "homeDescription": "Work a total of {threshold} hours"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 53,
+      "title": "P-Task 53",
+      "description": "Raise the Training Stage of {threshold} Produce Idols to 4",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 4"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 54,
+      "title": "P-Task 54",
+      "description": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
+      "homeDescription": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 55,
+      "title": "P-Task 55",
+      "description": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
+      "homeDescription": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 56,
+      "title": "P-Task 56",
+      "description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 57,
+      "title": "P-Task 57",
+      "description": "Challenge a Contest",
+      "homeDescription": "Challenge a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 58,
+      "title": "P-Task 58",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 59,
+      "title": "P-Task 59",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 60,
+      "title": "P-Task 60",
+      "description": "Raise any idol’s Bond Level to {threshold}",
+      "homeDescription": "Raise any idol’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 61,
+      "title": "P-Task 61",
+      "description": "Earn a total of {threshold}★ in The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 62,
+      "title": "P-Task 62",
+      "description": "Achieve an A Rating in Produce Mode",
+      "homeDescription": "Achieve an A Rating in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 63,
+      "title": "P-Task 63",
+      "description": "Earn a score of {threshold} or higher in a Contest",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 64,
+      "title": "P-Task 64",
+      "description": "Raise {threshold} Support Cards to Lv40",
+      "homeDescription": "Raise {threshold} Support Cards to Lv40"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 65,
+      "title": "P-Task 65",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 66,
+      "title": "P-Task 66",
+      "description": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol",
+      "homeDescription": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 67,
+      "title": "P-Task 67",
+      "description": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol",
+      "homeDescription": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 68,
+      "title": "P-Task 68",
+      "description": "Reach a total of {threshold} fans",
+      "homeDescription": "Reach a total of {threshold} fans"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 69,
+      "title": "P-Task 69",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 70,
+      "title": "P-Task 70",
+      "description": "Enhance Skill Cards {threshold} times in Produce Mode",
+      "homeDescription": "Enhance Skill Cards {threshold} times in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 71,
+      "title": "P-Task 71",
+      "description": "Earn a total of {threshold}★ in The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 72,
+      "title": "P-Task 72",
+      "description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 73,
+      "title": "P-Task 73",
+      "description": "Watch the True End for {threshold} idols",
+      "homeDescription": "Watch the True End for {threshold} idols"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 74,
+      "title": "P-Task 74",
+      "description": "Raise {threshold} Support Cards to Lv40",
+      "homeDescription": "Raise {threshold} Support Cards to Lv40"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 75,
+      "title": "P-Task 75",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 76,
+      "title": "P-Task 76",
+      "description": "Earn a score of {threshold} or higher in a Contest",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 77,
+      "title": "P-Task 77",
+      "description": "Pass the Final Exam and achieve an A Rating {threshold} times with Hiro Shinosawa",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Hiro Shinosawa"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 78,
+      "title": "P-Task 78",
+      "description": "Pass the Final Exam and achieve an A Rating {threshold} times with China Kuramoto",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with China Kuramoto"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 79,
+      "title": "P-Task 79",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 80,
+      "title": "P-Task 80",
+      "description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 81,
+      "title": "P-Task 81",
+      "description": "Earn a total of {threshold}★ in The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 82,
+      "title": "P-Task 82",
+      "description": "Pass the Final Exam and achieve an A Rating {threshold} times with Lilja Katsuragi",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Lilja Katsuragi"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 83,
+      "title": "P-Task 83",
+      "description": "Pass the Final Exam and achieve an A Rating {threshold} times with Sumika Shiun",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Sumika Shiun"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 84,
+      "title": "P-Task 84",
+      "description": "Raise the Training Stage of {threshold} Produce Idols to 5",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 5"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 85,
+      "title": "P-Task 85",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 86,
+      "title": "P-Task 86",
+      "description": "Earn a total of {threshold} Produce Ratings",
+      "homeDescription": "Earn a total of {threshold} Produce Ratings"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 87,
+      "title": "P-Task 87",
+      "description": "Earn a score of {threshold} or higher in a Contest",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 88,
+      "title": "P-Task 88",
+      "description": "Pass the Final Exam and achieve an A Rating {threshold} times with Mao Arimura",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Mao Arimura"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 89,
+      "title": "P-Task 89",
+      "description": "Pass the Final Exam and achieve an A Rating {threshold} times with Rinami Himesaki",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Rinami Himesaki"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 90,
+      "title": "P-Task 90",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 91,
+      "title": "P-Task 91",
+      "description": "Earn a total of {threshold}★ in The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 92,
+      "title": "P-Task 92",
+      "description": "Pass the Final Exam and achieve an A Rating {threshold} times with Temari Tsukimura",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Temari Tsukimura"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 93,
+      "title": "P-Task 93",
+      "description": "Pass the Final Exam and achieve an A Rating {threshold} times with Kotone Fujita",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Kotone Fujita"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 94,
+      "title": "P-Task 94",
+      "description": "Acquire {threshold} types of Skill Cards",
+      "homeDescription": "Acquire {threshold} types of Skill Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 95,
+      "title": "P-Task 95",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 96,
+      "title": "P-Task 96",
+      "description": "Raise the Training Stage of {threshold} Produce Idols to 6",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 6"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 97,
+      "title": "P-Task 97",
+      "description": "Pass the Final Exam and achieve an A Rating {threshold} times with Saki Hanami",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Saki Hanami"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 98,
+      "title": "P-Task 98",
+      "description": "Pass the Final Exam and achieve an A Rating {threshold} times with Ume Hanami",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Ume Hanami"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 99,
+      "title": "P-Task 99",
+      "description": "Watch the True End for {threshold} idols",
+      "homeDescription": "Watch the True End for {threshold} idols"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 100,
+      "title": "P-Task 100",
+      "description": "Earn a total of {threshold}★ in The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 1,
+      "title": "P-Task 2-1",
+      "description": "Clear Training [Basic 7]: All-Out Effort",
+      "homeDescription": "Clear Training [Basic 7]: All-Out Effort"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 2,
+      "title": "P-Task 2-2",
+      "description": "Clear Training [Basic 8]: Confidence",
+      "homeDescription": "Clear Training [Basic 8]: Confidence"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 3,
+      "title": "P-Task 2-3",
+      "description": "With a \"Plan: Anomaly\" Produce Idol, pass the Final Exam {threshold} times",
+      "homeDescription": "With a \"Plan: Anomaly\" Produce Idol, pass the Final Exam {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 4,
+      "title": "P-Task 2-4",
+      "description": "Pull the Anomaly Gacha {threshold} times",
+      "homeDescription": "Pull the Anomaly Gacha {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 5,
+      "title": "P-Task 2-5",
+      "description": "Clear Training [Advanced 5]: Plan: Anomaly",
+      "homeDescription": "Clear Training [Advanced 5]: Plan: Anomaly"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 6,
+      "title": "P-Task 2-6",
+      "description": "Raise the Training Stage of {threshold} Produce Idols to 4",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 4"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 7,
+      "title": "P-Task 2-7",
+      "description": "Raise Sena Juo’s Bond Level to {threshold}",
+      "homeDescription": "Raise Sena Juo’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 8,
+      "title": "P-Task 2-8",
+      "description": "Earn a total of {threshold}★ in The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 9,
+      "title": "P-Task 2-9",
+      "description": "Acquire {threshold} types of Skill Cards",
+      "homeDescription": "Acquire {threshold} types of Skill Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 10,
+      "title": "P-Task 2-10",
+      "description": "Raise Sena Juo’s Bond Level to {threshold}",
+      "homeDescription": "Raise Sena Juo’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 11,
+      "title": "P-Task 2-11",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 12,
+      "title": "P-Task 2-12",
+      "description": "Raise Sena Juo’s Bond Level to {threshold}",
+      "homeDescription": "Raise Sena Juo’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 13,
+      "title": "P-Task 2-13",
+      "description": "Clear any \"Producer Training\" module",
+      "homeDescription": "Clear any \"Producer Training\" module"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 14,
+      "title": "P-Task 2-14",
+      "description": "Challenge the Master Difficulty in Produce Mode",
+      "homeDescription": "Challenge the Master Difficulty in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 15,
+      "title": "P-Task 2-15",
+      "description": "Earn a score of {threshold} or higher in a Contest",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 16,
+      "title": "P-Task 2-16",
+      "description": "Earn a total of {threshold}★ in The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 17,
+      "title": "P-Task 2-17",
+      "description": "Raise {threshold} Support Cards to Lv40",
+      "homeDescription": "Raise {threshold} Support Cards to Lv40"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 18,
+      "title": "P-Task 2-18",
+      "description": "With a \"Plan: Anomaly\" Produce Idol, pass the Final Exam and achieve an A Rating {threshold} times",
+      "homeDescription": "With a \"Plan: Anomaly\" Produce Idol, pass the Final Exam and achieve an A Rating {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 19,
+      "title": "P-Task 2-19",
+      "description": "Raise the Training Stage of {threshold} Produce Idols to 6",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 6"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 20,
+      "title": "P-Task 2-20",
+      "description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 21,
+      "title": "P-Task 2-21",
+      "description": "Let's spend {threshold} of AP!",
+      "homeDescription": "Let's spend {threshold} of AP!"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 22,
+      "title": "P-Task 2-22",
+      "description": "Earn a total of {threshold}★ in The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 23,
+      "title": "P-Task 2-23",
+      "description": "Achieve {threshold} Achievements",
+      "homeDescription": "Achieve {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 24,
+      "title": "P-Task 2-24",
+      "description": "Raise any parameter to 1500 or more in Produce Mode",
+      "homeDescription": "Raise any parameter to 1500 or more in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 25,
+      "title": "P-Task 2-25",
+      "description": "Earn a score of {threshold} or higher in a Contest",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 26,
+      "title": "P-Task 2-26",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 27,
+      "title": "P-Task 2-27",
+      "description": "Acquire {threshold} types of Skill Cards",
+      "homeDescription": "Acquire {threshold} types of Skill Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 28,
+      "title": "P-Task 2-28",
+      "description": "Reach a total of {threshold} fans",
+      "homeDescription": "Reach a total of {threshold} fans"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 29,
+      "title": "P-Task 2-29",
+      "description": "Pass the Final Exam {threshold} times at Master Difficulty\n[Condition]: Plan: Anomaly Produce Idol",
+      "homeDescription": "Pass the Final Exam {threshold} times at Master Difficulty\n[Condition]: Plan: Anomaly Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 30,
+      "title": "P-Task 2-30",
+      "description": "Earn a total of {threshold}★ in The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 31,
+      "title": "P-Task 2-31",
+      "description": "Raise the Total Unit Power in a Contest to {threshold} or higher",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 32,
+      "title": "P-Task 2-32",
+      "description": "Work a total of {threshold} hours",
+      "homeDescription": "Work a total of {threshold} hours"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 33,
+      "title": "P-Task 2-33",
+      "description": "Raise the Training Stage of {threshold} Produce Idols to 6",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 6"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 34,
+      "title": "P-Task 2-34",
+      "description": "Achieve an A+ Rating in Produce Mode",
+      "homeDescription": "Achieve an A+ Rating in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 35,
+      "title": "P-Task 2-35",
+      "description": "Earn {threshold} fans for Sena Juo",
+      "homeDescription": "Earn {threshold} fans for Sena Juo"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 36,
+      "title": "P-Task 2-36",
+      "description": "Earn a score of {threshold} or higher in a Contest",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 37,
+      "title": "P-Task 2-37",
+      "description": "Earn a total of {threshold}★ in The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 38,
+      "title": "P-Task 2-38",
+      "description": "Reach Producer Lv{threshold}",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 39,
+      "title": "P-Task 2-39",
+      "description": "Raise Saki Hanami’s Bond Level to {threshold}",
+      "homeDescription": "Raise Saki Hanami’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 40,
+      "title": "P-Task 2-40",
+      "description": "Raise Temari Tsukimura’s Bond Level to {threshold}",
+      "homeDescription": "Raise Temari Tsukimura’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 41,
+      "title": "P-Task 2-41",
+      "description": "Raise Kotone Fujita’s Bond Level to {threshold}",
+      "homeDescription": "Raise Kotone Fujita’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 42,
+      "title": "P-Task 2-42",
+      "description": "Raise Mao Arimura’s Bond Level to {threshold}",
+      "homeDescription": "Raise Mao Arimura’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 43,
+      "title": "P-Task 2-43",
+      "description": "Raise Lilja Katsuragi’s Bond Level to {threshold}",
+      "homeDescription": "Raise Lilja Katsuragi’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 44,
+      "title": "P-Task 2-44",
+      "description": "Raise China Kuramoto’s Bond Level to {threshold}",
+      "homeDescription": "Raise China Kuramoto’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 45,
+      "title": "P-Task 2-45",
+      "description": "Raise Sumika Shiun’s Bond Level to {threshold}",
+      "homeDescription": "Raise Sumika Shiun’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 46,
+      "title": "P-Task 2-46",
+      "description": "Raise Hiro Shinosawa’s Bond Level to {threshold}",
+      "homeDescription": "Raise Hiro Shinosawa’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 47,
+      "title": "P-Task 2-47",
+      "description": "Raise Ume Hanami’s Bond Level to {threshold}",
+      "homeDescription": "Raise Ume Hanami’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 48,
+      "title": "P-Task 2-48",
+      "description": "Raise Rinami Himesaki’s Bond Level to {threshold}",
+      "homeDescription": "Raise Rinami Himesaki’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 49,
+      "title": "P-Task 2-49",
+      "description": "Raise Sena Juo’s Bond Level to {threshold}",
+      "homeDescription": "Raise Sena Juo’s Bond Level to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 50,
+      "title": "P-Task 2-50",
+      "description": "Achieve an S Rating in Produce Mode",
+      "homeDescription": "Achieve an S Rating in Produce Mode"
+    }
+  ]
 }

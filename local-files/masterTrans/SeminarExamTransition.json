@@ -1,26 +1,75 @@
 {
-    "ProduceExamEffectType_ExamParameterBuff|0|seminar_gruop-03_01|description": "We were a little short of the target value. Good condition has the effect of increasing the amount of parameter growth. Let's learn the tips to use it effectively in the exam training!",
-    "ProduceExamEffectType_ExamParameterBuff|0|seminar_gruop-03_01|seminarExamGroupName": "Exam Training",
-    "ProduceExamEffectType_ExamParameterBuff|0|seminar_gruop-03_01|seminarExamName": "【Exam Training 1】Good Condition",
-    "ProduceExamEffectType_ExamParameterBuff|1|seminar_gruop-01_01|description": "We were a little short of the target value. Good condition has the effect of increasing the amount of parameter growth. Let's learn the tips to use it effectively in the training!",
-    "ProduceExamEffectType_ExamParameterBuff|1|seminar_gruop-01_01|seminarExamGroupName": "Basic Training",
-    "ProduceExamEffectType_ExamParameterBuff|1|seminar_gruop-01_01|seminarExamName": "【Basic 1】Good Condition",
-    "ProduceExamEffectType_ExamLessonBuff|0|seminar_gruop-03_02|description": "We were a little short of the target value. Focus has the effect of increasing the amount of parameter growth by the value. Let's learn the tips to use it effectively in the exam training!",
-    "ProduceExamEffectType_ExamLessonBuff|0|seminar_gruop-03_02|seminarExamGroupName": "Exam Training",
-    "ProduceExamEffectType_ExamLessonBuff|0|seminar_gruop-03_02|seminarExamName": "【Exam Training 2】Focus",
-    "ProduceExamEffectType_ExamLessonBuff|1|seminar_gruop-01_02|description": "We were a little short of the target value. Focus has the effect of increasing the amount of parameter growth by the value. Let's learn the tips to use it effectively in the training!",
-    "ProduceExamEffectType_ExamLessonBuff|1|seminar_gruop-01_02|seminarExamGroupName": "Basic Training",
-    "ProduceExamEffectType_ExamLessonBuff|1|seminar_gruop-01_02|seminarExamName": "【Basic 2】Focus",
-    "ProduceExamEffectType_ExamReview|0|seminar_gruop-03_03|description": "We were a little short of the target value. Good Impression has the effect of increasing parameters at the end of the turn. Let's learn the tips to use it effectively in the exam training!",
-    "ProduceExamEffectType_ExamReview|0|seminar_gruop-03_03|seminarExamGroupName": "Exam Training",
-    "ProduceExamEffectType_ExamReview|0|seminar_gruop-03_03|seminarExamName": "【Exam Training 3】Good Impression",
-    "ProduceExamEffectType_ExamReview|1|seminar_gruop-01_03|description": "We were a little short of the target value. Good Impression has the effect of increasing parameters at the end of the turn. Let's learn the tips to use it effectively in the training!",
-    "ProduceExamEffectType_ExamReview|1|seminar_gruop-01_03|seminarExamGroupName": "Basic Training",
-    "ProduceExamEffectType_ExamReview|1|seminar_gruop-01_03|seminarExamName": "【Basic 3】Good Impression",
-    "ProduceExamEffectType_ExamCardPlayAggressive|0|seminar_gruop-03_04|description": "We were a little short of the target value. Motivation has the effect of increasing the amount of energy growth by the value. Let's learn the tips to use it effectively in the exam training!",
-    "ProduceExamEffectType_ExamCardPlayAggressive|0|seminar_gruop-03_04|seminarExamGroupName": "Exam Training",
-    "ProduceExamEffectType_ExamCardPlayAggressive|0|seminar_gruop-03_04|seminarExamName": "【Exam Training 4】Motivation",
-    "ProduceExamEffectType_ExamCardPlayAggressive|1|seminar_gruop-01_04|description": "We were a little short of the target value. Motivation has the effect of increasing the amount of energy growth by the value. Let's learn the tips to use it effectively in the training!",
-    "ProduceExamEffectType_ExamCardPlayAggressive|1|seminar_gruop-01_04|seminarExamGroupName": "Basic Training",
-    "ProduceExamEffectType_ExamCardPlayAggressive|1|seminar_gruop-01_04|seminarExamName": "【Basic 4】Motivation"
+  "rules": {
+    "primaryKeys": [
+      "examEffectType",
+      "isLessonInt",
+      "seminarExamId"
+    ]
+  },
+  "data": [
+    {
+      "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+      "isLessonInt": 0,
+      "seminarExamId": "seminar_gruop-03_01",
+      "description": "We were a little short of the target value. Good condition has the effect of increasing the amount of parameter growth. Let's learn the tips to use it effectively in the exam training!",
+      "seminarExamGroupName": "Exam Training",
+      "seminarExamName": "【Exam Training 1】Good Condition"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+      "isLessonInt": 1,
+      "seminarExamId": "seminar_gruop-01_01",
+      "description": "We were a little short of the target value. Good condition has the effect of increasing the amount of parameter growth. Let's learn the tips to use it effectively in the training!",
+      "seminarExamGroupName": "Basic Training",
+      "seminarExamName": "【Basic 1】Good Condition"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+      "isLessonInt": 0,
+      "seminarExamId": "seminar_gruop-03_02",
+      "description": "We were a little short of the target value. Focus has the effect of increasing the amount of parameter growth by the value. Let's learn the tips to use it effectively in the exam training!",
+      "seminarExamGroupName": "Exam Training",
+      "seminarExamName": "【Exam Training 2】Focus"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+      "isLessonInt": 1,
+      "seminarExamId": "seminar_gruop-01_02",
+      "description": "We were a little short of the target value. Focus has the effect of increasing the amount of parameter growth by the value. Let's learn the tips to use it effectively in the training!",
+      "seminarExamGroupName": "Basic Training",
+      "seminarExamName": "【Basic 2】Focus"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamReview",
+      "isLessonInt": 0,
+      "seminarExamId": "seminar_gruop-03_03",
+      "description": "We were a little short of the target value. Good Impression has the effect of increasing parameters at the end of the turn. Let's learn the tips to use it effectively in the exam training!",
+      "seminarExamGroupName": "Exam Training",
+      "seminarExamName": "【Exam Training 3】Good Impression"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamReview",
+      "isLessonInt": 1,
+      "seminarExamId": "seminar_gruop-01_03",
+      "description": "We were a little short of the target value. Good Impression has the effect of increasing parameters at the end of the turn. Let's learn the tips to use it effectively in the training!",
+      "seminarExamGroupName": "Basic Training",
+      "seminarExamName": "【Basic 3】Good Impression"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
+      "isLessonInt": 0,
+      "seminarExamId": "seminar_gruop-03_04",
+      "description": "We were a little short of the target value. Motivation has the effect of increasing the amount of energy growth by the value. Let's learn the tips to use it effectively in the exam training!",
+      "seminarExamGroupName": "Exam Training",
+      "seminarExamName": "【Exam Training 4】Motivation"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
+      "isLessonInt": 1,
+      "seminarExamId": "seminar_gruop-01_04",
+      "description": "We were a little short of the target value. Motivation has the effect of increasing the amount of energy growth by the value. Let's learn the tips to use it effectively in the training!",
+      "seminarExamGroupName": "Basic Training",
+      "seminarExamName": "【Basic 4】Motivation"
+    }
+  ]
 }

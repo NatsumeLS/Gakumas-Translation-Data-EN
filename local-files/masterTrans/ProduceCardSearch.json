@@ -1,183 +1,1682 @@
 {
-    "p_card_search-active_skill-deck_all|||||ProduceDescriptionType_ProduceCardCategory|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_ActiveSkill|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ActiveSkillCard|descriptions": "[LA_F]",
-    "p_card_search-active_skill-deck_all|||||ProduceDescriptionType_ProduceCardCategory|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_ActiveSkill|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ActiveSkillCard|produceDescriptions[0].text": "Active Skill Card",
-    "p_card_search-active_skill-first-deck-3|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-active_skill-first-deck-3|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Top 3 Active Skill Cards from the Deck",
-    "p_card_search-active_skill-hand|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-active_skill-hand|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "In Hand",
-    "p_card_search-active_skill-hand|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[1].text": "Active Skill Card",
-    "p_card_search-active_skill-lost|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-active_skill-lost|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "In Exclusion",
-    "p_card_search-active_skill-lost|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[1].text": "Active Skill Card",
-    "p_card_search-active_skill-playing|||||ProduceDescriptionType_ProduceCardCategory|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_ActiveSkill|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ActiveSkillCard|descriptions": "[LA_F]",
-    "p_card_search-active_skill-playing|||||ProduceDescriptionType_ProduceCardCategory|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_ActiveSkill|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ActiveSkillCard|produceDescriptions[0].text": "Active Skill Card",
-    "p_card_search-deck|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-deck|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Skill Cards in the Deck",
-    "p_card_search-deck_all|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-deck_all|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Skill Card",
-    "p_card_search-deck_all-1-p_card-00-act-0_001|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-00-act-0_001|descriptions": "[LA_F]",
-    "p_card_search-deck_all-1-p_card-00-act-0_001|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-00-act-0_001|produceDescriptions[0].text": "Basic Appeal",
-    "p_card_search-deck_all-1-p_card-00-act-0_001|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-00-act-0_001|produceDescriptions[1].text": "1 Card",
-    "p_card_search-deck_all-1-p_card-00-men-0_003|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-00-men-0_003|descriptions": "[LA_F]",
-    "p_card_search-deck_all-1-p_card-00-men-0_003|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-00-men-0_003|produceDescriptions[0].text": "Basic Expression",
-    "p_card_search-deck_all-1-p_card-00-men-0_003|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-00-men-0_003|produceDescriptions[1].text": "1 Card",
-    "p_card_search-deck_all-effect_group-visible-exam_block-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamBlock|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamBlock|descriptions": "[LA_F]",
-    "p_card_search-deck_all-effect_group-visible-exam_block-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamBlock|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamBlock|produceDescriptions[0].text": "Energy",
-    "p_card_search-deck_all-effect_group-visible-exam_block-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamBlock|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamBlock|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamCardPlayAggressive|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamCardPlayAggressive_Produce|descriptions": "[LA_F]",
-    "p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamCardPlayAggressive|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamCardPlayAggressive_Produce|produceDescriptions[0].text": "Motivation",
-    "p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamCardPlayAggressive|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamCardPlayAggressive_Produce|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-deck_all-effect_group-visible-exam_concentration-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamConcentration|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamConcentration_Produce|descriptions": "[LA_F]",
-    "p_card_search-deck_all-effect_group-visible-exam_concentration-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamConcentration|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamConcentration_Produce|produceDescriptions[0].text": "Confidence",
-    "p_card_search-deck_all-effect_group-visible-exam_concentration-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamConcentration|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamConcentration_Produce|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-deck_all-effect_group-visible-exam_concentration-000-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamConcentration|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamConcentration_Produce|descriptions": "[LA_F]",
-    "p_card_search-deck_all-effect_group-visible-exam_concentration-000-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamConcentration|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamConcentration_Produce|produceDescriptions[0].text": "Confidence",
-    "p_card_search-deck_all-effect_group-visible-exam_concentration-000-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamConcentration|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamConcentration_Produce|produceDescriptions[1].text": "•",
-    "p_card_search-deck_all-effect_group-visible-exam_concentration-000-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamConcentration|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamConcentration_Produce|produceDescriptions[2].text": "Preservation",
-    "p_card_search-deck_all-effect_group-visible-exam_concentration-000-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamConcentration|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamConcentration_Produce|produceDescriptions[3].text": "Skill Card with Effects",
-    "p_card_search-deck_all-effect_group-visible-exam_full_power-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamFullPower|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamFullPower|descriptions": "[LA_F]",
-    "p_card_search-deck_all-effect_group-visible-exam_full_power-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamFullPower|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamFullPower|produceDescriptions[0].text": "Full Power",
-    "p_card_search-deck_all-effect_group-visible-exam_full_power-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamFullPower|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamFullPower|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-deck_all-effect_group-visible-exam_full_power-000-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamFullPower|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamFullPower|descriptions": "[LA_F]",
-    "p_card_search-deck_all-effect_group-visible-exam_full_power-000-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamFullPower|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamFullPower|produceDescriptions[0].text": "Full Power",
-    "p_card_search-deck_all-effect_group-visible-exam_full_power-000-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamFullPower|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamFullPower|produceDescriptions[1].text": "•",
-    "p_card_search-deck_all-effect_group-visible-exam_full_power-000-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamFullPower|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamFullPower|produceDescriptions[2].text": "Preservation",
-    "p_card_search-deck_all-effect_group-visible-exam_full_power-000-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamFullPower|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamFullPower|produceDescriptions[3].text": "Skill Card with Effects",
-    "p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamLessonBuff|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamLessonBuff_Produce|descriptions": "[LA_F]",
-    "p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamLessonBuff|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamLessonBuff_Produce|produceDescriptions[0].text": "Focus",
-    "p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamLessonBuff|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamLessonBuff_Produce|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamParameterBuff|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamParameterBuff|descriptions": "[LA_F]",
-    "p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamParameterBuff|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamParameterBuff|produceDescriptions[0].text": "Good Condition",
-    "p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamParameterBuff|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamParameterBuff|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-deck_all-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamPreservation|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamPreservation_Produce|descriptions": "[LA_F]",
-    "p_card_search-deck_all-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamPreservation|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamPreservation_Produce|produceDescriptions[0].text": "Preservation",
-    "p_card_search-deck_all-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamPreservation|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamPreservation_Produce|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-deck_all-effect_group-visible-exam_review-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamReview|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamReview_Produce|descriptions": "[LA_F]",
-    "p_card_search-deck_all-effect_group-visible-exam_review-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamReview|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamReview_Produce|produceDescriptions[0].text": "Good Impression",
-    "p_card_search-deck_all-effect_group-visible-exam_review-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamReview|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamReview_Produce|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-deck_all-p_card-03-act-1_040|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-03-act-1_040|descriptions": "[LA_F]",
-    "p_card_search-deck_all-p_card-03-act-1_040|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-03-act-1_040|produceDescriptions[0].text": "Starlight",
-    "p_card_search-deck_all-p_card-03-ido-3_084|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-03-ido-3_084|descriptions": "[LA_F]",
-    "p_card_search-deck_all-p_card-03-ido-3_084|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-03-ido-3_084|produceDescriptions[0].text": "Beyond the Crossing",
-    "p_card_search-deck_all-starter|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-deck_all-starter|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Skill Card with \"Basic\" in its Name",
-    "p_card_search-deck_grave|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-deck_grave|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Skill Cards in the Deck or Discard Pile",
-    "p_card_search-deck_grave-1-p_card-03-act-1_040_upgrade1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-deck_grave-1-p_card-03-act-1_040_upgrade1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "In the Deck or Discard Pile",
-    "p_card_search-deck_grave-1-p_card-03-act-1_040_upgrade1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[1].text": "Starlight +",
-    "p_card_search-deck_grave-1-p_card-03-act-1_040_upgrade1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[2].text": "1 Card",
-    "p_card_search-deck_grave-idol-unique-1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-deck_grave-idol-unique-1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "1 Unique Idol Skill Card from the Deck or Discard Pile",
-    "p_card_search-deck-1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-deck-1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "1 Skill Card from the Deck",
-    "p_card_search-first-deck-1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-first-deck-1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Skill Card at the Top of the Deck",
-    "p_card_search-first-deck-5|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-first-deck-5|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Top 5 Skill Cards from the Deck",
-    "p_card_search-hand|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-hand|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "In Hand",
-    "p_card_search-hand-1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-hand-1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "1 Skill Card in Hand",
-    "p_card_search-hand-2|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-hand-2|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "2 Skill Cards in Hand",
-    "p_card_search-hand-3|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-hand-3|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "3 Skill Cards in Hand",
-    "p_card_search-hold|||||ProduceDescriptionType_ProduceDescription|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ProduceCardPositionType_Hold|descriptions": "[LA_F]",
-    "p_card_search-hold|||||ProduceDescriptionType_ProduceDescription|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ProduceCardPositionType_Hold|produceDescriptions[0].text": "On Hold",
-    "p_card_search-hold|||||ProduceDescriptionType_ProduceDescription|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ProduceCardPositionType_Hold|produceDescriptions[1].text": "Skill Cards in",
-    "p_card_search-lost|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-lost|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Skill Cards in Exclusion",
-    "p_card_search-lost-idol-unique-1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-lost-idol-unique-1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "1 Unique Idol Skill Card in Exclusion",
-    "p_card_search-lost-p_card-02-ido-3_104|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-lost-p_card-02-ido-3_104|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "In Exclusion",
-    "p_card_search-lost-p_card-02-ido-3_104|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[1].text": "And, I Can Fly",
-    "p_card_search-mental_skill-deck_all|||||ProduceDescriptionType_ProduceCardCategory|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_MentalSkill|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_MentalSkillCard|descriptions": "[LA_F]",
-    "p_card_search-mental_skill-deck_all|||||ProduceDescriptionType_ProduceCardCategory|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_MentalSkill|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_MentalSkillCard|produceDescriptions[0].text": "Mental Skill Card",
-    "p_card_search-mental_skill-hand|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-mental_skill-hand|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "In Hand",
-    "p_card_search-mental_skill-hand|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[1].text": "Mental Skill Card",
-    "p_card_search-mental_skill-playing|||||ProduceDescriptionType_ProduceCardCategory|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_MentalSkill|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_MentalSkillCard|descriptions": "[LA_F]",
-    "p_card_search-mental_skill-playing|||||ProduceDescriptionType_ProduceCardCategory|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_MentalSkill|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_MentalSkillCard|produceDescriptions[0].text": "Mental Skill Card",
-    "p_card_search-mental_skill-target|||||ProduceDescriptionType_ProduceCardCategory|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_MentalSkill|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_MentalSkillCard|descriptions": "[LA_F]",
-    "p_card_search-mental_skill-target|||||ProduceDescriptionType_ProduceCardCategory|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_MentalSkill|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_MentalSkillCard|produceDescriptions[0].text": "Mental Skill Card",
-    "p_card_search-playing|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-playing|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Skill Card",
-    "p_card_search-playing-1-min_max-6_99|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-playing-1-min_max-6_99|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Skill Card with Stamina Cost of 6 or More",
-    "p_card_search-playing-1-p_card-01-act-1_001|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-01-act-1_001|descriptions": "[LA_F]",
-    "p_card_search-playing-1-p_card-01-act-1_001|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-01-act-1_001|produceDescriptions[0].text": "Fan Service",
-    "p_card_search-playing-1-p_card-01-act-1_002|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-01-act-1_002|descriptions": "[LA_F]",
-    "p_card_search-playing-1-p_card-01-act-1_002|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-01-act-1_002|produceDescriptions[0].text": "Light Steps",
-    "p_card_search-playing-1-p_card-01-act-1_022|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-01-act-1_022|descriptions": "[LA_F]",
-    "p_card_search-playing-1-p_card-01-act-1_022|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-01-act-1_022|produceDescriptions[0].text": "Warm-Up",
-    "p_card_search-playing-1-p_card-01-act-1_023|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-01-act-1_023|descriptions": "[LA_F]",
-    "p_card_search-playing-1-p_card-01-act-1_023|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-01-act-1_023|produceDescriptions[0].text": "Momentum",
-    "p_card_search-playing-1-p_card-01-men-3_006|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-01-men-3_006|descriptions": "[LA_F]",
-    "p_card_search-playing-1-p_card-01-men-3_006|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-01-men-3_006|produceDescriptions[0].text": "National Idol",
-    "p_card_search-playing-1-p_card-02-men-1_030|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-02-men-1_030|descriptions": "[LA_F]",
-    "p_card_search-playing-1-p_card-02-men-1_030|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-02-men-1_030|produceDescriptions[0].text": "Restart",
-    "p_card_search-playing-1-p_card-02-men-1_031|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-02-men-1_031|descriptions": "[LA_F]",
-    "p_card_search-playing-1-p_card-02-men-1_031|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-02-men-1_031|produceDescriptions[0].text": "Cheerful Shout",
-    "p_card_search-playing-1-p_card-02-men-1_032|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-02-men-1_032|descriptions": "[LA_F]",
-    "p_card_search-playing-1-p_card-02-men-1_032|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-02-men-1_032|produceDescriptions[0].text": "Remembered Smile",
-    "p_card_search-playing-1-p_card-02-men-3_002|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-02-men-3_002|descriptions": "[LA_F]",
-    "p_card_search-playing-1-p_card-02-men-3_002|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-02-men-3_002|produceDescriptions[0].text": "I Am a Star",
-    "p_card_search-playing-1-p_card-03-act-1_038|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-03-act-1_038|descriptions": "[LA_F]",
-    "p_card_search-playing-1-p_card-03-act-1_038|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-03-act-1_038|produceDescriptions[0].text": "Just Appeal",
-    "p_card_search-playing-1-p_card-03-act-1_040|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-03-act-1_040|descriptions": "[LA_F]",
-    "p_card_search-playing-1-p_card-03-act-1_040|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-03-act-1_040|produceDescriptions[0].text": "Starlight",
-    "p_card_search-playing-effect_group-visible-exam_block-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamBlock|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamBlock|descriptions": "[LA_F]",
-    "p_card_search-playing-effect_group-visible-exam_block-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamBlock|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamBlock|produceDescriptions[0].text": "Energy",
-    "p_card_search-playing-effect_group-visible-exam_block-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamBlock|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamBlock|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-playing-effect_group-visible-exam_card_play_aggressive-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamCardPlayAggressive|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamCardPlayAggressive_Produce|descriptions": "[LA_F]",
-    "p_card_search-playing-effect_group-visible-exam_card_play_aggressive-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamCardPlayAggressive|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamCardPlayAggressive_Produce|produceDescriptions[0].text": "Motivation",
-    "p_card_search-playing-effect_group-visible-exam_card_play_aggressive-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamCardPlayAggressive|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamCardPlayAggressive_Produce|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-playing-effect_group-visible-exam_concentration-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamConcentration|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamConcentration_Produce|descriptions": "[LA_F]",
-    "p_card_search-playing-effect_group-visible-exam_concentration-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamConcentration|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamConcentration_Produce|produceDescriptions[0].text": "Confidence",
-    "p_card_search-playing-effect_group-visible-exam_concentration-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamConcentration|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamConcentration_Produce|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-playing-effect_group-visible-exam_parameter_buff_multiple_per_turn-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamParameterBuffMultiplePerTurn|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamParameterBuffMultiplePerTurn|descriptions": "[LA_F]",
-    "p_card_search-playing-effect_group-visible-exam_parameter_buff_multiple_per_turn-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamParameterBuffMultiplePerTurn|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamParameterBuffMultiplePerTurn|produceDescriptions[0].text": "Excellent Condition",
-    "p_card_search-playing-effect_group-visible-exam_parameter_buff_multiple_per_turn-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamParameterBuffMultiplePerTurn|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamParameterBuffMultiplePerTurn|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-playing-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamPreservation|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamPreservation_Produce|descriptions": "[LA_F]",
-    "p_card_search-playing-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamPreservation|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamPreservation_Produce|produceDescriptions[0].text": "Preservation",
-    "p_card_search-playing-effect_group-visible-exam_preservation-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamPreservation|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamPreservation_Produce|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-playing-effect_group-visible-exam_review-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamReview|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamReview_Produce|descriptions": "[LA_F]",
-    "p_card_search-playing-effect_group-visible-exam_review-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamReview|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamReview_Produce|produceDescriptions[0].text": "Good Impression",
-    "p_card_search-playing-effect_group-visible-exam_review-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamReview|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamReview_Produce|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-playing-effect_group-visible-exam_stamina_consumption_down-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamStaminaConsumptionDown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamStaminaConsumptionDown|descriptions": "[LA_F]",
-    "p_card_search-playing-effect_group-visible-exam_stamina_consumption_down-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamStaminaConsumptionDown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamStaminaConsumptionDown|produceDescriptions[0].text": "Reduced Stamina Consumption",
-    "p_card_search-playing-effect_group-visible-exam_stamina_consumption_down-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamStaminaConsumptionDown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamStaminaConsumptionDown|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-playing-effect_group-visible-stamina_recover_fix-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamStaminaRecoverFix|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamStaminaRecoverFix|descriptions": "[LA_F]",
-    "p_card_search-playing-effect_group-visible-stamina_recover_fix-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamStaminaRecoverFix|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamStaminaRecoverFix|produceDescriptions[0].text": "Stamina Recovery",
-    "p_card_search-playing-effect_group-visible-stamina_recover_fix-000|||||ProduceDescriptionType_ProduceExamEffectType|ExamDescriptionType_Unknown|ProduceExamEffectType_ExamStaminaRecoverFix|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_ExamStaminaRecoverFix|produceDescriptions[1].text": "Skill Card with Effects",
-    "p_card_search-playing-is_self|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-playing-is_self|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Self",
-    "p_card_search-playing-p_card-01-ido-1_058|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-01-ido-1_058|descriptions": "[LA_F]",
-    "p_card_search-playing-p_card-01-ido-1_058|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-01-ido-1_058|produceDescriptions[0].text": "First Reward",
-    "p_card_search-playing-p_card-01-ido-3_066|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-01-ido-3_066|descriptions": "[LA_F]",
-    "p_card_search-playing-p_card-01-ido-3_066|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-01-ido-3_066|produceDescriptions[0].text": "Adrenaline Rush",
-    "p_card_search-playing-p_card-02-act-1_028|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-02-act-1_028|descriptions": "[LA_F]",
-    "p_card_search-playing-p_card-02-act-1_028|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-02-act-1_028|produceDescriptions[0].text": "Casual Chat",
-    "p_card_search-playing-p_card-03-men-1_049|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-03-men-1_049|descriptions": "[LA_F]",
-    "p_card_search-playing-p_card-03-men-1_049|||||ProduceDescriptionType_ProduceCard|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|p_card-03-men-1_049|produceDescriptions[0].text": "Pleasant Miscalculation",
-    "p_card_search-random-random_pool-p_random_pool-all-upgrade_1-1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-random-random_pool-p_random_pool-all-upgrade_1-1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Enhanced Skill Card",
-    "p_card_search-random-random_pool-p_random_pool-ssr-upgrade_1-1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-random-random_pool-p_random_pool-ssr-upgrade_1-1|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Enhanced Skill Card (SSR)",
-    "p_card_search-target|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-target|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Skill Card",
-    "p_card_search-target_is_self|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-target_is_self|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Self",
-    "p_card_search-trouble-deck_all|||||ProduceDescriptionType_ProduceCardCategory|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Trouble|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_TroubleSkillCard|descriptions": "[LA_F]",
-    "p_card_search-trouble-deck_all|||||ProduceDescriptionType_ProduceCardCategory|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Trouble|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown|Label_TroubleSkillCard|produceDescriptions[0].text": "Trouble Card",
-    "p_card_search-trouble-deck-2|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-trouble-deck-2|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "In the Deck",
-    "p_card_search-trouble-deck-2|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[1].text": "Trouble Card",
-    "p_card_search-trouble-deck-2|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[2].text": "2 Cards",
-    "p_card_search-trouble-hand|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-trouble-hand|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Trouble Card",
-    "p_card_search-trouble-target|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||descriptions": "[LA_F]",
-    "p_card_search-trouble-target|||||ProduceDescriptionType_PlainText|ExamDescriptionType_Unknown|ProduceExamEffectType_Unknown|ProduceCardCategory_Unknown|ProduceCardMovePositionType_Unknown|ProduceStepType_Unknown||produceDescriptions[0].text": "Trouble Card"
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "descriptions.type",
+      "descriptions.targetId",
+      "descriptions.examEffectType",
+      "descriptions.produceCardCategory",
+      "produceDescriptions.produceDescriptionType",
+      "produceDescriptions.examDescriptionType",
+      "produceDescriptions.examEffectType",
+      "produceDescriptions.produceCardCategory",
+      "produceDescriptions.produceCardMovePositionType",
+      "produceDescriptions.produceStepType",
+      "produceDescriptions.targetId"
+    ]
+  },
+  "data": [
+    {
+      "id": "p_card_search-active_skill-deck_all",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ActiveSkillCard",
+          "text": "Active Skill Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-active_skill-first-deck-3",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Top 3 Active Skill Cards from the Deck"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-active_skill-hand",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "In Hand"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ActiveSkillCard",
+          "text": "Active Skill Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-active_skill-lost",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "In Exclusion"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ActiveSkillCard",
+          "text": "Active Skill Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-active_skill-playing",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ActiveSkillCard",
+          "text": "Active Skill Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Cards in the Deck"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-1-p_card-00-act-0_001",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-00-act-0_001",
+          "text": "Basic Appeal"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "1 Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-1-p_card-00-men-0_003",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-00-men-0_003",
+          "text": "Basic Expression"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "1 Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_block-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamBlock",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamBlock",
+          "text": "Energy"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamCardPlayAggressive_Produce",
+          "text": "Motivation"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_concentration-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "Confidence"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_concentration-000-effect_group-visible-exam_preservation-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "Confidence"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "•"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "Preservation"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_full_power-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamFullPower",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamFullPower",
+          "text": "Full Power"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_full_power-000-effect_group-visible-exam_preservation-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamFullPower",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamFullPower",
+          "text": "Full Power"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "•"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "Preservation"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "Focus"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamParameterBuff",
+          "text": "Good Condition"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_preservation-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "Preservation"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-effect_group-visible-exam_review-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamReview_Produce",
+          "text": "Good Impression"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-p_card-03-act-1_040",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-act-1_040",
+          "text": "Starlight"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-p_card-03-ido-3_084",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-ido-3_084",
+          "text": "Beyond the Crossing"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_all-starter",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with \"Basic\" in its Name"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_grave",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Cards in the Deck or Discard Pile"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_grave-1-p_card-03-act-1_040_upgrade1",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "In the Deck or Discard Pile"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-act-1_040",
+          "text": "Starlight +"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "1 Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck_grave-idol-unique-1",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "1 Unique Idol Skill Card from the Deck or Discard Pile"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-deck-1",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "1 Skill Card from the Deck"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-first-deck-1",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card at the Top of the Deck"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-first-deck-5",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Top 5 Skill Cards from the Deck"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-hand",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "In Hand"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-hand-1",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "1 Skill Card in Hand"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-hand-2",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "2 Skill Cards in Hand"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-hand-3",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "3 Skill Cards in Hand"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-hold",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardPositionType_Hold",
+          "text": "On Hold"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Cards in"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-lost",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Cards in Exclusion"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-lost-idol-unique-1",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "1 Unique Idol Skill Card in Exclusion"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-lost-p_card-02-ido-3_104",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "In Exclusion"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-ido-3_104",
+          "text": "And, I Can Fly"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-mental_skill-deck_all",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_MentalSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_MentalSkillCard",
+          "text": "Mental Skill Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-mental_skill-hand",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "In Hand"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_MentalSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_MentalSkillCard",
+          "text": "Mental Skill Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-mental_skill-playing",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_MentalSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_MentalSkillCard",
+          "text": "Mental Skill Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-mental_skill-target",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_MentalSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_MentalSkillCard",
+          "text": "Mental Skill Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-min_max-6_99",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Stamina Cost of 6 or More"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-01-act-1_001",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-act-1_001",
+          "text": "Fan Service"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-01-act-1_002",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-act-1_002",
+          "text": "Light Steps"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-01-act-1_022",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-act-1_022",
+          "text": "Warm-Up"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-01-act-1_023",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-act-1_023",
+          "text": "Momentum"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-01-men-3_006",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-men-3_006",
+          "text": "National Idol"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-02-men-1_030",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-men-1_030",
+          "text": "Restart"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-02-men-1_031",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-men-1_031",
+          "text": "Cheerful Shout"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-02-men-1_032",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-men-1_032",
+          "text": "Remembered Smile"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-02-men-3_002",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-men-3_002",
+          "text": "I Am a Star"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-03-act-1_038",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-act-1_038",
+          "text": "Just Appeal"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-1-p_card-03-act-1_040",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-act-1_040",
+          "text": "Starlight"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_block-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamBlock",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamBlock",
+          "text": "Energy"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_card_play_aggressive-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamCardPlayAggressive_Produce",
+          "text": "Motivation"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_concentration-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "Confidence"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_parameter_buff_multiple_per_turn-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamParameterBuffMultiplePerTurn",
+          "text": "Excellent Condition"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_preservation-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "Preservation"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_review-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamReview_Produce",
+          "text": "Good Impression"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-exam_stamina_consumption_down-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamStaminaConsumptionDown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamStaminaConsumptionDown",
+          "text": "Reduced Stamina Consumption"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-effect_group-visible-stamina_recover_fix-000",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamStaminaRecoverFix",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamStaminaRecoverFix",
+          "text": "Stamina Recovery"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card with Effects"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-is_self",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Self"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-p_card-01-ido-1_058",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-ido-1_058",
+          "text": "First Reward"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-p_card-01-ido-3_066",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-ido-3_066",
+          "text": "Adrenaline Rush"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-p_card-02-act-1_028",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-02-act-1_028",
+          "text": "Casual Chat"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-p_card-03-men-1_049",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-men-1_049",
+          "text": "Pleasant Miscalculation"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-random-random_pool-p_random_pool-all-upgrade_1-1",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Enhanced Skill Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-random-random_pool-p_random_pool-ssr-upgrade_1-1",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Enhanced Skill Card (SSR)"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-target",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-target_is_self",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Self"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-trouble-deck_all",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Trouble",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_TroubleSkillCard",
+          "text": "Trouble Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-trouble-deck-2",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "In the Deck"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Trouble",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_TroubleSkillCard",
+          "text": "Trouble Card"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "2 Cards"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-trouble-hand",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Trouble Card"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-trouble-target",
+      "descriptions": [
+        ""
+      ],
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Trouble Card"
+        }
+      ]
+    }
+  ]
 }

@@ -1,34 +1,170 @@
 {
-    "ProduceType_FirstStar|ProduceAdvType_BeforeFinalLessonHard|title": "Start of the final exam lesson!",
-    "ProduceType_FirstStar|ProduceAdvType_BeforeMid1LessonHard|title": "Start of the final exam lesson!",
-    "ProduceType_FirstStar|ProduceAdvType_BeforeMid2LessonHard|title": "Start of the final exam lesson!",
-    "ProduceType_FirstStar|ProduceAdvType_BeforeFinalAuditionRefresh|title": "The day before the final exam",
-    "ProduceType_FirstStar|ProduceAdvType_BeforeMid1AuditionRefresh|title": "The day before the mid-term exam",
-    "ProduceType_FirstStar|ProduceAdvType_BeforeMid2AuditionRefresh|title": "The day before the mid-term exam",
-    "ProduceType_FirstStar|ProduceAdvType_Opening|title": "Regular performance \"Hajime\"",
-    "ProduceType_FirstStar|ProduceAdvType_ProduceResultTrueEnd|title": "The final evaluation is...",
-    "ProduceType_FirstStar|ProduceAdvType_ProduceResultA|title": "The final evaluation is...",
-    "ProduceType_FirstStar|ProduceAdvType_ProduceResultB|title": "The final evaluation is...",
-    "ProduceType_FirstStar|ProduceAdvType_ProduceResultC|title": "The final evaluation is...",
-    "ProduceType_FirstStar|ProduceAdvType_ProduceResultFailedFinal|title": "The final evaluation is...",
-    "ProduceType_FirstStar|ProduceAdvType_ProduceResultFailedMid1|title": "The final evaluation is...",
-    "ProduceType_FirstStar|ProduceAdvType_ProduceResultFailedMid2|title": "The final evaluation is...",
-    "ProduceType_NextIdolAudition|ProduceAdvType_BeforeFinalLessonHard|title": "Start of the final exam lesson!",
-    "ProduceType_NextIdolAudition|ProduceAdvType_BeforeMid1LessonHard|title": "Start of the final exam lesson!",
-    "ProduceType_NextIdolAudition|ProduceAdvType_BeforeMid2LessonHard|title": "Start of the final exam lesson!",
-    "ProduceType_NextIdolAudition|ProduceAdvType_BeforeFinalAuditionRefresh|title": "The day before the final audition",
-    "ProduceType_NextIdolAudition|ProduceAdvType_BeforeMid1AuditionRefresh|title": "The day before the 1st audition",
-    "ProduceType_NextIdolAudition|ProduceAdvType_BeforeMid2AuditionRefresh|title": "The day before the 2nd audition",
-    "ProduceType_NextIdolAudition|ProduceAdvType_BeforeFinalAuditionSelect|title": "Final audition selection",
-    "ProduceType_NextIdolAudition|ProduceAdvType_BeforeMid1AuditionSelect|title": "1st audition selection",
-    "ProduceType_NextIdolAudition|ProduceAdvType_BeforeMid2AuditionSelect|title": "2nd audition selection",
-    "ProduceType_NextIdolAudition|ProduceAdvType_StepSkip|title": "Let's take a rest today",
-    "ProduceType_NextIdolAudition|ProduceAdvType_Opening|title": "NEXT IDOL AUDITION",
-    "ProduceType_NextIdolAudition|ProduceAdvType_ProduceResultTrueEnd|title": "The final evaluation is...",
-    "ProduceType_NextIdolAudition|ProduceAdvType_ProduceResultA|title": "The final evaluation is...",
-    "ProduceType_NextIdolAudition|ProduceAdvType_ProduceResultB|title": "The final evaluation is...",
-    "ProduceType_NextIdolAudition|ProduceAdvType_ProduceResultC|title": "The final evaluation is...",
-    "ProduceType_NextIdolAudition|ProduceAdvType_ProduceResultFailedFinal|title": "The final evaluation is...",
-    "ProduceType_NextIdolAudition|ProduceAdvType_ProduceResultFailedMid1|title": "The final evaluation is...",
-    "ProduceType_NextIdolAudition|ProduceAdvType_ProduceResultFailedMid2|title": "The final evaluation is..."
+  "rules": {
+    "primaryKeys": [
+      "produceType",
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_BeforeFinalLessonHard",
+      "title": "Start of the final exam lesson!"
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_BeforeMid1LessonHard",
+      "title": "Start of the final exam lesson!"
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_BeforeMid2LessonHard",
+      "title": "Start of the final exam lesson!"
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
+      "title": "The day before the final exam"
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
+      "title": "The day before the mid-term exam"
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
+      "title": "The day before the mid-term exam"
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_Opening",
+      "title": "Regular performance \"Hajime\""
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_ProduceResultTrueEnd",
+      "title": "The final evaluation is..."
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_ProduceResultA",
+      "title": "The final evaluation is..."
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_ProduceResultB",
+      "title": "The final evaluation is..."
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_ProduceResultC",
+      "title": "The final evaluation is..."
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_ProduceResultFailedFinal",
+      "title": "The final evaluation is..."
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_ProduceResultFailedMid1",
+      "title": "The final evaluation is..."
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_ProduceResultFailedMid2",
+      "title": "The final evaluation is..."
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeFinalLessonHard",
+      "title": "Start of the final exam lesson!"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeMid1LessonHard",
+      "title": "Start of the final exam lesson!"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeMid2LessonHard",
+      "title": "Start of the final exam lesson!"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
+      "title": "The day before the final audition"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
+      "title": "The day before the 1st audition"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
+      "title": "The day before the 2nd audition"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeFinalAuditionSelect",
+      "title": "Final audition selection"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeMid1AuditionSelect",
+      "title": "1st audition selection"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeMid2AuditionSelect",
+      "title": "2nd audition selection"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_StepSkip",
+      "title": "Let's take a rest today"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_Opening",
+      "title": "NEXT IDOL AUDITION"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_ProduceResultTrueEnd",
+      "title": "The final evaluation is..."
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_ProduceResultA",
+      "title": "The final evaluation is..."
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_ProduceResultB",
+      "title": "The final evaluation is..."
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_ProduceResultC",
+      "title": "The final evaluation is..."
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_ProduceResultFailedFinal",
+      "title": "The final evaluation is..."
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_ProduceResultFailedMid1",
+      "title": "The final evaluation is..."
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_ProduceResultFailedMid2",
+      "title": "The final evaluation is..."
+    }
+  ]
 }

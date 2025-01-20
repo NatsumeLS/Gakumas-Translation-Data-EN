@@ -1,26 +1,105 @@
 {
-    "memory_tag_01|defaultName": "Vocal",
-    "memory_tag_02|defaultName": "Dance",
-    "memory_tag_03|defaultName": "Visual",
-    "memory_tag_04|defaultName": "Tag 1",
-    "memory_tag_05|defaultName": "Tag 2",
-    "memory_tag_06|defaultName": "Tag 3",
-    "memory_tag_07|defaultName": "Tag 4",
-    "memory_tag_08|defaultName": "Sense",
-    "memory_tag_09|defaultName": "Logic",
-    "memory_tag_10|defaultName": "Stamina",
-    "memory_tag_11|defaultName": "P-Points",
-    "memory_tag_12|defaultName": "Contest",
-    "memory_tag_13|defaultName": "Produce",
-    "memory_tag_14|defaultName": "Good Condition",
-    "memory_tag_15|defaultName": "Focus",
-    "memory_tag_16|defaultName": "Good Impression",
-    "memory_tag_17|defaultName": "Motivation",
-    "memory_tag_18|defaultName": "Energy",
-    "memory_tag_19|defaultName": "Reduced ST Consumption",
-    "memory_tag_20|defaultName": "Anomaly",
-    "memory_tag_21|defaultName": "Full Power",
-    "memory_tag_22|defaultName": "Confident",
-    "memory_tag_23|defaultName": "Preservation",
-    "memory_tag_24|defaultName": "Growth Effect"
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "memory_tag_01",
+      "defaultName": "Vocal"
+    },
+    {
+      "id": "memory_tag_02",
+      "defaultName": "Dance"
+    },
+    {
+      "id": "memory_tag_03",
+      "defaultName": "Visual"
+    },
+    {
+      "id": "memory_tag_04",
+      "defaultName": "Tag 1"
+    },
+    {
+      "id": "memory_tag_05",
+      "defaultName": "Tag 2"
+    },
+    {
+      "id": "memory_tag_06",
+      "defaultName": "Tag 3"
+    },
+    {
+      "id": "memory_tag_07",
+      "defaultName": "Tag 4"
+    },
+    {
+      "id": "memory_tag_08",
+      "defaultName": "Sense"
+    },
+    {
+      "id": "memory_tag_09",
+      "defaultName": "Logic"
+    },
+    {
+      "id": "memory_tag_10",
+      "defaultName": "Stamina"
+    },
+    {
+      "id": "memory_tag_11",
+      "defaultName": "P-Points"
+    },
+    {
+      "id": "memory_tag_12",
+      "defaultName": "Contest"
+    },
+    {
+      "id": "memory_tag_13",
+      "defaultName": "Produce"
+    },
+    {
+      "id": "memory_tag_14",
+      "defaultName": "Good Condition"
+    },
+    {
+      "id": "memory_tag_15",
+      "defaultName": "Focus"
+    },
+    {
+      "id": "memory_tag_16",
+      "defaultName": "Good Impression"
+    },
+    {
+      "id": "memory_tag_17",
+      "defaultName": "Motivation"
+    },
+    {
+      "id": "memory_tag_18",
+      "defaultName": "Energy"
+    },
+    {
+      "id": "memory_tag_19",
+      "defaultName": "Reduced ST Consumption"
+    },
+    {
+      "id": "memory_tag_20",
+      "defaultName": "Anomaly"
+    },
+    {
+      "id": "memory_tag_21",
+      "defaultName": "Full Power"
+    },
+    {
+      "id": "memory_tag_22",
+      "defaultName": "Confident"
+    },
+    {
+      "id": "memory_tag_23",
+      "defaultName": "Preservation"
+    },
+    {
+      "id": "memory_tag_24",
+      "defaultName": "Growth Effect"
+    }
+  ]
 }

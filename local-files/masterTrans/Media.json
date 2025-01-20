@@ -1,91 +1,365 @@
 {
-    "comic_0001|name": "Big Sister Duty!",
-    "comic_0002|name": "Homemade Flavor",
-    "comic_0003|name": "Two Opposites",
-    "comic_0004|name": "Mismatch",
-    "comic_0005|name": "Dorm Leader Clash",
-    "comic_0006|name": "Three Different Ways",
-    "comic_0007|name": "Everyday Effort",
-    "comic_0008|name": "Picture-Perfect Pair",
-    "comic_0009|name": "Adorable Underclassmen",
-    "comic_0010|name": "Just the Two of Us…♡",
-    "comic_0011|name": "Stretching, I Swear",
-    "comic_0012|name": "Genius Girl's Natural Flair",
-    "comic_0013|name": "What Should I Do",
-    "comic_0014|name": "Someone to Look Up To",
-    "comic_0015|name": "Best Friends Forever♪",
-    "comic_0016|name": "Can’t Hold Back",
-    "comic_0017|name": "Promise from That Day",
-    "comic_0018|name": "Found a Kindred Spirit",
-    "comic_0019|name": "Full of Energy!",
-    "comic_0020|name": "Want to Take Care of You",
-    "comic_0021|name": "President's True Feelings",
-    "comic_0048|name": "With You Always",
-    "comic_0049|name": "Lively Student Council",
-    "comic4_0000|name": "Gakumas 4-Panel Comics Start!",
-    "comic4_0001|name": "Additional Profile",
-    "comic4_0002|name": "Behind the Stern Exterior…",
-    "comic4_0003|name": "Busy in All Directions",
-    "comic4_0004|name": "A Moment of Relaxation",
-    "comic4_0005|name": "Full of Freedom",
-    "comic4_0006|name": "How I Spend My Day Off",
-    "comic4_0007|name": "About Me",
-    "comic4_0008|name": "The Idol Department",
-    "comic4_0009|name": "For You Who Work Too Hard",
-    "comic4_0010|name": "Producer Department?",
-    "comic4_0011|name": "The Sheltered Daughter",
-    "comic4_0012|name": "Who's More Impressive?",
-    "comic4_0013|name": "Anywhere, Anytime",
-    "comic4_0014|name": "Dorm Life Details",
-    "comic4_0015|name": "School Facilities♪",
-    "comic4_0016|name": "Daily Life of the Student Council",
-    "comic4_0017|name": "The Story of Asari-Sensei",
-    "comic4_0018|name": "The Principal?",
-    "comic4_0019|name": "Abbreviated as SSD",
-    "comic4_0020|name": "Idol Temari Tsukimura",
-    "comic4_0021|name": "Let’s Party",
-    "comic4_0022|name": "Rival Is My Big Sister",
-    "comic4_0023|name": "Audience for Lessons",
-    "comic4_0024|name": "Cozy Shared Life",
-    "comic4_0025|name": "The Charms of Saki Hanami",
-    "comic4_0026|name": "Unfair Older Girl",
-    "comic4_0027|name": "Summer Classics",
-    "comic4_0028|name": "Captivated by You",
-    "comic4_0029|name": "A Mysterious Presence",
-    "comic4_0030|name": "Overflowing Charm",
-    "comic4_0031|name": "Bright Red Rouge",
-    "comic4_0032|name": "Silent Battle",
-    "comic4_0033|name": "Blooming Together",
-    "comic4_0034|name": "Future for Dorm Students?",
-    "comic4_0035|name": "Report to Grandfather",
-    "comic4_0036|name": "Too Precious to Use",
-    "comic4_0037|name": "First Partner",
-    "comic4_0038|name": "Thinking of Ways to Repay",
-    "comic4_0039|name": "Harmonious Atmosphere",
-    "comic4_0040|name": "P & Mao’s Production Plan",
-    "comic4_0041|name": "Strong yet Clumsy",
-    "comic4_0042|name": "Is She Useless No. 3?",
-    "comic4_0043|name": "Quiz Trial, Continued",
-    "comic4_0044|name": "Good Job, Good Job",
-    "comic4_0045|name": "A Piece of Focus Missing",
-    "comic4_0046|name": "Overflowing Feelings",
-    "comic4_0047|name": "Shimmering in Rainbow Colors",
-    "comic4_0050|name": "Surprise Gift",
-    "comic4_0051|name": "Can’t Leave You Alone!",
-    "comic4_0052|name": "A Gift of Woven Love",
-    "comic4_0053|name": "On the Eve of Selection Exams",
-    "comic4_0054|name": "Tell Me How You Really Feel",
-    "comic4_0055|name": "Charm Point",
-    "comic4_0056|name": "All-Out Appeal",
-    "comic4_0057|name": "Love Thrown Your Way",
-    "comic4_0058|name": "Personally Reviewed",
-    "comic4_0059|name": "Joy with All My Heart",
-    "comic4_0060|name": "Aligned Intentions",
-    "comic4_0061|name": "Ideal vs. Reality",
-    "comic4_0062|name": "Hiro Shinosawa Enjoyed It to the Fullest",
-    "comic4_0063|name": "The Final Battle Is \"N.I.A\"",
-    "comic4_0064|name": "Individual Statements",
-    "movie-0001|name": "First PV",
-    "movie-0002|name": "Opening Video",
-    "movie-0003|name": "Sena Juo PROMOTION VIDEO \"Choo Choo Choo\""
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "comic_0001",
+      "name": "Big Sister Duty!"
+    },
+    {
+      "id": "comic_0002",
+      "name": "Homemade Flavor"
+    },
+    {
+      "id": "comic_0003",
+      "name": "Two Opposites"
+    },
+    {
+      "id": "comic_0004",
+      "name": "Mismatch"
+    },
+    {
+      "id": "comic_0005",
+      "name": "Dorm Leader Clash"
+    },
+    {
+      "id": "comic_0006",
+      "name": "Three Different Ways"
+    },
+    {
+      "id": "comic_0007",
+      "name": "Everyday Effort"
+    },
+    {
+      "id": "comic_0008",
+      "name": "Picture-Perfect Pair"
+    },
+    {
+      "id": "comic_0009",
+      "name": "Adorable Underclassmen"
+    },
+    {
+      "id": "comic_0010",
+      "name": "Just the Two of Us…♡"
+    },
+    {
+      "id": "comic_0011",
+      "name": "Stretching, I Swear"
+    },
+    {
+      "id": "comic_0012",
+      "name": "Genius Girl's Natural Flair"
+    },
+    {
+      "id": "comic_0013",
+      "name": "What Should I Do"
+    },
+    {
+      "id": "comic_0014",
+      "name": "Someone to Look Up To"
+    },
+    {
+      "id": "comic_0015",
+      "name": "Best Friends Forever♪"
+    },
+    {
+      "id": "comic_0016",
+      "name": "Can’t Hold Back"
+    },
+    {
+      "id": "comic_0017",
+      "name": "Promise from That Day"
+    },
+    {
+      "id": "comic_0018",
+      "name": "Found a Kindred Spirit"
+    },
+    {
+      "id": "comic_0019",
+      "name": "Full of Energy!"
+    },
+    {
+      "id": "comic_0020",
+      "name": "Want to Take Care of You"
+    },
+    {
+      "id": "comic_0021",
+      "name": "President's True Feelings"
+    },
+    {
+      "id": "comic_0048",
+      "name": "With You Always"
+    },
+    {
+      "id": "comic_0049",
+      "name": "Lively Student Council"
+    },
+    {
+      "id": "comic4_0000",
+      "name": "Gakumas 4-Panel Comics Start!"
+    },
+    {
+      "id": "comic4_0001",
+      "name": "Additional Profile"
+    },
+    {
+      "id": "comic4_0002",
+      "name": "Behind the Stern Exterior…"
+    },
+    {
+      "id": "comic4_0003",
+      "name": "Busy in All Directions"
+    },
+    {
+      "id": "comic4_0004",
+      "name": "A Moment of Relaxation"
+    },
+    {
+      "id": "comic4_0005",
+      "name": "Full of Freedom"
+    },
+    {
+      "id": "comic4_0006",
+      "name": "How I Spend My Day Off"
+    },
+    {
+      "id": "comic4_0007",
+      "name": "About Me"
+    },
+    {
+      "id": "comic4_0008",
+      "name": "The Idol Department"
+    },
+    {
+      "id": "comic4_0009",
+      "name": "For You Who Work Too Hard"
+    },
+    {
+      "id": "comic4_0010",
+      "name": "Producer Department?"
+    },
+    {
+      "id": "comic4_0011",
+      "name": "The Sheltered Daughter"
+    },
+    {
+      "id": "comic4_0012",
+      "name": "Who's More Impressive?"
+    },
+    {
+      "id": "comic4_0013",
+      "name": "Anywhere, Anytime"
+    },
+    {
+      "id": "comic4_0014",
+      "name": "Dorm Life Details"
+    },
+    {
+      "id": "comic4_0015",
+      "name": "School Facilities♪"
+    },
+    {
+      "id": "comic4_0016",
+      "name": "Daily Life of the Student Council"
+    },
+    {
+      "id": "comic4_0017",
+      "name": "The Story of Asari-Sensei"
+    },
+    {
+      "id": "comic4_0018",
+      "name": "The Principal?"
+    },
+    {
+      "id": "comic4_0019",
+      "name": "Abbreviated as SSD"
+    },
+    {
+      "id": "comic4_0020",
+      "name": "Idol Temari Tsukimura"
+    },
+    {
+      "id": "comic4_0021",
+      "name": "Let’s Party"
+    },
+    {
+      "id": "comic4_0022",
+      "name": "Rival Is My Big Sister"
+    },
+    {
+      "id": "comic4_0023",
+      "name": "Audience for Lessons"
+    },
+    {
+      "id": "comic4_0024",
+      "name": "Cozy Shared Life"
+    },
+    {
+      "id": "comic4_0025",
+      "name": "The Charms of Saki Hanami"
+    },
+    {
+      "id": "comic4_0026",
+      "name": "Unfair Older Girl"
+    },
+    {
+      "id": "comic4_0027",
+      "name": "Summer Classics"
+    },
+    {
+      "id": "comic4_0028",
+      "name": "Captivated by You"
+    },
+    {
+      "id": "comic4_0029",
+      "name": "A Mysterious Presence"
+    },
+    {
+      "id": "comic4_0030",
+      "name": "Overflowing Charm"
+    },
+    {
+      "id": "comic4_0031",
+      "name": "Bright Red Rouge"
+    },
+    {
+      "id": "comic4_0032",
+      "name": "Silent Battle"
+    },
+    {
+      "id": "comic4_0033",
+      "name": "Blooming Together"
+    },
+    {
+      "id": "comic4_0034",
+      "name": "Future for Dorm Students?"
+    },
+    {
+      "id": "comic4_0035",
+      "name": "Report to Grandfather"
+    },
+    {
+      "id": "comic4_0036",
+      "name": "Too Precious to Use"
+    },
+    {
+      "id": "comic4_0037",
+      "name": "First Partner"
+    },
+    {
+      "id": "comic4_0038",
+      "name": "Thinking of Ways to Repay"
+    },
+    {
+      "id": "comic4_0039",
+      "name": "Harmonious Atmosphere"
+    },
+    {
+      "id": "comic4_0040",
+      "name": "P & Mao’s Production Plan"
+    },
+    {
+      "id": "comic4_0041",
+      "name": "Strong yet Clumsy"
+    },
+    {
+      "id": "comic4_0042",
+      "name": "Is She Useless No. 3?"
+    },
+    {
+      "id": "comic4_0043",
+      "name": "Quiz Trial, Continued"
+    },
+    {
+      "id": "comic4_0044",
+      "name": "Good Job, Good Job"
+    },
+    {
+      "id": "comic4_0045",
+      "name": "A Piece of Focus Missing"
+    },
+    {
+      "id": "comic4_0046",
+      "name": "Overflowing Feelings"
+    },
+    {
+      "id": "comic4_0047",
+      "name": "Shimmering in Rainbow Colors"
+    },
+    {
+      "id": "comic4_0050",
+      "name": "Surprise Gift"
+    },
+    {
+      "id": "comic4_0051",
+      "name": "Can’t Leave You Alone!"
+    },
+    {
+      "id": "comic4_0052",
+      "name": "A Gift of Woven Love"
+    },
+    {
+      "id": "comic4_0053",
+      "name": "On the Eve of Selection Exams"
+    },
+    {
+      "id": "comic4_0054",
+      "name": "Tell Me How You Really Feel"
+    },
+    {
+      "id": "comic4_0055",
+      "name": "Charm Point"
+    },
+    {
+      "id": "comic4_0056",
+      "name": "All-Out Appeal"
+    },
+    {
+      "id": "comic4_0057",
+      "name": "Love Thrown Your Way"
+    },
+    {
+      "id": "comic4_0058",
+      "name": "Personally Reviewed"
+    },
+    {
+      "id": "comic4_0059",
+      "name": "Joy with All My Heart"
+    },
+    {
+      "id": "comic4_0060",
+      "name": "Aligned Intentions"
+    },
+    {
+      "id": "comic4_0061",
+      "name": "Ideal vs. Reality"
+    },
+    {
+      "id": "comic4_0062",
+      "name": "Hiro Shinosawa Enjoyed It to the Fullest"
+    },
+    {
+      "id": "comic4_0063",
+      "name": "The Final Battle Is \"N.I.A\""
+    },
+    {
+      "id": "comic4_0064",
+      "name": "Individual Statements"
+    },
+    {
+      "id": "movie-0001",
+      "name": "First PV"
+    },
+    {
+      "id": "movie-0002",
+      "name": "Opening Video"
+    },
+    {
+      "id": "movie-0003",
+      "name": "Sena Juo PROMOTION VIDEO \"Choo Choo Choo\""
+    }
+  ]
 }

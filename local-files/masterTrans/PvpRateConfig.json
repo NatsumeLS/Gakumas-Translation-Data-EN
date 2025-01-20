@@ -1,18 +1,73 @@
 {
-    "pvp_rate_config-1|description": "The First Contest",
-    "pvp_rate_config-10|description": "S10",
-    "pvp_rate_config-11|description": "S11",
-    "pvp_rate_config-12|description": "S12",
-    "pvp_rate_config-13|description": "S13",
-    "pvp_rate_config-14|description": "S14",
-    "pvp_rate_config-15|description": "S15",
-    "pvp_rate_config-16|description": "S16",
-    "pvp_rate_config-2|description": "S2",
-    "pvp_rate_config-3|description": "S3",
-    "pvp_rate_config-4|description": "S4",
-    "pvp_rate_config-5|description": "S5",
-    "pvp_rate_config-6|description": "S6",
-    "pvp_rate_config-7|description": "S7",
-    "pvp_rate_config-8|description": "S8",
-    "pvp_rate_config-9|description": "S9"
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "pvp_rate_config-1",
+      "description": "The First Contest"
+    },
+    {
+      "id": "pvp_rate_config-10",
+      "description": "S10"
+    },
+    {
+      "id": "pvp_rate_config-11",
+      "description": "S11"
+    },
+    {
+      "id": "pvp_rate_config-12",
+      "description": "S12"
+    },
+    {
+      "id": "pvp_rate_config-13",
+      "description": "S13"
+    },
+    {
+      "id": "pvp_rate_config-14",
+      "description": "S14"
+    },
+    {
+      "id": "pvp_rate_config-15",
+      "description": "S15"
+    },
+    {
+      "id": "pvp_rate_config-16",
+      "description": "S16"
+    },
+    {
+      "id": "pvp_rate_config-2",
+      "description": "S2"
+    },
+    {
+      "id": "pvp_rate_config-3",
+      "description": "S3"
+    },
+    {
+      "id": "pvp_rate_config-4",
+      "description": "S4"
+    },
+    {
+      "id": "pvp_rate_config-5",
+      "description": "S5"
+    },
+    {
+      "id": "pvp_rate_config-6",
+      "description": "S6"
+    },
+    {
+      "id": "pvp_rate_config-7",
+      "description": "S7"
+    },
+    {
+      "id": "pvp_rate_config-8",
+      "description": "S8"
+    },
+    {
+      "id": "pvp_rate_config-9",
+      "description": "S9"
+    }
+  ]
 }

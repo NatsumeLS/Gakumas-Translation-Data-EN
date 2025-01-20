@@ -1,12 +1,60 @@
 {
-    "panel_mission-event-002|1|name": "1st",
-    "panel_mission-event-002|2|name": "2nd",
-    "panel_mission-event-003|1|name": "1st",
-    "panel_mission-event-004|1|name": "1st",
-    "panel_mission-event-004|2|name": "2nd",
-    "panel_mission-event-006|1|name": "1st",
-    "panel_mission-event-006|2|name": "2nd",
-    "panel_mission-event-niv|1|name": "1st",
-    "panel-mission-01|1|name": "1st",
-    "panel-mission-01|2|name": "2nd"
+  "rules": {
+    "primaryKeys": [
+      "missionPanelSheetGroupId",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-002",
+      "number": 1,
+      "name": "1st"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-002",
+      "number": 2,
+      "name": "2nd"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-003",
+      "number": 1,
+      "name": "1st"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-004",
+      "number": 1,
+      "name": "1st"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-004",
+      "number": 2,
+      "name": "2nd"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-006",
+      "number": 1,
+      "name": "1st"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-006",
+      "number": 2,
+      "name": "2nd"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-niv",
+      "number": 1,
+      "name": "1st"
+    },
+    {
+      "missionPanelSheetGroupId": "panel-mission-01",
+      "number": 1,
+      "name": "1st"
+    },
+    {
+      "missionPanelSheetGroupId": "panel-mission-01",
+      "number": 2,
+      "name": "2nd"
+    }
+  ]
 }

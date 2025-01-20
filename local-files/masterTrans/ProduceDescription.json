@@ -1,218 +1,794 @@
 {
-    "Convert_001|name": "Lesson",
-    "Convert_001|swapName": "Turn",
-    "Convert_002|name": "Lesson",
-    "Convert_002|swapName": "Exam/Stage",
-    "Convert_ConditionThreshold|name": "Lesson CLEAR",
-    "Convert_ConditionThreshold|swapName": "Score",
-    "Convert_ConditionThreshold_NotClear|name": "Lesson Not CLEAR",
-    "Convert_ConditionThreshold_NotClear|swapName": "Score is 999 or below",
-    "Convert_ConditionThreshold_Value_100|name": "10%",
-    "Convert_ConditionThreshold_Value_100|swapName": "100",
-    "Convert_ConditionThreshold_Value_1000|name": "100%",
-    "Convert_ConditionThreshold_Value_1000|swapName": "1000",
-    "Convert_ConditionThreshold_Value_300|name": "30%",
-    "Convert_ConditionThreshold_Value_300|swapName": "300",
-    "Convert_ConditionThreshold_Value_500|name": "50%",
-    "Convert_ConditionThreshold_Value_500|swapName": "500",
-    "Convert_StepLessonType_DanceLesson|name": "【Dance Lesson/Dance Turn Only】",
-    "Convert_StepLessonType_DanceLesson|swapName": "If Dance Turn, ",
-    "Convert_StepLessonType_SpLesson|name": "【SP Lesson Only】",
-    "Convert_StepLessonType_SpLesson|swapName": "【SP Lesson Only】",
-    "Convert_StepLessonType_VisualLesson|name": "【Visual Lesson/Visual Turn Only】",
-    "Convert_StepLessonType_VisualLesson|swapName": "If Visual Turn, ",
-    "Convert_StepLessonType_VocalLesson|name": "【Vocal Lesson/Vocal Turn Only】",
-    "Convert_StepLessonType_VocalLesson|swapName": "If Vocal Turn, ",
-    "Label_ActiveSkillCard|name": "Active Skill Card",
-    "Label_AggressiveAdd|name": "Motivation Increase",
-    "Label_AggressiveAdd|swapName": "Motivation Increase",
-    "Label_AggressiveReduce|name": "Motivation Decrease",
-    "Label_AggressiveReduce|swapName": "Motivation Decrease",
-    "Label_AuditionNpcEnhance|name": "Rival Score Increase",
-    "Label_BlockAdd|name": "Energy Increase",
-    "Label_BlockAdd|swapName": "Energy Increase",
-    "Label_BlockReduce|name": "Energy Decrease",
-    "Label_BlockReduce|swapName": "Energy Decrease",
-    "Label_CardDrawAdd|name": "Draw Count Increase",
-    "Label_CardDrawAdd|swapName": "Draw Count Increase",
-    "Label_CardDrawReduce|name": "Draw Count Decrease",
-    "Label_CardDrawReduce|swapName": "Draw Count Decrease",
-    "Label_CardStatusEnchantChange|name": "Growth Effect Replacement",
-    "Label_CardStatusEnchantChange|swapName": "Growth Effect Replacement",
-    "Label_CostAdd|name": "Cost Increase",
-    "Label_CostAdd|swapName": "Cost Increase",
-    "Label_CostBuffAdd|name": "Enhanced State Cost Increase",
-    "Label_CostBuffAdd|swapName": "Enhanced State Cost Increase",
-    "Label_CostBuffReduce|name": "Enhanced State Cost Decrease",
-    "Label_CostBuffReduce|swapName": "Enhanced State Cost Decrease",
-    "Label_CostPenetrateAdd|name": "Stamina Consumption Cost Increase",
-    "Label_CostPenetrateAdd|swapName": "Stamina Consumption Cost Increase",
-    "Label_CostPenetrateReduce|name": "Stamina Consumption Cost Decrease",
-    "Label_CostPenetrateReduce|swapName": "Stamina Consumption Cost Decrease",
-    "Label_CostReduce|name": "Cost Decrease",
-    "Label_CostReduce|swapName": "Cost Decrease",
-    "Label_EffectAdd|name": "Effect Addition",
-    "Label_EffectAdd|swapName": "Effect Addition",
-    "Label_EffectChange|name": "Effect Replacement",
-    "Label_EffectChange|swapName": "Effect Replacement",
-    "Label_EffectDelete|name": "Effect Removal",
-    "Label_EffectDelete|swapName": "Effect Removal",
-    "Label_ExamAddGrowEffect|name": "Growth Effect",
-    "Label_ExamAggressiveReduce|name": "Motivation Decrease",
-    "Label_ExamAntiDebuff|name": "Debuff Immunity",
-    "Label_ExamBlock|name": "Energy",
-    "Label_ExamBlockAddDown|name": "Anxiety",
-    "Label_ExamBlockAddDownRestriction|name": "Anxiety Immunity",
-    "Label_ExamBlockFix|name": "Fixed Energy",
-    "Label_ExamBlockRestriction|name": "Energy Increase Immunity",
-    "Label_ExamCardCreateId|name": "Generation",
-    "Label_ExamCardDraw|name": "Draw a Skill Card",
-    "Label_ExamCardDuplicate|name": "Duplication",
-    "Label_ExamCardPlayAggressive_Exam|name": "Motivation",
-    "Label_ExamCardPlayAggressive_Produce|name": "Motivation",
-    "Label_ExamCardSearchEffectPlayCountBuff|name": "Additional Skill Card Activation",
-    "Label_ExamCardSearchEffectPlayCountBuff_Produce|name": "Additional Skill Card Activation",
-    "Label_ExamCardStaminaConsumptionChange|name": "Stamina Consumption Change",
-    "Label_ExamCardStaminaConsumptionDownSpecify|name": "Reduced Stamina Consumption",
-    "Label_ExamCardUpgrade|name": "Enhanced During Lesson",
-    "Label_ExamCardUpgrade|swapName": "Enhanced During Exam/Stage",
-    "Label_ExamConcentration_Exam|name": "Confidence",
-    "Label_ExamConcentration_Produce|name": "Confidence",
-    "Label_ExamDebuffRecover|name": "Debuff Recovery",
-    "Label_ExamEffectTimer|name": "Activation Reservation",
-    "Label_ExamExtraTurn|name": "Extra Turn",
-    "Label_ExamFullPower|name": "Full Power",
-    "Label_ExamFullPowerPoint|name": "Full Power Value",
-    "Label_ExamFullPowerPointReduce|name": "Full Power Value Decrease",
-    "Label_ExamGetCardUpgrade|name": "Enhanced Generation",
-    "Label_ExamGimmickEnthusiastic_Exam|name": "Enthusiasm",
-    "Label_ExamGimmickEnthusiastic_Produce|name": "Enthusiasm",
-    "Label_ExamGimmickLessonDebuff_Exam|name": "Tension",
-    "Label_ExamGimmickLessonDebuff_Produce|name": "Tension",
-    "Label_ExamGimmickParameterDebuff|name": "Bad Shape",
-    "Label_ExamGimmickPlayCardLimit|name": "Unavailable",
-    "Label_ExamGimmickSleepy_Exam|name": "Low Confidence",
-    "Label_ExamGimmickSleepy_Produce|name": "Low Confidence",
-    "Label_ExamGimmickSlump|name": "Slump",
-    "Label_ExamGimmickStartTurnCardDrawDown_Exam|name": "Hand Decrease",
-    "Label_ExamGimmickStartTurnCardDrawDown_Produce|name": "Hand Decrease",
-    "Label_ExamGimmickTiredFix_Exam|name": "Fatigue",
-    "Label_ExamGimmickTiredFix_Produce|name": "Fatigue",
-    "Label_ExamHandGraveCountCardDraw|name": "Replace Hand",
-    "Label_ExamHandHold|name": "Carry Over Hand",
-    "Label_ExamLesson|name": "Parameter",
-    "Label_ExamLesson|swapName": "Score",
-    "Label_ExamLessonBuffMultiple|name": "Temporary Focus Effect Increase",
-    "Label_ExamLessonBuffReduce|name": "Focus Decrease",
-    "Label_ExamLessonBuff_Exam|name": "Focus",
-    "Label_ExamLessonBuff_Produce|name": "Focus",
-    "Label_ExamLessonChangeSpecifyLessThan|name": "Parameter Increase Value Change",
-    "Label_ExamLessonChangeSpecifyLessThan|swapName": "Score Increase Value Change",
-    "Label_ExamLessonChangeSpecifyMoreThan|name": "Distracted",
-    "Label_ExamLessonFix|name": "Fixed Parameter",
-    "Label_ExamLessonFix|swapName": "Fixed Score",
-    "Label_ExamLessonValueMultiple|name": "Parameter Increase Amount Boost",
-    "Label_ExamLessonValueMultiple|swapName": "Score Increase Amount Boost",
-    "Label_ExamLessonValueMultipleDown|name": "Parameter Increase Amount Reduction",
-    "Label_ExamLessonValueMultipleDown|swapName": "Score Increase Amount Reduction",
-    "Label_ExamPanic|name": "Whimsy",
-    "Label_ExamParameterBuff|name": "Good Shape",
-    "Label_ExamParameterBuffMultiplePerTurn|name": "Excellent Shape",
-    "Label_ExamParameterBuffReduce|name": "Good Shape Reduction",
-    "Label_ExamPlayableValueAdd_Exam|name": "Additional Skill Card Use",
-    "Label_ExamPlayableValueAdd_Produce|name": "Additional Skill Card Use",
-    "Label_ExamPlayableValueHold|name": "Carry Over Usage Count",
-    "Label_ExamPreservation_Exam|name": "Preservation",
-    "Label_ExamPreservation_Produce|name": "Preservation",
-    "Label_ExamReviewReduce|name": "Good Impression Reduction",
-    "Label_ExamReview_Exam|name": "Good Impression",
-    "Label_ExamReview_Produce|name": "Good Impression",
-    "Label_ExamSearchPlayCardStaminaConsumptionChange|name": "Stamina Consumption Change",
-    "Label_ExamSearchPlayCardValueBuff|name": "Card Effect Increase",
-    "Label_ExamStaminaConsumptionAdd|name": "Stamina Consumption Increase",
-    "Label_ExamStaminaConsumptionAddDown|name": "Reduced Effect of Stamina Consumption Increase",
-    "Label_ExamStaminaConsumptionAddFix|name": "Additional Stamina Consumption",
-    "Label_ExamStaminaConsumptionDown|name": "Reduced Stamina Consumption",
-    "Label_ExamStaminaConsumptionDownAdd|name": "Increased Effect of Reduced Stamina Consumption",
-    "Label_ExamStaminaConsumptionDownFix|name": "Stamina Consumption Reduction",
-    "Label_ExamStaminaDamage|name": "Stamina Decrease",
-    "Label_ExamStaminaDamage|swapName": "Stamina Decrease",
-    "Label_ExamStaminaRecoverAdd|name": "Increased Stamina Recovery Effect",
-    "Label_ExamStaminaRecoverFix|name": "Stamina Recovery",
-    "Label_ExamStaminaRecoverFix|swapName": "Stamina Recovery",
-    "Label_ExamStaminaRecoverRestriction|name": "Stamina Recovery Disabled",
-    "Label_ExamStaminaReduceChange|name": "Reduced Stamina Consumption",
-    "Label_ExamStaminaReduceFix|name": "Stamina Consumption",
-    "Label_ExamStaminaThresholdAddRestriction|name": "Immunity to Stamina Consumption Increase",
-    "Label_ExamStanceReset|name": "Guideline Removal",
-    "Label_ExamStatusEnchant|name": "Ongoing Effect",
-    "Label_ExamUplifting_Exam|name": "Excitement",
-    "Label_ExamUplifting_Produce|name": "Excitement",
-    "Label_FullPowerPointAdd|name": "Full Power Value Increase",
-    "Label_FullPowerPointAdd|swapName": "Full Power Value Increase",
-    "Label_FullPowerPointReduce|name": "Full Power Value Decrease",
-    "Label_FullPowerPointReduce|swapName": "Full Power Value Decrease",
-    "Label_InitialAdd|name": "Initial Hand Effect Granted",
-    "Label_InitialAdd|swapName": "Initial Hand Effect Granted",
-    "Label_LessonAdd|name": "Parameter Value Increase",
-    "Label_LessonAdd|swapName": "Score Value Increase",
-    "Label_LessonBuffAdd|name": "Focus Value Increase",
-    "Label_LessonBuffAdd|swapName": "Focus Value Increase",
-    "Label_LessonBuffReduce|name": "Focus Value Decrease",
-    "Label_LessonBuffReduce|swapName": "Focus Value Decrease",
-    "Label_LessonCountAdd|name": "Increased Parameter Increase Occurrence",
-    "Label_LessonCountAdd|swapName": "Increased Score Increase Occurrence",
-    "Label_LessonCountReduce|name": "Reduced Parameter Increase Occurrence",
-    "Label_LessonCountReduce|swapName": "Reduced Score Increase Occurrence",
-    "Label_LessonReduce|name": "Parameter Value Decrease",
-    "Label_LessonReduce|swapName": "Score Value Decrease",
-    "Label_LessonSupport|name": "Temporary Enhancement",
-    "Label_MentalSkillCard|name": "Mental Skill Card",
-    "Label_MoveEffectTrigger|name": "【Movement Effect】",
-    "Label_NoDeckDuplication|name": "No Duplication Allowed",
-    "Label_ParameterBuffMultiplePerTurnAdd|name": "Excellent Shape Value Increase",
-    "Label_ParameterBuffMultiplePerTurnAdd|swapName": "Excellent Shape Value Increase",
-    "Label_ParameterBuffMultiplePerTurnReduce|name": "Excellent Shape Value Decrease",
-    "Label_ParameterBuffMultiplePerTurnReduce|swapName": "Excellent Shape Value Decrease",
-    "Label_ParameterBuffTurnAdd|name": "Good Shape Value Increase",
-    "Label_ParameterBuffTurnAdd|swapName": "Good Shape Value Increase",
-    "Label_ParameterBuffTurnReduce|name": "Good Shape Value Decrease",
-    "Label_ParameterBuffTurnReduce|swapName": "Good Shape Value Decrease",
-    "Label_PlayEffectTriggerChange|name": "Replace Effect Activation Condition",
-    "Label_PlayEffectTriggerChange|swapName": "Replace Effect Activation Condition",
-    "Label_PlayMovePositionTypeChange|name": "Change Destination After Use",
-    "Label_PlayMovePositionTypeChange|swapName": "Change Destination After Use",
-    "Label_PlayTriggerChange|name": "Replace Usable Condition",
-    "Label_PlayTriggerChange|swapName": "Replace Usable Condition",
-    "Label_ProduceCardChange|name": "Change",
-    "Label_ProduceCardDelete|name": "Remove",
-    "Label_ProduceCardDuplicate|name": "Copy",
-    "Label_ProduceCardIsPlayMovePositionTypeLost|name": "Once During Lesson",
-    "Label_ProduceCardIsPlayMovePositionTypeLost|swapName": "Once During Exam/Stage",
-    "Label_ProduceCardPositionType_Hold|name": "On Hold",
-    "Label_ProduceCardStatusEnchant|name": "【Growth】",
-    "Label_ProduceCardUpgrade|name": "Enhancement",
-    "Label_ProducePlanType0|name": "Shared",
-    "Label_ProducePlanType1|name": "Sense",
-    "Label_ProducePlanType2|name": "Logic",
-    "Label_ProducePlanType3|name": "Anomaly",
-    "Label_ProduceSkillPlanType1|name": "【Sense Exclusive】",
-    "Label_ProduceSkillPlanType2|name": "【Logic Exclusive】",
-    "Label_ProduceSkillPlanType3|name": "【Anomaly Exclusive】",
-    "Label_ReviewAdd|name": "Good Impression Value Increase",
-    "Label_ReviewAdd|swapName": "Good Impression Value Increase",
-    "Label_ReviewReduce|name": "Good Impression Value Decrease",
-    "Label_ReviewReduce|swapName": "Good Impression Value Decrease",
-    "Label_ShopProduceCardPriceDiscountMultiple|name": "Discount Consultation Skill Card",
-    "Label_StaminaConsumptionAddTurnAdd|name": "Reduced Stamina Consumption Increase Value",
-    "Label_StaminaConsumptionAddTurnAdd|swapName": "Reduced Stamina Consumption Increase Value",
-    "Label_StaminaConsumptionAddTurnReduce|name": "Increased Stamina Consumption Increase Value",
-    "Label_StaminaConsumptionAddTurnReduce|swapName": "Increased Stamina Consumption Increase Value",
-    "Label_StaminaConsumptionDownTurnAdd|name": "Increased Stamina Consumption Reduction Value",
-    "Label_StaminaConsumptionDownTurnAdd|swapName": "Increased Stamina Consumption Reduction Value",
-    "Label_StaminaConsumptionDownTurnReduce|name": "Reduced Stamina Consumption Reduction Value",
-    "Label_StaminaConsumptionDownTurnReduce|swapName": "Reduced Stamina Consumption Reduction Value",
-    "Label_Stance|name": "Guideline",
-    "Label_StanceLock|name": "Fixed Guideline",
-    "Label_TroubleSkillCard|name": "Trouble Card"
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "Convert_001",
+      "name": "Lesson",
+      "swapName": "Turn"
+    },
+    {
+      "id": "Convert_002",
+      "name": "Lesson",
+      "swapName": "Exam/Stage"
+    },
+    {
+      "id": "Convert_ConditionThreshold",
+      "name": "Lesson CLEAR",
+      "swapName": "Score"
+    },
+    {
+      "id": "Convert_ConditionThreshold_NotClear",
+      "name": "Lesson Not CLEAR",
+      "swapName": "Score is 999 or below"
+    },
+    {
+      "id": "Convert_ConditionThreshold_Value_100",
+      "name": "10%",
+      "swapName": "100"
+    },
+    {
+      "id": "Convert_ConditionThreshold_Value_1000",
+      "name": "100%",
+      "swapName": "1000"
+    },
+    {
+      "id": "Convert_ConditionThreshold_Value_300",
+      "name": "30%",
+      "swapName": "300"
+    },
+    {
+      "id": "Convert_ConditionThreshold_Value_500",
+      "name": "50%",
+      "swapName": "500"
+    },
+    {
+      "id": "Convert_StepLessonType_DanceLesson",
+      "name": "【Dance Lesson/Dance Turn Only】",
+      "swapName": "If Dance Turn, "
+    },
+    {
+      "id": "Convert_StepLessonType_SpLesson",
+      "name": "【SP Lesson Only】",
+      "swapName": "【SP Lesson Only】"
+    },
+    {
+      "id": "Convert_StepLessonType_VisualLesson",
+      "name": "【Visual Lesson/Visual Turn Only】",
+      "swapName": "If Visual Turn, "
+    },
+    {
+      "id": "Convert_StepLessonType_VocalLesson",
+      "name": "【Vocal Lesson/Vocal Turn Only】",
+      "swapName": "If Vocal Turn, "
+    },
+    {
+      "id": "Label_ActiveSkillCard",
+      "name": "Active Skill Card",
+      "swapName": ""
+    },
+    {
+      "id": "Label_AggressiveAdd",
+      "name": "Motivation Increase",
+      "swapName": "Motivation Increase"
+    },
+    {
+      "id": "Label_AggressiveReduce",
+      "name": "Motivation Decrease",
+      "swapName": "Motivation Decrease"
+    },
+    {
+      "id": "Label_AuditionNpcEnhance",
+      "name": "Rival Score Increase",
+      "swapName": ""
+    },
+    {
+      "id": "Label_BlockAdd",
+      "name": "Energy Increase",
+      "swapName": "Energy Increase"
+    },
+    {
+      "id": "Label_BlockReduce",
+      "name": "Energy Decrease",
+      "swapName": "Energy Decrease"
+    },
+    {
+      "id": "Label_CardDrawAdd",
+      "name": "Draw Count Increase",
+      "swapName": "Draw Count Increase"
+    },
+    {
+      "id": "Label_CardDrawReduce",
+      "name": "Draw Count Decrease",
+      "swapName": "Draw Count Decrease"
+    },
+    {
+      "id": "Label_CardStatusEnchantChange",
+      "name": "Growth Effect Replacement",
+      "swapName": "Growth Effect Replacement"
+    },
+    {
+      "id": "Label_CostAdd",
+      "name": "Cost Increase",
+      "swapName": "Cost Increase"
+    },
+    {
+      "id": "Label_CostBuffAdd",
+      "name": "Enhanced State Cost Increase",
+      "swapName": "Enhanced State Cost Increase"
+    },
+    {
+      "id": "Label_CostBuffReduce",
+      "name": "Enhanced State Cost Decrease",
+      "swapName": "Enhanced State Cost Decrease"
+    },
+    {
+      "id": "Label_CostPenetrateAdd",
+      "name": "Stamina Consumption Cost Increase",
+      "swapName": "Stamina Consumption Cost Increase"
+    },
+    {
+      "id": "Label_CostPenetrateReduce",
+      "name": "Stamina Consumption Cost Decrease",
+      "swapName": "Stamina Consumption Cost Decrease"
+    },
+    {
+      "id": "Label_CostReduce",
+      "name": "Cost Decrease",
+      "swapName": "Cost Decrease"
+    },
+    {
+      "id": "Label_EffectAdd",
+      "name": "Effect Addition",
+      "swapName": "Effect Addition"
+    },
+    {
+      "id": "Label_EffectChange",
+      "name": "Effect Replacement",
+      "swapName": "Effect Replacement"
+    },
+    {
+      "id": "Label_EffectDelete",
+      "name": "Effect Removal",
+      "swapName": "Effect Removal"
+    },
+    {
+      "id": "Label_ExamAddGrowEffect",
+      "name": "Growth Effect",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamAggressiveReduce",
+      "name": "Motivation Decrease",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamAntiDebuff",
+      "name": "Debuff Immunity",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamBlock",
+      "name": "Energy",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamBlockAddDown",
+      "name": "Anxiety",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamBlockAddDownRestriction",
+      "name": "Anxiety Immunity",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamBlockFix",
+      "name": "Fixed Energy",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamBlockRestriction",
+      "name": "Energy Increase Immunity",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamCardCreateId",
+      "name": "Generation",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamCardDraw",
+      "name": "Draw a Skill Card",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamCardDuplicate",
+      "name": "Duplication",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamCardPlayAggressive_Exam",
+      "name": "Motivation",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamCardPlayAggressive_Produce",
+      "name": "Motivation",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamCardSearchEffectPlayCountBuff",
+      "name": "Additional Skill Card Activation",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamCardSearchEffectPlayCountBuff_Produce",
+      "name": "Additional Skill Card Activation",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamCardStaminaConsumptionChange",
+      "name": "Stamina Consumption Change",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamCardStaminaConsumptionDownSpecify",
+      "name": "Reduced Stamina Consumption",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamCardUpgrade",
+      "name": "Enhanced During Lesson",
+      "swapName": "Enhanced During Exam/Stage"
+    },
+    {
+      "id": "Label_ExamConcentration_Exam",
+      "name": "Confidence",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamConcentration_Produce",
+      "name": "Confidence",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamDebuffRecover",
+      "name": "Debuff Recovery",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamEffectTimer",
+      "name": "Activation Reservation",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamExtraTurn",
+      "name": "Extra Turn",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamFullPower",
+      "name": "Full Power",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamFullPowerPoint",
+      "name": "Full Power Value",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamFullPowerPointReduce",
+      "name": "Full Power Value Decrease",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamGetCardUpgrade",
+      "name": "Enhanced Generation",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamGimmickEnthusiastic_Exam",
+      "name": "Enthusiasm",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamGimmickEnthusiastic_Produce",
+      "name": "Enthusiasm",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamGimmickLessonDebuff_Exam",
+      "name": "Tension",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamGimmickLessonDebuff_Produce",
+      "name": "Tension",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamGimmickParameterDebuff",
+      "name": "Bad Shape",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamGimmickPlayCardLimit",
+      "name": "Unavailable",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamGimmickSleepy_Exam",
+      "name": "Low Confidence",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamGimmickSleepy_Produce",
+      "name": "Low Confidence",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamGimmickSlump",
+      "name": "Slump",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamGimmickStartTurnCardDrawDown_Exam",
+      "name": "Hand Decrease",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamGimmickStartTurnCardDrawDown_Produce",
+      "name": "Hand Decrease",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamGimmickTiredFix_Exam",
+      "name": "Fatigue",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamGimmickTiredFix_Produce",
+      "name": "Fatigue",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamHandGraveCountCardDraw",
+      "name": "Replace Hand",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamHandHold",
+      "name": "Carry Over Hand",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamLesson",
+      "name": "Parameter",
+      "swapName": "Score"
+    },
+    {
+      "id": "Label_ExamLessonBuffMultiple",
+      "name": "Temporary Focus Effect Increase",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamLessonBuffReduce",
+      "name": "Focus Decrease",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamLessonBuff_Exam",
+      "name": "Focus",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamLessonBuff_Produce",
+      "name": "Focus",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamLessonChangeSpecifyLessThan",
+      "name": "Parameter Increase Value Change",
+      "swapName": "Score Increase Value Change"
+    },
+    {
+      "id": "Label_ExamLessonChangeSpecifyMoreThan",
+      "name": "Distracted",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamLessonFix",
+      "name": "Fixed Parameter",
+      "swapName": "Fixed Score"
+    },
+    {
+      "id": "Label_ExamLessonValueMultiple",
+      "name": "Parameter Increase Amount Boost",
+      "swapName": "Score Increase Amount Boost"
+    },
+    {
+      "id": "Label_ExamLessonValueMultipleDown",
+      "name": "Parameter Increase Amount Reduction",
+      "swapName": "Score Increase Amount Reduction"
+    },
+    {
+      "id": "Label_ExamPanic",
+      "name": "Whimsy",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamParameterBuff",
+      "name": "Good Shape",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamParameterBuffMultiplePerTurn",
+      "name": "Excellent Shape",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamParameterBuffReduce",
+      "name": "Good Shape Reduction",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamPlayableValueAdd_Exam",
+      "name": "Additional Skill Card Use",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamPlayableValueAdd_Produce",
+      "name": "Additional Skill Card Use",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamPlayableValueHold",
+      "name": "Carry Over Usage Count",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamPreservation_Exam",
+      "name": "Preservation",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamPreservation_Produce",
+      "name": "Preservation",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamReviewReduce",
+      "name": "Good Impression Reduction",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamReview_Exam",
+      "name": "Good Impression",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamReview_Produce",
+      "name": "Good Impression",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamSearchPlayCardStaminaConsumptionChange",
+      "name": "Stamina Consumption Change",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamSearchPlayCardValueBuff",
+      "name": "Card Effect Increase",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionAdd",
+      "name": "Stamina Consumption Increase",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionAddDown",
+      "name": "Reduced Effect of Stamina Consumption Increase",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionAddFix",
+      "name": "Additional Stamina Consumption",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionDown",
+      "name": "Reduced Stamina Consumption",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionDownAdd",
+      "name": "Increased Effect of Reduced Stamina Consumption",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamStaminaConsumptionDownFix",
+      "name": "Stamina Consumption Reduction",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamStaminaDamage",
+      "name": "Stamina Decrease",
+      "swapName": "Stamina Decrease"
+    },
+    {
+      "id": "Label_ExamStaminaRecoverAdd",
+      "name": "Increased Stamina Recovery Effect",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamStaminaRecoverFix",
+      "name": "Stamina Recovery",
+      "swapName": "Stamina Recovery"
+    },
+    {
+      "id": "Label_ExamStaminaRecoverRestriction",
+      "name": "Stamina Recovery Disabled",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamStaminaReduceChange",
+      "name": "Reduced Stamina Consumption",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamStaminaReduceFix",
+      "name": "Stamina Consumption",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamStaminaThresholdAddRestriction",
+      "name": "Immunity to Stamina Consumption Increase",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamStanceReset",
+      "name": "Guideline Removal",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamStatusEnchant",
+      "name": "Ongoing Effect",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamUplifting_Exam",
+      "name": "Excitement",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ExamUplifting_Produce",
+      "name": "Excitement",
+      "swapName": ""
+    },
+    {
+      "id": "Label_FullPowerPointAdd",
+      "name": "Full Power Value Increase",
+      "swapName": "Full Power Value Increase"
+    },
+    {
+      "id": "Label_FullPowerPointReduce",
+      "name": "Full Power Value Decrease",
+      "swapName": "Full Power Value Decrease"
+    },
+    {
+      "id": "Label_InitialAdd",
+      "name": "Initial Hand Effect Granted",
+      "swapName": "Initial Hand Effect Granted"
+    },
+    {
+      "id": "Label_LessonAdd",
+      "name": "Parameter Value Increase",
+      "swapName": "Score Value Increase"
+    },
+    {
+      "id": "Label_LessonBuffAdd",
+      "name": "Focus Value Increase",
+      "swapName": "Focus Value Increase"
+    },
+    {
+      "id": "Label_LessonBuffReduce",
+      "name": "Focus Value Decrease",
+      "swapName": "Focus Value Decrease"
+    },
+    {
+      "id": "Label_LessonCountAdd",
+      "name": "Increased Parameter Increase Occurrence",
+      "swapName": "Increased Score Increase Occurrence"
+    },
+    {
+      "id": "Label_LessonCountReduce",
+      "name": "Reduced Parameter Increase Occurrence",
+      "swapName": "Reduced Score Increase Occurrence"
+    },
+    {
+      "id": "Label_LessonReduce",
+      "name": "Parameter Value Decrease",
+      "swapName": "Score Value Decrease"
+    },
+    {
+      "id": "Label_LessonSupport",
+      "name": "Temporary Enhancement",
+      "swapName": ""
+    },
+    {
+      "id": "Label_MentalSkillCard",
+      "name": "Mental Skill Card",
+      "swapName": ""
+    },
+    {
+      "id": "Label_MoveEffectTrigger",
+      "name": "【Movement Effect】",
+      "swapName": ""
+    },
+    {
+      "id": "Label_NoDeckDuplication",
+      "name": "No Duplication Allowed",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ParameterBuffMultiplePerTurnAdd",
+      "name": "Excellent Shape Value Increase",
+      "swapName": "Excellent Shape Value Increase"
+    },
+    {
+      "id": "Label_ParameterBuffMultiplePerTurnReduce",
+      "name": "Excellent Shape Value Decrease",
+      "swapName": "Excellent Shape Value Decrease"
+    },
+    {
+      "id": "Label_ParameterBuffTurnAdd",
+      "name": "Good Shape Value Increase",
+      "swapName": "Good Shape Value Increase"
+    },
+    {
+      "id": "Label_ParameterBuffTurnReduce",
+      "name": "Good Shape Value Decrease",
+      "swapName": "Good Shape Value Decrease"
+    },
+    {
+      "id": "Label_PlayEffectTriggerChange",
+      "name": "Replace Effect Activation Condition",
+      "swapName": "Replace Effect Activation Condition"
+    },
+    {
+      "id": "Label_PlayMovePositionTypeChange",
+      "name": "Change Destination After Use",
+      "swapName": "Change Destination After Use"
+    },
+    {
+      "id": "Label_PlayTriggerChange",
+      "name": "Replace Usable Condition",
+      "swapName": "Replace Usable Condition"
+    },
+    {
+      "id": "Label_ProduceCardChange",
+      "name": "Change",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ProduceCardDelete",
+      "name": "Remove",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ProduceCardDuplicate",
+      "name": "Copy",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ProduceCardIsPlayMovePositionTypeLost",
+      "name": "Once During Lesson",
+      "swapName": "Once During Exam/Stage"
+    },
+    {
+      "id": "Label_ProduceCardPositionType_Hold",
+      "name": "On Hold",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ProduceCardStatusEnchant",
+      "name": "【Growth】",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ProduceCardUpgrade",
+      "name": "Enhancement",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ProducePlanType0",
+      "name": "Shared",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ProducePlanType1",
+      "name": "Sense",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ProducePlanType2",
+      "name": "Logic",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ProducePlanType3",
+      "name": "Anomaly",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ProduceSkillPlanType1",
+      "name": "【Sense Exclusive】",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ProduceSkillPlanType2",
+      "name": "【Logic Exclusive】",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ProduceSkillPlanType3",
+      "name": "【Anomaly Exclusive】",
+      "swapName": ""
+    },
+    {
+      "id": "Label_ReviewAdd",
+      "name": "Good Impression Value Increase",
+      "swapName": "Good Impression Value Increase"
+    },
+    {
+      "id": "Label_ReviewReduce",
+      "name": "Good Impression Value Decrease",
+      "swapName": "Good Impression Value Decrease"
+    },
+    {
+      "id": "Label_ShopProduceCardPriceDiscountMultiple",
+      "name": "Discount Consultation Skill Card",
+      "swapName": ""
+    },
+    {
+      "id": "Label_StaminaConsumptionAddTurnAdd",
+      "name": "Reduced Stamina Consumption Increase Value",
+      "swapName": "Reduced Stamina Consumption Increase Value"
+    },
+    {
+      "id": "Label_StaminaConsumptionAddTurnReduce",
+      "name": "Increased Stamina Consumption Increase Value",
+      "swapName": "Increased Stamina Consumption Increase Value"
+    },
+    {
+      "id": "Label_StaminaConsumptionDownTurnAdd",
+      "name": "Increased Stamina Consumption Reduction Value",
+      "swapName": "Increased Stamina Consumption Reduction Value"
+    },
+    {
+      "id": "Label_StaminaConsumptionDownTurnReduce",
+      "name": "Reduced Stamina Consumption Reduction Value",
+      "swapName": "Reduced Stamina Consumption Reduction Value"
+    },
+    {
+      "id": "Label_Stance",
+      "name": "Guideline",
+      "swapName": ""
+    },
+    {
+      "id": "Label_StanceLock",
+      "name": "Fixed Guideline",
+      "swapName": ""
+    },
+    {
+      "id": "Label_TroubleSkillCard",
+      "name": "Trouble Card",
+      "swapName": ""
+    }
+  ]
 }

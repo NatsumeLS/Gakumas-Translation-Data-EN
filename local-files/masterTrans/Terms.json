@@ -1,5 +1,21 @@
 {
-    "TermsType_TermsOfService|name": "Terms",
-    "TermsType_PrivacyPolicy|name": "Privacy Policy",
-    "TermsType_GlobalConsent|name": "Outlet"
+  "rules": {
+    "primaryKeys": [
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "type": "TermsType_TermsOfService",
+      "name": "Terms"
+    },
+    {
+      "type": "TermsType_PrivacyPolicy",
+      "name": "Privacy Policy"
+    },
+    {
+      "type": "TermsType_GlobalConsent",
+      "name": "Outlet"
+    }
+  ]
 }

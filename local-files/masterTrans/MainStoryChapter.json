@@ -1,10 +1,34 @@
 {
-    "story-main-01|story-main-01-01|title": "Ch.1",
-    "story-main-01|story-main-01-01|description": "Welcome to Hatsuboshi Academy",
-    "story-main-01|story-main-01-02|title": "Ch.2",
-    "story-main-01|story-main-01-02|description": "Idols living together",
-    "story-main-01|story-main-01-03|title": "Ch.3",
-    "story-main-01|story-main-01-03|description": "We are Re:IRIS",
-    "story-main-01|story-main-01-04|title": "Ch.4",
-    "story-main-01|story-main-01-04|description": "Hatsuboshi IDOL FESTIVAL"
+  "rules": {
+    "primaryKeys": [
+      "mainStoryPartId",
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "mainStoryPartId": "story-main-01",
+      "id": "story-main-01-01",
+      "title": "Ch.1",
+      "description": "Welcome to Hatsuboshi Academy"
+    },
+    {
+      "mainStoryPartId": "story-main-01",
+      "id": "story-main-01-02",
+      "title": "Ch.2",
+      "description": "Idols living together"
+    },
+    {
+      "mainStoryPartId": "story-main-01",
+      "id": "story-main-01-03",
+      "title": "Ch.3",
+      "description": "We are Re:IRIS"
+    },
+    {
+      "mainStoryPartId": "story-main-01",
+      "id": "story-main-01-04",
+      "title": "Ch.4",
+      "description": "Hatsuboshi IDOL FESTIVAL"
+    }
+  ]
 }

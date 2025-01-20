@@ -1,6 +1,25 @@
 {
-    "shop_costume|name": "Costume",
-    "shop_jewel|name": "Jewels",
-    "shop_pack|name": "Pack",
-    "shop_pass|name": "Pass"
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "shop_costume",
+      "name": "Costume"
+    },
+    {
+      "id": "shop_jewel",
+      "name": "Jewels"
+    },
+    {
+      "id": "shop_pack",
+      "name": "Pack"
+    },
+    {
+      "id": "shop_pass",
+      "name": "Pass"
+    }
+  ]
 }

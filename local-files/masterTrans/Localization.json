@@ -1,132 +1,541 @@
 {
-    "achievement.cell.true_end.nia_condition|description": "Final Audition FINALE 1st Place",
-    "achievement.cell.true_end.nia_toast_produce_condition|description": "Achieve P Mission 35 and unlock Produce \"N.I.A\" at Bond Level 10.",
-    "achievement.true_end_condition.description|description": "Earn the following achievements and place 1st in the final exam of the Produce: Regular Live \"Hajime\".",
-    "achievement.true_end.condition|description": "Earn all three True End condition achievements and place 1st in the final exam of Produce: Regular Live \"Hajime\".",
-    "achievement.true_end.lesson_bonus|description": "Parameter Bonus",
-    "achievement.true_end.nia_condition|description": "Select the \"FINALE\" audition in the final audition and achieve 1st place.",
-    "angya.top.user_status.exchange|description": "Exchange Shop",
-    "card.idol_card.high_score|description": "Intensive Month Target",
-    "card.idol_card.preview.attention|description": "True End bonuses reflect the current situation.",
-    "card.idol_card.release.confirm.sheet.message|description": "Consume materials to unlock the idol? If you have acquired the Another version, you will also obtain Pieces of the Produce Idol's Original version.",
-    "card.idol_card.skin_change_sheet.title|description": "Change Produce Idol",
-    "card.idol_card.skin_new_confirm_warning|description": "※Live songs will change.\\n※If producing an Another version of a Produce Idol, Produce Idol Commus will not occur.",
-    "card.sort.produce_dance_growth_rate_permil|description": "Parameter Bonus: Dance",
-    "card.sort.produce_visual_growth_rate_permil|description": "Parameter Bonus: Visual",
-    "card.sort.produce_vocal_growth_rate_permil|description": "Parameter Bonus: Vocal",
-    "card.sort.story_event_point_bonus|description": "Event Bonus",
-    "card.upgrade_status_list.parameter|description": "Parameter & Parameter Bonus Upgrades",
-    "card.upgrade_status_list.produce_card|description": "Unique Skill Card Enhancement",
-    "common.live_battle_stage.mid.name|description": "MID Stage Compatibility",
-    "common.network.error.purchase_limit.description|description": "Purchase could not be completed due to reaching the purchase limit. Please contact support.",
-    "common.user_exp.description|description": "EXP needed to increase Producer Level",
-    "exchange.confirm.consumption_shortage|description": "You lack the required \"{0}\".",
-    "faq_confirm_sheet.description|description": "Open the FAQ page?\\n※The web browser will launch.",
-    "home.gasha.detail.idol.extra_text.costume_body|description": "Costume・",
-    "home.gasha.detail.idol.extra_text.costume_head|description": "Hairstyle・",
-    "home.gasha.detail.idol.extra_text.suffix|description": "Includes Song!",
-    "home.gasha.draw_jewel_confirm_sheet.description.multiple_button|description": "Consume <color=#u:Negative>{1:N0}</color> \"{0}\" to pull for {2}?",
-    "home.gasha.draw_jewel_confirm_sheet.select_pickup.description|description": "The following have been selected as pickups.",
-    "home.gasha.point_detail_overlay.description|description": "Exchange Points and exchange contents vary per gacha.",
-    "home.gasha.result.duplicate_info|description": "Obtained P Idols will be converted to \"Produce Idol Pieces.\"",
-    "invite.progress.friend_empty|description": "Will be displayed when the\ninvited Producer reaches PLv5.",
-    "invite.progress.invited_friend.label|description": "PLv5 Achieved",
-    "invite.publication.share.text|description": "Now enrolling students at Hatsuboshi Academy!\nEnter a code to receive Jewels!\nNow’s your chance to start Gakuen Idolm@ster!\n▼Invite Code\n{0}\n\nhttps://app.adjust.com/1b1lvieu\n\n※Code can be entered after clearing the tutorial.\n#学園アイドルマスター #学マス",
-    "meishi.create_confirm_sheet.toast.custom_disable|description": "Unlocks after maintenance ends on 2024/9/1.",
-    "meishi.edit_custom.sub_menu.character.card.description|description": "Select the type of Produce Idol to add.",
-    "meishi.edit_custom.sub_menu.character.sd|description": "Mini Idol",
-    "memory.detail.produce.card.phase.audition_mid|description": "Earned after the Midterm/First Audition.",
-    "memory.detail.tab.contest|description": "Stage",
-    "memory.detail.tab.exam_battle|description": "Stage",
-    "memory.filter.exam_battle_card_effect|description": "Skill Cards for Stages",
-    "memory.filter.exam_battle_item_effect|description": "Stage P Items",
-    "memory.sort.score|description": "Overall Stage Power",
-    "mission.mission_list.max_point_text.daily|description": "Daily Points earned have reached the maximum.",
-    "mission.mission_list.max_point_text.weekly|description": "Weekly Points earned have reached the maximum.",
-    "music.external_url_sheet.description|description": "Move to the music distribution info site?",
-    "octo_file_download_confirm_sheet.alert.all|description": "※The web browser will launch.\\n※Bulk downloading reduces data usage during play.\\n※Download over Wi-Fi is recommended.",
-    "photography.save.album.over_limit_confirm.description|description": "<color=#u:Negative>Storage limit reached</color>.\\nTo save all selected photos, delete {0} photos.",
-    "picturebook.live.costume.select.description|description": "Choose hairstyle and costume.",
-    "picturebook.live.costume.select.disabled|description": "Currently selected costume has a fixed hairstyle.",
-    "picturebook.live.costume.select.subtitle.head|description": "Hairstyle",
-    "produce.card.move_position.deck|description": "Deck",
-    "produce.card.move_position.hold.description|description": "Skill cards moved to your hand upon switching to Full Power.\\nUp to 2 can be saved; exceeding 2 sends them to the discard pile.",
-    "produce.change_upgrade.message.result|description": "{0} was changed to {1} and enhanced.",
-    "produce.change.message.result|description": "{0} was changed to {1}.",
-    "produce.common.lesson_bonus|description": "Parameter Bonus",
-    "produce.confirm_reroll_sheet.description|description": "Re-roll possible skill card options?\\n<color=#u:Negative>※Re-roll attempts are limited during production.</color>\\n<color=#u:Negative>※Rarities are also re-rolled.</color>",
-    "produce.drink.cannot_use.noneproduceeffect|description": "Cannot be used outside lessons, exams, or auditions.",
-    "produce.item.card.empty|description": "No skill card selected.",
-    "produce.item.item.empty|description": "No P Item selected.",
-    "produce.lesson.no_effect.block_restriction|description": "Effect will not activate due to energy-increase immunity.",
-    "produce.lesson.no_effect.stamina_recover_restriction|description": "Effect will not activate due to stamina-recovery immunity.",
-    "produce.lesson.no_effect.stance_same|description": "Effect will not activate as it is already the current guideline.",
-    "produce.lesson.no_effect.stance_step_max|description": "Effect will not activate as the guideline stage has already reached its limit.",
-    "produce.log.detail.title.audition_npc_enhance|description": "Rival’s Score Increase",
-    "produce.memory_limit.warning|description": "Cannot begin production as the memory storage limit has been reached.",
-    "produce.multi_device.confirm.description|description": "If logging in on a different device during production or clearing the device cache, the current production data will be lost. Proceed to log in?",
-    "produce.nia.audition_name.finalhard|description": "QUARTET",
-    "produce.nia.audition.finale_condition|description": "FINALE audition unlock conditions",
-    "produce.result.photo.delete_save.toast|description": "Deleted {0} photos and saved new ones.",
-    "produce.result.photo.re_create.button|description": "Regen",
-    "produce.result.photo.re_create.button.decide|description": "Confirm",
-    "produce.result.photo.re_create.button.disable.shortage_count|description": "No regeneration attempts left.",
-    "produce.result.photo.re_create.confirm.button|description": "Regenerate",
-    "produce.result.photo.re_create.confirm.description|description": "Consume regeneration items to regenerate memories?\\n※You can choose to keep the current memory or the regenerated memory.\\n※The number of regenerations per production is limited.",
-    "produce.result.photo.re_create.confirm.remain_count|description": "Remaining Regeneration Attempts",
-    "produce.result.photo.re_create.confirm.title|description": "Memory Regeneration Confirmation",
-    "produce.result.photo.re_create.decide_confirm_sheet.button|description": "Generate",
-    "produce.result.photo.re_create.description|description": "Choose which memory to acquire.",
-    "produce.result.photo.re_create.select_status_origin|description": "Before Regeneration",
-    "produce.result.photo.re_create.select_status_reroll|description": "Regeneration Attempt {0}",
-    "produce.schedule.step_business_description|description": "Fan votes will be acquired. Various effects occur depending on the business location.",
-    "produce.schedule.step_customize_description|description": "Spend P-Points to customize enhanced skill cards.",
-    "produce.schedule.step_fan_present_description|description": "Earn P-Points or items. Bonus fan votes may occur.",
-    "produce.schedule.step_self_dance_description|description": "Consume stamina to increase Dance.",
-    "produce.schedule.step_self_dance_sp_description|description": "Dance increases. High stamina consumption but lavish rewards.",
-    "produce.schedule.step_self_visual_description|description": "Consume stamina to increase Visual.",
-    "produce.schedule.step_self_visual_sp_description|description": "Visual increases. High stamina consumption but lavish rewards.",
-    "produce.schedule.step_self_vocal_description|description": "Consume stamina to increase Vocal.",
-    "produce.schedule.step_self_vocal_sp_description|description": "Vocal increases. High stamina consumption but lavish rewards.",
-    "produce.shop.end_warning.description|description": "Still exchangeable. End consultation?",
-    "produce.support_event_effect|description": "Effects",
-    "producer.level.additional_reward|description": "Earned rewards for newly added PLv Up rewards already achieved.",
-    "profile.activity.evaluate|description": "Highest Rating",
-    "profile.activity.produce|description": "Regular Live \"Hajime\"",
-    "pvp.rate.reward.rate.description|description": "Earn rewards for every set amount of Rate Points accumulated.",
-    "pvp.rate.same_character_confirm_sheet.description|description": "The memory of an idol in another unit slot is selected. Proceeding will remove the selected memory from the stage settings of the following unit. Is that okay?",
-    "pvp.rate.same_character_confirm_sheet.description_sub|description": "The memory of an idol in another unit slot is selected. Proceeding will remove the selected memory from the stage settings of the following unit. Is that okay?",
-    "setting.live_quality_sheet.description|description": "Select Quality",
-    "setting.produce.exam_effect_warning|description": "Skill Card/P-Drink Usage Confirmation",
-    "setting.produce.exam_effect_warning.description|description": "Display confirmation message when Skill Card/P-Drink effects fail to activate.",
-    "shop.label.term_suffix|description": "Duration",
-    "story_event.box_gasha.draw.sheet.description|description": "Spend {0} to pull from the event gacha?",
-    "story_event.box_gasha.draw.sheet.title|description": "Event Gacha Confirmation",
-    "story_event.box_gasha.item_name|description": "Event Items",
-    "story_event.box_gasha.reset_description.EmptyAll|description": "Once all rewards are obtained, the event gacha lineup updates automatically.",
-    "story_event.box_gasha.reset_description.EmptyFeature|description": "When all pickup rewards are obtained, the event gacha lineup updates automatically.",
-    "story_event.box_gasha.reset_description.Optional|description": "You can reset the event gacha lineup anytime by performing a reward reset. ※The lineup updates immediately after performing the reset.",
-    "story_event.box_gasha.reset_result.sheet.description|description": "All rewards from Box {0} have been obtained. Updating the event gacha.",
-    "story_event.box_gasha.reset_result.sheet.title|description": "Event Gacha Confirmation",
-    "story_event.box_gasha.reset.sheet.title|description": "Event Gacha Confirmation",
-    "story_event.box_gasha.story_reward_gasha_count_sheet.condition|description": "Unlocks after pulling from the event gacha {0} times.",
-    "story_event.event_coin_bonus|description": "Event Exchange Item Bonus",
-    "story_event.exchange|description": "Event Exchange Shop",
-    "story_event.exchange_item|description": "Event Exchange Items",
-    "story_event.guild_mission.join_sheet.confirm|description": "Collaboration Missions",
-    "story_event.guild_mission.join_sheet.guild_description|description": "Join a circle to participate in Collaboration Missions.\\nMove to the circle?",
-    "story_event.guild_mission.join_sheet.main_task_description|description": "Join a circle to participate in Collaboration Missions.\\n<color=#u:Negative>{0}</color>",
-    "story_event.period.end|description": "Reward Collection Period",
-    "story.idol.produce.activity|description": "Outings",
-    "story.lock.unread_previous.description|description": "Unlocked by viewing the previous commu.",
-    "story.play_confirm_sheet.unread_previous_chapter.description|description": "Unread commus are available. Read all commus to unlock the latest Hatsuboshi Commu episode.",
-    "story.story_event.main_story.move_to_story_list|description": "View the commu!",
-    "story.story_event.section.box_gasha_condition_lock_text|description": "Unlock by pulling from the event gacha a set number of times and viewing the previous commu.",
-    "story.story_event.section.normal_condition_lock_text|description": "Unlock by earning event points and reading the previous commu.",
-    "story.story_event.section.unlockable_condition_lock_text|description": "Unlock with Record Keys.",
-    "tutorial.idol_receive.attention_1|description": "You will receive a Produce Idol in its initial state.\\nOnce acquired, changes cannot be made later.\\nIf you have acquired the Another version, you will also obtain Pieces of the Produce Idol's Original version.",
-    "tutorial.idol_receive.attention_3|description": "Produce Idols are automatically received.",
-    "tutorial.idol_receive.attention_4|description": "Produce Idol Pieces are automatically received.",
-    "tutorial.idol_receive.description_4|description": "Converted \"{0}\" to \"{1}\" and obtained it.",
-    "twitter_confirm_sheet.description|description": "Open the official X (formerly Twitter) page?\\n※The web browser will launch."
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "achievement.cell.true_end.nia_condition",
+      "description": "Final Audition FINALE 1st Place"
+    },
+    {
+      "id": "achievement.cell.true_end.nia_toast_produce_condition",
+      "description": "Achieve P Mission 35 and unlock Produce \"N.I.A\" at Bond Level 10."
+    },
+    {
+      "id": "achievement.true_end_condition.description",
+      "description": "Earn the following achievements and place 1st in the final exam of the Produce: Regular Live \"Hajime\"."
+    },
+    {
+      "id": "achievement.true_end.condition",
+      "description": "Earn all three True End condition achievements and place 1st in the final exam of Produce: Regular Live \"Hajime\"."
+    },
+    {
+      "id": "achievement.true_end.lesson_bonus",
+      "description": "Parameter Bonus"
+    },
+    {
+      "id": "achievement.true_end.nia_condition",
+      "description": "Select the \"FINALE\" audition in the final audition and achieve 1st place."
+    },
+    {
+      "id": "angya.top.user_status.exchange",
+      "description": "Exchange Shop"
+    },
+    {
+      "id": "card.idol_card.high_score",
+      "description": "Intensive Month Target"
+    },
+    {
+      "id": "card.idol_card.preview.attention",
+      "description": "True End bonuses reflect the current situation."
+    },
+    {
+      "id": "card.idol_card.release.confirm.sheet.message",
+      "description": "Consume materials to unlock the idol? If you have acquired the Another version, you will also obtain Pieces of the Produce Idol's Original version."
+    },
+    {
+      "id": "card.idol_card.skin_change_sheet.title",
+      "description": "Change Produce Idol"
+    },
+    {
+      "id": "card.idol_card.skin_new_confirm_warning",
+      "description": "※Live songs will change.\\n※If producing an Another version of a Produce Idol, Produce Idol Commus will not occur."
+    },
+    {
+      "id": "card.sort.produce_dance_growth_rate_permil",
+      "description": "Parameter Bonus: Dance"
+    },
+    {
+      "id": "card.sort.produce_visual_growth_rate_permil",
+      "description": "Parameter Bonus: Visual"
+    },
+    {
+      "id": "card.sort.produce_vocal_growth_rate_permil",
+      "description": "Parameter Bonus: Vocal"
+    },
+    {
+      "id": "card.sort.story_event_point_bonus",
+      "description": "Event Bonus"
+    },
+    {
+      "id": "card.upgrade_status_list.parameter",
+      "description": "Parameter & Parameter Bonus Upgrades"
+    },
+    {
+      "id": "card.upgrade_status_list.produce_card",
+      "description": "Unique Skill Card Enhancement"
+    },
+    {
+      "id": "common.live_battle_stage.mid.name",
+      "description": "MID Stage Compatibility"
+    },
+    {
+      "id": "common.network.error.purchase_limit.description",
+      "description": "Purchase could not be completed due to reaching the purchase limit. Please contact support."
+    },
+    {
+      "id": "common.user_exp.description",
+      "description": "EXP needed to increase Producer Level"
+    },
+    {
+      "id": "exchange.confirm.consumption_shortage",
+      "description": "You lack the required \"{0}\"."
+    },
+    {
+      "id": "faq_confirm_sheet.description",
+      "description": "Open the FAQ page?\\n※The web browser will launch."
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.costume_body",
+      "description": "Costume・"
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.costume_head",
+      "description": "Hairstyle・"
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.music",
+      "description": ""
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.separator",
+      "description": ""
+    },
+    {
+      "id": "home.gasha.detail.idol.extra_text.suffix",
+      "description": "Includes Song!"
+    },
+    {
+      "id": "home.gasha.draw_jewel_confirm_sheet.description.multiple_button",
+      "description": "Consume <color=#u:Negative>{1:N0}</color> \"{0}\" to pull for {2}?"
+    },
+    {
+      "id": "home.gasha.draw_jewel_confirm_sheet.select_pickup.description",
+      "description": "The following have been selected as pickups."
+    },
+    {
+      "id": "home.gasha.point_detail_overlay.description",
+      "description": "Exchange Points and exchange contents vary per gacha."
+    },
+    {
+      "id": "home.gasha.result.duplicate_info",
+      "description": "Obtained P Idols will be converted to \"Produce Idol Pieces.\""
+    },
+    {
+      "id": "invite.progress.friend_empty",
+      "description": "Will be displayed when the\ninvited Producer reaches PLv5."
+    },
+    {
+      "id": "invite.progress.invited_friend.label",
+      "description": "PLv5 Achieved"
+    },
+    {
+      "id": "invite.publication.share.text",
+      "description": "Now enrolling students at Hatsuboshi Academy!\nEnter a code to receive Jewels!\nNow’s your chance to start Gakuen Idolm@ster!\n▼Invite Code\n{0}\n\nhttps://app.adjust.com/1b1lvieu\n\n※Code can be entered after clearing the tutorial.\n#学園アイドルマスター #学マス"
+    },
+    {
+      "id": "limit.unti",
+      "description": ""
+    },
+    {
+      "id": "meishi.create_confirm_sheet.toast.custom_disable",
+      "description": "Unlocks after maintenance ends on 2024/9/1."
+    },
+    {
+      "id": "meishi.edit_custom.sub_menu.character.card.description",
+      "description": "Select the type of Produce Idol to add."
+    },
+    {
+      "id": "meishi.edit_custom.sub_menu.character.sd",
+      "description": "Mini Idol"
+    },
+    {
+      "id": "memory.detail.produce.card.phase.audition_mid",
+      "description": "Earned after the Midterm/First Audition."
+    },
+    {
+      "id": "memory.detail.tab.contest",
+      "description": "Stage"
+    },
+    {
+      "id": "memory.detail.tab.exam_battle",
+      "description": "Stage"
+    },
+    {
+      "id": "memory.filter.exam_battle_card_effect",
+      "description": "Skill Cards for Stages"
+    },
+    {
+      "id": "memory.filter.exam_battle_item_effect",
+      "description": "Stage P Items"
+    },
+    {
+      "id": "memory.sort.score",
+      "description": "Overall Stage Power"
+    },
+    {
+      "id": "mission.mission_list.max_point_text.daily",
+      "description": "Daily Points earned have reached the maximum."
+    },
+    {
+      "id": "mission.mission_list.max_point_text.weekly",
+      "description": "Weekly Points earned have reached the maximum."
+    },
+    {
+      "id": "music.external_url_sheet.description",
+      "description": "Move to the music distribution info site?"
+    },
+    {
+      "id": "octo_file_download_confirm_sheet.alert.all",
+      "description": "※The web browser will launch.\\n※Bulk downloading reduces data usage during play.\\n※Download over Wi-Fi is recommended."
+    },
+    {
+      "id": "photography.save.album.over_limit_confirm.description",
+      "description": "<color=#u:Negative>Storage limit reached</color>.\\nTo save all selected photos, delete {0} photos."
+    },
+    {
+      "id": "picturebook.live.costume.select.description",
+      "description": "Choose hairstyle and costume."
+    },
+    {
+      "id": "picturebook.live.costume.select.disabled",
+      "description": "Currently selected costume has a fixed hairstyle."
+    },
+    {
+      "id": "picturebook.live.costume.select.subtitle.head",
+      "description": "Hairstyle"
+    },
+    {
+      "id": "produce.card.move_position.deck",
+      "description": "Deck"
+    },
+    {
+      "id": "produce.card.move_position.hold.description",
+      "description": "Skill cards moved to your hand upon switching to Full Power.\\nUp to 2 can be saved; exceeding 2 sends them to the discard pile."
+    },
+    {
+      "id": "produce.change_upgrade.message.result",
+      "description": "{0} was changed to {1} and enhanced."
+    },
+    {
+      "id": "produce.change.message.result",
+      "description": "{0} was changed to {1}."
+    },
+    {
+      "id": "produce.common.lesson_bonus",
+      "description": "Parameter Bonus"
+    },
+    {
+      "id": "produce.confirm_reroll_sheet.description",
+      "description": "Re-roll possible skill card options?\\n<color=#u:Negative>※Re-roll attempts are limited during production.</color>\\n<color=#u:Negative>※Rarities are also re-rolled.</color>"
+    },
+    {
+      "id": "produce.drink.cannot_use.noneproduceeffect",
+      "description": "Cannot be used outside lessons, exams, or auditions."
+    },
+    {
+      "id": "produce.item.card.empty",
+      "description": "No skill card selected."
+    },
+    {
+      "id": "produce.item.item.empty",
+      "description": "No P Item selected."
+    },
+    {
+      "id": "produce.lesson.no_effect.block_restriction",
+      "description": "Effect will not activate due to energy-increase immunity."
+    },
+    {
+      "id": "produce.lesson.no_effect.stamina_recover_restriction",
+      "description": "Effect will not activate due to stamina-recovery immunity."
+    },
+    {
+      "id": "produce.lesson.no_effect.stance_same",
+      "description": "Effect will not activate as it is already the current guideline."
+    },
+    {
+      "id": "produce.lesson.no_effect.stance_step_max",
+      "description": "Effect will not activate as the guideline stage has already reached its limit."
+    },
+    {
+      "id": "produce.log.detail.title.audition_npc_enhance",
+      "description": "Rival’s Score Increase"
+    },
+    {
+      "id": "produce.memory_limit.warning",
+      "description": "Cannot begin production as the memory storage limit has been reached."
+    },
+    {
+      "id": "produce.multi_device.confirm.description",
+      "description": "If logging in on a different device during production or clearing the device cache, the current production data will be lost. Proceed to log in?"
+    },
+    {
+      "id": "produce.nia.audition_name.finalhard",
+      "description": "QUARTET"
+    },
+    {
+      "id": "produce.nia.audition.finale_condition",
+      "description": "FINALE audition unlock conditions"
+    },
+    {
+      "id": "produce.result.photo.delete_save.toast",
+      "description": "Deleted {0} photos and saved new ones."
+    },
+    {
+      "id": "produce.result.photo.re_create.button",
+      "description": "Regen"
+    },
+    {
+      "id": "produce.result.photo.re_create.button.decide",
+      "description": "Confirm"
+    },
+    {
+      "id": "produce.result.photo.re_create.button.disable.shortage_count",
+      "description": "No regeneration attempts left."
+    },
+    {
+      "id": "produce.result.photo.re_create.confirm.button",
+      "description": "Regenerate"
+    },
+    {
+      "id": "produce.result.photo.re_create.confirm.description",
+      "description": "Consume regeneration items to regenerate memories?\\n※You can choose to keep the current memory or the regenerated memory.\\n※The number of regenerations per production is limited."
+    },
+    {
+      "id": "produce.result.photo.re_create.confirm.remain_count",
+      "description": "Remaining Regeneration Attempts"
+    },
+    {
+      "id": "produce.result.photo.re_create.confirm.title",
+      "description": "Memory Regeneration Confirmation"
+    },
+    {
+      "id": "produce.result.photo.re_create.decide_confirm_sheet.button",
+      "description": "Generate"
+    },
+    {
+      "id": "produce.result.photo.re_create.description",
+      "description": "Choose which memory to acquire."
+    },
+    {
+      "id": "produce.result.photo.re_create.select_status_origin",
+      "description": "Before Regeneration"
+    },
+    {
+      "id": "produce.result.photo.re_create.select_status_reroll",
+      "description": "Regeneration Attempt {0}"
+    },
+    {
+      "id": "produce.schedule.step_business_description",
+      "description": "Fan votes will be acquired. Various effects occur depending on the business location."
+    },
+    {
+      "id": "produce.schedule.step_customize_description",
+      "description": "Spend P-Points to customize enhanced skill cards."
+    },
+    {
+      "id": "produce.schedule.step_fan_present_description",
+      "description": "Earn P-Points or items. Bonus fan votes may occur."
+    },
+    {
+      "id": "produce.schedule.step_self_dance_description",
+      "description": "Consume stamina to increase Dance."
+    },
+    {
+      "id": "produce.schedule.step_self_dance_sp_description",
+      "description": "Dance increases. High stamina consumption but lavish rewards."
+    },
+    {
+      "id": "produce.schedule.step_self_visual_description",
+      "description": "Consume stamina to increase Visual."
+    },
+    {
+      "id": "produce.schedule.step_self_visual_sp_description",
+      "description": "Visual increases. High stamina consumption but lavish rewards."
+    },
+    {
+      "id": "produce.schedule.step_self_vocal_description",
+      "description": "Consume stamina to increase Vocal."
+    },
+    {
+      "id": "produce.schedule.step_self_vocal_sp_description",
+      "description": "Vocal increases. High stamina consumption but lavish rewards."
+    },
+    {
+      "id": "produce.shop.end_warning.description",
+      "description": "Still exchangeable. End consultation?"
+    },
+    {
+      "id": "produce.support_event_effect",
+      "description": "Effects"
+    },
+    {
+      "id": "producer.level.additional_reward",
+      "description": "Earned rewards for newly added PLv Up rewards already achieved."
+    },
+    {
+      "id": "profile.activity.evaluate",
+      "description": "Highest Rating"
+    },
+    {
+      "id": "profile.activity.produce",
+      "description": "Regular Live \"Hajime\""
+    },
+    {
+      "id": "pvp.rate.reward.rate.description",
+      "description": "Earn rewards for every set amount of Rate Points accumulated."
+    },
+    {
+      "id": "pvp.rate.same_character_confirm_sheet.description",
+      "description": "The memory of an idol in another unit slot is selected. Proceeding will remove the selected memory from the stage settings of the following unit. Is that okay?"
+    },
+    {
+      "id": "pvp.rate.same_character_confirm_sheet.description_sub",
+      "description": "The memory of an idol in another unit slot is selected. Proceeding will remove the selected memory from the stage settings of the following unit. Is that okay?"
+    },
+    {
+      "id": "setting.live_quality_sheet.description",
+      "description": "Select Quality"
+    },
+    {
+      "id": "setting.produce.exam_effect_warning",
+      "description": "Skill Card/P-Drink Usage Confirmation"
+    },
+    {
+      "id": "setting.produce.exam_effect_warning.description",
+      "description": "Display confirmation message when Skill Card/P-Drink effects fail to activate."
+    },
+    {
+      "id": "shop.label.term_suffix",
+      "description": "Duration"
+    },
+    {
+      "id": "story_event.box_gasha.draw.sheet.description",
+      "description": "Spend {0} to pull from the event gacha?"
+    },
+    {
+      "id": "story_event.box_gasha.draw.sheet.title",
+      "description": "Event Gacha Confirmation"
+    },
+    {
+      "id": "story_event.box_gasha.item_name",
+      "description": "Event Items"
+    },
+    {
+      "id": "story_event.box_gasha.reset_description.EmptyAll",
+      "description": "Once all rewards are obtained, the event gacha lineup updates automatically."
+    },
+    {
+      "id": "story_event.box_gasha.reset_description.EmptyFeature",
+      "description": "When all pickup rewards are obtained, the event gacha lineup updates automatically."
+    },
+    {
+      "id": "story_event.box_gasha.reset_description.Optional",
+      "description": "You can reset the event gacha lineup anytime by performing a reward reset. ※The lineup updates immediately after performing the reset."
+    },
+    {
+      "id": "story_event.box_gasha.reset_result.sheet.description",
+      "description": "All rewards from Box {0} have been obtained. Updating the event gacha."
+    },
+    {
+      "id": "story_event.box_gasha.reset_result.sheet.title",
+      "description": "Event Gacha Confirmation"
+    },
+    {
+      "id": "story_event.box_gasha.reset.sheet.title",
+      "description": "Event Gacha Confirmation"
+    },
+    {
+      "id": "story_event.box_gasha.story_reward_gasha_count_sheet.condition",
+      "description": "Unlocks after pulling from the event gacha {0} times."
+    },
+    {
+      "id": "story_event.event_coin_bonus",
+      "description": "Event Exchange Item Bonus"
+    },
+    {
+      "id": "story_event.exchange",
+      "description": "Event Exchange Shop"
+    },
+    {
+      "id": "story_event.exchange_item",
+      "description": "Event Exchange Items"
+    },
+    {
+      "id": "story_event.guild_mission.join_sheet.confirm",
+      "description": "Collaboration Missions"
+    },
+    {
+      "id": "story_event.guild_mission.join_sheet.guild_description",
+      "description": "Join a circle to participate in Collaboration Missions.\\nMove to the circle?"
+    },
+    {
+      "id": "story_event.guild_mission.join_sheet.main_task_description",
+      "description": "Join a circle to participate in Collaboration Missions.\\n<color=#u:Negative>{0}</color>"
+    },
+    {
+      "id": "story_event.period.end",
+      "description": "Reward Collection Period"
+    },
+    {
+      "id": "story.idol.produce.activity",
+      "description": "Outings"
+    },
+    {
+      "id": "story.lock.unread_previous.description",
+      "description": "Unlocked by viewing the previous commu."
+    },
+    {
+      "id": "story.play_confirm_sheet.unread_previous_chapter.description",
+      "description": "Unread commus are available. Read all commus to unlock the latest Hatsuboshi Commu episode."
+    },
+    {
+      "id": "story.story_event.main_story.move_to_story_list",
+      "description": "View the commu!"
+    },
+    {
+      "id": "story.story_event.section.box_gasha_condition_lock_text",
+      "description": "Unlock by pulling from the event gacha a set number of times and viewing the previous commu."
+    },
+    {
+      "id": "story.story_event.section.normal_condition_lock_text",
+      "description": "Unlock by earning event points and reading the previous commu."
+    },
+    {
+      "id": "story.story_event.section.unlockable_condition_lock_text",
+      "description": "Unlock with Record Keys."
+    },
+    {
+      "id": "tutorial.idol_receive.attention_1",
+      "description": "You will receive a Produce Idol in its initial state.\\nOnce acquired, changes cannot be made later.\\nIf you have acquired the Another version, you will also obtain Pieces of the Produce Idol's Original version."
+    },
+    {
+      "id": "tutorial.idol_receive.attention_3",
+      "description": "Produce Idols are automatically received."
+    },
+    {
+      "id": "tutorial.idol_receive.attention_4",
+      "description": "Produce Idol Pieces are automatically received."
+    },
+    {
+      "id": "tutorial.idol_receive.description_4",
+      "description": "Converted \"{0}\" to \"{1}\" and obtained it."
+    },
+    {
+      "id": "twitter_confirm_sheet.description",
+      "description": "Open the official X (formerly Twitter) page?\\n※The web browser will launch."
+    }
+  ]
 }

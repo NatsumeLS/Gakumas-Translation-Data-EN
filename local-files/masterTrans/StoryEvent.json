@@ -1,16 +1,65 @@
 {
-    "box-gasha-event-001|title": "Midsummer Summer Live Fes",
-    "box-gasha-event-002|title": "Summer Evening Face-Off",
-    "box-gasha-event-003|title": "Halloween Rhapsody",
-    "box-gasha-event-004|title": "A Friendmas Around Cake",
-    "main-story-event-001|title": "Hatsuboshi Commu Ch2: Idols living together vol.1",
-    "main-story-event-002|title": "Hatsuboshi Commu",
-    "main-story-event-003|title": "Hatsuboshi Commu",
-    "main-story-event-004|title": "Hatsuboshi Commu",
-    "main-story-event-005|title": "Hatsuboshi Commu",
-    "main-story-event-006|title": "Hatsuboshi Commu",
-    "story-event-001|title": "The Idols of Class 1-1",
-    "story-event-002|title": "Hatsuboshi Onsen ～Scattered in the Winter Wind～",
-    "story-event-003|title": "The Idols of Class 1-2",
-    "story-event-004|title": "Student Council Idols"
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "box-gasha-event-001",
+      "title": "Midsummer Summer Live Fes"
+    },
+    {
+      "id": "box-gasha-event-002",
+      "title": "Summer Evening Face-Off"
+    },
+    {
+      "id": "box-gasha-event-003",
+      "title": "Halloween Rhapsody"
+    },
+    {
+      "id": "box-gasha-event-004",
+      "title": "A Friendmas Around Cake"
+    },
+    {
+      "id": "main-story-event-001",
+      "title": "Hatsuboshi Commu Ch2: Idols living together vol.1"
+    },
+    {
+      "id": "main-story-event-002",
+      "title": "Hatsuboshi Commu"
+    },
+    {
+      "id": "main-story-event-003",
+      "title": "Hatsuboshi Commu"
+    },
+    {
+      "id": "main-story-event-004",
+      "title": "Hatsuboshi Commu"
+    },
+    {
+      "id": "main-story-event-005",
+      "title": "Hatsuboshi Commu"
+    },
+    {
+      "id": "main-story-event-006",
+      "title": "Hatsuboshi Commu"
+    },
+    {
+      "id": "story-event-001",
+      "title": "The Idols of Class 1-1"
+    },
+    {
+      "id": "story-event-002",
+      "title": "Hatsuboshi Onsen ～Scattered in the Winter Wind～"
+    },
+    {
+      "id": "story-event-003",
+      "title": "The Idols of Class 1-2"
+    },
+    {
+      "id": "story-event-004",
+      "title": "Student Council Idols"
+    }
+  ]
 }

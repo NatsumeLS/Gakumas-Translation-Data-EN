@@ -1,68 +1,208 @@
 {
-    "amao|1|title": "A New Me",
-    "amao|1|description": "Visual 300 or higher",
-    "amao|2|title": "Proof of growth",
-    "amao|2|description": "Vocal 450 or higher",
-    "amao|3|title": "Getting closer to my aspiration",
-    "amao|3|description": "Visual 1000 or higher",
-    "fktn|1|title": "Improving my lifestyle",
-    "fktn|1|description": "Dance 300 or higher",
-    "fktn|2|title": "Brilliant talent",
-    "fktn|2|description": "Visual 450 or higher",
-    "fktn|3|title": "Power of belief",
-    "fktn|3|description": "Dance 1000 or higher",
-    "hrnm|1|title": "The ability of a 3rd-year student",
-    "hrnm|1|description": "Vocal 200 or higher",
-    "hrnm|2|title": "To grab the dream again",
-    "hrnm|2|description": "Dance 450 or higher",
-    "hrnm|3|title": "Everyone's big sister",
-    "hrnm|3|description": "Visual 1000 or higher",
-    "hski|1|title": "A sure step forward",
-    "hski|1|description": "Dance 200 or higher",
-    "hski|2|title": "Full speed ahead",
-    "hski|2|description": "Vocal 450 or higher",
-    "hski|3|title": "The power to never lose",
-    "hski|3|description": "Visual 900 or higher",
-    "hume|1|title": "Starting from minus",
-    "hume|1|description": "Dance 300 or higher",
-    "hume|2|title": "Boundless talent",
-    "hume|2|description": "Vocal 450 or higher",
-    "hume|3|title": "Explosion birth",
-    "hume|3|description": "Dance 1000 or higher",
-    "jsna|1|title": "Re-start",
-    "jsna|1|description": "Dance 200 or higher",
-    "jsna|2|title": "Elite moving forward",
-    "jsna|2|description": "Vocal 450 or higher",
-    "jsna|3|title": "Radiantly shining",
-    "jsna|3|description": "Visual 900 or higher",
-    "kcna|1|title": "The first step",
-    "kcna|1|description": "Vocal 200 or higher",
-    "kcna|2|title": "The power of being cute and energetic",
-    "kcna|2|description": "Visual 450 or higher",
-    "kcna|3|title": "A step toward my aspiration",
-    "kcna|3|description": "Dance 1000 or higher",
-    "kllj|1|title": "One step at a time, little by little",
-    "kllj|1|description": "Dance 200 or higher",
-    "kllj|2|title": "The power to deliver",
-    "kllj|2|description": "Vocal 450 or higher",
-    "kllj|3|title": "Ideal image",
-    "kllj|3|description": "Visual 1000 or higher",
-    "shro|1|title": "Necessary foundational strength",
-    "shro|1|description": "Vocal 300 or higher",
-    "shro|2|title": "Endurance to dance through",
-    "shro|2|description": "Dance 450 or higher",
-    "shro|3|title": "The power to keep singing",
-    "shro|3|description": "Vocal 1000 or higher",
-    "ssmk|1|title": "A step to move forward",
-    "ssmk|1|description": "Dance 300 or higher",
-    "ssmk|2|title": "Polished smile",
-    "ssmk|2|description": "Visual 450 or higher",
-    "ssmk|3|title": "Dancing once more",
-    "ssmk|3|description": "Dance 1000 or higher",
-    "ttmr|1|title": "Showing my true ability",
-    "ttmr|1|description": "Vocal 200 or higher",
-    "ttmr|2|title": "Overcoming weaknesses",
-    "ttmr|2|description": "Dance 450 or higher",
-    "ttmr|3|title": "Breaking through limits",
-    "ttmr|3|description": "Vocal 1000 or higher"
+  "rules": {
+    "primaryKeys": [
+      "characterId",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "characterId": "amao",
+      "number": 1,
+      "title": "A New Me",
+      "description": "Visual 300 or higher"
+    },
+    {
+      "characterId": "amao",
+      "number": 2,
+      "title": "Proof of growth",
+      "description": "Vocal 450 or higher"
+    },
+    {
+      "characterId": "amao",
+      "number": 3,
+      "title": "Getting closer to my aspiration",
+      "description": "Visual 1000 or higher"
+    },
+    {
+      "characterId": "fktn",
+      "number": 1,
+      "title": "Improving my lifestyle",
+      "description": "Dance 300 or higher"
+    },
+    {
+      "characterId": "fktn",
+      "number": 2,
+      "title": "Brilliant talent",
+      "description": "Visual 450 or higher"
+    },
+    {
+      "characterId": "fktn",
+      "number": 3,
+      "title": "Power of belief",
+      "description": "Dance 1000 or higher"
+    },
+    {
+      "characterId": "hrnm",
+      "number": 1,
+      "title": "The ability of a 3rd-year student",
+      "description": "Vocal 200 or higher"
+    },
+    {
+      "characterId": "hrnm",
+      "number": 2,
+      "title": "To grab the dream again",
+      "description": "Dance 450 or higher"
+    },
+    {
+      "characterId": "hrnm",
+      "number": 3,
+      "title": "Everyone's big sister",
+      "description": "Visual 1000 or higher"
+    },
+    {
+      "characterId": "hski",
+      "number": 1,
+      "title": "A sure step forward",
+      "description": "Dance 200 or higher"
+    },
+    {
+      "characterId": "hski",
+      "number": 2,
+      "title": "Full speed ahead",
+      "description": "Vocal 450 or higher"
+    },
+    {
+      "characterId": "hski",
+      "number": 3,
+      "title": "The power to never lose",
+      "description": "Visual 900 or higher"
+    },
+    {
+      "characterId": "hume",
+      "number": 1,
+      "title": "Starting from minus",
+      "description": "Dance 300 or higher"
+    },
+    {
+      "characterId": "hume",
+      "number": 2,
+      "title": "Boundless talent",
+      "description": "Vocal 450 or higher"
+    },
+    {
+      "characterId": "hume",
+      "number": 3,
+      "title": "Explosion birth",
+      "description": "Dance 1000 or higher"
+    },
+    {
+      "characterId": "jsna",
+      "number": 1,
+      "title": "Re-start",
+      "description": "Dance 200 or higher"
+    },
+    {
+      "characterId": "jsna",
+      "number": 2,
+      "title": "Elite moving forward",
+      "description": "Vocal 450 or higher"
+    },
+    {
+      "characterId": "jsna",
+      "number": 3,
+      "title": "Radiantly shining",
+      "description": "Visual 900 or higher"
+    },
+    {
+      "characterId": "kcna",
+      "number": 1,
+      "title": "The first step",
+      "description": "Vocal 200 or higher"
+    },
+    {
+      "characterId": "kcna",
+      "number": 2,
+      "title": "The power of being cute and energetic",
+      "description": "Visual 450 or higher"
+    },
+    {
+      "characterId": "kcna",
+      "number": 3,
+      "title": "A step toward my aspiration",
+      "description": "Dance 1000 or higher"
+    },
+    {
+      "characterId": "kllj",
+      "number": 1,
+      "title": "One step at a time, little by little",
+      "description": "Dance 200 or higher"
+    },
+    {
+      "characterId": "kllj",
+      "number": 2,
+      "title": "The power to deliver",
+      "description": "Vocal 450 or higher"
+    },
+    {
+      "characterId": "kllj",
+      "number": 3,
+      "title": "Ideal image",
+      "description": "Visual 1000 or higher"
+    },
+    {
+      "characterId": "shro",
+      "number": 1,
+      "title": "Necessary foundational strength",
+      "description": "Vocal 300 or higher"
+    },
+    {
+      "characterId": "shro",
+      "number": 2,
+      "title": "Endurance to dance through",
+      "description": "Dance 450 or higher"
+    },
+    {
+      "characterId": "shro",
+      "number": 3,
+      "title": "The power to keep singing",
+      "description": "Vocal 1000 or higher"
+    },
+    {
+      "characterId": "ssmk",
+      "number": 1,
+      "title": "A step to move forward",
+      "description": "Dance 300 or higher"
+    },
+    {
+      "characterId": "ssmk",
+      "number": 2,
+      "title": "Polished smile",
+      "description": "Visual 450 or higher"
+    },
+    {
+      "characterId": "ssmk",
+      "number": 3,
+      "title": "Dancing once more",
+      "description": "Dance 1000 or higher"
+    },
+    {
+      "characterId": "ttmr",
+      "number": 1,
+      "title": "Showing my true ability",
+      "description": "Vocal 200 or higher"
+    },
+    {
+      "characterId": "ttmr",
+      "number": 2,
+      "title": "Overcoming weaknesses",
+      "description": "Dance 450 or higher"
+    },
+    {
+      "characterId": "ttmr",
+      "number": 3,
+      "title": "Breaking through limits",
+      "description": "Vocal 1000 or higher"
+    }
+  ]
 }

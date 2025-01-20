@@ -1,6 +1,25 @@
 {
-    "ProducePlanType_Common|name": "Common",
-    "ProducePlanType_Plan1|name": "【Sense Exclusive】",
-    "ProducePlanType_Plan2|name": "【Logic Exclusive】",
-    "ProducePlanType_Plan3|name": "【Anomaly Exclusive】"
+  "rules": {
+    "primaryKeys": [
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "type": "ProducePlanType_Common",
+      "name": "Common"
+    },
+    {
+      "type": "ProducePlanType_Plan1",
+      "name": "【Sense Exclusive】"
+    },
+    {
+      "type": "ProducePlanType_Plan2",
+      "name": "【Logic Exclusive】"
+    },
+    {
+      "type": "ProducePlanType_Plan3",
+      "name": "【Anomaly Exclusive】"
+    }
+  ]
 }

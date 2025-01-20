@@ -1,433 +1,1089 @@
 {
-    "amao-casl-0000|name": "Casual Outfit",
-    "amao-casl-0000|description": "Owned from the start",
-    "amao-casl-0001|name": "The Real Me",
-    "amao-casl-0001|description": "Raise Mao Arimura's Bond Level to 10",
-    "amao-cstm-0000|name": "Hajime",
-    "amao-cstm-0000|description": "Owned from the start",
-    "amao-cstm-0004|name": "Fluorite",
-    "amao-cstm-0004|description": "【Fluorite】Get Mao Arimura",
-    "amao-cstm-0016|name": "Fluorite",
-    "amao-cstm-0016|description": "【Fluorite】Obtained at the 4th stage of Mao Arimura's talent bloom",
-    "amao-cstm-0035|name": "Feel Jewel Dream",
-    "amao-cstm-0035|description": "【Feel Jewel Dream】Get Mao Arimura",
-    "amao-cstm-0036|name": "Feel Jewel Dream",
-    "amao-cstm-0036|description": "【Feel Jewel Dream】Obtained at the 4th stage of Mao Arimura's talent bloom",
-    "amao-cstm-0051|name": "Kimi to Semi Blue",
-    "amao-cstm-0051|description": "【Kimi to Semi Blue】Get Mao Arimura",
-    "amao-cstm-0053|name": "Campus mode!!",
-    "amao-cstm-0053|description": "【Campus mode!!】Get Mao Arimura",
-    "amao-cstm-0054|name": "Campus mode!!",
-    "amao-cstm-0054|description": "【Campus mode!!】Obtained at the 4th stage of Mao Arimura's talent bloom",
-    "amao-cstm-0063|name": "Kamugiroku",
-    "amao-cstm-0063|description": "【Fluorite】Get Festival '24 Mao Arimura",
-    "amao-cstm-0065|name": "Capriccio of Masquerades",
-    "amao-cstm-0065|description": "【Fluorite】Get Halloween '24 Mao Arimura",
-    "amao-cstm-0067|name": "White Night! White Wish!",
-    "amao-cstm-0067|description": "【Fluorite】Get Christmas '24 Mao Arimura",
-    "amao-cstm-0069|name": "Child's Smock",
-    "amao-cstm-0069|description": "Purchase the Child's Smock Costume Pack",
-    "amao-cstm-0072|name": "Gold Brilliance",
-    "amao-cstm-0072|description": "Clear Stage 10 of Mao Arimura's Idol Road",
-    "amao-cstm-0073|name": "Platinum Shine",
-    "amao-cstm-0073|description": "Clear Stage 15 of Mao Arimura's Idol Road",
-    "amao-othr-0002|name": "Hot Springs Swimwear",
-    "amao-othr-0002|description": "Purchase Hot Spring Swimwear (Mao Arimura)",
-    "amao-trng-0000|name": "Training Wear",
-    "amao-trng-0000|description": "Owned from the start",
-    "amao-trng-0001|name": "Training Wear",
-    "amao-trng-0001|description": "Rank up Mao Arimura's Master Achievement to Rank 3",
-    "amao-trng-0002|name": "Hatsuboshi Academy Gym Uniform",
-    "amao-trng-0002|description": "Purchase Hatsuboshi Academy Gym Uniform (Mao Arimura)",
-    "atbm-schl-0000|name": "Hatsuboshi Academy Uniform",
-    "atbm-schl-0000|description": "Owned from the start",
-    "fktn-casl-0000|name": "Casual Outfit",
-    "fktn-casl-0000|description": "Owned from the start",
-    "fktn-cstm-0000|name": "Hajime",
-    "fktn-cstm-0000|description": "Owned from the start",
-    "fktn-cstm-0001|name": "Sekaiichi Kawaii Watashi",
-    "fktn-cstm-0001|description": "【Sekaiichi Kawaii Watashi】Get Kotone Fujita",
-    "fktn-cstm-0013|name": "Sekaiichi Kawaii Watashi",
-    "fktn-cstm-0013|description": "【Sekaiichi Kawaii Watashi】Obtained at the 4th stage of Kotone Fujita's talent bloom",
-    "fktn-cstm-0027|name": "Yellow Big Bang！",
-    "fktn-cstm-0027|description": "【Yellow Big Bang！】Get Kotone Fujita",
-    "fktn-cstm-0028|name": "Yellow Big Bang！",
-    "fktn-cstm-0028|description": "【Yellow Big Bang！】Obtained at the 4th stage of Kotone Fujita's talent bloom",
-    "fktn-cstm-0045|name": "Kamugiroku",
-    "fktn-cstm-0045|description": "【Kamugiroku】Get Kotone Fujita",
-    "fktn-cstm-0046|name": "Kamugiroku",
-    "fktn-cstm-0046|description": "【Kamugiroku】Obtained at the 4th stage of Kotone Fujita's talent bloom",
-    "fktn-cstm-0051|name": "Kimi to Semi Blue",
-    "fktn-cstm-0051|description": "【Sekaiichi Kawaii Watashi】Get Summer '24 Kotone Fujita",
-    "fktn-cstm-0053|name": "Campus mode!!",
-    "fktn-cstm-0053|description": "【Campus mode!!】Get Kotone Fujita",
-    "fktn-cstm-0054|name": "Campus mode!!",
-    "fktn-cstm-0054|description": "【Campus mode!!】Obtained at the 4th stage of Kotone Fujita's talent bloom",
-    "fktn-cstm-0065|name": "Capriccio of Masquerades",
-    "fktn-cstm-0065|description": "【Sekaiichi Kawaii Watashi】Get Halloween '24 Kotone Fujita",
-    "fktn-cstm-0067|name": "White Night! White Wish!",
-    "fktn-cstm-0067|description": "【White Night! White Wish!】Get Kotone Fujita",
-    "fktn-cstm-0069|name": "Child's Smock",
-    "fktn-cstm-0069|description": "Purchase the Child's Smock Costume Pack",
-    "fktn-cstm-0072|name": "Gold Brilliance",
-    "fktn-cstm-0072|description": "Clear Stage 10 of Kotone Fujita's Idol Road",
-    "fktn-cstm-0073|name": "Platinum Shine",
-    "fktn-cstm-0073|description": "Clear Stage 15 of Kotone Fujita's Idol Road",
-    "fktn-othr-0002|name": "Hot Springs Swimwear",
-    "fktn-othr-0002|description": "Purchase Hot Spring Swimwear (Kotone Fujita)",
-    "fktn-trng-0000|name": "Training Wear",
-    "fktn-trng-0000|description": "Owned from the start",
-    "fktn-trng-0001|name": "Training Wear",
-    "fktn-trng-0001|description": "Rank up Kotone Fujita's Master Achievement to Rank 3",
-    "fktn-trng-0002|name": "Hatsuboshi Academy Gym Uniform",
-    "fktn-trng-0002|description": "Purchase Hatsuboshi Academy Gym Uniform (Kotone Fujita)",
-    "hmsz-schl-0000|name": "Hatsuboshi Academy Uniform",
-    "hmsz-schl-0000|description": "Owned from the start",
-    "hrnm-cstm-0000|name": "Hajime",
-    "hrnm-cstm-0000|description": "Owned from the start",
-    "hrnm-cstm-0005|name": "clumsy trick",
-    "hrnm-cstm-0005|description": "【clumsy trick】Get Rinami Himesaki",
-    "hrnm-cstm-0017|name": "clumsy trick",
-    "hrnm-cstm-0017|description": "【clumsy trick】Obtained at the 4th stage of Rinami Himesaki's talent bloom",
-    "hrnm-cstm-0037|name": "L.U.V",
-    "hrnm-cstm-0037|description": "【L.U.V】Get Rinami Himesaki",
-    "hrnm-cstm-0038|name": "L.U.V",
-    "hrnm-cstm-0038|description": "【L.U.V】Obtained at the 4th stage of Rinami Himesaki's talent bloom",
-    "hrnm-cstm-0043|name": "Kimi to Semi Blue",
-    "hrnm-cstm-0043|description": "【Kimi to Semi Blue】Get Rinami Himesaki",
-    "hrnm-cstm-0044|name": "Kimi to Semi Blue",
-    "hrnm-cstm-0044|description": "【Kimi to Semi Blue】Obtained at the 4th stage of Rinami Himesaki's talent bloom",
-    "hrnm-cstm-0053|name": "Campus mode!!",
-    "hrnm-cstm-0053|description": "【Campus mode!!】Get Rinami Himesaki",
-    "hrnm-cstm-0054|name": "Campus mode!!",
-    "hrnm-cstm-0054|description": "【Campus mode!!】Obtained at the 4th stage of Rinami Himesaki's talent bloom",
-    "hrnm-cstm-0063|name": "Kamugiroku",
-    "hrnm-cstm-0063|description": "【clumsy trick】Get Festival '24 Rinami Himesaki",
-    "hrnm-cstm-0065|name": "Capriccio of Masquerades",
-    "hrnm-cstm-0065|description": "【clumsy trick】Get Halloween '24 Rinami Himesaki",
-    "hrnm-cstm-0067|name": "White Night! White Wish!",
-    "hrnm-cstm-0067|description": "【clumsy trick】Get Christmas '24 Rinami Himesaki",
-    "hrnm-cstm-0069|name": "Child's Smock",
-    "hrnm-cstm-0069|description": "Purchase the Child's Smock Costume Pack",
-    "hrnm-cstm-0072|name": "Gold Brilliance",
-    "hrnm-cstm-0072|description": "Clear Stage 10 of Rinami Himesaki's Idol Road",
-    "hrnm-cstm-0073|name": "Platinum Shine",
-    "hrnm-cstm-0073|description": "Clear Stage 15 of Rinami Himesaki's Idol Road",
-    "hrnm-othr-0000|name": "Hot Spring Towel",
-    "hrnm-othr-0000|description": "Unavailable",
-    "hrnm-othr-0002|name": "Welcome to hatsuboshi Onsen",
-    "hrnm-othr-0002|description": "【Welcome to hatsuboshi Onsen】Get Rinami Himesaki",
-    "hrnm-othr-0003|name": "Welcome to hatsuboshi Onsen",
-    "hrnm-othr-0003|description": "【Welcome to hatsuboshi Onsen】Obtained at the 4th stage of Rinami Himesaki's talent bloom",
-    "hrnm-schl-0000|name": "Hatsuboshi Academy Uniform",
-    "hrnm-schl-0000|description": "Owned from the start",
-    "hrnm-trng-0000|name": "Training Wear",
-    "hrnm-trng-0000|description": "Owned from the start",
-    "hrnm-trng-0001|name": "Training Wear",
-    "hrnm-trng-0001|description": "Rank up Rinami Himesaki's Master Achievement to Rank 3",
-    "hrnm-trng-0002|name": "Hatsuboshi Academy Gym Uniform",
-    "hrnm-trng-0002|description": "Purchase Hatsuboshi Academy Gym Uniform (Rinami Himesaki)",
-    "hski-cstm-0000|name": "Hajime",
-    "hski-cstm-0000|description": "Owned from the start",
-    "hski-cstm-0002|name": "Fighting My Way",
-    "hski-cstm-0002|description": "【Fighting My Way】Get Saki Hanami",
-    "hski-cstm-0014|name": "Fighting My Way",
-    "hski-cstm-0014|description": "【Fighting My Way】Obtained at the 4th stage of Saki Hanami's talent bloom",
-    "hski-cstm-0029|name": "Boom Boom Pow",
-    "hski-cstm-0029|description": "【Boom Boom Pow】Get Saki Hanami",
-    "hski-cstm-0030|name": "Boom Boom Pow",
-    "hski-cstm-0030|description": "【Boom Boom Pow】Obtained at the 4th stage of Saki Hanami's talent bloom",
-    "hski-cstm-0051|name": "Kimi to Semi Blue",
-    "hski-cstm-0051|description": "【Fighting my way 】Get Summer '24 Saki Hanami",
-    "hski-cstm-0053|name": "Campus mode!!",
-    "hski-cstm-0053|description": "【Campus mode!!】Get Saki Hanami",
-    "hski-cstm-0054|name": "Campus mode!!",
-    "hski-cstm-0054|description": "【Campus mode!!】Obtained at the 4th stage of Saki Hanami's talent bloom",
-    "hski-cstm-0063|name": "Kamugiroku",
-    "hski-cstm-0063|description": "【Kamugiroku】Get Saki Hanami",
-    "hski-cstm-0065|name": "Capriccio of Masquerades",
-    "hski-cstm-0065|description": "【Fighting My Way】Get Halloween '24 Saki Hanami",
-    "hski-cstm-0067|name": "White Night! White Wish!",
-    "hski-cstm-0067|description": "【Fighting my way 】Get Christmas '24 Saki Hanami",
-    "hski-cstm-0069|name": "Child's Smock",
-    "hski-cstm-0069|description": "Purchase the Child's Smock Costume Pack",
-    "hski-cstm-0070|name": "It's a walk in the park",
-    "hski-cstm-0070|description": "【It's a walk in the park】Get Saki Hanami",
-    "hski-cstm-0072|name": "Gold Brilliance",
-    "hski-cstm-0072|description": "Clear Stage 10 of Saki Hanami's Idol Road",
-    "hski-cstm-0073|name": "Platinum Shine",
-    "hski-cstm-0073|description": "Clear Stage 15 of Saki Hanami's Idol Road",
-    "hski-cstm-0074|name": "It's a walk in the park",
-    "hski-cstm-0074|description": "【It's a walk in the park】Obtained at the 4th stage of Saki Hanami's talent bloom",
-    "hski-othr-0002|name": "Hot Springs Swimwear",
-    "hski-othr-0002|description": "Purchase Hot Spring Swimwear (Saki Hanami)",
-    "hski-schl-0000|name": "Hatsuboshi Academy Uniform",
-    "hski-schl-0000|description": "Owned from the start",
-    "hski-trng-0000|name": "Training Wear",
-    "hski-trng-0000|description": "Owned from the start",
-    "hski-trng-0001|name": "Training Wear",
-    "hski-trng-0001|description": "Rank up Saki Hanami's Master Achievement to Rank 3",
-    "hski-trng-0002|name": "Hatsuboshi Academy Gym Uniform",
-    "hski-trng-0002|description": "Purchase Hatsuboshi Academy Gym Uniform (Saki Hanami)",
-    "hume-cstm-0000|name": "Hajime",
-    "hume-cstm-0000|description": "Owned from the start",
-    "hume-cstm-0010|name": "The Rolling Riceball",
-    "hume-cstm-0010|description": "【The Rolling Riceball】Get Ume Hanami",
-    "hume-cstm-0022|name": "The Rolling Riceball",
-    "hume-cstm-0022|description": "【The Rolling Riceball】Obtained at the 4th stage of Ume Hanami's talent bloom",
-    "hume-cstm-0049|name": "White Night! White Wish!",
-    "hume-cstm-0049|description": "【White Night! White Wish!】Get Ume Hanami",
-    "hume-cstm-0050|name": "White Night! White Wish!",
-    "hume-cstm-0050|description": "【White Night! White Wish!】Obtained at the 4th stage of Ume Hanami's talent bloom",
-    "hume-cstm-0051|name": "Kimi to Semi Blue",
-    "hume-cstm-0051|description": "【The Rolling Riceball】Get Summer '24 Ume Hanami",
-    "hume-cstm-0053|name": "Campus mode!!",
-    "hume-cstm-0053|description": "【Campus mode!!】Get Ume Hanami",
-    "hume-cstm-0054|name": "Campus mode!!",
-    "hume-cstm-0054|description": "【Campus mode!!】Obtained at the 4th stage of Ume Hanami's talent bloom",
-    "hume-cstm-0063|name": "Kamugiroku",
-    "hume-cstm-0063|description": "【The Rolling Riceball】Get Festival '24 Ume Hanami",
-    "hume-cstm-0065|name": "Capriccio of Masquerades",
-    "hume-cstm-0065|description": "【The Rolling Riceball】Get Halloween '24 Ume Hanami",
-    "hume-cstm-0069|name": "Child's Smock",
-    "hume-cstm-0069|description": "Purchase Child's Smock (Ume Hanami)",
-    "hume-cstm-0072|name": "Gold Brilliance",
-    "hume-cstm-0072|description": "Clear Stage 10 of Ume Hanami's Idol Road",
-    "hume-cstm-0073|name": "Platinum Shine",
-    "hume-cstm-0073|description": "Clear Stage 15 of Ume Hanami's Idol Road",
-    "hume-othr-0000|name": "Hot Spring Towel",
-    "hume-othr-0000|description": "Unavailable",
-    "hume-othr-0002|name": "Hot Springs Swimwear",
-    "hume-schl-0000|name": "Hatsuboshi Academy Uniform",
-    "hume-schl-0000|description": "Owned from the start",
-    "hume-trng-0000|name": "Training Wear",
-    "hume-trng-0000|description": "Owned from the start",
-    "hume-trng-0001|name": "Training Wear",
-    "hume-trng-0001|description": "Rank up Ume Hanami's Master Achievement to Rank 3",
-    "hume-trng-0002|name": "Hatsuboshi Academy Gym Uniform",
-    "hume-trng-0002|description": "Purchase Hatsuboshi Academy Gym Uniform (Ume Hanami)",
-    "jsna-cstm-0000|name": "Hajime",
-    "jsna-cstm-0000|description": "Owned from the start",
-    "jsna-cstm-0012|name": "Tiny Ambition",
-    "jsna-cstm-0012|description": "【Tiny Ambition】Get Sena Juo",
-    "jsna-cstm-0024|name": "Tiny Ambition",
-    "jsna-cstm-0024|description": "【Tiny Ambition】Obtained at the 4th stage of Sena Juo's talent bloom",
-    "jsna-cstm-0053|name": "Campus mode!!",
-    "jsna-cstm-0053|description": "【Campus mode!!】Get Sena Juo",
-    "jsna-cstm-0054|name": "Campus mode!!",
-    "jsna-cstm-0054|description": "【Campus mode!!】Obtained at the 4th stage of Sena Juo's talent bloom",
-    "jsna-cstm-0069|name": "Child's Smock",
-    "jsna-cstm-0069|description": "Purchase Child's Smock (Sena Juo)",
-    "jsna-cstm-0072|name": "Gold Brilliance",
-    "jsna-cstm-0072|description": "Clear Stage 10 of Sena Juo's Idol Road",
-    "jsna-cstm-0073|name": "Platinum Shine",
-    "jsna-cstm-0073|description": "Clear Stage 15 of Sena Juo's Idol Road",
-    "jsna-othr-0002|name": "Hot Springs Swimwear",
-    "jsna-othr-0002|description": "Purchase Hot Spring Swimwear (Sena Juo)",
-    "jsna-schl-0000|name": "Hatsuboshi Academy Uniform",
-    "jsna-schl-0000|description": "Owned from the start",
-    "jsna-trng-0000|name": "Training Wear",
-    "jsna-trng-0000|description": "Owned from the start",
-    "jsna-trng-0001|name": "Training Wear",
-    "jsna-trng-0001|description": "Rank up Sena Juo's Master Achievement to Rank 3",
-    "jsna-trng-0002|name": "Hatsuboshi Academy Gym Uniform",
-    "jsna-trng-0002|description": "Purchase Hatsuboshi Academy Gym Uniform (Sena Juo)",
-    "kcna-casl-0000|name": "Casual Outfit",
-    "kcna-casl-0000|description": "Owned from the start",
-    "kcna-cstm-0000|name": "Hajime",
-    "kcna-cstm-0000|description": "Owned from the start",
-    "kcna-cstm-0008|name": "Wonder Scale",
-    "kcna-cstm-0008|description": "【Wonder Scale】Get China Kuramoto",
-    "kcna-cstm-0020|name": "Wonder Scale",
-    "kcna-cstm-0020|description": "【Wonder Scale】Obtained at the 4th stage of China Kuramoto's talent bloom",
-    "kcna-cstm-0033|name": "Every step is for discovery!",
-    "kcna-cstm-0033|description": "【Every step is for discovery!】Get China Kuramoto",
-    "kcna-cstm-0034|name": "Every step is for discovery!",
-    "kcna-cstm-0034|description": "【Every step is for discovery!】Obtained at the 4th stage of China Kuramoto's talent bloom",
-    "kcna-cstm-0051|name": "Kimi to Semi Blue",
-    "kcna-cstm-0051|description": "【Wonder Scale】Get Summer '24 China Kuramoto",
-    "kcna-cstm-0053|name": "Campus mode!!",
-    "kcna-cstm-0053|description": "【Campus mode!!】Get China Kuramoto",
-    "kcna-cstm-0054|name": "Campus mode!!",
-    "kcna-cstm-0054|description": "【Campus mode!!】Obtained at the 4th stage of China Kuramoto's talent bloom",
-    "kcna-cstm-0063|name": "Kamugiroku",
-    "kcna-cstm-0063|description": "【Wonder Scale】Get Festival '24 China Kuramoto",
-    "kcna-cstm-0065|name": "Capriccio of Masquerades",
-    "kcna-cstm-0065|description": "【Capriccio of Masquerades】Get China Kuramoto",
-    "kcna-cstm-0067|name": "White Night! White Wish!",
-    "kcna-cstm-0067|description": "【Wonder Scale】Get Christmas '24 China Kuramoto",
-    "kcna-cstm-0069|name": "Child's Smock",
-    "kcna-cstm-0069|description": "Purchase the Child's Smock Costume Pack",
-    "kcna-cstm-0072|name": "Gold Brilliance",
-    "kcna-cstm-0072|description": "Clear Stage 10 of China Kuramoto's Idol Road",
-    "kcna-cstm-0073|name": "Platinum Shine",
-    "kcna-cstm-0073|description": "Clear Stage 15 of China Kuramoto's Idol Road",
-    "kcna-othr-0002|name": "Welcome to hatsuboshi Onsen",
-    "kcna-othr-0002|description": "【Welcome to hatsuboshi Onsen】Get China Kuramoto",
-    "kcna-othr-0003|name": "Welcome to hatsuboshi Onsen",
-    "kcna-othr-0003|description": "【Welcome to hatsuboshi Onsen】Obtained at the 4th stage of China Kuramoto's talent bloom",
-    "kcna-trng-0000|name": "Training Wear",
-    "kcna-trng-0000|description": "Owned from the start",
-    "kcna-trng-0001|name": "Training Wear",
-    "kcna-trng-0001|description": "Rank up China Kuramoto's Master Achievement to Rank 3",
-    "kcna-trng-0002|name": "Hatsuboshi Academy Gym Uniform",
-    "kcna-trng-0002|description": "Purchase Hatsuboshi Academy Gym Uniform (China Kuramoto)",
-    "kllj-cstm-0000|name": "Hajime",
-    "kllj-cstm-0000|description": "Owned from the start",
-    "kllj-cstm-0007|name": "Hakusen",
-    "kllj-cstm-0007|description": "【Hakusen】Get Lilja Katsuragi",
-    "kllj-cstm-0019|name": "Hakusen",
-    "kllj-cstm-0019|description": "【Hakusen】Obtained at the 4th stage of Lilja Katsuragi's talent bloom",
-    "kllj-cstm-0045|name": "Kamugiroku",
-    "kllj-cstm-0045|description": "【Kamugiroku】Get Lilja Katsuragi",
-    "kllj-cstm-0046|name": "Kamugiroku",
-    "kllj-cstm-0046|description": "【Kamugiroku】Obtained at the 4th stage of Lilja Katsuragi's talent bloom",
-    "kllj-cstm-0049|name": "White Night! White Wish!",
-    "kllj-cstm-0049|description": "【White Night! White Wish!】Get Lilja Katsuragi",
-    "kllj-cstm-0050|name": "White Night! White Wish!",
-    "kllj-cstm-0050|description": "【White Night! White Wish!】Obtained at the 4th stage of Lilja Katsuragi's talent bloom",
-    "kllj-cstm-0051|name": "Kimi to Semi Blue",
-    "kllj-cstm-0051|description": "【Hakusen】Get Summer '24 Lilja Katsuragi",
-    "kllj-cstm-0053|name": "Campus mode!!",
-    "kllj-cstm-0053|description": "【Campus mode!!】Get Lilja Katsuragi",
-    "kllj-cstm-0054|name": "Campus mode!!",
-    "kllj-cstm-0054|description": "【Campus mode!!】Obtained at the 4th stage of Lilja Katsuragi's talent bloom",
-    "kllj-cstm-0065|name": "Capriccio of Masquerades",
-    "kllj-cstm-0065|description": "【Hakusen】Get Halloween '24 Lilja Katsuragi",
-    "kllj-cstm-0069|name": "Child's Smock",
-    "kllj-cstm-0069|description": "Purchase the Child's Smock Costume Pack",
-    "kllj-cstm-0072|name": "Gold Brilliance",
-    "kllj-cstm-0072|description": "Clear Stage 10 of Lilja Katsuragi's Idol Road",
-    "kllj-cstm-0073|name": "Platinum Shine",
-    "kllj-cstm-0073|description": "Clear Stage 15 of Lilja Katsuragi's Idol Road",
-    "kllj-othr-0002|name": "Hot Springs Swimwear",
-    "kllj-othr-0002|description": "Purchase Hot Spring Swimwear (Lilja Katsuragi)",
-    "kllj-schl-0000|name": "Hatsuboshi Academy Uniform",
-    "kllj-schl-0000|description": "Owned from the start",
-    "kllj-trng-0000|name": "Training Wear",
-    "kllj-trng-0000|description": "Owned from the start",
-    "kllj-trng-0001|name": "Training Wear",
-    "kllj-trng-0001|description": "Rank up Lilja Katsuragi's Master Achievement to Rank 3",
-    "kllj-trng-0002|name": "Hatsuboshi Academy Gym Uniform",
-    "kllj-trng-0002|description": "Purchase Hatsuboshi Academy Gym Uniform (Lilja Katsuragi)",
-    "shro-casl-0000|name": "Casual Outfit",
-    "shro-casl-0000|description": "Owned from the start",
-    "shro-cstm-0000|name": "Hajime",
-    "shro-cstm-0000|description": "Owned from the start",
-    "shro-cstm-0006|name": "Koukei",
-    "shro-cstm-0006|description": "【Koukei】Get Hiro Shinosawa",
-    "shro-cstm-0018|name": "Koukei",
-    "shro-cstm-0018|description": "【Koukei】Obtained at the 4th stage of Hiro Shinosawa's talent bloom",
-    "shro-cstm-0031|name": "Contrast",
-    "shro-cstm-0031|description": "【Contrast】Get Hiro Shinosawa",
-    "shro-cstm-0032|name": "Contrast",
-    "shro-cstm-0032|description": "【Contrast】Obtained at the 4th stage of Hiro Shinosawa's talent bloom",
-    "shro-cstm-0047|name": "Capriccio of Masquerades",
-    "shro-cstm-0047|description": "【Capriccio of Masquerades】Get Hiro Shinosawa",
-    "shro-cstm-0048|name": "Capriccio of Masquerades",
-    "shro-cstm-0048|description": "【Capriccio of Masquerades】Obtained at the 4th stage of Hiro Shinosawa's talent bloom",
-    "shro-cstm-0051|name": "Kimi to Semi Blue",
-    "shro-cstm-0051|description": "【Koukei】Get Summer '24 Hiro Shinosawa",
-    "shro-cstm-0053|name": "Campus mode!!",
-    "shro-cstm-0053|description": "【Campus mode!!】Get Hiro Shinosawa",
-    "shro-cstm-0054|name": "Campus mode!!",
-    "shro-cstm-0054|description": "【Campus mode!!】Obtained at the 4th stage of Hiro Shinosawa's talent bloom",
-    "shro-cstm-0063|name": "Kamugiroku",
-    "shro-cstm-0063|description": "【Koukei】Get Festival '24 Hiro Shinosawa",
-    "shro-cstm-0067|name": "White Night! White Wish!",
-    "shro-cstm-0067|description": "【Koukei】Get Christmas '24 Hiro Shinosawa",
-    "shro-cstm-0069|name": "Child's Smock",
-    "shro-cstm-0069|description": "Purchase the Child's Smock Costume Pack",
-    "shro-cstm-0072|name": "Gold Brilliance",
-    "shro-cstm-0072|description": "Clear Stage 10 of Hiro Shinosawa's Idol Road",
-    "shro-cstm-0073|name": "Platinum Shine",
-    "shro-cstm-0073|description": "Clear Stage 15 of Hiro Shinosawa's Idol Road",
-    "shro-othr-0002|name": "Hot Springs Swimwear",
-    "shro-othr-0002|description": "Purchase Hot Spring Swimwear (Hiro Shinosawa)",
-    "shro-trng-0000|name": "Training Wear",
-    "shro-trng-0000|description": "Owned from the start",
-    "shro-trng-0001|name": "Training Wear",
-    "shro-trng-0001|description": "Rank up Hiro Shinosawa's Master Achievement to Rank 3",
-    "shro-trng-0002|name": "Hatsuboshi Academy Gym Uniform",
-    "shro-trng-0002|description": "Purchase Hatsuboshi Academy Gym Uniform (Hiro Shinosawa)",
-    "ssmk-cstm-0000|name": "Hajime",
-    "ssmk-cstm-0000|description": "Owned from the start",
-    "ssmk-cstm-0009|name": "Tame-Lie-One-Step",
-    "ssmk-cstm-0009|description": "【Tame-Lie-One-Step】Get Sumika Shiun",
-    "ssmk-cstm-0021|name": "Tame-Lie-One-Step",
-    "ssmk-cstm-0021|description": "【Tame-Lie-One-Step】Obtained at the 4th stage of Sumika Shiun's talent bloom",
-    "ssmk-cstm-0039|name": "My hidden self",
-    "ssmk-cstm-0039|description": "【My hidden self】Get Sumika Shiun",
-    "ssmk-cstm-0040|name": "My hidden self",
-    "ssmk-cstm-0040|description": "【My hidden self】Obtained at the 4th stage of Sumika Shiun's talent bloom",
-    "ssmk-cstm-0043|name": "Kimi to Semi Blue",
-    "ssmk-cstm-0043|description": "【Kimi to Semi Blue】Get Sumika Shiun",
-    "ssmk-cstm-0044|name": "Kimi to Semi Blue",
-    "ssmk-cstm-0044|description": "【Kimi to Semi Blue】Obtained at the 4th stage of Sumika Shiun's talent bloom",
-    "ssmk-cstm-0053|name": "Campus mode!!",
-    "ssmk-cstm-0053|description": "【Campus mode!!】Get Sumika Shiun",
-    "ssmk-cstm-0054|name": "Campus mode!!",
-    "ssmk-cstm-0054|description": "【Campus mode!!】Obtained at the 4th stage of Sumika Shiun's talent bloom",
-    "ssmk-cstm-0063|name": "Kamugiroku",
-    "ssmk-cstm-0063|description": "【Tame-Lie-One-Step】Get Festival '24 Sumika Shiun",
-    "ssmk-cstm-0065|name": "Capriccio of Masquerades",
-    "ssmk-cstm-0065|description": "【Tame-Lie-One-Step】Get Halloween '24 Sumika Shiun",
-    "ssmk-cstm-0067|name": "White Night! White Wish!",
-    "ssmk-cstm-0067|description": "【Tame-Lie-One-Step】Get Christmas '24 Sumika Shiun",
-    "ssmk-cstm-0069|name": "Child's Smock",
-    "ssmk-cstm-0069|description": "Purchase the Child's Smock Costume Pack",
-    "ssmk-cstm-0072|name": "Gold Brilliance",
-    "ssmk-cstm-0072|description": "Clear Stage 10 of Sumika Shiun's Idol Road",
-    "ssmk-cstm-0073|name": "Platinum Shine",
-    "ssmk-cstm-0073|description": "Clear Stage 15 of Sumika Shiun's Idol Road",
-    "ssmk-othr-0002|name": "Hot Springs Swimwear",
-    "ssmk-othr-0002|description": "Purchase Hot Spring Swimwear (Sumika Shiun)",
-    "ssmk-schl-0000|name": "Hatsuboshi Academy Uniform",
-    "ssmk-schl-0000|description": "Owned from the start",
-    "ssmk-trng-0000|name": "Training Wear",
-    "ssmk-trng-0000|description": "Owned from the start",
-    "ssmk-trng-0001|name": "Training Wear",
-    "ssmk-trng-0001|description": "Rank up Sumika Shiun's Master Achievement to Rank 3",
-    "ssmk-trng-0002|name": "Hatsuboshi Academy Gym Uniform",
-    "ssmk-trng-0002|description": "Purchase Hatsuboshi Academy Gym Uniform (Sumika Shiun)",
-    "ttmr-casl-0000|name": "Casual Outfit",
-    "ttmr-casl-0000|description": "Owned from the start",
-    "ttmr-cstm-0000|name": "Hajime",
-    "ttmr-cstm-0000|description": "Owned from the start",
-    "ttmr-cstm-0003|name": "Luna say maybe",
-    "ttmr-cstm-0003|description": "【Luna say maybe】Get Temari Tsukimura",
-    "ttmr-cstm-0015|name": "Luna say maybe",
-    "ttmr-cstm-0015|description": "【Luna say maybe】Obtained at the 4th stage of Temari Tsukimura's talent bloom",
-    "ttmr-cstm-0025|name": "IVY",
-    "ttmr-cstm-0025|description": "【IVY】Get Temari Tsukimura",
-    "ttmr-cstm-0026|name": "IVY",
-    "ttmr-cstm-0026|description": "【IVY】Obtained at the 4th stage of Temari Tsukimura's talent bloom",
-    "ttmr-cstm-0047|name": "Capriccio of Masquerades",
-    "ttmr-cstm-0047|description": "【Capriccio of Masquerades】Get Temari Tsukimura",
-    "ttmr-cstm-0048|name": "Capriccio of Masquerades",
-    "ttmr-cstm-0048|description": "【Capriccio of Masquerades】Obtained at the 4th stage of Temari Tsukimura's talent bloom",
-    "ttmr-cstm-0051|name": "Kimi to Semi Blue",
-    "ttmr-cstm-0051|description": "【Luna say maybe】Get Summer '24 Temari Tsukimura",
-    "ttmr-cstm-0053|name": "Campus mode!!",
-    "ttmr-cstm-0053|description": "【Campus mode!!】Get Temari Tsukimura",
-    "ttmr-cstm-0054|name": "Campus mode!!",
-    "ttmr-cstm-0054|description": "【Campus mode!!】Obtained at the 4th stage of Temari Tsukimura's talent bloom",
-    "ttmr-cstm-0063|name": "Kamugiroku",
-    "ttmr-cstm-0063|description": "【Luna say maybe】Get Festival '24 Temari Tsukimura",
-    "ttmr-cstm-0067|name": "White Night! White Wish!",
-    "ttmr-cstm-0067|description": "【Luna say maybe】Get Christmas '24 Temari Tsukimura",
-    "ttmr-cstm-0069|name": "Child's Smock",
-    "ttmr-cstm-0069|description": "Purchase the Child's Smock Costume Pack",
-    "ttmr-cstm-0072|name": "Gold Brilliance",
-    "ttmr-cstm-0072|description": "Clear Stage 10 of Temari Tsukimura's Idol Road",
-    "ttmr-cstm-0073|name": "Platinum Shine",
-    "ttmr-cstm-0073|description": "Clear Stage 15 of Temari Tsukimura's Idol Road",
-    "ttmr-othr-0002|name": "Hot Springs Swimwear",
-    "ttmr-othr-0002|description": "Purchase Hot Spring Swimwear (Temari Tsukimura)",
-    "ttmr-trng-0000|name": "Training Wear",
-    "ttmr-trng-0000|description": "Owned from the start",
-    "ttmr-trng-0001|name": "Training Wear",
-    "ttmr-trng-0001|description": "Rank up Temari Tsukimura's Master Achievement to Rank 3",
-    "ttmr-trng-0002|name": "Hatsuboshi Academy Gym Uniform",
-    "ttmr-trng-0002|description": "Purchase Hatsuboshi Academy Gym Uniform (Temari Tsukimura)"
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "amao-casl-0000",
+      "name": "Casual Outfit",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "amao-casl-0001",
+      "name": "The Real Me",
+      "description": "Raise Mao Arimura's Bond Level to 10"
+    },
+    {
+      "id": "amao-cstm-0000",
+      "name": "Hajime",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "amao-cstm-0004",
+      "name": "Fluorite",
+      "description": "【Fluorite】Get Mao Arimura"
+    },
+    {
+      "id": "amao-cstm-0016",
+      "name": "Fluorite",
+      "description": "【Fluorite】Obtained at the 4th stage of Mao Arimura's talent bloom"
+    },
+    {
+      "id": "amao-cstm-0035",
+      "name": "Feel Jewel Dream",
+      "description": "【Feel Jewel Dream】Get Mao Arimura"
+    },
+    {
+      "id": "amao-cstm-0036",
+      "name": "Feel Jewel Dream",
+      "description": "【Feel Jewel Dream】Obtained at the 4th stage of Mao Arimura's talent bloom"
+    },
+    {
+      "id": "amao-cstm-0051",
+      "name": "Kimi to Semi Blue",
+      "description": "【Kimi to Semi Blue】Get Mao Arimura"
+    },
+    {
+      "id": "amao-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Get Mao Arimura"
+    },
+    {
+      "id": "amao-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Obtained at the 4th stage of Mao Arimura's talent bloom"
+    },
+    {
+      "id": "amao-cstm-0063",
+      "name": "Kamugiroku",
+      "description": "【Fluorite】Get Festival '24 Mao Arimura"
+    },
+    {
+      "id": "amao-cstm-0065",
+      "name": "Capriccio of Masquerades",
+      "description": "【Fluorite】Get Halloween '24 Mao Arimura"
+    },
+    {
+      "id": "amao-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【Fluorite】Get Christmas '24 Mao Arimura"
+    },
+    {
+      "id": "amao-cstm-0069",
+      "name": "Child's Smock",
+      "description": "Purchase the Child's Smock Costume Pack"
+    },
+    {
+      "id": "amao-cstm-0072",
+      "name": "Gold Brilliance",
+      "description": "Clear Stage 10 of Mao Arimura's Idol Road"
+    },
+    {
+      "id": "amao-cstm-0073",
+      "name": "Platinum Shine",
+      "description": "Clear Stage 15 of Mao Arimura's Idol Road"
+    },
+    {
+      "id": "amao-othr-0002",
+      "name": "Hot Springs Swimwear",
+      "description": "Purchase Hot Spring Swimwear (Mao Arimura)"
+    },
+    {
+      "id": "amao-trng-0000",
+      "name": "Training Wear",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "amao-trng-0001",
+      "name": "Training Wear",
+      "description": "Rank up Mao Arimura's Master Achievement to Rank 3"
+    },
+    {
+      "id": "amao-trng-0002",
+      "name": "Hatsuboshi Academy Gym Uniform",
+      "description": "Purchase Hatsuboshi Academy Gym Uniform (Mao Arimura)"
+    },
+    {
+      "id": "atbm-schl-0000",
+      "name": "Hatsuboshi Academy Uniform",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "fktn-casl-0000",
+      "name": "Casual Outfit",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "fktn-cstm-0000",
+      "name": "Hajime",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "fktn-cstm-0001",
+      "name": "Sekaiichi Kawaii Watashi",
+      "description": "【Sekaiichi Kawaii Watashi】Get Kotone Fujita"
+    },
+    {
+      "id": "fktn-cstm-0013",
+      "name": "Sekaiichi Kawaii Watashi",
+      "description": "【Sekaiichi Kawaii Watashi】Obtained at the 4th stage of Kotone Fujita's talent bloom"
+    },
+    {
+      "id": "fktn-cstm-0027",
+      "name": "Yellow Big Bang！",
+      "description": "【Yellow Big Bang！】Get Kotone Fujita"
+    },
+    {
+      "id": "fktn-cstm-0028",
+      "name": "Yellow Big Bang！",
+      "description": "【Yellow Big Bang！】Obtained at the 4th stage of Kotone Fujita's talent bloom"
+    },
+    {
+      "id": "fktn-cstm-0045",
+      "name": "Kamugiroku",
+      "description": "【Kamugiroku】Get Kotone Fujita"
+    },
+    {
+      "id": "fktn-cstm-0046",
+      "name": "Kamugiroku",
+      "description": "【Kamugiroku】Obtained at the 4th stage of Kotone Fujita's talent bloom"
+    },
+    {
+      "id": "fktn-cstm-0051",
+      "name": "Kimi to Semi Blue",
+      "description": "【Sekaiichi Kawaii Watashi】Get Summer '24 Kotone Fujita"
+    },
+    {
+      "id": "fktn-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Get Kotone Fujita"
+    },
+    {
+      "id": "fktn-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Obtained at the 4th stage of Kotone Fujita's talent bloom"
+    },
+    {
+      "id": "fktn-cstm-0065",
+      "name": "Capriccio of Masquerades",
+      "description": "【Sekaiichi Kawaii Watashi】Get Halloween '24 Kotone Fujita"
+    },
+    {
+      "id": "fktn-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【White Night! White Wish!】Get Kotone Fujita"
+    },
+    {
+      "id": "fktn-cstm-0069",
+      "name": "Child's Smock",
+      "description": "Purchase the Child's Smock Costume Pack"
+    },
+    {
+      "id": "fktn-cstm-0072",
+      "name": "Gold Brilliance",
+      "description": "Clear Stage 10 of Kotone Fujita's Idol Road"
+    },
+    {
+      "id": "fktn-cstm-0073",
+      "name": "Platinum Shine",
+      "description": "Clear Stage 15 of Kotone Fujita's Idol Road"
+    },
+    {
+      "id": "fktn-othr-0002",
+      "name": "Hot Springs Swimwear",
+      "description": "Purchase Hot Spring Swimwear (Kotone Fujita)"
+    },
+    {
+      "id": "fktn-trng-0000",
+      "name": "Training Wear",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "fktn-trng-0001",
+      "name": "Training Wear",
+      "description": "Rank up Kotone Fujita's Master Achievement to Rank 3"
+    },
+    {
+      "id": "fktn-trng-0002",
+      "name": "Hatsuboshi Academy Gym Uniform",
+      "description": "Purchase Hatsuboshi Academy Gym Uniform (Kotone Fujita)"
+    },
+    {
+      "id": "hmsz-schl-0000",
+      "name": "Hatsuboshi Academy Uniform",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "hrnm-cstm-0000",
+      "name": "Hajime",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "hrnm-cstm-0005",
+      "name": "clumsy trick",
+      "description": "【clumsy trick】Get Rinami Himesaki"
+    },
+    {
+      "id": "hrnm-cstm-0017",
+      "name": "clumsy trick",
+      "description": "【clumsy trick】Obtained at the 4th stage of Rinami Himesaki's talent bloom"
+    },
+    {
+      "id": "hrnm-cstm-0037",
+      "name": "L.U.V",
+      "description": "【L.U.V】Get Rinami Himesaki"
+    },
+    {
+      "id": "hrnm-cstm-0038",
+      "name": "L.U.V",
+      "description": "【L.U.V】Obtained at the 4th stage of Rinami Himesaki's talent bloom"
+    },
+    {
+      "id": "hrnm-cstm-0043",
+      "name": "Kimi to Semi Blue",
+      "description": "【Kimi to Semi Blue】Get Rinami Himesaki"
+    },
+    {
+      "id": "hrnm-cstm-0044",
+      "name": "Kimi to Semi Blue",
+      "description": "【Kimi to Semi Blue】Obtained at the 4th stage of Rinami Himesaki's talent bloom"
+    },
+    {
+      "id": "hrnm-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Get Rinami Himesaki"
+    },
+    {
+      "id": "hrnm-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Obtained at the 4th stage of Rinami Himesaki's talent bloom"
+    },
+    {
+      "id": "hrnm-cstm-0063",
+      "name": "Kamugiroku",
+      "description": "【clumsy trick】Get Festival '24 Rinami Himesaki"
+    },
+    {
+      "id": "hrnm-cstm-0065",
+      "name": "Capriccio of Masquerades",
+      "description": "【clumsy trick】Get Halloween '24 Rinami Himesaki"
+    },
+    {
+      "id": "hrnm-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【clumsy trick】Get Christmas '24 Rinami Himesaki"
+    },
+    {
+      "id": "hrnm-cstm-0069",
+      "name": "Child's Smock",
+      "description": "Purchase the Child's Smock Costume Pack"
+    },
+    {
+      "id": "hrnm-cstm-0072",
+      "name": "Gold Brilliance",
+      "description": "Clear Stage 10 of Rinami Himesaki's Idol Road"
+    },
+    {
+      "id": "hrnm-cstm-0073",
+      "name": "Platinum Shine",
+      "description": "Clear Stage 15 of Rinami Himesaki's Idol Road"
+    },
+    {
+      "id": "hrnm-othr-0000",
+      "name": "Hot Spring Towel",
+      "description": "Unavailable"
+    },
+    {
+      "id": "hrnm-othr-0002",
+      "name": "Welcome to hatsuboshi Onsen",
+      "description": "【Welcome to hatsuboshi Onsen】Get Rinami Himesaki"
+    },
+    {
+      "id": "hrnm-othr-0003",
+      "name": "Welcome to hatsuboshi Onsen",
+      "description": "【Welcome to hatsuboshi Onsen】Obtained at the 4th stage of Rinami Himesaki's talent bloom"
+    },
+    {
+      "id": "hrnm-schl-0000",
+      "name": "Hatsuboshi Academy Uniform",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "hrnm-trng-0000",
+      "name": "Training Wear",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "hrnm-trng-0001",
+      "name": "Training Wear",
+      "description": "Rank up Rinami Himesaki's Master Achievement to Rank 3"
+    },
+    {
+      "id": "hrnm-trng-0002",
+      "name": "Hatsuboshi Academy Gym Uniform",
+      "description": "Purchase Hatsuboshi Academy Gym Uniform (Rinami Himesaki)"
+    },
+    {
+      "id": "hski-cstm-0000",
+      "name": "Hajime",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "hski-cstm-0002",
+      "name": "Fighting My Way",
+      "description": "【Fighting My Way】Get Saki Hanami"
+    },
+    {
+      "id": "hski-cstm-0014",
+      "name": "Fighting My Way",
+      "description": "【Fighting My Way】Obtained at the 4th stage of Saki Hanami's talent bloom"
+    },
+    {
+      "id": "hski-cstm-0029",
+      "name": "Boom Boom Pow",
+      "description": "【Boom Boom Pow】Get Saki Hanami"
+    },
+    {
+      "id": "hski-cstm-0030",
+      "name": "Boom Boom Pow",
+      "description": "【Boom Boom Pow】Obtained at the 4th stage of Saki Hanami's talent bloom"
+    },
+    {
+      "id": "hski-cstm-0051",
+      "name": "Kimi to Semi Blue",
+      "description": "【Fighting my way 】Get Summer '24 Saki Hanami"
+    },
+    {
+      "id": "hski-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Get Saki Hanami"
+    },
+    {
+      "id": "hski-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Obtained at the 4th stage of Saki Hanami's talent bloom"
+    },
+    {
+      "id": "hski-cstm-0063",
+      "name": "Kamugiroku",
+      "description": "【Kamugiroku】Get Saki Hanami"
+    },
+    {
+      "id": "hski-cstm-0065",
+      "name": "Capriccio of Masquerades",
+      "description": "【Fighting My Way】Get Halloween '24 Saki Hanami"
+    },
+    {
+      "id": "hski-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【Fighting my way 】Get Christmas '24 Saki Hanami"
+    },
+    {
+      "id": "hski-cstm-0069",
+      "name": "Child's Smock",
+      "description": "Purchase the Child's Smock Costume Pack"
+    },
+    {
+      "id": "hski-cstm-0070",
+      "name": "It's a walk in the park",
+      "description": "【It's a walk in the park】Get Saki Hanami"
+    },
+    {
+      "id": "hski-cstm-0072",
+      "name": "Gold Brilliance",
+      "description": "Clear Stage 10 of Saki Hanami's Idol Road"
+    },
+    {
+      "id": "hski-cstm-0073",
+      "name": "Platinum Shine",
+      "description": "Clear Stage 15 of Saki Hanami's Idol Road"
+    },
+    {
+      "id": "hski-cstm-0074",
+      "name": "It's a walk in the park",
+      "description": "【It's a walk in the park】Obtained at the 4th stage of Saki Hanami's talent bloom"
+    },
+    {
+      "id": "hski-othr-0002",
+      "name": "Hot Springs Swimwear",
+      "description": "Purchase Hot Spring Swimwear (Saki Hanami)"
+    },
+    {
+      "id": "hski-schl-0000",
+      "name": "Hatsuboshi Academy Uniform",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "hski-trng-0000",
+      "name": "Training Wear",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "hski-trng-0001",
+      "name": "Training Wear",
+      "description": "Rank up Saki Hanami's Master Achievement to Rank 3"
+    },
+    {
+      "id": "hski-trng-0002",
+      "name": "Hatsuboshi Academy Gym Uniform",
+      "description": "Purchase Hatsuboshi Academy Gym Uniform (Saki Hanami)"
+    },
+    {
+      "id": "hume-cstm-0000",
+      "name": "Hajime",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "hume-cstm-0010",
+      "name": "The Rolling Riceball",
+      "description": "【The Rolling Riceball】Get Ume Hanami"
+    },
+    {
+      "id": "hume-cstm-0022",
+      "name": "The Rolling Riceball",
+      "description": "【The Rolling Riceball】Obtained at the 4th stage of Ume Hanami's talent bloom"
+    },
+    {
+      "id": "hume-cstm-0049",
+      "name": "White Night! White Wish!",
+      "description": "【White Night! White Wish!】Get Ume Hanami"
+    },
+    {
+      "id": "hume-cstm-0050",
+      "name": "White Night! White Wish!",
+      "description": "【White Night! White Wish!】Obtained at the 4th stage of Ume Hanami's talent bloom"
+    },
+    {
+      "id": "hume-cstm-0051",
+      "name": "Kimi to Semi Blue",
+      "description": "【The Rolling Riceball】Get Summer '24 Ume Hanami"
+    },
+    {
+      "id": "hume-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Get Ume Hanami"
+    },
+    {
+      "id": "hume-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Obtained at the 4th stage of Ume Hanami's talent bloom"
+    },
+    {
+      "id": "hume-cstm-0063",
+      "name": "Kamugiroku",
+      "description": "【The Rolling Riceball】Get Festival '24 Ume Hanami"
+    },
+    {
+      "id": "hume-cstm-0065",
+      "name": "Capriccio of Masquerades",
+      "description": "【The Rolling Riceball】Get Halloween '24 Ume Hanami"
+    },
+    {
+      "id": "hume-cstm-0069",
+      "name": "Child's Smock",
+      "description": "Purchase Child's Smock (Ume Hanami)"
+    },
+    {
+      "id": "hume-cstm-0072",
+      "name": "Gold Brilliance",
+      "description": "Clear Stage 10 of Ume Hanami's Idol Road"
+    },
+    {
+      "id": "hume-cstm-0073",
+      "name": "Platinum Shine",
+      "description": "Clear Stage 15 of Ume Hanami's Idol Road"
+    },
+    {
+      "id": "hume-othr-0000",
+      "name": "Hot Spring Towel",
+      "description": "Unavailable"
+    },
+    {
+      "id": "hume-othr-0002",
+      "name": "Hot Springs Swimwear",
+      "description": ""
+    },
+    {
+      "id": "hume-schl-0000",
+      "name": "Hatsuboshi Academy Uniform",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "hume-trng-0000",
+      "name": "Training Wear",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "hume-trng-0001",
+      "name": "Training Wear",
+      "description": "Rank up Ume Hanami's Master Achievement to Rank 3"
+    },
+    {
+      "id": "hume-trng-0002",
+      "name": "Hatsuboshi Academy Gym Uniform",
+      "description": "Purchase Hatsuboshi Academy Gym Uniform (Ume Hanami)"
+    },
+    {
+      "id": "jsna-cstm-0000",
+      "name": "Hajime",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "jsna-cstm-0012",
+      "name": "Tiny Ambition",
+      "description": "【Tiny Ambition】Get Sena Juo"
+    },
+    {
+      "id": "jsna-cstm-0024",
+      "name": "Tiny Ambition",
+      "description": "【Tiny Ambition】Obtained at the 4th stage of Sena Juo's talent bloom"
+    },
+    {
+      "id": "jsna-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Get Sena Juo"
+    },
+    {
+      "id": "jsna-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Obtained at the 4th stage of Sena Juo's talent bloom"
+    },
+    {
+      "id": "jsna-cstm-0069",
+      "name": "Child's Smock",
+      "description": "Purchase Child's Smock (Sena Juo)"
+    },
+    {
+      "id": "jsna-cstm-0072",
+      "name": "Gold Brilliance",
+      "description": "Clear Stage 10 of Sena Juo's Idol Road"
+    },
+    {
+      "id": "jsna-cstm-0073",
+      "name": "Platinum Shine",
+      "description": "Clear Stage 15 of Sena Juo's Idol Road"
+    },
+    {
+      "id": "jsna-othr-0002",
+      "name": "Hot Springs Swimwear",
+      "description": "Purchase Hot Spring Swimwear (Sena Juo)"
+    },
+    {
+      "id": "jsna-schl-0000",
+      "name": "Hatsuboshi Academy Uniform",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "jsna-trng-0000",
+      "name": "Training Wear",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "jsna-trng-0001",
+      "name": "Training Wear",
+      "description": "Rank up Sena Juo's Master Achievement to Rank 3"
+    },
+    {
+      "id": "jsna-trng-0002",
+      "name": "Hatsuboshi Academy Gym Uniform",
+      "description": "Purchase Hatsuboshi Academy Gym Uniform (Sena Juo)"
+    },
+    {
+      "id": "kcna-casl-0000",
+      "name": "Casual Outfit",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "kcna-cstm-0000",
+      "name": "Hajime",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "kcna-cstm-0008",
+      "name": "Wonder Scale",
+      "description": "【Wonder Scale】Get China Kuramoto"
+    },
+    {
+      "id": "kcna-cstm-0020",
+      "name": "Wonder Scale",
+      "description": "【Wonder Scale】Obtained at the 4th stage of China Kuramoto's talent bloom"
+    },
+    {
+      "id": "kcna-cstm-0033",
+      "name": "Every step is for discovery!",
+      "description": "【Every step is for discovery!】Get China Kuramoto"
+    },
+    {
+      "id": "kcna-cstm-0034",
+      "name": "Every step is for discovery!",
+      "description": "【Every step is for discovery!】Obtained at the 4th stage of China Kuramoto's talent bloom"
+    },
+    {
+      "id": "kcna-cstm-0051",
+      "name": "Kimi to Semi Blue",
+      "description": "【Wonder Scale】Get Summer '24 China Kuramoto"
+    },
+    {
+      "id": "kcna-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Get China Kuramoto"
+    },
+    {
+      "id": "kcna-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Obtained at the 4th stage of China Kuramoto's talent bloom"
+    },
+    {
+      "id": "kcna-cstm-0063",
+      "name": "Kamugiroku",
+      "description": "【Wonder Scale】Get Festival '24 China Kuramoto"
+    },
+    {
+      "id": "kcna-cstm-0065",
+      "name": "Capriccio of Masquerades",
+      "description": "【Capriccio of Masquerades】Get China Kuramoto"
+    },
+    {
+      "id": "kcna-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【Wonder Scale】Get Christmas '24 China Kuramoto"
+    },
+    {
+      "id": "kcna-cstm-0069",
+      "name": "Child's Smock",
+      "description": "Purchase the Child's Smock Costume Pack"
+    },
+    {
+      "id": "kcna-cstm-0072",
+      "name": "Gold Brilliance",
+      "description": "Clear Stage 10 of China Kuramoto's Idol Road"
+    },
+    {
+      "id": "kcna-cstm-0073",
+      "name": "Platinum Shine",
+      "description": "Clear Stage 15 of China Kuramoto's Idol Road"
+    },
+    {
+      "id": "kcna-othr-0002",
+      "name": "Welcome to hatsuboshi Onsen",
+      "description": "【Welcome to hatsuboshi Onsen】Get China Kuramoto"
+    },
+    {
+      "id": "kcna-othr-0003",
+      "name": "Welcome to hatsuboshi Onsen",
+      "description": "【Welcome to hatsuboshi Onsen】Obtained at the 4th stage of China Kuramoto's talent bloom"
+    },
+    {
+      "id": "kcna-trng-0000",
+      "name": "Training Wear",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "kcna-trng-0001",
+      "name": "Training Wear",
+      "description": "Rank up China Kuramoto's Master Achievement to Rank 3"
+    },
+    {
+      "id": "kcna-trng-0002",
+      "name": "Hatsuboshi Academy Gym Uniform",
+      "description": "Purchase Hatsuboshi Academy Gym Uniform (China Kuramoto)"
+    },
+    {
+      "id": "kllj-cstm-0000",
+      "name": "Hajime",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "kllj-cstm-0007",
+      "name": "Hakusen",
+      "description": "【Hakusen】Get Lilja Katsuragi"
+    },
+    {
+      "id": "kllj-cstm-0019",
+      "name": "Hakusen",
+      "description": "【Hakusen】Obtained at the 4th stage of Lilja Katsuragi's talent bloom"
+    },
+    {
+      "id": "kllj-cstm-0045",
+      "name": "Kamugiroku",
+      "description": "【Kamugiroku】Get Lilja Katsuragi"
+    },
+    {
+      "id": "kllj-cstm-0046",
+      "name": "Kamugiroku",
+      "description": "【Kamugiroku】Obtained at the 4th stage of Lilja Katsuragi's talent bloom"
+    },
+    {
+      "id": "kllj-cstm-0049",
+      "name": "White Night! White Wish!",
+      "description": "【White Night! White Wish!】Get Lilja Katsuragi"
+    },
+    {
+      "id": "kllj-cstm-0050",
+      "name": "White Night! White Wish!",
+      "description": "【White Night! White Wish!】Obtained at the 4th stage of Lilja Katsuragi's talent bloom"
+    },
+    {
+      "id": "kllj-cstm-0051",
+      "name": "Kimi to Semi Blue",
+      "description": "【Hakusen】Get Summer '24 Lilja Katsuragi"
+    },
+    {
+      "id": "kllj-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Get Lilja Katsuragi"
+    },
+    {
+      "id": "kllj-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Obtained at the 4th stage of Lilja Katsuragi's talent bloom"
+    },
+    {
+      "id": "kllj-cstm-0065",
+      "name": "Capriccio of Masquerades",
+      "description": "【Hakusen】Get Halloween '24 Lilja Katsuragi"
+    },
+    {
+      "id": "kllj-cstm-0069",
+      "name": "Child's Smock",
+      "description": "Purchase the Child's Smock Costume Pack"
+    },
+    {
+      "id": "kllj-cstm-0072",
+      "name": "Gold Brilliance",
+      "description": "Clear Stage 10 of Lilja Katsuragi's Idol Road"
+    },
+    {
+      "id": "kllj-cstm-0073",
+      "name": "Platinum Shine",
+      "description": "Clear Stage 15 of Lilja Katsuragi's Idol Road"
+    },
+    {
+      "id": "kllj-othr-0002",
+      "name": "Hot Springs Swimwear",
+      "description": "Purchase Hot Spring Swimwear (Lilja Katsuragi)"
+    },
+    {
+      "id": "kllj-schl-0000",
+      "name": "Hatsuboshi Academy Uniform",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "kllj-trng-0000",
+      "name": "Training Wear",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "kllj-trng-0001",
+      "name": "Training Wear",
+      "description": "Rank up Lilja Katsuragi's Master Achievement to Rank 3"
+    },
+    {
+      "id": "kllj-trng-0002",
+      "name": "Hatsuboshi Academy Gym Uniform",
+      "description": "Purchase Hatsuboshi Academy Gym Uniform (Lilja Katsuragi)"
+    },
+    {
+      "id": "shro-casl-0000",
+      "name": "Casual Outfit",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "shro-cstm-0000",
+      "name": "Hajime",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "shro-cstm-0006",
+      "name": "Koukei",
+      "description": "【Koukei】Get Hiro Shinosawa"
+    },
+    {
+      "id": "shro-cstm-0018",
+      "name": "Koukei",
+      "description": "【Koukei】Obtained at the 4th stage of Hiro Shinosawa's talent bloom"
+    },
+    {
+      "id": "shro-cstm-0031",
+      "name": "Contrast",
+      "description": "【Contrast】Get Hiro Shinosawa"
+    },
+    {
+      "id": "shro-cstm-0032",
+      "name": "Contrast",
+      "description": "【Contrast】Obtained at the 4th stage of Hiro Shinosawa's talent bloom"
+    },
+    {
+      "id": "shro-cstm-0047",
+      "name": "Capriccio of Masquerades",
+      "description": "【Capriccio of Masquerades】Get Hiro Shinosawa"
+    },
+    {
+      "id": "shro-cstm-0048",
+      "name": "Capriccio of Masquerades",
+      "description": "【Capriccio of Masquerades】Obtained at the 4th stage of Hiro Shinosawa's talent bloom"
+    },
+    {
+      "id": "shro-cstm-0051",
+      "name": "Kimi to Semi Blue",
+      "description": "【Koukei】Get Summer '24 Hiro Shinosawa"
+    },
+    {
+      "id": "shro-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Get Hiro Shinosawa"
+    },
+    {
+      "id": "shro-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Obtained at the 4th stage of Hiro Shinosawa's talent bloom"
+    },
+    {
+      "id": "shro-cstm-0063",
+      "name": "Kamugiroku",
+      "description": "【Koukei】Get Festival '24 Hiro Shinosawa"
+    },
+    {
+      "id": "shro-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【Koukei】Get Christmas '24 Hiro Shinosawa"
+    },
+    {
+      "id": "shro-cstm-0069",
+      "name": "Child's Smock",
+      "description": "Purchase the Child's Smock Costume Pack"
+    },
+    {
+      "id": "shro-cstm-0072",
+      "name": "Gold Brilliance",
+      "description": "Clear Stage 10 of Hiro Shinosawa's Idol Road"
+    },
+    {
+      "id": "shro-cstm-0073",
+      "name": "Platinum Shine",
+      "description": "Clear Stage 15 of Hiro Shinosawa's Idol Road"
+    },
+    {
+      "id": "shro-othr-0002",
+      "name": "Hot Springs Swimwear",
+      "description": "Purchase Hot Spring Swimwear (Hiro Shinosawa)"
+    },
+    {
+      "id": "shro-trng-0000",
+      "name": "Training Wear",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "shro-trng-0001",
+      "name": "Training Wear",
+      "description": "Rank up Hiro Shinosawa's Master Achievement to Rank 3"
+    },
+    {
+      "id": "shro-trng-0002",
+      "name": "Hatsuboshi Academy Gym Uniform",
+      "description": "Purchase Hatsuboshi Academy Gym Uniform (Hiro Shinosawa)"
+    },
+    {
+      "id": "ssmk-cstm-0000",
+      "name": "Hajime",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "ssmk-cstm-0009",
+      "name": "Tame-Lie-One-Step",
+      "description": "【Tame-Lie-One-Step】Get Sumika Shiun"
+    },
+    {
+      "id": "ssmk-cstm-0021",
+      "name": "Tame-Lie-One-Step",
+      "description": "【Tame-Lie-One-Step】Obtained at the 4th stage of Sumika Shiun's talent bloom"
+    },
+    {
+      "id": "ssmk-cstm-0039",
+      "name": "My hidden self",
+      "description": "【My hidden self】Get Sumika Shiun"
+    },
+    {
+      "id": "ssmk-cstm-0040",
+      "name": "My hidden self",
+      "description": "【My hidden self】Obtained at the 4th stage of Sumika Shiun's talent bloom"
+    },
+    {
+      "id": "ssmk-cstm-0043",
+      "name": "Kimi to Semi Blue",
+      "description": "【Kimi to Semi Blue】Get Sumika Shiun"
+    },
+    {
+      "id": "ssmk-cstm-0044",
+      "name": "Kimi to Semi Blue",
+      "description": "【Kimi to Semi Blue】Obtained at the 4th stage of Sumika Shiun's talent bloom"
+    },
+    {
+      "id": "ssmk-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Get Sumika Shiun"
+    },
+    {
+      "id": "ssmk-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Obtained at the 4th stage of Sumika Shiun's talent bloom"
+    },
+    {
+      "id": "ssmk-cstm-0063",
+      "name": "Kamugiroku",
+      "description": "【Tame-Lie-One-Step】Get Festival '24 Sumika Shiun"
+    },
+    {
+      "id": "ssmk-cstm-0065",
+      "name": "Capriccio of Masquerades",
+      "description": "【Tame-Lie-One-Step】Get Halloween '24 Sumika Shiun"
+    },
+    {
+      "id": "ssmk-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【Tame-Lie-One-Step】Get Christmas '24 Sumika Shiun"
+    },
+    {
+      "id": "ssmk-cstm-0069",
+      "name": "Child's Smock",
+      "description": "Purchase the Child's Smock Costume Pack"
+    },
+    {
+      "id": "ssmk-cstm-0072",
+      "name": "Gold Brilliance",
+      "description": "Clear Stage 10 of Sumika Shiun's Idol Road"
+    },
+    {
+      "id": "ssmk-cstm-0073",
+      "name": "Platinum Shine",
+      "description": "Clear Stage 15 of Sumika Shiun's Idol Road"
+    },
+    {
+      "id": "ssmk-othr-0002",
+      "name": "Hot Springs Swimwear",
+      "description": "Purchase Hot Spring Swimwear (Sumika Shiun)"
+    },
+    {
+      "id": "ssmk-schl-0000",
+      "name": "Hatsuboshi Academy Uniform",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "ssmk-trng-0000",
+      "name": "Training Wear",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "ssmk-trng-0001",
+      "name": "Training Wear",
+      "description": "Rank up Sumika Shiun's Master Achievement to Rank 3"
+    },
+    {
+      "id": "ssmk-trng-0002",
+      "name": "Hatsuboshi Academy Gym Uniform",
+      "description": "Purchase Hatsuboshi Academy Gym Uniform (Sumika Shiun)"
+    },
+    {
+      "id": "ttmr-casl-0000",
+      "name": "Casual Outfit",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "ttmr-cstm-0000",
+      "name": "Hajime",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "ttmr-cstm-0003",
+      "name": "Luna say maybe",
+      "description": "【Luna say maybe】Get Temari Tsukimura"
+    },
+    {
+      "id": "ttmr-cstm-0015",
+      "name": "Luna say maybe",
+      "description": "【Luna say maybe】Obtained at the 4th stage of Temari Tsukimura's talent bloom"
+    },
+    {
+      "id": "ttmr-cstm-0025",
+      "name": "IVY",
+      "description": "【IVY】Get Temari Tsukimura"
+    },
+    {
+      "id": "ttmr-cstm-0026",
+      "name": "IVY",
+      "description": "【IVY】Obtained at the 4th stage of Temari Tsukimura's talent bloom"
+    },
+    {
+      "id": "ttmr-cstm-0047",
+      "name": "Capriccio of Masquerades",
+      "description": "【Capriccio of Masquerades】Get Temari Tsukimura"
+    },
+    {
+      "id": "ttmr-cstm-0048",
+      "name": "Capriccio of Masquerades",
+      "description": "【Capriccio of Masquerades】Obtained at the 4th stage of Temari Tsukimura's talent bloom"
+    },
+    {
+      "id": "ttmr-cstm-0051",
+      "name": "Kimi to Semi Blue",
+      "description": "【Luna say maybe】Get Summer '24 Temari Tsukimura"
+    },
+    {
+      "id": "ttmr-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Get Temari Tsukimura"
+    },
+    {
+      "id": "ttmr-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】Obtained at the 4th stage of Temari Tsukimura's talent bloom"
+    },
+    {
+      "id": "ttmr-cstm-0063",
+      "name": "Kamugiroku",
+      "description": "【Luna say maybe】Get Festival '24 Temari Tsukimura"
+    },
+    {
+      "id": "ttmr-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【Luna say maybe】Get Christmas '24 Temari Tsukimura"
+    },
+    {
+      "id": "ttmr-cstm-0069",
+      "name": "Child's Smock",
+      "description": "Purchase the Child's Smock Costume Pack"
+    },
+    {
+      "id": "ttmr-cstm-0072",
+      "name": "Gold Brilliance",
+      "description": "Clear Stage 10 of Temari Tsukimura's Idol Road"
+    },
+    {
+      "id": "ttmr-cstm-0073",
+      "name": "Platinum Shine",
+      "description": "Clear Stage 15 of Temari Tsukimura's Idol Road"
+    },
+    {
+      "id": "ttmr-othr-0002",
+      "name": "Hot Springs Swimwear",
+      "description": "Purchase Hot Spring Swimwear (Temari Tsukimura)"
+    },
+    {
+      "id": "ttmr-trng-0000",
+      "name": "Training Wear",
+      "description": "Owned from the start"
+    },
+    {
+      "id": "ttmr-trng-0001",
+      "name": "Training Wear",
+      "description": "Rank up Temari Tsukimura's Master Achievement to Rank 3"
+    },
+    {
+      "id": "ttmr-trng-0002",
+      "name": "Hatsuboshi Academy Gym Uniform",
+      "description": "Purchase Hatsuboshi Academy Gym Uniform (Temari Tsukimura)"
+    }
+  ]
 }
