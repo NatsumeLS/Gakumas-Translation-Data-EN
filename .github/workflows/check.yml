@@ -57,7 +57,7 @@ jobs:
       run: npm install --global prettier sort-json
 
     - name: Run Prettier
-      run: prettier --write "local-files/*.json" "local-files/**/*.json"
+      run: prettier --write "local-files/*.json" "local-files/genericTrans/index/*.json" "local-files/genericTrans/lyrics/*.json"
 
     - name: Sort JSON files
       run: find local-files -type f -name '*.json' -not -path "local-files/genericTrans/*" -exec sort-json {} +
@@ -74,7 +74,7 @@ jobs:
         if [[ "${{ github.event_name }}" == "pull_request" ]]; then
           git push origin HEAD:${{ github.head_ref }}
         else
-          git push origin main
+          git push origin HEAD
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.PAT }}
@@ -108,7 +108,7 @@ jobs:
       run: |
         git pull
         git commit -am "chore(update): Update Version Info"
-        git push origin main
+        git push origin HEAD
       env:
         GITHUB_TOKEN: ${{ secrets.PAT }}
 
