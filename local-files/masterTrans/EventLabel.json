@@ -1,9 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "eventType"
-    ]
-  },
   "data": [
     {
       "eventType": "EventType_MissionDailyRelease",
@@ -41,5 +36,10 @@
       "eventType": "EventType_GvgRaid",
       "name": "Regional Tour"
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "eventType"
+    ]
+  }
 }

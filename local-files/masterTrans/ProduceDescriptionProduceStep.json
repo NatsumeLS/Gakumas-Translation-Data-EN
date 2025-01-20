@@ -1,17 +1,17 @@
 {
+  "data": [
+    {
+      "name": "Activities",
+      "type": "ProduceStepType_EventSchool"
+    },
+    {
+      "name": "Gift",
+      "type": "ProduceStepType_Present"
+    }
+  ],
   "rules": {
     "primaryKeys": [
       "type"
     ]
-  },
-  "data": [
-    {
-      "type": "ProduceStepType_EventSchool",
-      "name": "Activities"
-    },
-    {
-      "type": "ProduceStepType_Present",
-      "name": "Gift"
-    }
-  ]
+  }
 }

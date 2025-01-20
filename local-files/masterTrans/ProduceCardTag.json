@@ -1,9 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  },
   "data": [
     {
       "id": "idol-unique",
@@ -17,5 +12,10 @@
       "id": "strike",
       "name": "Lesson Menu"
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  }
 }

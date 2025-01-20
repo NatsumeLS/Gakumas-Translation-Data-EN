@@ -1,9 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  },
   "data": [
     {
       "id": "Convert_001",
@@ -790,5 +785,10 @@
       "name": "Trouble Card",
       "swapName": ""
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  }
 }

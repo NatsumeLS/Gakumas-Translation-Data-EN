@@ -1,10 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "characterId",
-      "dearnessLevel"
-    ]
-  },
   "data": [
     {
       "characterId": "amao",
@@ -1106,5 +1100,11 @@
       "dearnessLevel": 20,
       "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "characterId",
+      "dearnessLevel"
+    ]
+  }
 }

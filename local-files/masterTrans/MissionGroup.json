@@ -1,9 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  },
   "data": [
     {
       "id": "mission_group-daily-001",
@@ -301,5 +296,10 @@
       "id": "panel_mission-event-niv-group_1",
       "name": "Kunio Juo's Challenge Mission Path to A+"
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  }
 }

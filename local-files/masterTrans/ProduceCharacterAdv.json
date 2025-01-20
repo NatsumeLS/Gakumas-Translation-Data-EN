@@ -1,9 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "assetId"
-    ]
-  },
   "data": [
     {
       "assetId": "adv_dear_amao_010-01",
@@ -45,5 +40,10 @@
       "assetId": "adv_dear_ttmr_010-01",
       "title": "Ep.10.5"
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "assetId"
+    ]
+  }
 }

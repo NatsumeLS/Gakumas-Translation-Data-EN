@@ -1,9 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  },
   "data": [
     {
       "id": "shop_costume",
@@ -21,5 +16,10 @@
       "id": "shop_pass",
       "name": "Pass"
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  }
 }

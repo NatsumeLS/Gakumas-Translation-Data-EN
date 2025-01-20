@@ -1,9 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  },
   "data": [
     {
       "id": "comic_0001",
@@ -361,5 +356,10 @@
       "id": "movie-0003",
       "name": "Sena Juo PROMOTION VIDEO \"Choo Choo Choo\""
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  }
 }

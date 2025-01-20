@@ -1,9 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  },
   "data": [
     {
       "id": "shop_costume_amao-trng-0002",
@@ -317,5 +312,10 @@
       "id": "shop_pass_item-0009",
       "name": "Premium Mission Pass January 2025"
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  }
 }

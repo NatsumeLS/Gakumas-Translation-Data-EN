@@ -1,10 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id",
-      "swapType"
-    ]
-  },
   "data": [
     {
       "id": "Swap_Convert_001",
@@ -316,5 +310,11 @@
       "swapType": "ProduceDescriptionSwapType_Audition",
       "text": "Exclusion"
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "swapType"
+    ]
+  }
 }

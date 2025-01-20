@@ -1,25 +1,25 @@
 {
+  "data": [
+    {
+      "name": "Common",
+      "type": "ProducePlanType_Common"
+    },
+    {
+      "name": "【Sense Exclusive】",
+      "type": "ProducePlanType_Plan1"
+    },
+    {
+      "name": "【Logic Exclusive】",
+      "type": "ProducePlanType_Plan2"
+    },
+    {
+      "name": "【Anomaly Exclusive】",
+      "type": "ProducePlanType_Plan3"
+    }
+  ],
   "rules": {
     "primaryKeys": [
       "type"
     ]
-  },
-  "data": [
-    {
-      "type": "ProducePlanType_Common",
-      "name": "Common"
-    },
-    {
-      "type": "ProducePlanType_Plan1",
-      "name": "【Sense Exclusive】"
-    },
-    {
-      "type": "ProducePlanType_Plan2",
-      "name": "【Logic Exclusive】"
-    },
-    {
-      "type": "ProducePlanType_Plan3",
-      "name": "【Anomaly Exclusive】"
-    }
-  ]
+  }
 }

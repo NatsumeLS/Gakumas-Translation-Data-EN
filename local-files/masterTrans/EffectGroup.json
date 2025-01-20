@@ -1,9 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  },
   "data": [
     {
       "id": "effect_group-hidden-stamina_reduce_fix-000",
@@ -253,5 +248,10 @@
       "id": "effect_group-visible-vocal_addition-000",
       "name": "Vocal Increase"
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  }
 }

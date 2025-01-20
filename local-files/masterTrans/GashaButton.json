@@ -1,112 +1,112 @@
 {
+  "data": [
+    {
+      "description": "1-Time Gacha",
+      "id": "gasha_button-001-01",
+      "name": "1-Time Gacha",
+      "order": 2
+    },
+    {
+      "description": "1-Time Daily Gacha",
+      "id": "gasha_button-001-01-discount",
+      "name": "1-Time Daily Gacha",
+      "order": 1
+    },
+    {
+      "description": "10-Time Gacha",
+      "id": "gasha_button-001-10",
+      "name": "10-Time Gacha",
+      "order": 3
+    },
+    {
+      "description": "10-Time Gacha",
+      "id": "gasha_button-001-10-ssr",
+      "name": "10-Time Gacha",
+      "order": 1
+    },
+    {
+      "description": "Draw with Ticket",
+      "id": "gasha_button-001-ticket",
+      "name": "Draw with Ticket",
+      "order": 2
+    },
+    {
+      "description": "10-Time Item Gacha",
+      "id": "gasha_button-010-item_01",
+      "name": "10-Time Item Gacha",
+      "order": 3
+    },
+    {
+      "description": "10-Time Ticket Gacha",
+      "id": "gasha_button-010-ticket",
+      "name": "10-Time Ticket Gacha",
+      "order": 3
+    },
+    {
+      "description": "10-Time Gacha",
+      "id": "gasha_button-free-10-01",
+      "name": "10-Time Gacha",
+      "order": 1
+    },
+    {
+      "description": "1-Time Gacha",
+      "id": "gasha_button-pickup-001-01",
+      "name": "1-Time Gacha",
+      "order": 2
+    },
+    {
+      "description": "1-Time Daily Gacha",
+      "id": "gasha_button-pickup-001-01-discount",
+      "name": "1-Time Daily Gacha",
+      "order": 1
+    },
+    {
+      "description": "10-Time Gacha",
+      "id": "gasha_button-pickup-001-10",
+      "name": "10-Time Gacha",
+      "order": 3
+    },
+    {
+      "description": "10-Time Gacha",
+      "id": "gasha_button-select-pickup-01",
+      "name": "10-Time Gacha",
+      "order": 1
+    },
+    {
+      "description": "10-Time Gacha",
+      "id": "gasha_button-select-pickup-01-discount",
+      "name": "10-Time Gacha",
+      "order": 1
+    },
+    {
+      "description": "Guaranteed SSR 10-Draw",
+      "id": "gasha_ticket_ssr_10_button-001",
+      "name": "Draw with Guaranteed SSR Ticket",
+      "order": 1
+    },
+    {
+      "description": "Guaranteed SSR 1-Draw",
+      "id": "gasha_ticket_ssr_button",
+      "name": "Draw with Guaranteed SSR Ticket",
+      "order": 1
+    },
+    {
+      "description": "Guaranteed SSR Idol 1-Draw",
+      "id": "gasha_ticket_ssr_button_idol",
+      "name": "Draw with Guaranteed SSR Ticket",
+      "order": 1
+    },
+    {
+      "description": "Guaranteed SSR Support 1-Draw",
+      "id": "gasha_ticket_ssr_button_support",
+      "name": "Draw with Guaranteed SSR Ticket",
+      "order": 1
+    }
+  ],
   "rules": {
     "primaryKeys": [
       "id",
       "order"
     ]
-  },
-  "data": [
-    {
-      "id": "gasha_button-001-01",
-      "order": 2,
-      "name": "1-Time Gacha",
-      "description": "1-Time Gacha"
-    },
-    {
-      "id": "gasha_button-001-01-discount",
-      "order": 1,
-      "name": "1-Time Daily Gacha",
-      "description": "1-Time Daily Gacha"
-    },
-    {
-      "id": "gasha_button-001-10",
-      "order": 3,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
-    },
-    {
-      "id": "gasha_button-001-10-ssr",
-      "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
-    },
-    {
-      "id": "gasha_button-001-ticket",
-      "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
-    },
-    {
-      "id": "gasha_button-010-item_01",
-      "order": 3,
-      "name": "10-Time Item Gacha",
-      "description": "10-Time Item Gacha"
-    },
-    {
-      "id": "gasha_button-010-ticket",
-      "order": 3,
-      "name": "10-Time Ticket Gacha",
-      "description": "10-Time Ticket Gacha"
-    },
-    {
-      "id": "gasha_button-free-10-01",
-      "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
-    },
-    {
-      "id": "gasha_button-pickup-001-01",
-      "order": 2,
-      "name": "1-Time Gacha",
-      "description": "1-Time Gacha"
-    },
-    {
-      "id": "gasha_button-pickup-001-01-discount",
-      "order": 1,
-      "name": "1-Time Daily Gacha",
-      "description": "1-Time Daily Gacha"
-    },
-    {
-      "id": "gasha_button-pickup-001-10",
-      "order": 3,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
-    },
-    {
-      "id": "gasha_button-select-pickup-01",
-      "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
-    },
-    {
-      "id": "gasha_button-select-pickup-01-discount",
-      "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
-    },
-    {
-      "id": "gasha_ticket_ssr_10_button-001",
-      "order": 1,
-      "name": "Draw with Guaranteed SSR Ticket",
-      "description": "Guaranteed SSR 10-Draw"
-    },
-    {
-      "id": "gasha_ticket_ssr_button",
-      "order": 1,
-      "name": "Draw with Guaranteed SSR Ticket",
-      "description": "Guaranteed SSR 1-Draw"
-    },
-    {
-      "id": "gasha_ticket_ssr_button_idol",
-      "order": 1,
-      "name": "Draw with Guaranteed SSR Ticket",
-      "description": "Guaranteed SSR Idol 1-Draw"
-    },
-    {
-      "id": "gasha_ticket_ssr_button_support",
-      "order": 1,
-      "name": "Draw with Guaranteed SSR Ticket",
-      "description": "Guaranteed SSR Support 1-Draw"
-    }
-  ]
+  }
 }

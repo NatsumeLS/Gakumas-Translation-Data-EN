@@ -1,9 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  },
   "data": [
     {
       "id": "costume-amao-casl-0000",
@@ -1025,5 +1020,10 @@
       "id": "stamp-ttmr-03",
       "name": ""
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  }
 }

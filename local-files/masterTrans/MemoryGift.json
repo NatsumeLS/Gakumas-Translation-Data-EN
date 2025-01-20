@@ -1,9 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  },
   "data": [
     {
       "id": "memory_gift-fktn",
@@ -17,5 +12,10 @@
       "id": "memory_gift-ttmr",
       "name": "Hajime live"
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  }
 }

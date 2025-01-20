@@ -1,63 +1,63 @@
 {
+  "data": [
+    {
+      "description": "Work feature unlocked",
+      "name": "Work",
+      "routeDescription": "Check from \"Work\" on the Home screen",
+      "tutorialType": "TutorialType_Work"
+    },
+    {
+      "description": "Contest feature unlocked",
+      "name": "Contest",
+      "routeDescription": "Check from \"Contest\"",
+      "tutorialType": "TutorialType_PvpRate"
+    },
+    {
+      "description": "Coin Gacha feature unlocked",
+      "name": "Coin Gacha",
+      "routeDescription": "Check from \"Coin Gacha\" in the Shop",
+      "tutorialType": "TutorialType_CoinGasha"
+    },
+    {
+      "description": "Activity Funds feature unlocked",
+      "name": "Activity Funds",
+      "routeDescription": "Check from \"Activity Funds\" on the Home screen",
+      "tutorialType": "TutorialType_MoneyReceive"
+    },
+    {
+      "description": "Produce Idol Training feature unlocked",
+      "name": "Produce Idol Training",
+      "routeDescription": "Check from \"P-Idol Development\" under Idol",
+      "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate"
+    },
+    {
+      "description": "Support Card Enhancement feature unlocked",
+      "name": "Support Card Enhancement",
+      "routeDescription": "Check from \"Support Cards\" under Idol",
+      "tutorialType": "TutorialType_SupportCardLevelUpdate"
+    },
+    {
+      "description": "Daily Exchange Shop feature unlocked",
+      "name": "Daily Exchange Shop",
+      "routeDescription": "Check from \"Daily Exchange Shop\" in the Shop",
+      "tutorialType": "TutorialType_DailyExchange"
+    },
+    {
+      "description": "Path to Idol feature unlocked",
+      "name": "Path to Idol",
+      "routeDescription": "Check from \"Path to Idol\" under Contest",
+      "tutorialType": "TutorialType_Tower"
+    },
+    {
+      "description": "Circle feature unlocked",
+      "name": "Circle",
+      "routeDescription": "Check from \"Circle\" in the Menu",
+      "tutorialType": "TutorialType_Guild"
+    }
+  ],
   "rules": {
     "primaryKeys": [
       "tutorialType"
     ]
-  },
-  "data": [
-    {
-      "tutorialType": "TutorialType_Work",
-      "name": "Work",
-      "description": "Work feature unlocked",
-      "routeDescription": "Check from \"Work\" on the Home screen"
-    },
-    {
-      "tutorialType": "TutorialType_PvpRate",
-      "name": "Contest",
-      "description": "Contest feature unlocked",
-      "routeDescription": "Check from \"Contest\""
-    },
-    {
-      "tutorialType": "TutorialType_CoinGasha",
-      "name": "Coin Gacha",
-      "description": "Coin Gacha feature unlocked",
-      "routeDescription": "Check from \"Coin Gacha\" in the Shop"
-    },
-    {
-      "tutorialType": "TutorialType_MoneyReceive",
-      "name": "Activity Funds",
-      "description": "Activity Funds feature unlocked",
-      "routeDescription": "Check from \"Activity Funds\" on the Home screen"
-    },
-    {
-      "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
-      "name": "Produce Idol Training",
-      "description": "Produce Idol Training feature unlocked",
-      "routeDescription": "Check from \"P-Idol Development\" under Idol"
-    },
-    {
-      "tutorialType": "TutorialType_SupportCardLevelUpdate",
-      "name": "Support Card Enhancement",
-      "description": "Support Card Enhancement feature unlocked",
-      "routeDescription": "Check from \"Support Cards\" under Idol"
-    },
-    {
-      "tutorialType": "TutorialType_DailyExchange",
-      "name": "Daily Exchange Shop",
-      "description": "Daily Exchange Shop feature unlocked",
-      "routeDescription": "Check from \"Daily Exchange Shop\" in the Shop"
-    },
-    {
-      "tutorialType": "TutorialType_Tower",
-      "name": "Path to Idol",
-      "description": "Path to Idol feature unlocked",
-      "routeDescription": "Check from \"Path to Idol\" under Contest"
-    },
-    {
-      "tutorialType": "TutorialType_Guild",
-      "name": "Circle",
-      "description": "Circle feature unlocked",
-      "routeDescription": "Check from \"Circle\" in the Menu"
-    }
-  ]
+  }
 }

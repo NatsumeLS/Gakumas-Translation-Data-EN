@@ -1,199 +1,199 @@
 {
+  "data": [
+    {
+      "name": "Parameter Increase",
+      "produceCardCustomizeTemplate": "Parameter +",
+      "type": "ProduceCardGrowEffectType_LessonAdd"
+    },
+    {
+      "name": "Parameter Decrease",
+      "produceCardCustomizeTemplate": "Parameter -",
+      "type": "ProduceCardGrowEffectType_LessonReduce"
+    },
+    {
+      "name": "Parameter Count Increase",
+      "produceCardCustomizeTemplate": "Parameter Increase Count +",
+      "type": "ProduceCardGrowEffectType_LessonCountAdd"
+    },
+    {
+      "name": "Parameter Count Decrease",
+      "produceCardCustomizeTemplate": "Parameter Increase Count -",
+      "type": "ProduceCardGrowEffectType_LessonCountReduce"
+    },
+    {
+      "name": "Energy Value Increase",
+      "produceCardCustomizeTemplate": "Energy +",
+      "type": "ProduceCardGrowEffectType_BlockAdd"
+    },
+    {
+      "name": "Energy Value Decrease",
+      "produceCardCustomizeTemplate": "Energy -",
+      "type": "ProduceCardGrowEffectType_BlockReduce"
+    },
+    {
+      "name": "Full Power Value Increase",
+      "produceCardCustomizeTemplate": "Full Power Value +",
+      "type": "ProduceCardGrowEffectType_FullPowerPointAdd"
+    },
+    {
+      "name": "Full Power Value Decrease",
+      "produceCardCustomizeTemplate": "Full Power Value -",
+      "type": "ProduceCardGrowEffectType_FullPowerPointReduce"
+    },
+    {
+      "name": "Enhanced State Cost Value Decrease",
+      "produceCardCustomizeTemplate": "Enhanced State Cost Value -",
+      "type": "ProduceCardGrowEffectType_CostBuffReduce"
+    },
+    {
+      "name": "Enhanced State Cost Value Increase",
+      "produceCardCustomizeTemplate": "Enhanced State Cost Value +",
+      "type": "ProduceCardGrowEffectType_CostBuffAdd"
+    },
+    {
+      "name": "Cost Value Decrease",
+      "produceCardCustomizeTemplate": "Cost Value -",
+      "type": "ProduceCardGrowEffectType_CostReduce"
+    },
+    {
+      "name": "Cost Value Increase",
+      "produceCardCustomizeTemplate": "Cost Value +",
+      "type": "ProduceCardGrowEffectType_CostAdd"
+    },
+    {
+      "name": "Stamina Consumption Cost Value Decrease",
+      "produceCardCustomizeTemplate": "Stamina Consumption Cost Value -",
+      "type": "ProduceCardGrowEffectType_CostPenetrateReduce"
+    },
+    {
+      "name": "Stamina Consumption Cost Value Increase",
+      "produceCardCustomizeTemplate": "Stamina Consumption Cost Value +",
+      "type": "ProduceCardGrowEffectType_CostPenetrateAdd"
+    },
+    {
+      "name": "Good Shape Value Increase",
+      "produceCardCustomizeTemplate": "Good Shape +",
+      "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd"
+    },
+    {
+      "name": "Good Shape Value Decrease",
+      "produceCardCustomizeTemplate": "Good Shape -",
+      "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce"
+    },
+    {
+      "name": "Focus Value Increase",
+      "produceCardCustomizeTemplate": "Focus +",
+      "type": "ProduceCardGrowEffectType_LessonBuffAdd"
+    },
+    {
+      "name": "Focus Value Decrease",
+      "produceCardCustomizeTemplate": "Focus -",
+      "type": "ProduceCardGrowEffectType_LessonBuffReduce"
+    },
+    {
+      "name": "Good Impression Value Increase",
+      "produceCardCustomizeTemplate": "Good Impression +",
+      "type": "ProduceCardGrowEffectType_ReviewAdd"
+    },
+    {
+      "name": "Good Impression Value Decrease",
+      "produceCardCustomizeTemplate": "Good Impression -",
+      "type": "ProduceCardGrowEffectType_ReviewReduce"
+    },
+    {
+      "name": "Motivation Value Increase",
+      "produceCardCustomizeTemplate": "Motivation +",
+      "type": "ProduceCardGrowEffectType_AggressiveAdd"
+    },
+    {
+      "name": "Motivation Value Decrease",
+      "produceCardCustomizeTemplate": "Motivation -",
+      "type": "ProduceCardGrowEffectType_AggressiveReduce"
+    },
+    {
+      "name": "Draw Count Increase",
+      "produceCardCustomizeTemplate": "Draw Card +",
+      "type": "ProduceCardGrowEffectType_CardDrawAdd"
+    },
+    {
+      "name": "Draw Count Decrease",
+      "produceCardCustomizeTemplate": "Draw Card -",
+      "type": "ProduceCardGrowEffectType_CardDrawReduce"
+    },
+    {
+      "name": "Excellent Shape Value Increase",
+      "produceCardCustomizeTemplate": "Excellent Shape +",
+      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd"
+    },
+    {
+      "name": "Excellent Shape Value Decrease",
+      "produceCardCustomizeTemplate": "Excellent Shape -",
+      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce"
+    },
+    {
+      "name": "Reduced Stamina Consumption Value Increase",
+      "produceCardCustomizeTemplate": "Reduced Stamina Consumption +",
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd"
+    },
+    {
+      "name": "Reduced Stamina Consumption Value Decrease",
+      "produceCardCustomizeTemplate": "Reduced Stamina Consumption -",
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce"
+    },
+    {
+      "name": "Decreased Stamina Consumption Value Increase",
+      "produceCardCustomizeTemplate": "Increased Stamina Consumption +",
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd"
+    },
+    {
+      "name": "Increased Stamina Consumption Value Increase",
+      "produceCardCustomizeTemplate": "Increased Stamina Consumption -",
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce"
+    },
+    {
+      "name": "Effect Addition",
+      "produceCardCustomizeTemplate": "Effect Addition",
+      "type": "ProduceCardGrowEffectType_EffectAdd"
+    },
+    {
+      "name": "Effect Deletion",
+      "produceCardCustomizeTemplate": "Effect Deletion",
+      "type": "ProduceCardGrowEffectType_EffectDelete"
+    },
+    {
+      "name": "Effect Replacement",
+      "produceCardCustomizeTemplate": "Effect Change",
+      "type": "ProduceCardGrowEffectType_EffectChange"
+    },
+    {
+      "name": "Growth Effect Replacement",
+      "produceCardCustomizeTemplate": "Growth Change",
+      "type": "ProduceCardGrowEffectType_CardStatusEnchantChange"
+    },
+    {
+      "name": "Use Condition Replacement",
+      "produceCardCustomizeTemplate": "Condition Change",
+      "type": "ProduceCardGrowEffectType_PlayTriggerChange"
+    },
+    {
+      "name": "Effect Activation Condition Replacement",
+      "produceCardCustomizeTemplate": "Condition Change",
+      "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange"
+    },
+    {
+      "name": "Post-use Move Destination Change",
+      "produceCardCustomizeTemplate": "Move Destination Change",
+      "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange"
+    },
+    {
+      "name": "Start Hand Effect Grant",
+      "produceCardCustomizeTemplate": "Enter Start Hand",
+      "type": "ProduceCardGrowEffectType_InitialAdd"
+    }
+  ],
   "rules": {
     "primaryKeys": [
       "type"
     ]
-  },
-  "data": [
-    {
-      "type": "ProduceCardGrowEffectType_LessonAdd",
-      "name": "Parameter Increase",
-      "produceCardCustomizeTemplate": "Parameter +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_LessonReduce",
-      "name": "Parameter Decrease",
-      "produceCardCustomizeTemplate": "Parameter -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_LessonCountAdd",
-      "name": "Parameter Count Increase",
-      "produceCardCustomizeTemplate": "Parameter Increase Count +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_LessonCountReduce",
-      "name": "Parameter Count Decrease",
-      "produceCardCustomizeTemplate": "Parameter Increase Count -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_BlockAdd",
-      "name": "Energy Value Increase",
-      "produceCardCustomizeTemplate": "Energy +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_BlockReduce",
-      "name": "Energy Value Decrease",
-      "produceCardCustomizeTemplate": "Energy -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
-      "name": "Full Power Value Increase",
-      "produceCardCustomizeTemplate": "Full Power Value +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
-      "name": "Full Power Value Decrease",
-      "produceCardCustomizeTemplate": "Full Power Value -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostBuffReduce",
-      "name": "Enhanced State Cost Value Decrease",
-      "produceCardCustomizeTemplate": "Enhanced State Cost Value -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostBuffAdd",
-      "name": "Enhanced State Cost Value Increase",
-      "produceCardCustomizeTemplate": "Enhanced State Cost Value +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostReduce",
-      "name": "Cost Value Decrease",
-      "produceCardCustomizeTemplate": "Cost Value -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostAdd",
-      "name": "Cost Value Increase",
-      "produceCardCustomizeTemplate": "Cost Value +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
-      "name": "Stamina Consumption Cost Value Decrease",
-      "produceCardCustomizeTemplate": "Stamina Consumption Cost Value -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
-      "name": "Stamina Consumption Cost Value Increase",
-      "produceCardCustomizeTemplate": "Stamina Consumption Cost Value +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
-      "name": "Good Shape Value Increase",
-      "produceCardCustomizeTemplate": "Good Shape +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
-      "name": "Good Shape Value Decrease",
-      "produceCardCustomizeTemplate": "Good Shape -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_LessonBuffAdd",
-      "name": "Focus Value Increase",
-      "produceCardCustomizeTemplate": "Focus +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_LessonBuffReduce",
-      "name": "Focus Value Decrease",
-      "produceCardCustomizeTemplate": "Focus -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_ReviewAdd",
-      "name": "Good Impression Value Increase",
-      "produceCardCustomizeTemplate": "Good Impression +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_ReviewReduce",
-      "name": "Good Impression Value Decrease",
-      "produceCardCustomizeTemplate": "Good Impression -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_AggressiveAdd",
-      "name": "Motivation Value Increase",
-      "produceCardCustomizeTemplate": "Motivation +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_AggressiveReduce",
-      "name": "Motivation Value Decrease",
-      "produceCardCustomizeTemplate": "Motivation -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CardDrawAdd",
-      "name": "Draw Count Increase",
-      "produceCardCustomizeTemplate": "Draw Card +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CardDrawReduce",
-      "name": "Draw Count Decrease",
-      "produceCardCustomizeTemplate": "Draw Card -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
-      "name": "Excellent Shape Value Increase",
-      "produceCardCustomizeTemplate": "Excellent Shape +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
-      "name": "Excellent Shape Value Decrease",
-      "produceCardCustomizeTemplate": "Excellent Shape -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
-      "name": "Reduced Stamina Consumption Value Increase",
-      "produceCardCustomizeTemplate": "Reduced Stamina Consumption +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
-      "name": "Reduced Stamina Consumption Value Decrease",
-      "produceCardCustomizeTemplate": "Reduced Stamina Consumption -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
-      "name": "Decreased Stamina Consumption Value Increase",
-      "produceCardCustomizeTemplate": "Increased Stamina Consumption +"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
-      "name": "Increased Stamina Consumption Value Increase",
-      "produceCardCustomizeTemplate": "Increased Stamina Consumption -"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_EffectAdd",
-      "name": "Effect Addition",
-      "produceCardCustomizeTemplate": "Effect Addition"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_EffectDelete",
-      "name": "Effect Deletion",
-      "produceCardCustomizeTemplate": "Effect Deletion"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_EffectChange",
-      "name": "Effect Replacement",
-      "produceCardCustomizeTemplate": "Effect Change"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
-      "name": "Growth Effect Replacement",
-      "produceCardCustomizeTemplate": "Growth Change"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_PlayTriggerChange",
-      "name": "Use Condition Replacement",
-      "produceCardCustomizeTemplate": "Condition Change"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
-      "name": "Effect Activation Condition Replacement",
-      "produceCardCustomizeTemplate": "Condition Change"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
-      "name": "Post-use Move Destination Change",
-      "produceCardCustomizeTemplate": "Move Destination Change"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_InitialAdd",
-      "name": "Start Hand Effect Grant",
-      "produceCardCustomizeTemplate": "Enter Start Hand"
-    }
-  ]
+  }
 }

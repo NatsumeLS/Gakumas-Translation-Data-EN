@@ -1,344 +1,344 @@
 {
+  "data": [
+    {
+      "name": "Parameter",
+      "swapName": "Score",
+      "type": "ProduceExamEffectType_ExamLesson"
+    },
+    {
+      "name": "Good Condition",
+      "swapName": "Good Condition",
+      "type": "ProduceExamEffectType_ExamParameterBuff"
+    },
+    {
+      "name": "Energy",
+      "swapName": "Energy",
+      "type": "ProduceExamEffectType_ExamBlock"
+    },
+    {
+      "name": "Draw Skill Card",
+      "swapName": "Draw Skill Card",
+      "type": "ProduceExamEffectType_ExamCardDraw"
+    },
+    {
+      "name": "Stamina Consumption Decrease",
+      "swapName": "Stamina Consumption Decrease",
+      "type": "ProduceExamEffectType_ExamStaminaConsumptionDown"
+    },
+    {
+      "name": "Generation",
+      "swapName": "Generation",
+      "type": "ProduceExamEffectType_ExamCardCreateId"
+    },
+    {
+      "name": "Stamina Consumption",
+      "swapName": "Stamina Consumption",
+      "type": "ProduceExamEffectType_ExamStaminaReduceFix"
+    },
+    {
+      "name": "Focus",
+      "swapName": "Focus",
+      "type": "ProduceExamEffectType_ExamLessonBuff"
+    },
+    {
+      "name": "Lesson Strengthening",
+      "swapName": "Exam/Stage Strengthening",
+      "type": "ProduceExamEffectType_ExamCardUpgrade"
+    },
+    {
+      "name": "Additional Skill Card Usage",
+      "swapName": "Additional Skill Card Usage",
+      "type": "ProduceExamEffectType_ExamPlayableValueAdd"
+    },
+    {
+      "name": "Temporary Focus Effect Increase",
+      "swapName": "Temporary Focus Effect Increase",
+      "type": "ProduceExamEffectType_ExamLessonBuffMultiple"
+    },
+    {
+      "name": "Stamina Consumption Change",
+      "swapName": "Stamina Consumption Change",
+      "type": "ProduceExamEffectType_ExamCardStaminaConsumptionChange"
+    },
+    {
+      "name": "Energy Increase Inactive",
+      "swapName": "Energy Increase Inactive",
+      "type": "ProduceExamEffectType_ExamBlockRestriction"
+    },
+    {
+      "name": "Sustained Effect",
+      "swapName": "Sustained Effect",
+      "type": "ProduceExamEffectType_ExamStatusEnchant"
+    },
+    {
+      "name": "Stamina Consumption Decrease",
+      "swapName": "Stamina Consumption Decrease",
+      "type": "ProduceExamEffectType_ExamCardStaminaConsumptionDownSpecify"
+    },
+    {
+      "name": "Stamina Decrease",
+      "swapName": "Stamina Decrease",
+      "type": "ProduceExamEffectType_ExamStaminaDamage"
+    },
+    {
+      "name": "Stamina Recovery",
+      "swapName": "Stamina Recovery",
+      "type": "ProduceExamEffectType_ExamStaminaRecoverFix"
+    },
+    {
+      "name": "Fixed Parameter",
+      "swapName": "Fixed Score",
+      "type": "ProduceExamEffectType_ExamLessonFix"
+    },
+    {
+      "name": "Duplication",
+      "swapName": "Duplication",
+      "type": "ProduceExamEffectType_ExamCardDuplicate"
+    },
+    {
+      "name": "Good Impression",
+      "swapName": "Good Impression",
+      "type": "ProduceExamEffectType_ExamReview"
+    },
+    {
+      "name": "Skill Card Additional Activation",
+      "swapName": "Skill Card Additional Activation",
+      "type": "ProduceExamEffectType_ExamCardSearchEffectPlayCountBuff"
+    },
+    {
+      "name": "Parameter Increase Amount Increase",
+      "swapName": "Score Increase Amount Increase",
+      "type": "ProduceExamEffectType_ExamLessonValueMultiple"
+    },
+    {
+      "name": "Motivation",
+      "swapName": "Motivation",
+      "type": "ProduceExamEffectType_ExamCardPlayAggressive"
+    },
+    {
+      "name": "Confidence",
+      "swapName": "Confidence",
+      "type": "ProduceExamEffectType_ExamConcentration"
+    },
+    {
+      "name": "Preservation",
+      "swapName": "Preservation",
+      "type": "ProduceExamEffectType_ExamPreservation"
+    },
+    {
+      "name": "Full Power",
+      "swapName": "Full Power",
+      "type": "ProduceExamEffectType_ExamFullPower"
+    },
+    {
+      "name": "Guideline Removal",
+      "swapName": "Guideline Removal",
+      "type": "ProduceExamEffectType_ExamStanceReset"
+    },
+    {
+      "name": "Full Power Value",
+      "swapName": "Full Power Value",
+      "type": "ProduceExamEffectType_ExamFullPowerPoint"
+    },
+    {
+      "name": "Full Power Value Decrease",
+      "swapName": "Full Power Value Decrease",
+      "type": "ProduceExamEffectType_ExamFullPowerPointReduce"
+    },
+    {
+      "name": "Stamina Consumption Change",
+      "swapName": "Stamina Consumption Change",
+      "type": "ProduceExamEffectType_ExamSearchPlayCardStaminaConsumptionChange"
+    },
+    {
+      "name": "Exhilaration",
+      "swapName": "Exhilaration",
+      "type": "ProduceExamEffectType_ExamUplifting"
+    },
+    {
+      "name": "Turn Addition",
+      "swapName": "Turn Addition",
+      "type": "ProduceExamEffectType_ExamExtraTurn"
+    },
+    {
+      "name": "Decreased State Inactive",
+      "swapName": "Decreased State Inactive",
+      "type": "ProduceExamEffectType_ExamAntiDebuff"
+    },
+    {
+      "name": "Stamina Consumption Increase",
+      "swapName": "Stamina Consumption Increase",
+      "type": "ProduceExamEffectType_ExamStaminaConsumptionAdd"
+    },
+    {
+      "name": "Anxiety",
+      "swapName": "Anxiety",
+      "type": "ProduceExamEffectType_ExamBlockAddDown"
+    },
+    {
+      "name": "Anxiety Inactive",
+      "swapName": "Anxiety Inactive",
+      "type": "ProduceExamEffectType_ExamBlockAddDownRestriction"
+    },
+    {
+      "name": "Stamina Recovery Effect Increase",
+      "swapName": "Stamina Recovery Effect Increase",
+      "type": "ProduceExamEffectType_ExamStaminaRecoverAdd"
+    },
+    {
+      "name": "Stamina Consumption Reduction",
+      "swapName": "Stamina Consumption Reduction",
+      "type": "ProduceExamEffectType_ExamStaminaReduceChange"
+    },
+    {
+      "name": "Whim",
+      "swapName": "Whim",
+      "type": "ProduceExamEffectType_ExamPanic"
+    },
+    {
+      "name": "Parameter Increase Value Change",
+      "swapName": "Score Increase Value Change",
+      "type": "ProduceExamEffectType_ExamLessonChangeSpecifyLessThan"
+    },
+    {
+      "name": "Carry Over Hand",
+      "swapName": "Carry Over Hand",
+      "type": "ProduceExamEffectType_ExamHandHold"
+    },
+    {
+      "name": "Additional Stamina Consumption",
+      "swapName": "Additional Stamina Consumption",
+      "type": "ProduceExamEffectType_ExamStaminaConsumptionAddFix"
+    },
+    {
+      "name": "Stamina Consumption Increase Effect Decrease",
+      "swapName": "Stamina Consumption Increase Effect Decrease",
+      "type": "ProduceExamEffectType_ExamStaminaConsumptionAddDown"
+    },
+    {
+      "name": "Stamina Recovery Inactive",
+      "swapName": "Stamina Recovery Inactive",
+      "type": "ProduceExamEffectType_ExamStaminaRecoverRestriction"
+    },
+    {
+      "name": "Stamina Consumption Decrease Effect Increase",
+      "swapName": "Stamina Consumption Decrease Effect Increase",
+      "type": "ProduceExamEffectType_ExamStaminaConsumptionDownAdd"
+    },
+    {
+      "name": "Generation Strengthening",
+      "swapName": "Generation Strengthening",
+      "type": "ProduceExamEffectType_ExamGetCardUpgrade"
+    },
+    {
+      "name": "Stamina Consumption Reduction",
+      "swapName": "Stamina Consumption Reduction",
+      "type": "ProduceExamEffectType_ExamStaminaConsumptionDownFix"
+    },
+    {
+      "name": "Swap Hand",
+      "swapName": "Swap Hand",
+      "type": "ProduceExamEffectType_ExamHandGraveCountCardDraw"
+    },
+    {
+      "name": "Activation Reservation",
+      "swapName": "Activation Reservation",
+      "type": "ProduceExamEffectType_ExamEffectTimer"
+    },
+    {
+      "name": "Nervousness",
+      "swapName": "Nervousness",
+      "type": "ProduceExamEffectType_ExamGimmickLessonDebuff"
+    },
+    {
+      "name": "Bad Condition",
+      "swapName": "Bad Condition",
+      "type": "ProduceExamEffectType_ExamGimmickParameterDebuff"
+    },
+    {
+      "name": "Weakness",
+      "swapName": "Weakness",
+      "type": "ProduceExamEffectType_ExamGimmickSleepy"
+    },
+    {
+      "name": "Enthusiasm",
+      "swapName": "Enthusiasm",
+      "type": "ProduceExamEffectType_ExamGimmickEnthusiastic"
+    },
+    {
+      "name": "Unavailable",
+      "swapName": "Unavailable",
+      "type": "ProduceExamEffectType_ExamGimmickPlayCardLimit"
+    },
+    {
+      "name": "Slump",
+      "swapName": "Slump",
+      "type": "ProduceExamEffectType_ExamGimmickSlump"
+    },
+    {
+      "name": "Hand Decrease",
+      "swapName": "Hand Decrease",
+      "type": "ProduceExamEffectType_ExamGimmickStartTurnCardDrawDown"
+    },
+    {
+      "name": "Fixed Energy",
+      "swapName": "Fixed Energy",
+      "type": "ProduceExamEffectType_ExamBlockFix"
+    },
+    {
+      "name": "Absent-minded",
+      "swapName": "Absent-minded",
+      "type": "ProduceExamEffectType_ExamLessonChangeSpecifyMoreThan"
+    },
+    {
+      "name": "Excellent Condition",
+      "swapName": "Excellent Condition",
+      "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn"
+    },
+    {
+      "name": "Fixed Guideline",
+      "swapName": "Fixed Guideline",
+      "type": "ProduceExamEffectType_StanceLock"
+    },
+    {
+      "name": "Decreased State Recovery",
+      "swapName": "Decreased State Recovery",
+      "type": "ProduceExamEffectType_ExamDebuffRecover"
+    },
+    {
+      "name": "Good Impression Decrease",
+      "swapName": "Good Impression Decrease",
+      "type": "ProduceExamEffectType_ExamReviewReduce"
+    },
+    {
+      "name": "Motivation Decrease",
+      "swapName": "Motivation Decrease",
+      "type": "ProduceExamEffectType_ExamAggressiveReduce"
+    },
+    {
+      "name": "Focus Decrease",
+      "swapName": "Focus Decrease",
+      "type": "ProduceExamEffectType_ExamLessonBuffReduce"
+    },
+    {
+      "name": "Good Condition Decrease",
+      "swapName": "Good Condition Decrease",
+      "type": "ProduceExamEffectType_ExamParameterBuffReduce"
+    },
+    {
+      "name": "Parameter Increase Amount Decrease",
+      "swapName": "Score Increase Amount Decrease",
+      "type": "ProduceExamEffectType_ExamLessonValueMultipleDown"
+    },
+    {
+      "name": "Growth Effect",
+      "swapName": "Growth Effect",
+      "type": "ProduceExamEffectType_ExamAddGrowEffect"
+    }
+  ],
   "rules": {
     "primaryKeys": [
       "type"
     ]
-  },
-  "data": [
-    {
-      "type": "ProduceExamEffectType_ExamLesson",
-      "name": "Parameter",
-      "swapName": "Score"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamParameterBuff",
-      "name": "Good Condition",
-      "swapName": "Good Condition"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamBlock",
-      "name": "Energy",
-      "swapName": "Energy"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamCardDraw",
-      "name": "Draw Skill Card",
-      "swapName": "Draw Skill Card"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamStaminaConsumptionDown",
-      "name": "Stamina Consumption Decrease",
-      "swapName": "Stamina Consumption Decrease"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamCardCreateId",
-      "name": "Generation",
-      "swapName": "Generation"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamStaminaReduceFix",
-      "name": "Stamina Consumption",
-      "swapName": "Stamina Consumption"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamLessonBuff",
-      "name": "Focus",
-      "swapName": "Focus"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamCardUpgrade",
-      "name": "Lesson Strengthening",
-      "swapName": "Exam/Stage Strengthening"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamPlayableValueAdd",
-      "name": "Additional Skill Card Usage",
-      "swapName": "Additional Skill Card Usage"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamLessonBuffMultiple",
-      "name": "Temporary Focus Effect Increase",
-      "swapName": "Temporary Focus Effect Increase"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamCardStaminaConsumptionChange",
-      "name": "Stamina Consumption Change",
-      "swapName": "Stamina Consumption Change"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamBlockRestriction",
-      "name": "Energy Increase Inactive",
-      "swapName": "Energy Increase Inactive"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamStatusEnchant",
-      "name": "Sustained Effect",
-      "swapName": "Sustained Effect"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamCardStaminaConsumptionDownSpecify",
-      "name": "Stamina Consumption Decrease",
-      "swapName": "Stamina Consumption Decrease"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamStaminaDamage",
-      "name": "Stamina Decrease",
-      "swapName": "Stamina Decrease"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamStaminaRecoverFix",
-      "name": "Stamina Recovery",
-      "swapName": "Stamina Recovery"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamLessonFix",
-      "name": "Fixed Parameter",
-      "swapName": "Fixed Score"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamCardDuplicate",
-      "name": "Duplication",
-      "swapName": "Duplication"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamReview",
-      "name": "Good Impression",
-      "swapName": "Good Impression"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamCardSearchEffectPlayCountBuff",
-      "name": "Skill Card Additional Activation",
-      "swapName": "Skill Card Additional Activation"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamLessonValueMultiple",
-      "name": "Parameter Increase Amount Increase",
-      "swapName": "Score Increase Amount Increase"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamCardPlayAggressive",
-      "name": "Motivation",
-      "swapName": "Motivation"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamConcentration",
-      "name": "Confidence",
-      "swapName": "Confidence"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamPreservation",
-      "name": "Preservation",
-      "swapName": "Preservation"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamFullPower",
-      "name": "Full Power",
-      "swapName": "Full Power"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamStanceReset",
-      "name": "Guideline Removal",
-      "swapName": "Guideline Removal"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamFullPowerPoint",
-      "name": "Full Power Value",
-      "swapName": "Full Power Value"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamFullPowerPointReduce",
-      "name": "Full Power Value Decrease",
-      "swapName": "Full Power Value Decrease"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamSearchPlayCardStaminaConsumptionChange",
-      "name": "Stamina Consumption Change",
-      "swapName": "Stamina Consumption Change"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamUplifting",
-      "name": "Exhilaration",
-      "swapName": "Exhilaration"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamExtraTurn",
-      "name": "Turn Addition",
-      "swapName": "Turn Addition"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamAntiDebuff",
-      "name": "Decreased State Inactive",
-      "swapName": "Decreased State Inactive"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamStaminaConsumptionAdd",
-      "name": "Stamina Consumption Increase",
-      "swapName": "Stamina Consumption Increase"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamBlockAddDown",
-      "name": "Anxiety",
-      "swapName": "Anxiety"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamBlockAddDownRestriction",
-      "name": "Anxiety Inactive",
-      "swapName": "Anxiety Inactive"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamStaminaRecoverAdd",
-      "name": "Stamina Recovery Effect Increase",
-      "swapName": "Stamina Recovery Effect Increase"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamStaminaReduceChange",
-      "name": "Stamina Consumption Reduction",
-      "swapName": "Stamina Consumption Reduction"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamPanic",
-      "name": "Whim",
-      "swapName": "Whim"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamLessonChangeSpecifyLessThan",
-      "name": "Parameter Increase Value Change",
-      "swapName": "Score Increase Value Change"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamHandHold",
-      "name": "Carry Over Hand",
-      "swapName": "Carry Over Hand"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamStaminaConsumptionAddFix",
-      "name": "Additional Stamina Consumption",
-      "swapName": "Additional Stamina Consumption"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamStaminaConsumptionAddDown",
-      "name": "Stamina Consumption Increase Effect Decrease",
-      "swapName": "Stamina Consumption Increase Effect Decrease"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamStaminaRecoverRestriction",
-      "name": "Stamina Recovery Inactive",
-      "swapName": "Stamina Recovery Inactive"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamStaminaConsumptionDownAdd",
-      "name": "Stamina Consumption Decrease Effect Increase",
-      "swapName": "Stamina Consumption Decrease Effect Increase"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamGetCardUpgrade",
-      "name": "Generation Strengthening",
-      "swapName": "Generation Strengthening"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamStaminaConsumptionDownFix",
-      "name": "Stamina Consumption Reduction",
-      "swapName": "Stamina Consumption Reduction"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamHandGraveCountCardDraw",
-      "name": "Swap Hand",
-      "swapName": "Swap Hand"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamEffectTimer",
-      "name": "Activation Reservation",
-      "swapName": "Activation Reservation"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamGimmickLessonDebuff",
-      "name": "Nervousness",
-      "swapName": "Nervousness"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamGimmickParameterDebuff",
-      "name": "Bad Condition",
-      "swapName": "Bad Condition"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamGimmickSleepy",
-      "name": "Weakness",
-      "swapName": "Weakness"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamGimmickEnthusiastic",
-      "name": "Enthusiasm",
-      "swapName": "Enthusiasm"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamGimmickPlayCardLimit",
-      "name": "Unavailable",
-      "swapName": "Unavailable"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamGimmickSlump",
-      "name": "Slump",
-      "swapName": "Slump"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamGimmickStartTurnCardDrawDown",
-      "name": "Hand Decrease",
-      "swapName": "Hand Decrease"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamBlockFix",
-      "name": "Fixed Energy",
-      "swapName": "Fixed Energy"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamLessonChangeSpecifyMoreThan",
-      "name": "Absent-minded",
-      "swapName": "Absent-minded"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
-      "name": "Excellent Condition",
-      "swapName": "Excellent Condition"
-    },
-    {
-      "type": "ProduceExamEffectType_StanceLock",
-      "name": "Fixed Guideline",
-      "swapName": "Fixed Guideline"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamDebuffRecover",
-      "name": "Decreased State Recovery",
-      "swapName": "Decreased State Recovery"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamReviewReduce",
-      "name": "Good Impression Decrease",
-      "swapName": "Good Impression Decrease"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamAggressiveReduce",
-      "name": "Motivation Decrease",
-      "swapName": "Motivation Decrease"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamLessonBuffReduce",
-      "name": "Focus Decrease",
-      "swapName": "Focus Decrease"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamParameterBuffReduce",
-      "name": "Good Condition Decrease",
-      "swapName": "Good Condition Decrease"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamLessonValueMultipleDown",
-      "name": "Parameter Increase Amount Decrease",
-      "swapName": "Score Increase Amount Decrease"
-    },
-    {
-      "type": "ProduceExamEffectType_ExamAddGrowEffect",
-      "name": "Growth Effect",
-      "swapName": "Growth Effect"
-    }
-  ]
+  }
 }

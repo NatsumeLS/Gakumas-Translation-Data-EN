@@ -1,9 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  },
   "data": [
     {
       "id": "amao-001",
@@ -453,5 +448,10 @@
       "id": "ttmr-birthday-01",
       "name": "So Many Dreams to Fulfill"
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  }
 }

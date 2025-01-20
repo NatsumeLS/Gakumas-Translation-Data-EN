@@ -1,9 +1,4 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
-    ]
-  },
   "data": [
     {
       "id": "comeback_daily_release_mission_001_point",
@@ -57,5 +52,10 @@
       "id": "mission-weekly-point",
       "name": "Weekly Pt"
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  }
 }

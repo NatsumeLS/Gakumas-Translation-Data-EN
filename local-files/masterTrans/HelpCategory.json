@@ -1,15 +1,9 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id",
-      "order"
-    ]
-  },
   "data": [
     {
       "id": "help-achievement",
-      "order": 13,
       "name": "Achievements",
+      "order": 13,
       "texts": [
         " Achievements can be obtained by meeting various conditions. Collect achievements actively to earn rewards such as experience points for increasing your Producer Level. ",
         " When the number of stars earned through achievements reaches a certain amount, you can obtain Master Achievements. Master Achievements rank up based on the number of stars collected and grant rewards. ",
@@ -18,24 +12,24 @@
     },
     {
       "id": "help-box-gasha-event",
-      "order": 20,
       "name": "Seasonal Events",
+      "order": 20,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-circle-battle-event",
-      "order": 22,
       "name": "Regional Tour Events",
+      "order": 22,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-contest",
-      "order": 8,
       "name": "Contests",
+      "order": 8,
       "texts": [
         " You can compete against producers nationwide. In contests, you can use the parameters, skill cards, and P items tied to the memories gained during production. ",
         " Performance battles are conducted on each stage, and victories are determined by the scores obtained. The producer with the most stage victories wins. ",
@@ -45,32 +39,32 @@
     },
     {
       "id": "help-event_mission",
-      "order": 21,
       "name": "Event Missions",
+      "order": 21,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-event-mission",
-      "order": 18,
       "name": "Special Missions",
+      "order": 18,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-gasha",
-      "order": 10,
       "name": "Gacha",
+      "order": 10,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-guild",
-      "order": 12,
       "name": "Circles",
+      "order": 12,
       "texts": [
         " In Circles, you can team up and interact with producers nationwide. ",
         " In Circles, you can request training items from Circle members and receive donated items. Donating items also earns you Friend Coins."
@@ -78,88 +72,88 @@
     },
     {
       "id": "help-highscore",
-      "order": 20,
       "name": "Kunio Juo's Idol Growth Month",
+      "order": 20,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-home",
-      "order": 1,
       "name": "Home",
+      "order": 1,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-idol",
-      "order": 2,
       "name": "Idols",
+      "order": 2,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-lesson",
-      "order": 6,
       "name": "Lessons/Exams",
+      "order": 6,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-main-story-event",
-      "order": 19,
       "name": "Hatsuboshi Commu Event",
+      "order": 19,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-memory",
-      "order": 4,
       "name": "Memories",
+      "order": 4,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-menu",
-      "order": 15,
       "name": "Menu",
+      "order": 15,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-mission",
-      "order": 11,
       "name": "Missions",
+      "order": 11,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-panel-mission",
-      "order": 17,
       "name": "Panel Mission Events",
+      "order": 17,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-photography-prepare-top",
-      "order": 19,
       "name": "Idol Photo Shoots",
+      "order": 19,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-produce",
-      "order": 5,
       "name": "Produce",
+      "order": 5,
       "texts": [
         " Aim to pass exams and participate in live performances. To participate in lives, you need to pass the midterm and final exams. ",
         " Idol parameters are crucial for passing exams. Train your parameters to prepare for exams. ",
@@ -168,51 +162,57 @@
     },
     {
       "id": "help-shop",
-      "order": 14,
       "name": "Shop",
+      "order": 14,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-story",
-      "order": 7,
       "name": "Commu",
+      "order": 7,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-story-event",
-      "order": 16,
       "name": "Story Events",
+      "order": 16,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-story-event-guild-mission",
-      "order": 21,
       "name": "Linked Missions",
+      "order": 21,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-support",
-      "order": 3,
       "name": "Support Cards",
+      "order": 3,
       "texts": [
         ""
       ]
     },
     {
       "id": "help-tower",
-      "order": 9,
       "name": "Idol Road",
+      "order": 9,
       "texts": [
         ""
       ]
     }
-  ]
+  ],
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "order"
+    ]
+  }
 }
