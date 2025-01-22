@@ -2,10 +2,6 @@
   "rules": {
     "primaryKeys": [
       "id",
-      "descriptions.type",
-      "descriptions.targetId",
-      "descriptions.examEffectType",
-      "descriptions.produceCardCategory",
       "produceDescriptions.produceDescriptionType",
       "produceDescriptions.examDescriptionType",
       "produceDescriptions.examEffectType",
@@ -1327,7 +1323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Enhanced Skill Card"
+          "text": "Upgraded Skill Card"
         }
       ]
     },
@@ -1342,7 +1338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Enhanced Skill Card (SSR)"
+          "text": "Upgraded Skill Card (SSR)"
         }
       ]
     },

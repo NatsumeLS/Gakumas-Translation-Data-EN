@@ -2,10 +2,6 @@
   "rules": {
     "primaryKeys": [
       "id",
-      "descriptions.type",
-      "descriptions.targetId",
-      "descriptions.examEffectType",
-      "descriptions.produceCardCategory",
       "produceDescriptions.produceDescriptionType",
       "produceDescriptions.examDescriptionType",
       "produceDescriptions.examEffectType",
@@ -16,10 +12,6 @@
     ]
   },
   "data": [
-    {
-      "id": "event-detail-001-p_story-001-amao-after-audition-final-failure-01",
-      "produceDescriptions": []
-    },
     {
       "id": "event-detail-001-p_story-001-amao-after-audition-final-normal-01",
       "produceDescriptions": [
@@ -84,6 +76,10 @@
           "text": "30"
         }
       ]
+    },
+    {
+      "id": "event-detail-001-p_story-001-amao-after-audition-final-failure-01",
+      "produceDescriptions": []
     },
     {
       "id": "event-detail-001-p_story-001-amao-after-audition-final-normal-02",
@@ -821,7 +817,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -1680,7 +1676,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -2539,7 +2535,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -3398,7 +3394,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -4257,7 +4253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -5116,7 +5112,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -5975,7 +5971,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -6834,7 +6830,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -7693,7 +7689,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -8552,7 +8548,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -9411,7 +9407,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -66300,7 +66296,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -66375,7 +66371,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -66525,7 +66521,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -66600,7 +66596,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -66675,7 +66671,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -66750,7 +66746,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -66825,7 +66821,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -66900,7 +66896,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -67050,7 +67046,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -67125,7 +67121,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -67200,7 +67196,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -67370,7 +67366,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -67520,7 +67516,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -67595,7 +67591,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -67745,7 +67741,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -67820,7 +67816,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -67895,7 +67891,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -67970,7 +67966,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -68045,7 +68041,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -68120,7 +68116,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -68195,7 +68191,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -68345,7 +68341,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -68420,7 +68416,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -68495,7 +68491,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -68570,7 +68566,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -68645,7 +68641,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -68720,7 +68716,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -68795,7 +68791,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -68870,7 +68866,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -68945,7 +68941,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -69020,7 +69016,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -69095,7 +69091,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -69170,7 +69166,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -69245,7 +69241,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -69320,7 +69316,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -69395,7 +69391,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -69470,7 +69466,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
@@ -69545,7 +69541,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "Enhancement"
+          "text": "Upgrade"
         }
       ]
     },
