@@ -1,0 +1,63 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "tutorialType"
+    ]
+  },
+  "data": [
+    {
+      "tutorialType": "TutorialType_Work",
+      "name": "Work",
+      "description": "Work feature unlocked",
+      "routeDescription": "Check from \"Work\" on the Home screen"
+    },
+    {
+      "tutorialType": "TutorialType_PvpRate",
+      "name": "Contest",
+      "description": "Contest feature unlocked",
+      "routeDescription": "Check from \"Contest\""
+    },
+    {
+      "tutorialType": "TutorialType_CoinGasha",
+      "name": "Coin Gacha",
+      "description": "Coin Gacha feature unlocked",
+      "routeDescription": "Check from \"Coin Gacha\" in the Shop"
+    },
+    {
+      "tutorialType": "TutorialType_MoneyReceive",
+      "name": "Activity Funds",
+      "description": "Activity Funds feature unlocked",
+      "routeDescription": "Check from \"Activity Funds\" on the Home screen"
+    },
+    {
+      "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
+      "name": "Produce Idol Training",
+      "description": "Produce Idol Training feature unlocked",
+      "routeDescription": "Check from \"P-Idol Development\" under Idol"
+    },
+    {
+      "tutorialType": "TutorialType_SupportCardLevelUpdate",
+      "name": "Support Card Upgrade",
+      "description": "Support Card Upgrade feature unlocked",
+      "routeDescription": "Check from \"Support Cards\" under Idol"
+    },
+    {
+      "tutorialType": "TutorialType_DailyExchange",
+      "name": "Daily Exchange Shop",
+      "description": "Daily Exchange Shop feature unlocked",
+      "routeDescription": "Check from \"Daily Exchange Shop\" in the Shop"
+    },
+    {
+      "tutorialType": "TutorialType_Tower",
+      "name": "The Idol Road",
+      "description": "The Idol Road feature unlocked",
+      "routeDescription": "Check from \"The Idol Road\" under Contest"
+    },
+    {
+      "tutorialType": "TutorialType_Guild",
+      "name": "Circle",
+      "description": "Circle feature unlocked",
+      "routeDescription": "Check from \"Circle\" in the Menu"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "type": "TermsType_TermsOfService",
+      "name": "Terms"
+    },
+    {
+      "type": "TermsType_PrivacyPolicy",
+      "name": "Privacy Policy"
+    },
+    {
+      "type": "TermsType_GlobalConsent",
+      "name": "Outlet"
+    }
+  ]
+}

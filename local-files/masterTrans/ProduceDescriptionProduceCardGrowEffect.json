@@ -1,0 +1,213 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "type": "ProduceCardGrowEffectType_LessonAdd",
+      "name": "Parameter Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonReduce",
+      "name": "Parameter Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonCountAdd",
+      "name": "Parameter Increase Count Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonCountReduce",
+      "name": "Parameter Increase Count Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_BlockAdd",
+      "name": "Energy Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_BlockReduce",
+      "name": "Energy Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
+      "name": "Full Power Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
+      "name": "Full Power Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostBuffReduce",
+      "name": "Upgraded State Cost Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostBuffAdd",
+      "name": "Upgraded State Cost Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostReduce",
+      "name": "Cost Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostAdd",
+      "name": "Cost Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
+      "name": "Stamina Consumption Cost Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
+      "name": "Stamina Consumption Cost Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
+      "name": "Good Shape Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
+      "name": "Good Shape Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonBuffAdd",
+      "name": "Focus Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonBuffReduce",
+      "name": "Focus Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ReviewAdd",
+      "name": "Good Impression Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ReviewReduce",
+      "name": "Good Impression Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_AggressiveAdd",
+      "name": "Motivation Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_AggressiveReduce",
+      "name": "Motivation Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardDrawAdd",
+      "name": "Draw Count Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardDrawReduce",
+      "name": "Draw Count Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
+      "name": "Excellent Shape Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
+      "name": "Excellent Shape Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
+      "name": "Reduced Stamina Consumption Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
+      "name": "Reduced Stamina Consumption Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
+      "name": "Increased Stamina Consumption Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
+      "name": "Increased Stamina Consumption Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectAdd",
+      "name": "Effect Addition"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectDelete",
+      "name": "Effect Deletion"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectChange",
+      "name": "Effect Replacement"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
+      "name": "Growth Effect Replacement"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayTriggerChange",
+      "name": "Use Condition Replacement"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
+      "name": "Effect Activation Condition Replacement"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
+      "name": "Post-use Move Destination Change"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_InitialAdd",
+      "name": "Start Hand Effect Grant"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostLessonBuffReduce",
+      "name": "Focus Cost Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostLessonBuffAdd",
+      "name": "Focus Cost Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostReviewReduce",
+      "name": "Good Impression Cost Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostReviewAdd",
+      "name": "Good Impression Cost Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostAggressiveReduce",
+      "name": "Motivation Cost Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostAggressiveAdd",
+      "name": "Motivation Cost Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostParameterBuffReduce",
+      "name": "Good Shape Cost Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostParameterBuffAdd",
+      "name": "Good Shape Cost Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostFullPowerPointReduce",
+      "name": "Full Power Value Cost Value Decrease"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostFullPowerPointAdd",
+      "name": "Full Power Value Cost Value Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonDependBlockAdd",
+      "name": "Energy-based Parameter Multiplier Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
+      "name": "Motivation-based Parameter Multiplier Increase"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
+      "name": "Good Impression-based Parameter Multiplier Increase"
+    }
+  ]
+}

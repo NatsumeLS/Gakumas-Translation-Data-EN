@@ -1,0 +1,96 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "tutorialType",
+      "stepNumber",
+      "tutorialStep",
+      "stepType"
+    ]
+  },
+  "data": [
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 1,
+      "tutorialStep": 5,
+      "stepType": "ProduceStepType_LessonVisualNormal",
+      "name": "Visual Lesson"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 2,
+      "tutorialStep": 8,
+      "stepType": "ProduceStepType_LessonDanceNormal",
+      "name": "Dance Lesson"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 3,
+      "tutorialStep": 10,
+      "stepType": "ProduceStepType_Refresh",
+      "name": "Rest"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 4,
+      "tutorialStep": 12,
+      "stepType": "ProduceStepType_AuditionFinal",
+      "name": "Final Exam"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 1,
+      "tutorialStep": 5,
+      "stepType": "ProduceStepType_LessonDanceNormal",
+      "name": "Dance Lesson"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 2,
+      "tutorialStep": 8,
+      "stepType": "ProduceStepType_LessonVisualNormal",
+      "name": "Visual Lesson"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 3,
+      "tutorialStep": 10,
+      "stepType": "ProduceStepType_Refresh",
+      "name": "Rest"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 4,
+      "tutorialStep": 12,
+      "stepType": "ProduceStepType_AuditionFinal",
+      "name": "Final Exam"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 1,
+      "tutorialStep": 5,
+      "stepType": "ProduceStepType_LessonDanceNormal",
+      "name": "Dance Lesson"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 2,
+      "tutorialStep": 8,
+      "stepType": "ProduceStepType_LessonVocalNormal",
+      "name": "Vocal Lesson"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 3,
+      "tutorialStep": 10,
+      "stepType": "ProduceStepType_Refresh",
+      "name": "Rest"
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "stepNumber": 4,
+      "tutorialStep": 12,
+      "stepType": "ProduceStepType_AuditionFinal",
+      "name": "Final Exam"
+    }
+  ]
+}

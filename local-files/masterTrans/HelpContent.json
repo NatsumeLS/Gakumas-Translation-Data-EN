@@ -1,0 +1,1217 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "helpCategoryId",
+      "id",
+      "order"
+    ]
+  },
+  "data": [
+    {
+      "helpCategoryId": "help-achievement",
+      "id": "achievement-achievement",
+      "order": 1,
+      "name": "Achievements"
+    },
+    {
+      "helpCategoryId": "help-achievement",
+      "id": "achievement-idol",
+      "order": 2,
+      "name": "Idol Achievements"
+    },
+    {
+      "helpCategoryId": "help-achievement",
+      "id": "achievement-others",
+      "order": 4,
+      "name": "Other Achievements"
+    },
+    {
+      "helpCategoryId": "help-achievement",
+      "id": "achievement-produce-achievement",
+      "order": 3,
+      "name": "Produce Achievements"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event",
+      "order": 1,
+      "name": "Seasonal Events"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event-bonus",
+      "order": 3,
+      "name": "Event Bonuses"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event-finish",
+      "order": 8,
+      "name": "After the Event"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event-gasha",
+      "order": 4,
+      "name": "Event Gacha"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event-gasha-coin",
+      "order": 7,
+      "name": "Event Items"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event-idol",
+      "order": 2,
+      "name": "Event Rewards Produce Idol"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event-mission",
+      "order": 6,
+      "name": "Event Missions"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event-story",
+      "order": 5,
+      "name": "Event Commu"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-exchange",
+      "order": 5,
+      "name": "Regional Tour Medals"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-finish",
+      "order": 9,
+      "name": "After the Event"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-memory",
+      "order": 3,
+      "name": "Formation"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-mission",
+      "order": 7,
+      "name": "Event Missions"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-ranking",
+      "order": 8,
+      "name": "Circle Rankings"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-reward",
+      "order": 4,
+      "name": "Event Rewards"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-rule",
+      "order": 1,
+      "name": "Regional Tour Events"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-stage",
+      "order": 2,
+      "name": "Stages"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-story",
+      "order": 6,
+      "name": "Event Commu"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-contest",
+      "order": 1,
+      "name": "Contests"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-contest-ranking",
+      "order": 10,
+      "name": "Contest Rankings"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-grade",
+      "order": 8,
+      "name": "Grades"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-preparation-period",
+      "order": 7,
+      "name": "Preparation Period"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-rate-pt",
+      "order": 9,
+      "name": "Rate Points"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-rule",
+      "order": 2,
+      "name": "Contest Rules"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-season",
+      "order": 6,
+      "name": "Seasons"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-squad",
+      "order": 3,
+      "name": "Formation"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-stage",
+      "order": 4,
+      "name": "Stages"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-total",
+      "order": 5,
+      "name": "Total Strength"
+    },
+    {
+      "helpCategoryId": "help-event_mission",
+      "id": "event_mission-event_mission",
+      "order": 1,
+      "name": "Event Missions"
+    },
+    {
+      "helpCategoryId": "help-event-mission",
+      "id": "event-mission-rookie",
+      "order": 1,
+      "name": "Daily Unlock Missions"
+    },
+    {
+      "helpCategoryId": "help-gasha",
+      "id": "gasha-Gasha",
+      "order": 1,
+      "name": "Gacha"
+    },
+    {
+      "helpCategoryId": "help-gasha",
+      "id": "gasha-gasha-pt",
+      "order": 2,
+      "name": "Exchange Points and Flowers"
+    },
+    {
+      "helpCategoryId": "help-guild",
+      "id": "guild-create",
+      "order": 2,
+      "name": "Circle Creation"
+    },
+    {
+      "helpCategoryId": "help-guild",
+      "id": "guild-Guild",
+      "order": 1,
+      "name": "Circles"
+    },
+    {
+      "helpCategoryId": "help-guild",
+      "id": "guild-join",
+      "order": 3,
+      "name": "Joining a Circle"
+    },
+    {
+      "helpCategoryId": "help-guild",
+      "id": "guild-leave",
+      "order": 6,
+      "name": "Leaving/Expelling from a Circle"
+    },
+    {
+      "helpCategoryId": "help-guild",
+      "id": "guild-message-board",
+      "order": 4,
+      "name": "Message Board"
+    },
+    {
+      "helpCategoryId": "help-guild",
+      "id": "guild-request",
+      "order": 5,
+      "name": "Requests"
+    },
+    {
+      "helpCategoryId": "help-highscore",
+      "id": "highscore-highscore",
+      "order": 1,
+      "name": "Overview of Kunio Juo's Idol Enhancement Month"
+    },
+    {
+      "helpCategoryId": "help-highscore",
+      "id": "highscore-ranking",
+      "order": 2,
+      "name": "High Score Ranking Types"
+    },
+    {
+      "helpCategoryId": "help-highscore",
+      "id": "highscore-score_reward",
+      "order": 3,
+      "name": "High Score Achievement Rewards"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-ap",
+      "order": 3,
+      "name": "AP"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-day-reset",
+      "order": 9,
+      "name": "Date Reset"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-home",
+      "order": 1,
+      "name": "Home"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-home-character-change",
+      "order": 7,
+      "name": "Home Idol Settings"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-jewel",
+      "order": 4,
+      "name": "Jewels"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-main-task",
+      "order": 8,
+      "name": "Challenges"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-money-received",
+      "order": 5,
+      "name": "Activity Funds"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-p-lv",
+      "order": 2,
+      "name": "Producer Level"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-work",
+      "order": 6,
+      "name": "Jobs"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-another",
+      "order": 2,
+      "name": "Another Idol"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-dearness",
+      "order": 53,
+      "name": "Bond"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-idol-card",
+      "order": 1,
+      "name": "Produce Idol"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-idol-card-level-limit",
+      "order": 50,
+      "name": "Training"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-idol-card-potential-rank",
+      "order": 51,
+      "name": "Talent Bloom"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-idol-card-release",
+      "order": 52,
+      "name": "Unlocking Produce Idol"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-parameter",
+      "order": 3,
+      "name": "Parameters"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-plan1",
+      "order": 20,
+      "name": "Plan: Sense"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-plan2",
+      "order": 30,
+      "name": "Plan: Logic"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-plan3",
+      "order": 40,
+      "name": "Plan: Anomaly"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-true-end-bonus",
+      "order": 54,
+      "name": "True End Bonus"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-audition",
+      "order": 15,
+      "name": "Exams"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-audition-flow",
+      "order": 16,
+      "name": "Exam Flow"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-audition-view",
+      "order": 17,
+      "name": "Exam Display"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-block",
+      "order": 4,
+      "name": "Energy"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-effect",
+      "order": 12,
+      "name": "Triggered Effects"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-gimmick",
+      "order": 13,
+      "name": "Support and Troubles"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-health-lesson",
+      "order": 3,
+      "name": "Stamina (Lessons)"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-lesson",
+      "order": 1,
+      "name": "Lessons"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-lesson-view",
+      "order": 2,
+      "name": "Lesson Display"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-p-drink",
+      "order": 9,
+      "name": "P-Items"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-p-item",
+      "order": 8,
+      "name": "P-Drinks"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-perfect-lesson",
+      "order": 14,
+      "name": "Perfect Lessons"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-produce-card",
+      "order": 5,
+      "name": "Skill Cards"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-produce-card-powerup",
+      "order": 6,
+      "name": "Skill Card Upgrade"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-produce-card-use",
+      "order": 7,
+      "name": "Skill Card Usage Procedure"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-skip",
+      "order": 10,
+      "name": "SKIP"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-support",
+      "order": 11,
+      "name": "Skill Card Support"
+    },
+    {
+      "helpCategoryId": "help-main-story-event",
+      "id": "help-main-story-event-bonus",
+      "order": 4,
+      "name": "Event Bonuses"
+    },
+    {
+      "helpCategoryId": "help-main-story-event",
+      "id": "help-main-story-event-coin",
+      "order": 6,
+      "name": "Event Exchange Items"
+    },
+    {
+      "helpCategoryId": "help-main-story-event",
+      "id": "help-main-story-event-finish",
+      "order": 7,
+      "name": "After the Event"
+    },
+    {
+      "helpCategoryId": "help-main-story-event",
+      "id": "help-main-story-event-main-story",
+      "order": 3,
+      "name": "Unlocking Hatsuboshi Commu"
+    },
+    {
+      "helpCategoryId": "help-main-story-event",
+      "id": "help-main-story-event-mission",
+      "order": 2,
+      "name": "Event Missions"
+    },
+    {
+      "helpCategoryId": "help-main-story-event",
+      "id": "help-main-story-event-point",
+      "order": 5,
+      "name": "Cumulative Event Points Rewards"
+    },
+    {
+      "helpCategoryId": "help-main-story-event",
+      "id": "help-main-story-event-story",
+      "order": 1,
+      "name": "Hatsuboshi Commu Events"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "memory-memory",
+      "order": 1,
+      "name": "Memories"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "memory-memory-contest",
+      "order": 3,
+      "name": "Effects During Contest Formation"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "memory-memory-convert",
+      "order": 5,
+      "name": "Memory Conversion"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "memory-memory-deck-edit",
+      "order": 4,
+      "name": "Memory Formation Screen"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "memory-memory-inherit",
+      "order": 6,
+      "name": "Memory Synthesis"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "memory-memory-produce",
+      "order": 2,
+      "name": "Effects During Produce Formation"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-album-to-live",
+      "order": 9,
+      "name": "Photo Album"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-costume",
+      "order": 7,
+      "name": "Outfits"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-data-linkage",
+      "order": 17,
+      "name": "Data Linking"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-friend",
+      "order": 2,
+      "name": "Friends"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-friend-invite",
+      "order": 3,
+      "name": "Friend Invitation Feature"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-help",
+      "order": 13,
+      "name": "Help"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-item",
+      "order": 5,
+      "name": "Inventory"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-live-shooting",
+      "order": 8,
+      "name": "Photography"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-media",
+      "order": 12,
+      "name": "Media"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-meishi",
+      "order": 4,
+      "name": "Business Cards"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-music",
+      "order": 10,
+      "name": "Music"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-predownload",
+      "order": 16,
+      "name": "Batch Download"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-produce-collection",
+      "order": 6,
+      "name": "P-Encyclopedia"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-profile",
+      "order": 1,
+      "name": "Profile"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-roster",
+      "order": 11,
+      "name": "Roster"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-setting",
+      "order": 14,
+      "name": "Settings"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-title",
+      "order": 15,
+      "name": "Title"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-daily",
+      "order": 2,
+      "name": "Daily Missions"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-event",
+      "order": 6,
+      "name": "Event Missions"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-mission",
+      "order": 1,
+      "name": "Missions"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-normal",
+      "order": 4,
+      "name": "Normal Missions"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-pass",
+      "order": 7,
+      "name": "Mission Pass"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-special",
+      "order": 5,
+      "name": "Limited-Time Missions"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-weekly",
+      "order": 3,
+      "name": "Weekly Missions"
+    },
+    {
+      "helpCategoryId": "help-panel-mission",
+      "id": "panel-mission-panel-mission",
+      "order": 1,
+      "name": "Panel Missions"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-003-add",
+      "order": 37,
+      "name": "Difficulty: Master"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-business",
+      "order": 40,
+      "name": "Business Operations"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-character-growth",
+      "order": 13,
+      "name": "Training Goals"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-confirm",
+      "order": 8,
+      "name": "Start Confirmation Screen"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-costume-choice",
+      "order": 3,
+      "name": "Costume Selection"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-customize",
+      "order": 42,
+      "name": "Special Guidance"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-customize-customize",
+      "order": 43,
+      "name": "Skill Card Customization"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-ending",
+      "order": 29,
+      "name": "Ending"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-event",
+      "order": 22,
+      "name": "Idol Commu (Produce)"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-exam-audition",
+      "order": 27,
+      "name": "Exams (Produce)"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-fanpresent",
+      "order": 44,
+      "name": "Refreshments"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-fanvote",
+      "order": 39,
+      "name": "Fan Votes"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-generate-memory",
+      "order": 32,
+      "name": "Memory Creation"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-growth-info",
+      "order": 4,
+      "name": "Training Info"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-hard-lesson",
+      "order": 26,
+      "name": "Intensive Lessons"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-health-produce",
+      "order": 14,
+      "name": "Stamina (Produce)"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-idol-card-select",
+      "order": 2,
+      "name": "Produce Idol Selection"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-judging-trend",
+      "order": 10,
+      "name": "Evaluation Criteria"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-lesson",
+      "order": 24,
+      "name": "Lessons (Produce)"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-live",
+      "order": 28,
+      "name": "P-Lives"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-memory-deck-edit",
+      "order": 7,
+      "name": "Memory Formation (Produce)"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-menu",
+      "order": 33,
+      "name": "Menu"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-nia_audition",
+      "order": 45,
+      "name": "Auditions"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-ppoint",
+      "order": 18,
+      "name": "P-Points"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-present",
+      "order": 21,
+      "name": "Activity Support"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-produce",
+      "order": 1,
+      "name": "Produce"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-produce-1",
+      "order": 34,
+      "name": "Regular Performance \"Hajime\""
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-produce-2",
+      "order": 38,
+      "name": "NEXT IDOL AUDITION"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-produce-drink",
+      "order": 16,
+      "name": "P-Drinks"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-produce-item",
+      "order": 17,
+      "name": "P-Items"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-produce-ranking",
+      "order": 35,
+      "name": "Produce Rankings"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-ProduceSchedule",
+      "order": 11,
+      "name": "P-Book"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-refresh",
+      "order": 15,
+      "name": "Rest"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-result",
+      "order": 31,
+      "name": "Produce Results"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-schedule-confirm",
+      "order": 12,
+      "name": "Schedule"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-schedule-select",
+      "order": 9,
+      "name": "Schedule Selection"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-select-info",
+      "order": 5,
+      "name": "Formation Details"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-self_lesson",
+      "order": 41,
+      "name": "Self-Lessons"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-seminar",
+      "order": 36,
+      "name": "Training"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-shool-actibity",
+      "order": 20,
+      "name": "Lessons/Outings"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-shop",
+      "order": 19,
+      "name": "Consultations"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-sp-lesson",
+      "order": 25,
+      "name": "SP-Lessons"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-support-card-deck-edit",
+      "order": 6,
+      "name": "Support Card Formation (Produce)"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-support-event",
+      "order": 23,
+      "name": "Support Card Events"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-true-end",
+      "order": 30,
+      "name": "True End: \"Hajime\""
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-true-end-2",
+      "order": 46,
+      "name": "True End: N.I.A"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-coingasha",
+      "order": 5,
+      "name": "Coin Gacha"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-costume",
+      "order": 9,
+      "name": "Costume Shop"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-exchange",
+      "order": 7,
+      "name": "Item Exchange"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-exchange-daily",
+      "order": 6,
+      "name": "Daily Exchange"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-exchange-ticket",
+      "order": 8,
+      "name": "Ticket Exchange"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-itemshop",
+      "order": 3,
+      "name": "Packs"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-jewel",
+      "order": 2,
+      "name": "Jewels"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-mission-pass",
+      "order": 4,
+      "name": "Passes"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-shop-all",
+      "order": 1,
+      "name": "Shop"
+    },
+    {
+      "helpCategoryId": "help-story",
+      "id": "story-story",
+      "order": 1,
+      "name": "Commu"
+    },
+    {
+      "helpCategoryId": "help-story",
+      "id": "story-story-event-story",
+      "order": 5,
+      "name": "Event Commu"
+    },
+    {
+      "helpCategoryId": "help-story",
+      "id": "story-story-idol",
+      "order": 3,
+      "name": "Idol Commu"
+    },
+    {
+      "helpCategoryId": "help-story",
+      "id": "story-story-main",
+      "order": 2,
+      "name": "Hatsuboshi Commu"
+    },
+    {
+      "helpCategoryId": "help-story",
+      "id": "story-story-support-card",
+      "order": 4,
+      "name": "Support Commu"
+    },
+    {
+      "helpCategoryId": "help-story-event",
+      "id": "story-event-event-coin",
+      "order": 6,
+      "name": "Event Exchange Items"
+    },
+    {
+      "helpCategoryId": "help-story-event",
+      "id": "story-event-event-finish",
+      "order": 7,
+      "name": "After the Event"
+    },
+    {
+      "helpCategoryId": "help-story-event",
+      "id": "story-event-event-mission",
+      "order": 5,
+      "name": "Event Missions"
+    },
+    {
+      "helpCategoryId": "help-story-event",
+      "id": "story-event-event-point",
+      "order": 3,
+      "name": "Cumulative Event Points Rewards"
+    },
+    {
+      "helpCategoryId": "help-story-event",
+      "id": "story-event-event-story",
+      "order": 1,
+      "name": "Story Events"
+    },
+    {
+      "helpCategoryId": "help-story-event",
+      "id": "story-event-event-story-bonus",
+      "order": 2,
+      "name": "Event Bonuses"
+    },
+    {
+      "helpCategoryId": "help-story-event",
+      "id": "story-event-event-story-story-unlock",
+      "order": 4,
+      "name": "Event Commu"
+    },
+    {
+      "helpCategoryId": "help-story-event-guild-mission",
+      "id": "guild-mission",
+      "order": 1,
+      "name": "Linked Missions"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-lesson-support",
+      "order": 2,
+      "name": "Skill Card Support"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-produce-upgrade-select",
+      "order": 5,
+      "name": "Level Upgrade"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-support-ability",
+      "order": 4,
+      "name": "Support Abilities"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-support-bonus",
+      "order": 9,
+      "name": "Support Bonuses"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-support-card",
+      "order": 1,
+      "name": "Support Cards"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-support-card-deck-edit",
+      "order": 7,
+      "name": "Support Card Formation"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-support-card-exchange",
+      "order": 8,
+      "name": "Support Conversion"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-support-card-level-limit-rank",
+      "order": 6,
+      "name": "Limit Break"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-support-event",
+      "order": 3,
+      "name": "Support Events"
+    },
+    {
+      "helpCategoryId": "help-tower",
+      "id": "clear-rank",
+      "order": 3,
+      "name": "Clear Condition Stars"
+    },
+    {
+      "helpCategoryId": "help-tower",
+      "id": "memory-memory-tower",
+      "order": 4,
+      "name": "Memory Formation for Idol Road"
+    },
+    {
+      "helpCategoryId": "help-tower",
+      "id": "tower",
+      "order": 1,
+      "name": "Idol Road"
+    },
+    {
+      "helpCategoryId": "help-tower",
+      "id": "tower-achivement",
+      "order": 5,
+      "name": "Idol Road Achievements"
+    },
+    {
+      "helpCategoryId": "help-tower",
+      "id": "tower-rule",
+      "order": 2,
+      "name": "Rules for Idol Road"
+    }
+  ]
+}

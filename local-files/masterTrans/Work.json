@@ -1,0 +1,17 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "type": "WorkType_MiniLive",
+      "name": "Mini Live "
+    },
+    {
+      "type": "WorkType_LiveStreaming",
+      "name": "Livestream "
+    }
+  ]
+}

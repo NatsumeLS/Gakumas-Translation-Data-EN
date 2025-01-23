@@ -1,0 +1,45 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "eventType"
+    ]
+  },
+  "data": [
+    {
+      "eventType": "EventType_MissionDailyRelease",
+      "name": "Special Missions"
+    },
+    {
+      "eventType": "EventType_MissionPanel",
+      "name": "Panel Missions"
+    },
+    {
+      "eventType": "EventType_ProduceHighScore",
+      "name": "Kunio Juo's Idol Enhancement Month"
+    },
+    {
+      "eventType": "EventType_StoryCampaign",
+      "name": "Free Commu Unlock Period"
+    },
+    {
+      "eventType": "EventType_StoryEvent",
+      "name": "Story"
+    },
+    {
+      "eventType": "EventType_StoryEventMainStory",
+      "name": "Hatsuboshi Commu"
+    },
+    {
+      "eventType": "EventType_StoryEventBoxGasha",
+      "name": "Season"
+    },
+    {
+      "eventType": "EventType_StoryEventGuildMission",
+      "name": "Story"
+    },
+    {
+      "eventType": "EventType_GvgRaid",
+      "name": "Regional Tour"
+    }
+  ]
+}

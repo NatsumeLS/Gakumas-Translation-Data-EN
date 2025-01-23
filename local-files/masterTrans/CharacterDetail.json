@@ -1,0 +1,923 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "characterId",
+      "type",
+      "order"
+    ]
+  },
+  "data": [
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "3rd Year"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "157"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "46"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "A"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "85/53/85"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "Capricorn"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "Tsumugi Nanase"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "17"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "Jan 18"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "Right"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "Hyogo"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "Martial arts, dexterity"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "Caring for others, watching plays"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "A small 3rd-year aiming to be a cool idol. Admired as a\nsmall prince by juniors.She’s struggled with the gap\nbetween her ideal image and her physical growth\nsince she aspired to be a musical star in childhood."
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "1st Year"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "156"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "40"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "O"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "75/55/75"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "Taurus"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "Hikaru Iida"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "Apr 29"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "Right"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "Saitama"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "Dance, remembering faces and names"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "Earning money"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "A mood maker aiming to be a profitable idol.\nA talented dancer with low self-evaluation\nbut seems off-balance. Works many part-time\njobs, always tired."
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "3rd Year"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "166"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "56"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "A"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "90/59/93"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "Pisces"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "Yuri Usui"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "17"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "Mar 5"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "Right"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "Fukuoka"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "Cooking, sewing, crafts"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "Café hopping, collecting cosmetics"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "A mature 3rd-year. The older sister in the dorm,\ntaking care of others. Has been in a unit before\nbut didn’t do well."
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "1st Year"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "152"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "45"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "A"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "84/55/80 "
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "Aries"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "Aoi Nagatsuki"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "16"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "Apr 2"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "Left"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "Aichi"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "Sports, chores, massage"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "All kinds of competitions"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "Top student of the entrance exam, an athlete\nwith excellent physical abilities, and quick\nto learn. While her growth is impressive,\nit’s hard to see major changes now."
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "1st Year"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "158"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "50"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "AB"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "91/60/85"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "Aries"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "Ayane Matsuda"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "Apr 1"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "Right"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "Aichi"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "Sports, massage"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "Competing with her sister"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "3rd Year"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "170"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "54"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "A"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "88/56/86"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "Sagittarius"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "Mashiro Hidaka"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "17"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "Dec 7"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "Both"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "Tokyo"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "Identifying idol talent"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "Training, finding talented idols"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "1st Year"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "148"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "43"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "O"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "73/56/73"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "Leo"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "Maou Ito"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "Aug 1"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "Right"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "Kanagawa"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "Cheerful greetings, liked by animals"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "Drawing"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "A pampered, cheerful girl aiming to be\na \"proper idol\" at Hatsuboshi Academy."
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "1st Year"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "161"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "43"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "B"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "82/53/80"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "Leo"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "Kana Hanaiwa"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "Jul 24"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "Right"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "Sweden"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "Baking, gaming"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "Baking, Japanese anime"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "An international freshman. Lacks experience in\nsinging or dancing, often shrinking with little\nconfidence. Doesn't seem suited for idols..."
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "1st Year"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "159"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "41"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "AB"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "72/54/76"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "Sagittarius"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "Reina Kawamura"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "Dec 21"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "Left"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "Akita"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "Studying, physics, maths, puzzles"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "Challenging weak subjects, growing houseplants"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "A genius who graduated university at 14.\nGave up a promising future to pursue idol dreams.\nPerfect in academics but failed practicals.\nThe principal rated her highly."
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "1st Year"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "168"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "54"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "O"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "89/58/85"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "Scorpio"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "Miya Minato"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "Nov 11"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "Left"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "Hokkaido"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "Flexible body"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "Karaoke, SNS"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "Bright, energetic girl who can make friends with\nanyone. Once a world-class ballet dancer, but\nlacks motivation in class and lessons."
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "1st Year"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "162"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "51"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "AB"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "82/58/86"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "Gemini"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "Nao Ojika"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "Jun 3"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "Right"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "Kyoto"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "Singing"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "Eating delicious food (currently refraining)"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "Former member of the top middle school unit \"SyngUp!\".\nA first-year with professional singing skills but known\nfor bad behavior and causing trouble."
+    }
+  ]
+}

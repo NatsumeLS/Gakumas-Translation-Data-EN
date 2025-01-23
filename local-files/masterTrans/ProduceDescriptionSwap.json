@@ -1,0 +1,320 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "swapType"
+    ]
+  },
+  "data": [
+    {
+      "id": "Swap_Convert_001",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Lesson "
+    },
+    {
+      "id": "Swap_Convert_001",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Turn "
+    },
+    {
+      "id": "Swap_Convert_002",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Lesson "
+    },
+    {
+      "id": "Swap_Convert_002",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Exam/Stage "
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Lesson CLEAR "
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Score is "
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_NotClear",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Lesson not CLEAR "
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_NotClear",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Score is 999 or less "
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_100",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "10%"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_100",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "100"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_1000",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "100%"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_1000",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "1000"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_300",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "30%"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_300",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "300"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_500",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "50%"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_500",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "500"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_DanceLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "【Dance Lesson/Dance Turn only】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_DanceLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "If it's a Dance Turn, "
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_SpLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "【SP Lesson only】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_SpLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "【SP Lesson only】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_VisualLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "【Visual Lesson/Visual Turn only】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_VisualLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "If it's a Visual Turn, "
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_VocalLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "【Vocal Lesson/Vocal Turn only】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_VocalLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "If it's a Vocal Turn, "
+    },
+    {
+      "id": "Swap_Label_ExamCardUpgrade",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Upgrade during Lesson "
+    },
+    {
+      "id": "Swap_Label_ExamCardUpgrade",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Upgrade during Exam/Stage "
+    },
+    {
+      "id": "Swap_Label_ExamLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Parameters "
+    },
+    {
+      "id": "Swap_Label_ExamLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Score "
+    },
+    {
+      "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Change in parameter increase "
+    },
+    {
+      "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Change in score increase "
+    },
+    {
+      "id": "Swap_Label_ExamLessonFix",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Fixed parameters "
+    },
+    {
+      "id": "Swap_Label_ExamLessonFix",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Fixed score "
+    },
+    {
+      "id": "Swap_Label_ExamLessonValueMultiple",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Increase in parameter increase "
+    },
+    {
+      "id": "Swap_Label_ExamLessonValueMultiple",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Increase in score increase "
+    },
+    {
+      "id": "Swap_Label_ExamLessonValueMultipleDown",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Decrease in parameter increase "
+    },
+    {
+      "id": "Swap_Label_ExamLessonValueMultipleDown",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Decrease in score increase "
+    },
+    {
+      "id": "Swap_Label_ExamStaminaDamage",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Health decrease "
+    },
+    {
+      "id": "Swap_Label_ExamStaminaDamage",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Health decrease "
+    },
+    {
+      "id": "Swap_Label_ExamStaminaRecoverFix",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Health recovery "
+    },
+    {
+      "id": "Swap_Label_ExamStaminaRecoverFix",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Health recovery "
+    },
+    {
+      "id": "Swap_Label_LessonAdd",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Increase in parameter value "
+    },
+    {
+      "id": "Swap_Label_LessonAdd",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Increase in score value "
+    },
+    {
+      "id": "Swap_Label_LessonCountAdd",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Increase in parameter increase count "
+    },
+    {
+      "id": "Swap_Label_LessonCountAdd",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Increase in score increase count "
+    },
+    {
+      "id": "Swap_Label_LessonCountReduce",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Decrease in parameter increase count "
+    },
+    {
+      "id": "Swap_Label_LessonCountReduce",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Decrease in score increase count "
+    },
+    {
+      "id": "Swap_Label_LessonReduce",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Decrease in parameter value "
+    },
+    {
+      "id": "Swap_Label_LessonReduce",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Decrease in score value "
+    },
+    {
+      "id": "Swap_Label_ProduceCardMovePositionType_Lost",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Once during Lesson "
+    },
+    {
+      "id": "Swap_Label_ProduceCardMovePositionType_Lost",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Once during Exam/Stage "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Top of the deck "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Top of the deck "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckLast",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Bottom of the deck "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckLast",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Bottom of the deck "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Random position in the deck "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Random position in the deck "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Grave",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Discard pile "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Grave",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Discard pile "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Hand",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Hand "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Hand",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Hand "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Lost",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Exclusion "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Lost",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Exclusion "
+    }
+  ]
+}
