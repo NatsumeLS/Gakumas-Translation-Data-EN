@@ -13963,7 +13963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14018,7 +14018,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17643,6 +17643,51 @@
       ]
     },
     {
+      "id": "e_effect-exam_gimmick_play_card_limit-04-p_card_search-active_skill-deck_all",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ActiveSkillCard",
+          "text": "Active Skill Card"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Unavailable<nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeTurn",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "4"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Turn</nobr>"
+        }
+      ]
+    },
+    {
       "id": "e_effect-exam_gimmick_sleepy-0001-inf",
       "produceDescriptions": [
         {
@@ -18328,7 +18373,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18403,7 +18448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18478,7 +18523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18553,7 +18598,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18628,7 +18673,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18703,7 +18748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18778,7 +18823,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18853,7 +18898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18928,7 +18973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19003,7 +19048,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19078,7 +19123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19153,7 +19198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19228,7 +19273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19303,7 +19348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19378,7 +19423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19413,7 +19458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19478,7 +19523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19543,7 +19588,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19608,7 +19653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19673,7 +19718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31053,7 +31098,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31128,7 +31173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31203,7 +31248,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31223,7 +31268,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31298,7 +31343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31373,7 +31418,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31448,7 +31493,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31523,7 +31568,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31598,7 +31643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31673,7 +31718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51638,7 +51683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffReduce",
-          "text": "Good condition decrease"
+          "text": "Good Shape decrease"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51683,7 +51728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51728,7 +51773,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51773,7 +51818,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51818,7 +51863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51863,7 +51908,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51908,7 +51953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51953,7 +51998,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51998,7 +52043,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52043,7 +52088,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52088,7 +52133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52133,7 +52178,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52178,7 +52223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52223,7 +52268,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52268,7 +52313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52313,7 +52358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52358,7 +52403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -52403,7 +52448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -57923,7 +57968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -62043,7 +62088,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -62478,7 +62523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -62543,7 +62588,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -63138,7 +63183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -63713,7 +63758,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -64168,7 +64213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -64208,7 +64253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -64293,7 +64338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -64813,7 +64858,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffReduce",
-          "text": "Good condition decrease"
+          "text": "Good Shape decrease"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -68668,7 +68713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -70258,7 +70303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -71108,7 +71153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -71458,7 +71503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -71733,7 +71778,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good condition"
+          "text": "Good Shape"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
