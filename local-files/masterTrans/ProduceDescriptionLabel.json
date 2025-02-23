@@ -129,7 +129,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skills that enter the starting hand "
+          "text": ", included in the starting hand"
         }
       ],
       "name": ""
@@ -4538,6 +4538,22 @@
         }
       ],
       "name": "Full Power Value Decrease "
+    },
+    {
+      "id": "Label_HighScoreRushGold",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Items to be acquired during \"Kunio Juo's Idol Enhancement Month - Revised\". It can be used in the event gacha."
+        }
+      ],
+      "name": "Starlight"
     },
     {
       "id": "Label_InitialAdd",
