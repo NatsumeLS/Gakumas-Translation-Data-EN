@@ -509,7 +509,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Value "
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -522,7 +522,7 @@
           "text": "Increased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Full Power Value Cost Value Increase "
+      "name": "Full Power Point Cost Value Increase "
     },
     {
       "id": "Label_CostFullPowerPointReduce",
@@ -545,7 +545,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Value "
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -558,7 +558,7 @@
           "text": "Decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Full Power Value Cost Value Decrease "
+      "name": "Full Power Point Cost Value Decrease "
     },
     {
       "id": "Label_CostLessonBuffAdd",
@@ -1947,7 +1947,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Value "
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1967,7 +1967,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Value "
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2000,7 +2000,7 @@
           "text": "change to "
         }
       ],
-      "name": "Full Power Value "
+      "name": "Full Power Point "
     },
     {
       "id": "Label_ExamFullPowerPointReduce",
@@ -2013,7 +2013,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Value "
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2026,7 +2026,7 @@
           "text": "Decreases "
         }
       ],
-      "name": "Full Power Value Decrease "
+      "name": "Full Power Point Decrease "
     },
     {
       "id": "Label_ExamGetCardUpgrade",
@@ -3250,7 +3250,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase boost amount by 50%"
+          "text": "Increase boost amount by 50% "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3326,7 +3326,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Per turn, increases by 10%"
+          "text": "Per turn, increases by 10% "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3404,7 +3404,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Can use an additional skill card this turn"
+          "text": "Can use an additional skill card this turn "
         }
       ],
       "name": "Additional Skill Card Usage "
@@ -4458,7 +4458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Value "
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4478,7 +4478,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Value "
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4491,7 +4491,7 @@
           "text": "Does not affect skill cards without increase effects "
         }
       ],
-      "name": "Full Power Value Increase "
+      "name": "Full Power Point Increase "
     },
     {
       "id": "Label_FullPowerPointReduce",
@@ -4504,7 +4504,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Value "
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4524,7 +4524,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Value "
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4537,7 +4537,7 @@
           "text": "Does not affect skill cards without increase effects\nIncrease value will not drop to 0 "
         }
       ],
-      "name": "Full Power Value Decrease "
+      "name": "Full Power Point Decrease "
     },
     {
       "id": "Label_HighScoreRushGold",
@@ -5588,7 +5588,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Academy activities include the following schedule:\nClasses, sales tasks "
+          "text": "Academy activities include the following schedule:\nClasses, Jobs tasks "
         }
       ],
       "name": "School Activities "
@@ -5848,7 +5848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Value "
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
