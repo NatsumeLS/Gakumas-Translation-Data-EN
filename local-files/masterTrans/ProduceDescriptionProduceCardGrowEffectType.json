@@ -1,0 +1,199 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "type": "ProduceCardGrowEffectType_LessonAdd",
+      "name": "Parameter Increase",
+      "produceCardCustomizeTemplate": "Parameter +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonReduce",
+      "name": "Parameter Decrease",
+      "produceCardCustomizeTemplate": "Parameter -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonCountAdd",
+      "name": "Parameter Boost Increase",
+      "produceCardCustomizeTemplate": "Parameter Boost +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonCountReduce",
+      "name": "Parameter Boost Decrease",
+      "produceCardCustomizeTemplate": "Parameter Boost Count -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_BlockAdd",
+      "name": "Energy Increase",
+      "produceCardCustomizeTemplate": "Energy +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_BlockReduce",
+      "name": "Energy Decrease",
+      "produceCardCustomizeTemplate": "Energy -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
+      "name": "Full Power Increase",
+      "produceCardCustomizeTemplate": "Full Power +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
+      "name": "Full Power Decrease",
+      "produceCardCustomizeTemplate": "Full Power -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostBuffReduce",
+      "name": "Upgrade Cost Decrease",
+      "produceCardCustomizeTemplate": "Upgrade Cost -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostBuffAdd",
+      "name": "Upgrade Cost Increase",
+      "produceCardCustomizeTemplate": "Upgrade Cost +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostReduce",
+      "name": "Cost Decrease",
+      "produceCardCustomizeTemplate": "Cost -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostAdd",
+      "name": "Cost Increase",
+      "produceCardCustomizeTemplate": "Cost +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
+      "name": "Stamina Cost Decrease",
+      "produceCardCustomizeTemplate": "Stamina Cost -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
+      "name": "Stamina Cost Increase",
+      "produceCardCustomizeTemplate": "Stamina Cost +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
+      "name": "Good Condition Increase",
+      "produceCardCustomizeTemplate": "Good Condition +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
+      "name": "Good Condition Decrease",
+      "produceCardCustomizeTemplate": "Good Condition -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonBuffAdd",
+      "name": "Focus Increase",
+      "produceCardCustomizeTemplate": "Focus +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonBuffReduce",
+      "name": "Focus Decrease",
+      "produceCardCustomizeTemplate": "Focus -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ReviewAdd",
+      "name": "Good Impression Increase",
+      "produceCardCustomizeTemplate": "Good Impression +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ReviewReduce",
+      "name": "Good Impression Decrease",
+      "produceCardCustomizeTemplate": "Good Impression -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_AggressiveAdd",
+      "name": "Motivation Increase",
+      "produceCardCustomizeTemplate": "Motivation +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_AggressiveReduce",
+      "name": "Motivation Decrease",
+      "produceCardCustomizeTemplate": "Motivation -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardDrawAdd",
+      "name": "Draw Count Increase",
+      "produceCardCustomizeTemplate": "Draw Card +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardDrawReduce",
+      "name": "Draw Count Decrease",
+      "produceCardCustomizeTemplate": "Draw Card -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
+      "name": "Excellent Condition Increase",
+      "produceCardCustomizeTemplate": "Excellent Condition +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
+      "name": "Excellent Condition Decrease",
+      "produceCardCustomizeTemplate": "Excellent Condition -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
+      "name": "Reduced Stamina Consumption Increase",
+      "produceCardCustomizeTemplate": "Reduced Stamina Consumption +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
+      "name": "Reduced Stamina Consumption Decrease",
+      "produceCardCustomizeTemplate": "Reduced Stamina Consumption -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
+      "name": "Increased Stamina Consumption Decrease",
+      "produceCardCustomizeTemplate": "Increased Stamina Consumption +"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
+      "name": "Increased Stamina Consumption Increase",
+      "produceCardCustomizeTemplate": "Increased Stamina Consumption -"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectAdd",
+      "name": "Add Effect",
+      "produceCardCustomizeTemplate": "Add Effect"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectDelete",
+      "name": "Remove Effect",
+      "produceCardCustomizeTemplate": "Remove Effect"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectChange",
+      "name": "Replace Effect",
+      "produceCardCustomizeTemplate": "Change Effect"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
+      "name": "Replace Growth Effect",
+      "produceCardCustomizeTemplate": "Change Growth"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayTriggerChange",
+      "name": "Replace Usability Condition",
+      "produceCardCustomizeTemplate": "Change Condition"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
+      "name": "Replace Activation Condition",
+      "produceCardCustomizeTemplate": "Change Condition"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
+      "name": "Change Destination After Use",
+      "produceCardCustomizeTemplate": "Change Destination"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_InitialAdd",
+      "name": "Starting Hand Effect Granted",
+      "produceCardCustomizeTemplate": "Add to Starting Hand"
+    }
+  ]
+}

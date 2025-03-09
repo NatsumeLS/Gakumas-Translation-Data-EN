@@ -1,0 +1,25 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "type": "ProducePlanType_Common",
+      "name": "Common "
+    },
+    {
+      "type": "ProducePlanType_Plan1",
+      "name": "【Sense Only】"
+    },
+    {
+      "type": "ProducePlanType_Plan2",
+      "name": "【Logic Only】"
+    },
+    {
+      "type": "ProducePlanType_Plan3",
+      "name": "【Anomaly Only】"
+    }
+  ]
+}
