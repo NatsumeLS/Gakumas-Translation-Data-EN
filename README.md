@@ -23,31 +23,7 @@ Instructions for `LSPosed` won't be provided here since it is unique for each de
 
 ## Instructions for Installing `gakuen-imas-localify` using `Shizuku` 
 
-### Step 1: Install Shizuku
-
-- Install `Shizuku`  https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&pcampaignid=web_share from Google Play Store.
-- Open `Shizuku` and follow the instructions to start the service.
-
-### Step 2: Install gakuen-imas-localify
-
-- Visit `gakuen-imas-localify` GitHub repository to download the latest APK.
-- Install `gakuen-imas-localify` on your device.
-
-### Step 3: Configure gakuen-imas-localify with Shizuku
-
-- Open `Shizuku` and ensure the service is running.
-- Open `gakuen-imas-localify` and go to the `Gakumas localify patcher`, that's `sparkling pen`  the icon in the bottom left corner of the screen.
-- You should see a prompt to grant `Shizuku` permissions.
-- Follow the on-screen instructions to grant the necessary permissions.
-
-### Step 4: Use gakuen-imas-localify
-
-- Open `Gakumas localify patcher` and navigate to the `sparkling pen`  icon in the bottom left corner of the screen.
-- Add new patch and select the gakumas apk file then follow the instructions to apply patches.
-- Only use `Local Patch Mode`
-- Also make sure that `学マス` is enabled in `Module Scopes`
-
-# Instructions for Installing `LSPatch` using `Shizuku`
+#  Installing the patch via `LSPatch` &`Shizuku`
 ### Step 1: Install Shizuku
 
 - Install `Shizuku` from Google Play Store.
@@ -55,7 +31,7 @@ Instructions for `LSPosed` won't be provided here since it is unique for each de
 
 ### Step 2: Install `LSPatch`
 
-- Visit `LSPatch`  https://github.com/LSPosed/LSPatch/releases GitHub repository to download the latest APK.
+- Visit `LSPatch`  https://github.com/JingMatrix/LSPatch GitHub repository to download the latest APK.
 - Install `LSPatch` on your device.
 
 ### Step 3: Configure `LSPatch` with Shizuku
@@ -66,26 +42,39 @@ Instructions for `LSPosed` won't be provided here since it is unique for each de
 - Follow the on-screen instructions to grant the necessary permissions.
 
 ### Step 4: Use `LSPatch`
-- Install `gakuen-imas-localify`
+
+- Install `Gakumas-Localify`
 - Open `LSPatch` and navigate to the second tab where you can add apps.
 - Add new patch and select `学マス` then follow the instructions to apply patches.
 - Only use `Local Patch Mode`
 - Make sure the Module is enabled in `LSPatch`
 - Also make sure that `学マス` is enabled in `Module Scopes`
 
+#  TRANSLATION DATA
+
 # Installing the translation data
 
+- Make sure `Enable plugin` is toggled on in the `Basic settings` tab
 - Disable `Check Built-in Asset Update`
 - Make sure `Force Update Resource` is disabled in the `Advanced` tab
 - Make sure `replace font` and `fast initialization` are disabled
-- Enable `Use Remote ZIP Resource` in the `resource settings` tab and enter `https://github.com/NatsumeLS/Gakumas-Translation-Data-EN.git`
+- Make sure  `MasterDB localization` in the advanced tab of `gakuen-imas-localify` are enabled
+- Enable `Use Remote ZIP Resource` in the `resource settings` tab and enter **`https://github.com/NatsumeLS/Gakumas-Translation-Data-EN.git`**
 - Download the translation data
-- If the translations still have partially chinese TL, Run the game once with `delete plugin resource` enabled and then run the game again with `use remote zip resource` to reinstall the EN translation data
 
+> #    If the translations still have partially chinese TL, Run the game once with `delete plugin resource` enabled and then run the game again with `use remote zip resource` to reinstall the EN translation data
 
 # Updating the translation data
 Update the translation datas via the `resource settings` tab in the `gakuen-imas-localify` app.
-Any updates made to the translation datas will be visible in this repo push history, or the discord server inside #en-translation-data
+Any updates made to the translation datas will be visible in #en-translation-data
+
+# Updating the game via pre-patched APKs
+
+Install the latest game version available here:
+https://github.com/Kajaqq/gaku-patcher/releases
+
+By using this, you wont have to patch the game manually again via localify or lspatch.
+It is recommended to still patch your game at least once manually when you first started the process.
 
 ## Files and Folder Structure
 
