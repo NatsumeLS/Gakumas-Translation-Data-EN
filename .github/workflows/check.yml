@@ -109,14 +109,6 @@ jobs:
         echo "VERSION=$branch.$hash.$date" >> $GITHUB_ENV
         echo "RELEASE_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
-    - name: Commit Changes
-      run: |
-        git pull
-        git commit -am "chore(update): Update Version Info"
-        git push origin HEAD
-      env:
-        GITHUB_TOKEN: ${{ secrets.PAT }}
-
     - name: Create ZIP Archive
       run: |
         zip -r Gakumas-Translation-Data-EN-${{ env.VERSION }}.zip local-files version.txt
