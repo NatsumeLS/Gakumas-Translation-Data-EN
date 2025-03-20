@@ -125,15 +125,13 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         tag_name: ${{ env.VERSION }}
-        name: Translation Data Update ${{ env.RELEASE_DATE }}
-        body: |
-          # Translation Data Update ${{ env.RELEASE_DATE }}
-          
-          ## Version: ${{ env.VERSION }}
+        name: Translation Update ${{ env.RELEASE_DATE }}
+        body: |      
+          ## Version: `${{ env.VERSION }}`
           
           This is an automated release of the latest translation data.
           
-          ### How to use:
+          ### How to use
           1. Disable `Fast Initialization` in the `Basic Settings` tab.
           2. Disable `Replace Font` in the `Basic Settings` tab.
           3. Enable `MasterDB Localization` in the `Debug Settings/Advanced` tab.
