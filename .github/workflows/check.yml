@@ -127,6 +127,8 @@ jobs:
         name: Translation Update ${{ env.RELEASE_DATE }}
         body: |      
           This is an automated release of the latest translation data.
+
+          Changes can be read at our Discord.
         files: |
           Gakumas-Translation-Data-EN-${{ env.VERSION }}.zip
         draft: false
