@@ -120,13 +120,21 @@ jobs:
       run: |
         zip -r Gakumas-Translation-Data-EN-${{ env.VERSION }}.zip local-files version.txt
 
+    - name: Generate Changelog
+      run: |
+        echo "This is an automated release of the latest translation data." > CHANGELOG.md
+        echo "" >> CHANGELOG.md
+        echo "## Changelog" >> CHANGELOG.md
+        git log $(git describe --tags --abbrev=0 @^)..@ --pretty=format:"- %s" >> CHANGELOG.md
+        echo "" >> CHANGELOG.md
+        cat CHANGELOG.md
+
     - name: Create GitHub Release
       uses: softprops/action-gh-release@v1
       with:
         tag_name: ${{ env.VERSION }}
         name: Translation Update ${{ env.RELEASE_DATE }}
-        body: |      
-          This is an automated release of the latest translation data.
+        body_path: CHANGELOG.md
         files: |
           Gakumas-Translation-Data-EN-${{ env.VERSION }}.zip
         draft: false
