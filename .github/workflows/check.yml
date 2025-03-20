@@ -1,6 +1,13 @@
 name: Check
 
-on: [push, pull_request, workflow_dispatch]
+on:
+  push:
+    branches:
+      - '**'
+    tags-ignore:
+      - '**'
+  pull_request:
+  workflow_dispatch:
 
 jobs:
   validate:
@@ -104,10 +111,10 @@ jobs:
       run: |
         branch=$(git rev-parse --abbrev-ref HEAD)
         hash=$(git rev-parse --short=7 HEAD)
-        date=$(date +'%Y%m%d')
-        echo "$branch.$hash.$date" > version.txt
-        echo "VERSION=$branch.$hash.$date" >> $GITHUB_ENV
-        echo "RELEASE_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+        datetime=$(date +'%Y%m%d.%H%M%S')
+        echo "$datetime.$branch.$hash" > version.txt
+        echo "VERSION=$datetime.$branch.$hash" >> $GITHUB_ENV
+        echo "RELEASE_DATE=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
 
     - name: Create ZIP Archive
       run: |
@@ -119,8 +126,6 @@ jobs:
         tag_name: ${{ env.VERSION }}
         name: Translation Update ${{ env.RELEASE_DATE }}
         body: |      
-          Version: ${{ env.VERSION }}
-          
           This is an automated release of the latest translation data.
         files: |
           Gakumas-Translation-Data-EN-${{ env.VERSION }}.zip
