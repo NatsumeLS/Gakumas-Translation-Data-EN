@@ -114,7 +114,7 @@ jobs:
         datetime=$(date +'%Y%m%d.%H%M%S')
         echo "$datetime.$branch.$hash" > version.txt
         echo "VERSION=$datetime.$branch.$hash" >> $GITHUB_ENV
-        echo "RELEASE_DATE=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+        echo "RELEASE_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
     - name: Create ZIP Archive
       run: |
@@ -133,21 +133,6 @@ jobs:
         prerelease: false
       env:
         GITHUB_TOKEN: ${{ secrets.PAT }}
-
-    - name: Generate Changelog
-      run: |
-        echo "This is an automated release of the latest translation data." > CHANGELOG.md
-        echo "" >> CHANGELOG.md
-        echo "## Changelog" >> CHANGELOG.md
-        git log $(git describe --tags --abbrev=0 @^)..@ --pretty=format:"- %s" >> CHANGELOG.md
-        echo "" >> CHANGELOG.md
-        cat CHANGELOG.md
-  
-    - name: Update GitHub Release with Changelog
-      run: |
-        gh release edit ${{ env.VERSION }} --notes-file CHANGELOG.md
-      env:
-        GH_TOKEN: ${{ secrets.PAT }}
 
     - name: Send Notification to Discord
       uses: sarisia/actions-status-discord@v1
