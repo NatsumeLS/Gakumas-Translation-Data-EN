@@ -1,5 +1,3 @@
-[![](https://img.shields.io/github/actions/workflow/status/NatsumeLS/Gakumas-Translation-Data-EN/check.yml?style=flat-square&label=Check)](https://github.com/NatsumeLS/Gakumas-Translation-Data-EN/actions/workflows/check.yml)
-
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/qARc4Hdc3n)](https://natsume.io/GakumasLocalize)
 
 # Gakumas-Translation-Data-EN
