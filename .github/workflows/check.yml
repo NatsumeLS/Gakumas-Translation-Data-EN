@@ -95,6 +95,11 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
+    - name: Authorize Git
+      run: |
+        git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
+        git config --global user.name "$GITHUB_ACTOR"
+
     - name: Write Branch and Hash Info with Date
       run: |
         branch=$(git rev-parse --abbrev-ref HEAD)
@@ -103,6 +108,14 @@ jobs:
         echo "$branch.$hash.$date" > version.txt
         echo "VERSION=$branch.$hash.$date" >> $GITHUB_ENV
         echo "RELEASE_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+    - name: Commit Changes
+      run: |
+        git pull
+        git commit -am "chore(update): Update Version Info"
+        git push origin HEAD
+      env:
+        GITHUB_TOKEN: ${{ secrets.PAT }}
 
     - name: Create ZIP Archive
       run: |
