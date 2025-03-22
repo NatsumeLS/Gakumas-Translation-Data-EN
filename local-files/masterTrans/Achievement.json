@@ -501,6 +501,21 @@
       "description": "【Campus mode!!】Get rating of A+ or higher in Lilja Katsuragi's production {threshold} time(s)"
     },
     {
+      "id": "achieve-i_card-kllj-3-008-01",
+      "name": "Sparkling Prism",
+      "description": "【Aurora】Pass the final exam in Mao Arimura's production"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-008-02",
+      "name": "Aurora",
+      "description": "【Aurora】Set Mao Arimura's SP training stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-008-03",
+      "name": "Just as I Am",
+      "description": "【Aurora】Get rating of A+ or higher in Mao Arimura's production {threshold} time(s)"
+    },
+    {
       "id": "achieve-i_card-shro-3-001-01",
       "name": "Rocked by the Bus",
       "description": "【Contrast】Pass the final exam in Hiro Shinosawa's production"
@@ -918,7 +933,7 @@
     {
       "id": "achieve-p_common-015",
       "name": "Regular visitor",
-      "description": "Exchange in the consultation room {threshold} time(s)"
+      "description": "Exchange {threshold} times in consultations"
     },
     {
       "id": "achieve-p_common-016",
@@ -974,6 +989,11 @@
       "id": "achieve-p_common-026",
       "name": "Master Producer",
       "description": "Pass the final exam with an SS score or higher {threshold} time(s)"
+    },
+    {
+      "id": "achieve-p_common-027",
+      "name": "Nurturer of Talent",
+      "description": "Pass the final exam with an SS+ score {threshold} times"
     },
     {
       "id": "achieve-p_idol-amao-000",
@@ -1079,6 +1099,11 @@
       "id": "achieve-p_idol-amao-019",
       "name": "Countless cheers",
       "description": "Earn {threshold} fan votes in production"
+    },
+    {
+      "id": "achieve-p_idol-amao-020",
+      "name": "Accepting Myself",
+      "description": "Pass the final exam with Mao Arimura and earn an SS or higher {threshold} times"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -1456,6 +1481,11 @@
       "description": "Earn {threshold} fan votes in production"
     },
     {
+      "id": "achieve-p_idol-fktn-020",
+      "name": "Reaching for the Starlight",
+      "description": "Pass the final exam with Kotone Fujita and earn an SS or higher {threshold} times"
+    },
+    {
       "id": "achieve-p_idol-hrnm-000",
       "name": "True feelings",
       "description": "See True End with Rinami Himesaki"
@@ -1559,6 +1589,11 @@
       "id": "achieve-p_idol-hrnm-019",
       "name": "Someone to protect",
       "description": "Earn {threshold} fan votes in production"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-020",
+      "name": "Entrusted With Dreams",
+      "description": "Pass the final exam with Rinami Himesaki and earn an SS or higher {threshold} times"
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -1666,6 +1701,11 @@
       "description": "Earn {threshold} fan votes in production"
     },
     {
+      "id": "achieve-p_idol-hski-020",
+      "name": "An Idol’s Greatest Asset",
+      "description": "Pass the final exam with Saki Hanami and earn an SS or higher {threshold} times"
+    },
+    {
       "id": "achieve-p_idol-hume-000",
       "name": "The best play of my life",
       "description": "See True End with Ume Hanami"
@@ -1769,6 +1809,11 @@
       "id": "achieve-p_idol-hume-019",
       "name": "Part of myself",
       "description": "Earn {threshold} fan votes in production"
+    },
+    {
+      "id": "achieve-p_idol-hume-020",
+      "name": "A Further Breakthrough",
+      "description": "Pass the final exam with Ume Hanami and earn an SS or higher {threshold} times"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -1876,6 +1921,11 @@
       "description": "Earn {threshold} fan votes in production"
     },
     {
+      "id": "achieve-p_idol-jsna-020",
+      "name": "The Radiance in My Hands",
+      "description": "Pass the final exam with Sena Juo and earn an SS or higher {threshold} times"
+    },
+    {
       "id": "achieve-p_idol-kcna-000",
       "name": "Level 1 rookie idol",
       "description": "See True End with China Kuramoto"
@@ -1979,6 +2029,11 @@
       "id": "achieve-p_idol-kcna-019",
       "name": "My Treasure",
       "description": "Earn {threshold} fan votes in production"
+    },
+    {
+      "id": "achieve-p_idol-kcna-020",
+      "name": "An Inseparable Power",
+      "description": "Pass the final exam with China Kuramoto and earn an SS or higher {threshold} times"
     },
     {
       "id": "achieve-p_idol-kllj-000",
@@ -2086,6 +2141,11 @@
       "description": "Earn {threshold} fan votes in production"
     },
     {
+      "id": "achieve-p_idol-kllj-020",
+      "name": "Weakness is Strength",
+      "description": "Pass the final exam with Lilja Katsuragi and earn an SS or higher {threshold} times"
+    },
+    {
       "id": "achieve-p_idol-shro-000",
       "name": "Always Fun Together",
       "description": "See True End with Hiro Shinosawa"
@@ -2189,6 +2249,11 @@
       "id": "achieve-p_idol-shro-019",
       "name": "So Many Eccentrics",
       "description": "Earn {threshold} fan votes in production"
+    },
+    {
+      "id": "achieve-p_idol-shro-020",
+      "name": "Destrode Conquered",
+      "description": "Pass the final exam with Hiro Shinosawa and earn an SS or higher {threshold} times"
     },
     {
       "id": "achieve-p_idol-ssmk-000",
@@ -2296,6 +2361,11 @@
       "description": "Earn {threshold} fan votes in production"
     },
     {
+      "id": "achieve-p_idol-ssmk-020",
+      "name": "No More Hiding",
+      "description": "Pass the final exam with Sumika Shiun and earn an SS or higher {threshold} times"
+    },
+    {
       "id": "achieve-p_idol-ttmr-000",
       "name": "My One and Only Producer",
       "description": "See True End with Temari Tsukimura"
@@ -2399,6 +2469,11 @@
       "id": "achieve-p_idol-ttmr-019",
       "name": "Special and Destined",
       "description": "Earn {threshold} fan votes in production"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-020",
+      "name": "Finally, at the Same Height",
+      "description": "Pass the final exam with Temari Tsukimura and earn an SS or higher {threshold} times"
     }
   ]
 }

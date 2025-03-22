@@ -2294,6 +2294,14 @@
       "name": "Earn {threshold} memories with an S+ rating"
     },
     {
+      "id": "mission-normal-incrementmemorygradecount-ss-1",
+      "name": "Earn {threshold} memories with an SS rating"
+    },
+    {
+      "id": "mission-normal-incrementmemorygradecount-ss-2",
+      "name": "Earn {threshold} memories with an SS+ rating"
+    },
+    {
       "id": "mission-normal-incrementmissionclear-1",
       "name": "Clear {threshold} tasks!"
     },
@@ -3566,6 +3574,18 @@
       "name": "【Campus mode!!】Get rating of A+ or higher in Lilja Katsuragi's production {threshold} time(s)"
     },
     {
+      "id": "achieve-i_card-kllj-3-008-01",
+      "name": "【Aurora】Pass the final exam in Mao Arimura's production"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-008-02",
+      "name": "【Aurora】Set Mao Arimura's SP training stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-008-03",
+      "name": "【Aurora】Get rating of A+ or higher in Mao Arimura's production {threshold} time(s)"
+    },
+    {
       "id": "achieve-i_card-shro-3-001-01",
       "name": "【Contrast】Pass the final exam in Hiro Shinosawa's production"
     },
@@ -3899,7 +3919,7 @@
     },
     {
       "id": "achieve-p_common-015",
-      "name": "Exchange {threshold} time(s) in the consultation room"
+      "name": "Exchange through consultations {threshold} times."
     },
     {
       "id": "achieve-p_common-016",
@@ -3944,6 +3964,10 @@
     {
       "id": "achieve-p_common-026",
       "name": "Pass the final exam with a score of SS or higher {threshold} time(s)"
+    },
+    {
+      "id": "achieve-p_common-027",
+      "name": "Pass the final exam with an SS+ score or higher {threshold} times."
     },
     {
       "id": "achieve-p_idol-amao-000",
@@ -4028,6 +4052,10 @@
     {
       "id": "achieve-p_idol-amao-019",
       "name": "Earn {threshold} fan votes in production"
+    },
+    {
+      "id": "achieve-p_idol-amao-020",
+      "name": "Pass the final exam with Mao Arimura and achieve an SS rating or higher {threshold} times."
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -4330,6 +4358,10 @@
       "name": "Earn {threshold} fan votes in production"
     },
     {
+      "id": "achieve-p_idol-fktn-020",
+      "name": "Pass the final exam with Kotone Fujita and achieve an SS rating or higher {threshold} times."
+    },
+    {
       "id": "achieve-p_idol-hrnm-000",
       "name": "View True End with Rinami Himesaki"
     },
@@ -4412,6 +4444,10 @@
     {
       "id": "achieve-p_idol-hrnm-019",
       "name": "Earn {threshold} fan votes in production"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-020",
+      "name": "Pass the final exam with Rinami Himesaki and achieve an SS rating or higher {threshold} times."
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -4498,6 +4534,10 @@
       "name": "Earn {threshold} fan votes in production"
     },
     {
+      "id": "achieve-p_idol-hski-020",
+      "name": "Pass the final exam with Saki Hanami and achieve an SS rating or higher {threshold} times."
+    },
+    {
       "id": "achieve-p_idol-hume-000",
       "name": "View True End with Ume Hanami"
     },
@@ -4580,6 +4620,10 @@
     {
       "id": "achieve-p_idol-hume-019",
       "name": "Earn {threshold} fan votes in production"
+    },
+    {
+      "id": "achieve-p_idol-hume-020",
+      "name": "Pass the final exam with Ume Hanami and achieve an SS rating or higher {threshold} times."
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -4666,6 +4710,10 @@
       "name": "Earn {threshold} fan votes in production"
     },
     {
+      "id": "achieve-p_idol-jsna-020",
+      "name": "Pass the final exam with Sena Juo and achieve an SS rating or higher {threshold} times."
+    },
+    {
       "id": "achieve-p_idol-kcna-000",
       "name": "View True End with China Kuramoto"
     },
@@ -4748,6 +4796,10 @@
     {
       "id": "achieve-p_idol-kcna-019",
       "name": "Earn {threshold} fan votes in production"
+    },
+    {
+      "id": "achieve-p_idol-kcna-020",
+      "name": "Pass the final exam with China Kuramoto and achieve an SS rating or higher {threshold} times."
     },
     {
       "id": "achieve-p_idol-kllj-000",
@@ -4834,6 +4886,10 @@
       "name": "Earn {threshold} fan votes in production"
     },
     {
+      "id": "achieve-p_idol-kllj-020",
+      "name": "Pass the final exam with Lilja Katsuragi and achieve an SS rating or higher {threshold} times."
+    },
+    {
       "id": "achieve-p_idol-shro-000",
       "name": "View True End with Hiro Shinosawa"
     },
@@ -4916,6 +4972,10 @@
     {
       "id": "achieve-p_idol-shro-019",
       "name": "Earn {threshold} fan votes in production"
+    },
+    {
+      "id": "achieve-p_idol-shro-020",
+      "name": "Pass the final exam with Hiro Shinosawa and achieve an SS rating or higher {threshold} times."
     },
     {
       "id": "achieve-p_idol-ssmk-000",
@@ -5002,6 +5062,10 @@
       "name": "Earn {threshold} fan votes in production"
     },
     {
+      "id": "achieve-p_idol-ssmk-020",
+      "name": "Pass the final exam with Sumika Shiun and achieve an SS rating or higher {threshold} times."
+    },
+    {
       "id": "achieve-p_idol-ttmr-000",
       "name": "View True End with Temari Tsukimura"
     },
@@ -5084,6 +5148,10 @@
     {
       "id": "achieve-p_idol-ttmr-019",
       "name": "Earn {threshold} fan votes in production"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-020",
+      "name": "Pass the final exam with Temari Tsukimura and achieve an SS rating or higher {threshold} times."
     },
     {
       "id": "main_task_group-01-01#1",
@@ -5924,6 +5992,206 @@
     {
       "id": "main_task_group-03-01#50",
       "name": "Achieve S rank or higher in production"
+    },
+    {
+      "id": "main_task_group-03-01#51",
+      "name": "Challenge N.I.A in Production"
+    },
+    {
+      "id": "main_task_group-03-01#52",
+      "name": "Obtain {threshold} achievements"
+    },
+    {
+      "id": "main_task_group-03-01#53",
+      "name": "Unlock the sixth training level for {threshold} produced idols"
+    },
+    {
+      "id": "main_task_group-03-01#54",
+      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+    },
+    {
+      "id": "main_task_group-03-01#55",
+      "name": "Score {threshold} or higher in a contest"
+    },
+    {
+      "id": "main_task_group-03-01#56",
+      "name": "Participate in a contest"
+    },
+    {
+      "id": "main_task_group-03-01#57",
+      "name": "Customize skill cards in N.I.A {threshold} times"
+    },
+    {
+      "id": "main_task_group-03-01#58",
+      "name": "Gain {threshold} fan votes in N.I.A"
+    },
+    {
+      "id": "main_task_group-03-01#59",
+      "name": "Obtain {threshold} achievements"
+    },
+    {
+      "id": "main_task_group-03-01#60",
+      "name": "Pass the final audition in N.I.A"
+    },
+    {
+      "id": "main_task_group-03-01#61",
+      "name": "Earn a total of {threshold} stars in The Idol Road"
+    },
+    {
+      "id": "main_task_group-03-01#62",
+      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+    },
+    {
+      "id": "main_task_group-03-01#63",
+      "name": "Score {threshold} or higher in a contest"
+    },
+    {
+      "id": "main_task_group-03-01#64",
+      "name": "Gain a total of {threshold} fans"
+    },
+    {
+      "id": "main_task_group-03-01#65",
+      "name": "Work for a total of {threshold} hours"
+    },
+    {
+      "id": "main_task_group-03-01#66",
+      "name": "Achieve an S rating or higher in N.I.A Production.\n【Condition】 Plan: Sense Production Idol"
+    },
+    {
+      "id": "main_task_group-03-01#67",
+      "name": "Raise any parameter to 1,700 or higher in Production."
+    },
+    {
+      "id": "main_task_group-03-01#68",
+      "name": "Acquire {threshold} different skill cards"
+    },
+    {
+      "id": "main_task_group-03-01#69",
+      "name": "Customize skill cards in N.I.A {threshold} times"
+    },
+    {
+      "id": "main_task_group-03-01#70",
+      "name": "Obtain {threshold} achievements"
+    },
+    {
+      "id": "main_task_group-03-01#71",
+      "name": "Select special training {threshold} times in Production."
+    },
+    {
+      "id": "main_task_group-03-01#72",
+      "name": "Raise the Bond Lv of any idol to {threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#73",
+      "name": "Work for a total of {threshold} hours"
+    },
+    {
+      "id": "main_task_group-03-01#74",
+      "name": "Reach producer level {threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#75",
+      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+    },
+    {
+      "id": "main_task_group-03-01#76",
+      "name": "Score {threshold} or higher in a contest"
+    },
+    {
+      "id": "main_task_group-03-01#77",
+      "name": "Gain {threshold} fan votes in N.I.A"
+    },
+    {
+      "id": "main_task_group-03-01#78",
+      "name": "Achieve an S rating or higher in N.I.A Production.\n【Condition】 Plan: Logic Production Idol"
+    },
+    {
+      "id": "main_task_group-03-01#79",
+      "name": "Gain a total of {threshold} fans"
+    },
+    {
+      "id": "main_task_group-03-01#80",
+      "name": "Obtain {threshold} achievements"
+    },
+    {
+      "id": "main_task_group-03-01#81",
+      "name": "Achieve an S rating or higher in N.I.A Production.\n【Condition】 Plan: Anomaly Production Idol"
+    },
+    {
+      "id": "main_task_group-03-01#82",
+      "name": "Raise Saki Hanami's Bond Lv to {threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#83",
+      "name": "Raise Temari Tsukimura’s Bond Lv to {threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#84",
+      "name": "Raise Kotone Fujita's Bond Lv to {threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#85",
+      "name": "Increase Mao Arimura's Bond Lv to {threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#86",
+      "name": "Raise Lilja Katsuragi's Bond Lv to {threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#87",
+      "name": "Raise China Kuramoto's Bond Lv to {threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#88",
+      "name": "Increase Sumika Shiun's Bond Lv to {threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#89",
+      "name": "Increase Hiro Shinosawa's Bond Lv to {threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#90",
+      "name": "Raise Sena Juo's Bond Lv to {threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#91",
+      "name": "Raise Ume Hanami's Bond Lv to {threshold}!"
+    },
+    {
+      "id": "main_task_group-03-01#92",
+      "name": "Raise Rinami Himesaki’s Bond Lv to {threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#93",
+      "name": "Customize skill cards in N.I.A {threshold} times"
+    },
+    {
+      "id": "main_task_group-03-01#94",
+      "name": "Earn a total of {threshold} stars in The Idol Road"
+    },
+    {
+      "id": "main_task_group-03-01#95",
+      "name": "Watch N.I.A true end {threshold} times."
+    },
+    {
+      "id": "main_task_group-03-01#96",
+      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+    },
+    {
+      "id": "main_task_group-03-01#97",
+      "name": "Score {threshold} or higher in a contest"
+    },
+    {
+      "id": "main_task_group-03-01#98",
+      "name": "Reach producer level {threshold}"
+    },
+    {
+      "id": "main_task_group-03-01#99",
+      "name": "Challenge Production and achieve an S+ rating or higher."
+    },
+    {
+      "id": "main_task_group-03-01#100",
+      "name": "Watch N.I.A true end {threshold} times."
     }
   ]
 }
