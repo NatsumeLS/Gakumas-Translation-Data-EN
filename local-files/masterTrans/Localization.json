@@ -91,11 +91,15 @@
     },
     {
       "id": "common.network.error.outdated_app.description",
-      "description": "There is a newer version\nPlease update"
+      "description": "新しいバージョンがあります\\n{0}からアップデートを行ってください"
     },
     {
       "id": "common.network.error.purchase_limit.description",
       "description": "Purchase could not be completed due to reaching the purchase limit. Please contact support."
+    },
+    {
+      "id": "common.store.dmm",
+      "description": "DMM GAMES PLAYER"
     },
     {
       "id": "common.user_exp.description",
