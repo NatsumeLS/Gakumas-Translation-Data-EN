@@ -46,6 +46,10 @@
       "name": "Get B Rank with SSR Kotone"
     },
     {
+      "id": "hidden_mission-normal-produce-clear-i_card-hmsz-3-000-b",
+      "name": "SSR Misuzu with B Rank"
+    },
+    {
       "id": "hidden_mission-normal-produce-clear-i_card-hrnm-3-000-b",
       "name": "Get B Rank with SSR Rinami"
     },
@@ -146,6 +150,10 @@
       "name": "Received a star on 【The Idol Road】"
     },
     {
+      "id": "hidden_mission-view-ending-a-hmsz",
+      "name": "View A End with Misuzu"
+    },
+    {
       "id": "hidden_mission-view-ending-a-produce_group-002-amao",
       "name": "Achieve A-End with Mao"
     },
@@ -188,6 +196,14 @@
     {
       "id": "hidden_mission-view-ending-a-produce_group-002-ttmr",
       "name": "Achieve A-End with Temari Tsukimura"
+    },
+    {
+      "id": "hidden_mission-view-ending-b-hmsz",
+      "name": "View B End with Misuzu"
+    },
+    {
+      "id": "hidden_mission-view-ending-c-hmsz",
+      "name": "View C End with Misuzu"
     },
     {
       "id": "hidden_mission-view-ending-normal-a-amao",
@@ -330,6 +346,10 @@
       "name": "Achieve True End with Kotone"
     },
     {
+      "id": "hidden_mission-view-ending-true-hmsz",
+      "name": "View True End with Misuzu"
+    },
+    {
       "id": "hidden_mission-view-ending-true-hrnm",
       "name": "See True End with Rinami"
     },
@@ -412,6 +432,14 @@
     {
       "id": "hidden_mission-view-ending-true-ttmr",
       "name": "View True End with Temari Tsukimura"
+    },
+    {
+      "id": "hidden_mission-view-gasha-00420-free-10-004",
+      "name": "Draw the “1st Anniversary 10-Pull Free Gacha” {threshold} times — up to 100 pulls free!"
+    },
+    {
+      "id": "hidden_mission-view-gasha-00420-ssr-idol-support-1",
+      "name": "'24シーズン限定 SSR確定10連ガシャを{threshold}回引こう"
     },
     {
       "id": "mission-box-gasha-event-001-mission_1",
@@ -2694,6 +2722,10 @@
       "name": "Achieve C Rank with Kotone"
     },
     {
+      "id": "mission-normal-produce-clear-hmsz-c",
+      "name": "Achieve C Rank with Misuzu"
+    },
+    {
       "id": "mission-normal-produce-clear-hrnm-c",
       "name": "Achieve C rating with Rinami"
     },
@@ -2732,6 +2764,10 @@
     {
       "id": "mission-normal-profileupdate-1",
       "name": "Set a profile"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_hmsz-0001",
+      "name": "Misuzu Piece Pack trigger conditions"
     },
     {
       "id": "mission-normal-view-shop_pack_hume-0001",
@@ -3122,6 +3158,30 @@
       "name": "Clear SP Lessons {threshold} time(s)"
     },
     {
+      "id": "mission-story-event-006-mission_1",
+      "name": "Let's log in for {threshold} days!"
+    },
+    {
+      "id": "mission-story-event-006-mission_2",
+      "name": "Pass the final exam {threshold} time(s)"
+    },
+    {
+      "id": "mission-story-event-006-mission_3",
+      "name": "Achieve a total production score of {threshold}"
+    },
+    {
+      "id": "mission-story-event-006-mission_4",
+      "name": "Exchange consultations {threshold} time(s) in production"
+    },
+    {
+      "id": "mission-story-event-006-mission_5",
+      "name": "Use P-Drinks {threshold} time(s)"
+    },
+    {
+      "id": "mission-story-event-006-mission_6",
+      "name": "Clear SP Lessons {threshold} time(s)"
+    },
+    {
       "id": "mission-story-event-013-mission_1",
       "name": "Let's log in for {threshold} days!"
     },
@@ -3463,15 +3523,15 @@
     },
     {
       "id": "achieve-i_card-amao-3-001-01",
-      "name": "【Kimi to Semi Blue】Pass the final exam in Mao Arimura's production"
+      "name": "【Semi Blue and You】Pass the final exam in Mao Arimura's production"
     },
     {
       "id": "achieve-i_card-amao-3-001-02",
-      "name": "【Kimi to Semi Blue】Set Mao Arimura's SP training stage to {threshold}"
+      "name": "【Semi Blue and You】Set Mao Arimura's SP training stage to {threshold}"
     },
     {
       "id": "achieve-i_card-amao-3-001-03",
-      "name": "【Kimi to Semi Blue】Get rating of A+ or higher in Mao Arimura's production {threshold} time(s)"
+      "name": "【Semi Blue and You】Get rating of A+ or higher in Mao Arimura's production {threshold} time(s)"
     },
     {
       "id": "achieve-i_card-amao-3-002-01",
@@ -3570,16 +3630,40 @@
       "name": "【Iris After the Rain】Get rating of A+ or higher in Kotone Fujita's production {threshold} time(s)"
     },
     {
+      "id": "achieve-i_card-hmsz-2-000-01",
+      "name": "【Slowly, one step at a time】Pass the final exam in Misuzu Hataya's production"
+    },
+    {
+      "id": "achieve-i_card-hmsz-2-000-02",
+      "name": "【Slowly, one step at a time】Raise Misuzu Hataya's SP training stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-2-000-03",
+      "name": "【Slowly, one step at a time】Get rating of A+ or higher in Misuzu Hataya's production {threshold} time(s)"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-000-01",
+      "name": "【Moon Turtle】Pass the final exam in Misuzu Hataya's production"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-000-02",
+      "name": "【Moon Turtle】Raise Misuzu Hataya's SP training stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-000-03",
+      "name": "【Moon Turtle】Get rating of A+ or higher in Misuzu Hataya's production {threshold} time(s)"
+    },
+    {
       "id": "achieve-i_card-hrnm-3-001-01",
-      "name": "【Kimi to Semi Blue】Pass the final exam in Rinami Himesaki's production"
+      "name": "【Semi Blue and You】Pass the final exam in Rinami Himesaki's production"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-02",
-      "name": "【Kimi to Semi Blue】Set Rinami Himesaki's SP training stage to {threshold}"
+      "name": "【Semi Blue and You】Set Rinami Himesaki's SP training stage to {threshold}"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-03",
-      "name": "【Kimi to Semi Blue】Get rating of A+ or higher in Rinami Himesaki's production {threshold} time(s)"
+      "name": "【Semi Blue and You】Get rating of A+ or higher in Rinami Himesaki's production {threshold} time(s)"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-01",
@@ -3811,15 +3895,15 @@
     },
     {
       "id": "achieve-i_card-kcna-3-001-01",
-      "name": "【Every step is for discovery!】Pass the final exam in China Kuramoto's production"
+      "name": "【Every steps are for discovery!】Pass the final exam in China Kuramoto's production"
     },
     {
       "id": "achieve-i_card-kcna-3-001-02",
-      "name": "【Every step is for discovery!】Set China Kuramoto's SP training stage to {threshold}"
+      "name": "【Every steps are for discovery!】Set China Kuramoto's SP training stage to {threshold}"
     },
     {
       "id": "achieve-i_card-kcna-3-001-03",
-      "name": "【Every step is for discovery!】Get rating of A+ or higher in China Kuramoto's production {threshold} time(s)"
+      "name": "【Every steps are for discovery!】Get rating of A+ or higher in China Kuramoto's production {threshold} time(s)"
     },
     {
       "id": "achieve-i_card-kcna-3-002-01",
@@ -3979,15 +4063,15 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-001-01",
-      "name": "【Kimi to Semi Blue】Pass the final exam in Sumika Shiun's production"
+      "name": "【Semi Blue and You】Pass the final exam in Sumika Shiun's production"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-02",
-      "name": "【Kimi to Semi Blue】Set Sumika Shiun's SP training stage to {threshold}"
+      "name": "【Semi Blue and You】Set Sumika Shiun's SP training stage to {threshold}"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-03",
-      "name": "【Kimi to Semi Blue】Get rating of A+ or higher in Sumika Shiun's production {threshold} time(s)"
+      "name": "【Semi Blue and You】Get rating of A+ or higher in Sumika Shiun's production {threshold} time(s)"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-01",
@@ -4092,6 +4176,10 @@
     {
       "id": "achieve-m_fktn-001",
       "name": "Earn {threshold} stars in Kotone Fujita's achievements"
+    },
+    {
+      "id": "achieve-m_hmsz-001",
+      "name": "Earn {threshold}★ Achievements for Misuzu Hataya"
     },
     {
       "id": "achieve-m_hrnm-001",
@@ -4426,6 +4514,10 @@
       "name": "Pass the final exam with Mao Arimura and achieve an SS rating or higher {threshold} times"
     },
     {
+      "id": "achieve-p_idol-amao-022",
+      "name": "Raise Mao Arimura's training stage to {threshold}"
+    },
+    {
       "id": "achieve-p_idol-card-amao-002-1",
       "name": "【A Cool Beginning】Pass the final exam in Mao Arimura's production"
     },
@@ -4463,15 +4555,15 @@
     },
     {
       "id": "achieve-p_idol-card-fktn-003-1",
-      "name": "【Sekaiichi Kawaii Watashi】Pass the final exam in Kotone Fujita's production"
+      "name": "【I'm the Cutest Person in the World】Pass the final exam in Kotone Fujita's production"
     },
     {
       "id": "achieve-p_idol-card-fktn-003-2",
-      "name": "【Sekaiichi Kawaii Watashi】Set Kotone Fujita's SP training stage to {threshold}"
+      "name": "【I'm the Cutest Person in the World】Set Kotone Fujita's SP training stage to {threshold}"
     },
     {
       "id": "achieve-p_idol-card-fktn-003-3",
-      "name": "【Sekaiichi Kawaii Watashi】Get rating of A+ or higher in Kotone Fujita's production {threshold} time(s)"
+      "name": "【I'm the Cutest Person in the World】Get rating of A+ or higher in Kotone Fujita's production {threshold} time(s)"
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-1",
@@ -4559,15 +4651,15 @@
     },
     {
       "id": "achieve-p_idol-card-kllj-003-1",
-      "name": "【Hakusen】Pass the final exam in Lilja Katsuragi's production"
+      "name": "【White Line】Pass the final exam in Lilja Katsuragi's production"
     },
     {
       "id": "achieve-p_idol-card-kllj-003-2",
-      "name": "【Hakusen】Set Lilja Katsuragi's SP training stage to {threshold}"
+      "name": "【White Line】Set Lilja Katsuragi's SP training stage to {threshold}"
     },
     {
       "id": "achieve-p_idol-card-kllj-003-3",
-      "name": "【Hakusen】Get rating of A+ or higher in Lilja Katsuragi's production {threshold} time(s)"
+      "name": "【White Line】Get rating of A+ or higher in Lilja Katsuragi's production {threshold} time(s)"
     },
     {
       "id": "achieve-p_idol-card-shro-002-1",
@@ -4583,15 +4675,15 @@
     },
     {
       "id": "achieve-p_idol-card-shro-003-1",
-      "name": "【Koukei】Pass the final exam in Hiro Shinosawa's production"
+      "name": "【Spectacles】Pass the final exam in Hiro Shinosawa's production"
     },
     {
       "id": "achieve-p_idol-card-shro-003-2",
-      "name": "【Koukei】Set Hiro Shinosawa's SP training stage to {threshold}"
+      "name": "【Spectacles】Set Hiro Shinosawa's SP training stage to {threshold}"
     },
     {
       "id": "achieve-p_idol-card-shro-003-3",
-      "name": "【Koukei】Get rating of A+ or higher in Hiro Shinosawa's production {threshold} time(s)"
+      "name": "【Spectacles】Get rating of A+ or higher in Hiro Shinosawa's production {threshold} time(s)"
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-1",
@@ -4730,6 +4822,86 @@
       "name": "Pass the final exam with Kotone Fujita and achieve an SS rating or higher {threshold} times"
     },
     {
+      "id": "achieve-p_idol-hmsz-000",
+      "name": "View the True End with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-000-1",
+      "name": "View the True End: N.I.A with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-001",
+      "name": "Use skill cards {threshold} times in a Misuzu Hataya produce"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-002",
+      "name": "Clear {threshold} lessons with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-003",
+      "name": "Clear {threshold} SP lessons with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-004",
+      "name": "Pass the final exam and earn B Rank or higher {threshold} times with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-005",
+      "name": "Pass the final exam and earn A Rank or higher {threshold} times with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-006",
+      "name": "Pass the final exam and earn S Rank or higher {threshold} times with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-007",
+      "name": "Complete {threshold} produces with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-008",
+      "name": "Raise Misuzu Hataya’s training stage to {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-009",
+      "name": "Pass the final exam {threshold} times in a Misuzu Hataya produce"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-010",
+      "name": "Gain {threshold} fans with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-011",
+      "name": "Raise Misuzu Hataya’s Bond Level to {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-012",
+      "name": "Earn a total of {threshold} produce evaluation points with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-013",
+      "name": "Upgrade skill cards {threshold} times in a Misuzu Hataya produce"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-014",
+      "name": "Finish a produce with Misuzu Hataya after raising her Vocal stat to 1000+"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-015",
+      "name": "Obtained {threshold}★  in 【The Idol Road】"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-016",
+      "name": "Pass the final exam and earn S+ Rank or higher {threshold} times with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-017",
+      "name": "Take 1st place in the final exam on “Master” difficulty with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-020",
+      "name": "Pass the final exam and earn SS Rank or higher {threshold} times with Misuzu Hataya"
+    },
+    {
       "id": "achieve-p_idol-hrnm-000",
       "name": "View True End with Rinami Himesaki"
     },
@@ -4816,6 +4988,10 @@
     {
       "id": "achieve-p_idol-hrnm-020",
       "name": "Pass the final exam with Rinami Himesaki and achieve an SS rating or higher {threshold} times"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-022",
+      "name": "Set Rinami Himesaki’s training stage to {threshold}"
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -5344,6 +5520,10 @@
     {
       "id": "achieve-p_idol-shro-020",
       "name": "Pass the final exam with Hiro Shinosawa and achieve an SS rating or higher {threshold} times"
+    },
+    {
+      "id": "achieve-p_idol-shro-022",
+      "name": "Raise Hiro Shinosawa's training stage to {threshold}"
     },
     {
       "id": "achieve-p_idol-ssmk-000",
