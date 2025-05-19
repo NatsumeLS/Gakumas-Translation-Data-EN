@@ -127,6 +127,16 @@
       "text": "If it's a Vocal Turn, "
     },
     {
+      "id": "Swap_Label_Audition",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Exam/Audition "
+    },
+    {
+      "id": "Swap_Label_Audition",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Exam/Audition "
+    },
+    {
       "id": "Swap_Label_ExamCardUpgrade",
       "swapType": "ProduceDescriptionSwapType_Lesson",
       "text": "Upgrade during Lesson "
@@ -229,7 +239,7 @@
     {
       "id": "Swap_Label_LessonCountAdd",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Increase in parameter boostcount "
+      "text": "Increase in parameter boost count "
     },
     {
       "id": "Swap_Label_LessonCountAdd",
