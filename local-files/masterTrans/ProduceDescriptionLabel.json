@@ -129,7 +129,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", included in the starting hand"
+          "text": "start: This card is placed in your hand "
         }
       ],
       "name": ""
@@ -155,10 +155,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards mainly focused on increasing effects "
+          "text": "gain-focused skill cards "
         }
       ],
-      "name": "Active Skill Card "
+      "name": "Active skill card "
     },
     {
       "id": "Label_AggressiveAdd",
@@ -171,10 +171,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases motivation increase value "
+          "text": "Increases Motivation gain "
         }
       ],
-      "name": "Motivation Increase "
+      "name": "Motivation Value Increase "
     },
     {
       "id": "Label_AggressiveReduce",
@@ -187,15 +187,15 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases motivation increase value "
+          "text": "Decreases Motivation gain "
         }
       ],
-      "name": "Motivation Decrease "
+      "name": "Motivation Value Decrease "
     },
     {
       "id": "Label_Audition",
       "produceDescriptions": [],
-      "name": "Exams & Auditions "
+      "name": "in Exams & Auditions, "
     },
     {
       "id": "Label_AuditionNpcEnhance",
@@ -218,7 +218,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Audition",
-          "text": "Exams & Auditions "
+          "text": "in Exams & Auditions, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -228,10 +228,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Rival's score increases "
+          "text": "Rival score is increased "
         }
       ],
-      "name": "Rival's Score Increase "
+      "name": "Rival Score Increase "
     },
     {
       "id": "Label_BlockAdd",
@@ -254,7 +254,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase value increased\n"
+          "text": "gain is increased\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -274,7 +274,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not affect skill cards without an increase effect"
+          "text": "gain effect-less skill cards are not affected\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -284,7 +284,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Activation Reservation "
+          "text": "Delayed Activation "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -294,7 +294,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " "
+          "text": "and "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -314,10 +314,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Doesn't affect "
+          "text": "are not affected "
         }
       ],
-      "name": "Energy Increase "
+      "name": "Energy Gain Increase "
     },
     {
       "id": "Label_BlockReduce",
@@ -340,7 +340,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase value decreased"
+          "text": "gain is decreased\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -360,7 +360,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not affect skill cards without an increase effect\nIncrease value does not become 0"
+          "text": "gain effect-less skill cards are not affected\nGain value will not drop to 0\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -370,7 +370,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Activation Reservation "
+          "text": "Delayed Activation "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -380,7 +380,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " "
+          "text": "and "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -400,10 +400,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Doesn't affect "
+          "text": "are not affected "
         }
       ],
-      "name": "Energy Decrease "
+      "name": "Energy Gain Decrease "
     },
     {
       "id": "Label_BusinessProduceCard",
@@ -416,10 +416,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Jobs where you can obtain enhanced Skill Cards "
+          "text": "Jobs where you can obtain upgraded Skill Cards "
         }
       ],
-      "name": "Shopping Mall "
+      "name": "Commercial Facility "
     },
     {
       "id": "Label_BusinessProduceDrink",
@@ -432,7 +432,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Jobs where you can obtain P-Drink "
+          "text": "Jobs where you can obtain P-Drinks "
         }
       ],
       "name": "Corporate Event Venue "
@@ -480,7 +480,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases draw count "
+          "text": "Draw count is increased "
         }
       ],
       "name": "Draw Count Increase "
@@ -496,7 +496,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases draw count "
+          "text": "Draw count is decreased "
         }
       ],
       "name": "Draw Count Decrease "
@@ -528,7 +528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards increased\nEnhanced state - "
+          "text": "Stamina required to use skill cards is increased\nEnhancement and "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -548,10 +548,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not affect cost "
+          "text": "costs are not affected "
         }
       ],
-      "name": "Cost Value Increase "
+      "name": "Cost up "
     },
     {
       "id": "Label_CostAggressiveAdd",
@@ -564,7 +564,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards "
+          "text": "Skill card cost of type "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -584,10 +584,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increased\nDoes not affect costs from different enhanced states "
+          "text": "is increased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Motivation Cost Value Increase "
+      "name": "Motivation Cost Increase "
     },
     {
       "id": "Label_CostAggressiveReduce",
@@ -600,7 +600,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards "
+          "text": "Skill card cost of type "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -620,10 +620,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreased\nDoes not affect costs from different enhanced states "
+          "text": "is decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Motivation Cost Value Decrease "
+      "name": "Motivation Cost Decrease "
     },
     {
       "id": "Label_CostBuffAdd",
@@ -636,10 +636,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Enhanced state cost required to use skill cards increased\nDoes not affect costs from different enhanced states "
+          "text": "Enhancement costs required to use skill cards are increased\nDoes not affect costs for other enhancements "
         }
       ],
-      "name": "Upgraded State Cost Value Increase "
+      "name": "Upgraded State Cost Increase "
     },
     {
       "id": "Label_CostBuffReduce",
@@ -652,10 +652,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Enhanced state cost required to use skill cards decreased\nDoes not affect costs from different enhanced states "
+          "text": "Enhancement cost required to use skill cards are decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Upgraded State Cost Value Decrease "
+      "name": "Upgraded State Cost Decrease "
     },
     {
       "id": "Label_CostFullPowerPointAdd",
@@ -668,7 +668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards "
+          "text": "Skill card cost of type "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -678,7 +678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Point "
+          "text": "Full Power points "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -688,10 +688,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increased\nDoes not affect costs from different enhanced states "
+          "text": "is increased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Full Power Point Cost Value Increase "
+      "name": "Full Power Point Cost Increase "
     },
     {
       "id": "Label_CostFullPowerPointReduce",
@@ -704,7 +704,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards "
+          "text": "Skill card cost of type "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -714,7 +714,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Point "
+          "text": "Full Power points "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -724,10 +724,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreased\nDoes not affect costs from different enhanced states "
+          "text": "is decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Full Power Point Cost Value Decrease "
+      "name": "Full Power Point Cost Decrease "
     },
     {
       "id": "Label_CostLessonBuffAdd",
@@ -740,7 +740,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards "
+          "text": "Skill card cost of type "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -750,7 +750,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Focus "
+          "text": "Concentration "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -760,10 +760,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increased\nDoes not affect costs from different enhanced states "
+          "text": "is increased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Focus Cost Value Increase "
+      "name": "Concentration Cost Increase "
     },
     {
       "id": "Label_CostLessonBuffReduce",
@@ -776,7 +776,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards "
+          "text": "Skill card cost of type "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -786,7 +786,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Focus "
+          "text": "Concentration "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -796,10 +796,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreased\nDoes not affect costs from different enhanced states "
+          "text": "is decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Focus Cost Value Decrease "
+      "name": "Concentration Cost Decrease "
     },
     {
       "id": "Label_CostParameterBuffAdd",
@@ -812,7 +812,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards "
+          "text": "Skill card cost of type "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -832,10 +832,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increased\nDoes not affect costs from different enhanced states "
+          "text": "is increased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Good Shape Cost Value Increase "
+      "name": "Good Shape Cost Increase "
     },
     {
       "id": "Label_CostParameterBuffMultiplePerTurnAdd",
@@ -848,7 +848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards "
+          "text": "Skill card cost of type "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -868,10 +868,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increased\nDoes not affect costs from different enhanced states "
+          "text": "is increased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Increased Cost Value for Excellent Condition "
+      "name": "Excellent Shape Cost Increase "
     },
     {
       "id": "Label_CostParameterBuffMultiplePerTurnReduce",
@@ -884,7 +884,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards "
+          "text": "Skill card cost of type "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -904,10 +904,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreased\nDoes not affect costs from different enhanced states "
+          "text": "is decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Decreased Cost Value for Excellent Condition "
+      "name": "Excellent Shape Cost Decrease "
     },
     {
       "id": "Label_CostParameterBuffReduce",
@@ -920,7 +920,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards "
+          "text": "Skill card cost of type "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -940,10 +940,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreased\nDoes not affect costs from different enhanced states "
+          "text": "is decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Good Shape Cost Value Decrease "
+      "name": "Good Shape Cost Decrease "
     },
     {
       "id": "Label_CostPenetrateAdd",
@@ -956,7 +956,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards "
+          "text": "Skill card cost of type "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -976,10 +976,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Cost increased "
+          "text": "is increased "
         }
       ],
-      "name": "Stamina Consumption Cost Value Increase "
+      "name": "Stamina Consumption cost increase "
     },
     {
       "id": "Label_CostPenetrateReduce",
@@ -992,7 +992,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards "
+          "text": "Skill card cost of type "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1012,10 +1012,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Cost decreased "
+          "text": "is decreased "
         }
       ],
-      "name": "Stamina Consumption Cost Value Decrease "
+      "name": "Stamina Consumption cost decrease "
     },
     {
       "id": "Label_CostReduce",
@@ -1028,7 +1028,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards decreased\nEnhanced state - "
+          "text": "Stamina required to use skill cards is decreased\nEnhancement and "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1048,10 +1048,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not affect cost "
+          "text": "costs are not affected "
         }
       ],
-      "name": "Cost Value Decrease "
+      "name": "Cost down "
     },
     {
       "id": "Label_CostReviewAdd",
@@ -1064,7 +1064,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards "
+          "text": "Skill card cost of type "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1084,10 +1084,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increased\nDoes not affect costs from different enhanced states "
+          "text": "is increased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Good Impression Cost Value Increase "
+      "name": "Good Impression Cost Increase "
     },
     {
       "id": "Label_CostReviewReduce",
@@ -1100,7 +1100,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina required to use skill cards "
+          "text": "Skill card cost of type "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1120,10 +1120,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreased\nDoes not affect costs from different enhanced states "
+          "text": "is decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Good Impression Cost Value Decrease "
+      "name": "Good Impression Cost Decrease "
     },
     {
       "id": "Label_EffectAdd",
@@ -1184,10 +1184,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Unaffected by buffs or debuffs, increases the effect of the target "
+          "text": "Without taking into account enhancements or debuffs, increases the target effect "
         }
       ],
-      "name": "Double "
+      "name": "Multiply "
     },
     {
       "id": "Label_ExamAddGrowEffect",
@@ -1200,7 +1200,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Each time a condition is met, "
+          "text": "Each time the specified condition is met, this skill card's ability is changed for the rest of the "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -1220,7 +1220,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "This skill card's performance changes until the end "
+          "text": " "
         }
       ],
       "name": "Growth "
@@ -1246,7 +1246,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1266,7 +1266,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": " increased "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1279,7 +1279,7 @@
           "text": ""
         }
       ],
-      "name": "Increased Motivation Gain "
+      "name": "Motivation Gain Increase "
     },
     {
       "id": "Label_ExamAggressiveReduce",
@@ -1302,7 +1302,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases "
+          "text": "is decreased by this "
         }
       ],
       "name": "Motivation Decrease "
@@ -1318,7 +1318,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not enter a weakened state "
+          "text": "Will not be debuffed "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1344,7 +1344,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "When stamina decreases due to skill cards or troubles, stamina is replaced with consumption of "
+          "text": "When skill cards or Trouble would decrease Stamina, this is decreased instead "
         }
       ],
       "name": "Energy "
@@ -1370,7 +1370,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase amount decreased by 33% "
+          "text": "gain is decreased by 33% "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1396,7 +1396,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not enter an anxiety state "
+          "text": "Will not enter Anxiety state "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1422,7 +1422,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Not affected by enhanced or weakened states "
+          "text": "Without taking into account enhancements or debuffs, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1442,7 +1442,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases "
+          "text": "is increased by this "
         }
       ],
       "name": "Fixed Energy "
@@ -1468,7 +1468,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not increase "
+          "text": "will not increase "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1494,7 +1494,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Obtains a skill card. Obtained skill cards "
+          "text": "Obtain a skill card. Skill cards obtained in this "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -1530,10 +1530,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Draw a Skill Card "
+          "text": "Draw a skill card "
         }
       ],
-      "name": "Draw a Skill Card "
+      "name": "Draw a skill card "
     },
     {
       "id": "Label_ExamCardDuplicate",
@@ -1546,7 +1546,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Obtains a duplicate of a skill card. Obtained skill cards "
+          "text": "Obtains a duplicate of a skill card. Skill cards obtained in this "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -1569,7 +1569,7 @@
           "text": "are removed at the end "
         }
       ],
-      "name": "Dupe "
+      "name": "Duplicate "
     },
     {
       "id": "Label_ExamCardPlayAggressive_Exam",
@@ -1592,7 +1592,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1612,7 +1612,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": " increased "
         }
       ],
       "name": "Motivation "
@@ -1648,7 +1648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "increase amount increased by 1"
+          "text": "gain is increased by 1"
         }
       ],
       "name": "Motivation "
@@ -1674,7 +1674,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "effect by another "
+          "text": "'s effect is activated "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1694,7 +1694,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "effect once more "
+          "text": " more times "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1727,7 +1727,7 @@
           "text": ""
         }
       ],
-      "name": "Additional Skill Card Activation "
+      "name": "Additional skill card activation "
     },
     {
       "id": "Label_ExamCardSearchEffectPlayCountBuff_Produce",
@@ -1740,10 +1740,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Activates the effect of the next targeted skill card multiple times "
+          "text": "Activates the effect of the next skill card multiple times "
         }
       ],
-      "name": "Additional Skill Card Activation "
+      "name": "Additional skill card activation "
     },
     {
       "id": "Label_ExamCardStaminaConsumptionChange",
@@ -1756,10 +1756,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Use exam_template "
+          "text": "For exam_template "
         }
       ],
-      "name": "Stamina Consumption Change "
+      "name": "Stamina cost change "
     },
     {
       "id": "Label_ExamCardStaminaConsumptionDownSpecify",
@@ -1772,10 +1772,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Use exam_template "
+          "text": "For exam_template "
         }
       ],
-      "name": "Stamina Consumption Decrease "
+      "name": "Stamina cost decrease "
     },
     {
       "id": "Label_ExamCardUpgrade",
@@ -1798,7 +1798,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Enhances skill cards until the end "
+          "text": "has not yet ended: Skill card is upgraded "
         }
       ],
       "name": "Upgraded During Lesson "
@@ -1824,7 +1824,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "by "
+          "text": "-related "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1844,7 +1844,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Boost amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1864,10 +1864,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": " increased "
         }
       ],
-      "name": "Confidence Enhancement "
+      "name": "Confidence Upgrade "
     },
     {
       "id": "Label_ExamConcentration_Exam",
@@ -1880,7 +1880,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "▼1st stage "
+          "text": "▼Stage 1\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1900,7 +1900,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases boost amount and stamina consumption by 100%\n\n▼Second stage "
+          "text": "gain and Stamina cost are increased by 100%\n\n▼Stage 2\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1920,7 +1920,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases boost amount by 150% and stamina consumption by 100%\nFor every skill card used, "
+          "text": "gain is increased by 150% and Stamina cost is increased by 100%\nFor every skill card used, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1956,7 +1956,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Guideline "
+          "text": "Stance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1976,7 +1976,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "change to\nalready "
+          "text": "state change \nIf already "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1996,7 +1996,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If already\nit proceeds to the second stage\n\n▼First stage "
+          "text": ": changes to Stage 2\n\n▼Stage 1\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2016,7 +2016,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases boost amount and stamina consumption by 100%\n\n▼Second stage "
+          "text": "gain and Stamina cost are increased by 100%\n\n▼Stage 2\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2036,7 +2036,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases boost amount by 150% and stamina consumption by 100%\nFor every skill card used, "
+          "text": "gain is increased by 150% and Stamina cost is increased by 100%\nFor every skill card used, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2111,7 +2111,7 @@
           "text": ""
         }
       ],
-      "name": "Activation Reservation "
+      "name": "Delayed Activation "
     },
     {
       "id": "Label_ExamEnthusiasticAdditive",
@@ -2134,7 +2134,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2154,7 +2154,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": " increased "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2167,7 +2167,7 @@
           "text": ""
         }
       ],
-      "name": "Additional Enthusiasm "
+      "name": "Enthusiasm Addition "
     },
     {
       "id": "Label_ExamEnthusiasticMultiple",
@@ -2190,7 +2190,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2210,7 +2210,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": " increased "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2246,7 +2246,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases remaining turns of "
+          "text": "number of remaining turns is increased"
         }
       ],
       "name": "Extra Turn "
@@ -2272,7 +2272,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "When changing, "
+          "text": "state change: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2282,7 +2282,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Additional Skill Card Usage "
+          "text": "Skill card uses increase "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2292,7 +2292,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1/"
+          "text": "+1; "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2302,7 +2302,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hold",
-          "text": "Hold "
+          "text": "Reserve "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2312,7 +2312,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Moves the skill card to the hand "
+          "text": "skill cards are moved to the hand\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2332,7 +2332,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "When in a state of "
+          "text": "state: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2352,7 +2352,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases boost amount by 200%\nAt the end of the turn "
+          "text": "gain is increased by 200%\nWhen the turn ends: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2372,7 +2372,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Removes\n "
+          "text": "state is removed\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2392,7 +2392,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Until the state is removed "
+          "text": "state has not yet been removed: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2402,7 +2402,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Guideline "
+          "text": "Stance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2412,7 +2412,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Cannot be changed "
+          "text": "cannot be changed "
         }
       ],
       "name": "Full Power "
@@ -2438,7 +2438,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "by "
+          "text": "-related "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2458,7 +2458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Boost amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2478,10 +2478,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": " increased "
         }
       ],
-      "name": "Full Power Enhancement "
+      "name": "Full Power Upgrade "
     },
     {
       "id": "Label_ExamFullPowerPoint",
@@ -2494,7 +2494,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of the turn "
+          "text": "When the turn ends: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2504,7 +2504,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Point "
+          "text": "Full Power points "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2514,7 +2514,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If 10 or more, at the start of the next turn, "
+          "text": "is 10 or more: when the next turn starts, 10 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2524,7 +2524,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Point "
+          "text": "Full Power points "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2534,7 +2534,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "consumes 10 of the guideline "
+          "text": "are consumed, and Stance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2554,10 +2554,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "change to "
+          "text": "state change "
         }
       ],
-      "name": "Full Power Point "
+      "name": "Full Power points "
     },
     {
       "id": "Label_ExamFullPowerPointAdditive",
@@ -2570,7 +2570,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Point "
+          "text": "Full Power points "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2580,7 +2580,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2600,7 +2600,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": " increased "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2613,7 +2613,7 @@
           "text": ""
         }
       ],
-      "name": "Increased Full Power Point Gain "
+      "name": "Full Power Point Gain Increase "
     },
     {
       "id": "Label_ExamFullPowerPointReduce",
@@ -2626,7 +2626,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Point "
+          "text": "Full Power points "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2636,7 +2636,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases "
+          "text": "is decreased by this "
         }
       ],
       "name": "Full Power Point Decrease "
@@ -2662,7 +2662,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If using skill cards during "
+          "text": ": if a skill card is "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2682,7 +2682,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In case "
+          "text": "ed: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2702,7 +2702,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In state "
+          "text": "state card is "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2748,7 +2748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Boost amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2768,7 +2768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increased\nAt the end of the turn, "
+          "text": " increased\nWhen the turn ends: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2788,7 +2788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Resets to 0 "
+          "text": "is reset to 0 "
         }
       ],
       "name": "Enthusiasm "
@@ -2804,7 +2804,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Per 1 enthusiasm "
+          "text": "For every 1 Enthusiasm, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2824,7 +2824,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Boost amount increased by 1\nAt the end of the turn, "
+          "text": "gain is increased by 1\nWhen the turn ends: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2844,7 +2844,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Resets to 0 "
+          "text": "is reset to 0 "
         }
       ],
       "name": "Enthusiasm "
@@ -2870,7 +2870,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Boost amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2890,7 +2890,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreased "
+          "text": " decreased "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2903,7 +2903,7 @@
           "text": ""
         }
       ],
-      "name": "Tension "
+      "name": "Stress "
     },
     {
       "id": "Label_ExamGimmickLessonDebuff_Produce",
@@ -2916,7 +2916,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "For every +1 tension, "
+          "text": "For every 1 Stress, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2936,10 +2936,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases boost amount by 1 "
+          "text": "gain is decreased by 1 "
         }
       ],
-      "name": "Tension "
+      "name": "Stress "
     },
     {
       "id": "Label_ExamGimmickParameterDebuff",
@@ -2962,7 +2962,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Boost amount decreased by 33% "
+          "text": "gain is decreased by 33% "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2998,7 +2998,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Unavailable "
+          "text": " cannot be used "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3034,7 +3034,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3054,10 +3054,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreased "
+          "text": " decreased "
         }
       ],
-      "name": "Low Confidence "
+      "name": "Timidness"
     },
     {
       "id": "Label_ExamGimmickSleepy_Produce",
@@ -3070,7 +3070,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "For every +1 fear, "
+          "text": "For every +1 Timidness, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3090,10 +3090,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "increase amount decreased by 1 "
+          "text": "gain is decreased by 1"
         }
       ],
-      "name": "Low Confidence "
+      "name": "Timidness"
     },
     {
       "id": "Label_ExamGimmickSlump",
@@ -3116,7 +3116,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not increase "
+          "text": "will not increase "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3142,7 +3142,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Reduces the number of skill cards drawn at the start of the turn "
+          "text": "The number of skill cards drawn when the turn starts is decreased by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3162,7 +3162,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decrease in number of "
+          "text": " "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3188,7 +3188,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "For each additional hand reduction, draw 1 less skill card at the start of your turn "
+          "text": "For each Hand Decrease, draw 1 less skill card at the start of your turn "
         }
       ],
       "name": "Hand Decrease "
@@ -3204,7 +3204,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the start of your turn, your health is "
+          "text": "When the turn starts: your health is "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3224,7 +3224,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreased "
+          "text": " decreased "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3250,7 +3250,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Each increase in muscle soreness reduces your health by 1 at the start of your turn "
+          "text": "For every 1 Muscle Pain, your health is reduced by 1 at the start of your turn "
         }
       ],
       "name": "Fatigue "
@@ -3266,7 +3266,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increased Parameter Gain Increase "
+          "text": "Parameter Gain Increase Increase "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3276,7 +3276,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3296,7 +3296,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": " increased "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3309,7 +3309,7 @@
           "text": ""
         }
       ],
-      "name": "Increased Parameter Gain Increase "
+      "name": "Parameter Gain Increase Increase "
     },
     {
       "id": "Label_ExamHandGraveCountCardDraw",
@@ -3338,7 +3338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Don't discard cards at the end of your turn "
+          "text": "When the turn ends: cards are not discarded "
         }
       ],
       "name": "Carry Over Hand "
@@ -3359,7 +3359,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Focus "
+          "text": "Concentration "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3369,7 +3369,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3389,7 +3389,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": " increased "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3402,7 +3402,7 @@
           "text": ""
         }
       ],
-      "name": "Increased Focus Gain "
+      "name": "Concentration Gain Increase "
     },
     {
       "id": "Label_ExamLessonBuffMultiple",
@@ -3415,7 +3415,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Focus "
+          "text": "Concentration "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3425,7 +3425,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "by "
+          "text": "-related "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3445,7 +3445,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increased effect of increase amount "
+          "text": "gain increase effects are by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3465,7 +3465,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "increase "
+          "text": " increased "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3478,7 +3478,7 @@
           "text": ""
         }
       ],
-      "name": "Temporary Focus Effect Increase "
+      "name": "Concentration Effect Temporary Increase "
     },
     {
       "id": "Label_ExamLessonBuffReduce",
@@ -3491,7 +3491,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Focus "
+          "text": "Concentration "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3501,10 +3501,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases "
+          "text": "is decreased by this "
         }
       ],
-      "name": "Focus Decrease "
+      "name": "Concentration Decrease "
     },
     {
       "id": "Label_ExamLessonBuff_Exam",
@@ -3527,7 +3527,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Boost amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3547,10 +3547,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": " increased "
         }
       ],
-      "name": "Focus "
+      "name": "Concentration "
     },
     {
       "id": "Label_ExamLessonBuff_Produce",
@@ -3563,7 +3563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "For each increase in concentration, "
+          "text": "For every 1 Concentration, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3583,10 +3583,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "increase the increase by 1 "
+          "text": "gain is increased by 1 "
         }
       ],
-      "name": "Focus "
+      "name": "Concentration "
     },
     {
       "id": "Label_ExamLessonChangeSpecifyLessThan",
@@ -3619,7 +3619,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If the increase is "
+          "text": "increase is less than "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3639,7 +3639,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "less than "
+          "text": ": it becomes "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3659,7 +3659,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "to become  "
+          "text": " "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3685,7 +3685,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill card's "
+          "text": "Skill card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3705,7 +3705,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If the increase is "
+          "text": "increase is less than "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3725,7 +3725,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "less than "
+          "text": ": it becomes "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3745,7 +3745,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "become "
+          "text": " "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3791,7 +3791,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases "
+          "text": "is increased by this "
         }
       ],
       "name": "Fixed Parameter "
@@ -3817,7 +3817,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Boost amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3837,7 +3837,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "including increases by"
+          "text": " increased (including gain due to "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3857,7 +3857,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "including increase by)"
+          "text": ") "
         }
       ],
       "name": "Parameter Increase Amount Increase "
@@ -3883,7 +3883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Boost amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3903,7 +3903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " "
+          "text": "or "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3923,7 +3923,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "minimum value, increases by 10% per 1 (Temp) "
+          "text": "whichever is smaller, increases by 1 per 10% (Temp) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3959,7 +3959,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Boost amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3979,7 +3979,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decrease ("
+          "text": " decreased (including gain due to "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3999,7 +3999,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "including increase by)"
+          "text": ") "
         }
       ],
       "name": "Parameter Increase Amount Decrease "
@@ -4025,7 +4025,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Reduces gain and stamina consumption by 100%\nWhen removed, "
+          "text": "gain and Stamina cost are reduced by 100%\nWhen removed: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4045,7 +4045,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+5/"
+          "text": "+5; "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4055,7 +4055,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Additional Skill Card Usage "
+          "text": "Skill card uses increase "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4085,7 +4085,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If you change or cancel, "
+          "text": "state change, or state removal: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4125,7 +4125,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If you change it to, all skill cards "
+          "text": "state change: All skill cards "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4165,7 +4165,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " "
+          "text": "is equivalent to "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4185,7 +4185,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Equivalent to the third stage, "
+          "text": "Stage 3, so you cannot change from "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4205,7 +4205,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "from "
+          "text": "to "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4225,7 +4225,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Cannot be changed to"
+          "text": " \n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4245,7 +4245,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "from "
+          "text": "to "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4265,7 +4265,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If changed to, "
+          "text": "state change: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4285,7 +4285,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "No effect occurs when removed "
+          "text": "removal effects do not activate "
         }
       ],
       "name": "Relaxed "
@@ -4301,7 +4301,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Guideline "
+          "text": "Stance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4321,7 +4321,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Change to"
+          "text": "state change\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4341,7 +4341,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Reduces gain and stamina consumption by 100%\nWhen removed, "
+          "text": "gain and Stamina cost are reduced by 100%\nWhen removed: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4361,7 +4361,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+5/"
+          "text": "+5; "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4371,7 +4371,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Additional Skill Card Usage "
+          "text": "Skill card uses increase "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4401,7 +4401,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If you change or cancel, "
+          "text": "state change, or state removal: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4441,7 +4441,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If you change it to, all skill cards "
+          "text": "state change: All skill cards "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4481,7 +4481,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " "
+          "text": "is equivalent to "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4501,7 +4501,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Equivalent to the third stage, "
+          "text": "Stage 3, so you cannot change from "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4521,7 +4521,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "from "
+          "text": "to "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4541,7 +4541,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Cannot be changed to"
+          "text": " \n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4561,7 +4561,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "from "
+          "text": "to "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4581,7 +4581,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If changed to, "
+          "text": "state change: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4601,7 +4601,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "No effect occurs when removed "
+          "text": "removal effects do not activate "
         }
       ],
       "name": "Relaxed "
@@ -4617,7 +4617,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Consumption stamina in hand changes randomly"
+          "text": "The Stamina cost of cards in hand is randomly changed "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4653,7 +4653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase boost amount by 50% "
+          "text": "gain is increased by 50% "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4689,7 +4689,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4709,7 +4709,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": " increased "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4722,7 +4722,7 @@
           "text": ""
         }
       ],
-      "name": "Increased Good Condition Gain "
+      "name": "Good Shape Gain Increase "
     },
     {
       "id": "Label_ExamParameterBuffMultiplePerTurn",
@@ -4765,7 +4765,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Boost amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4785,7 +4785,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Per turn, increases by 10% "
+          "text": ", it is increased by 10% for each turn "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4821,7 +4821,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases "
+          "text": "is decreased by this "
         }
       ],
       "name": "Good Shape Decrease "
@@ -4847,7 +4847,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases "
+          "text": "is decreased by this "
         }
       ],
       "name": "Good Shape Decrease "
@@ -4876,7 +4876,7 @@
           "text": ""
         }
       ],
-      "name": "Additional Skill Card Usage "
+      "name": "Skill card uses increase "
     },
     {
       "id": "Label_ExamPlayableValueAdd_Produce",
@@ -4892,7 +4892,7 @@
           "text": "Can use an additional skill card this turn "
         }
       ],
-      "name": "Additional Skill Card Usage "
+      "name": "Skill card uses increase "
     },
     {
       "id": "Label_ExamPlayableValueHold",
@@ -4905,7 +4905,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Carries over unused skill card usage to the next turn"
+          "text": "When the turn ends: unused skill card uses are carried over to the next turn"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4918,7 +4918,7 @@
           "text": ""
         }
       ],
-      "name": "Carry Over Usage Count "
+      "name": "Use Count Carryover "
     },
     {
       "id": "Label_ExamPreservation_Exam",
@@ -4931,7 +4931,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "▼1st stage "
+          "text": "▼Stage 1\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4951,7 +4951,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Reduces boost amount and stamina consumption by 50%\nWhen removed,"
+          "text": "gain and Stamina cost are decreased by 50%\nWhen removed, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4971,7 +4971,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+5/"
+          "text": "+5; "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4981,7 +4981,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Additional Skill Card Usage "
+          "text": "Skill card uses increase "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4991,7 +4991,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1\n\n▼2nd stage\n"
+          "text": "+1\n\n▼Stage 2\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5011,7 +5011,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Reduces boost amount and stamina consumption by 75%\nWhen removed,"
+          "text": "gain and Stamina cost are decreased by 75%\nWhen removed, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5031,7 +5031,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+8/"
+          "text": "+8; "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5051,7 +5051,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+5/"
+          "text": "+5; "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5061,7 +5061,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Additional Skill Card Usage "
+          "text": "Skill card uses increase "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5087,7 +5087,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Guideline "
+          "text": "Stance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5107,7 +5107,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "change to\nalready "
+          "text": "state change \nIf already "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5127,7 +5127,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If already\nit proceeds to the second stage\n\n▼First stage "
+          "text": ": changes to Stage 2\n\n▼Stage 1\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5147,7 +5147,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Reduces boost amount and stamina consumption by 50%\nWhen removed,"
+          "text": "gain and Stamina cost are decreased by 50%\nWhen removed, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5167,7 +5167,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+5/"
+          "text": "+5; "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5177,7 +5177,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Additional Skill Card Usage "
+          "text": "Skill card uses increase "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5187,7 +5187,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1\n\n▼2nd stage\n"
+          "text": "+1\n\n▼Stage 2\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5207,7 +5207,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Reduces boost amount and stamina consumption by 75%\nWhen removed,"
+          "text": "gain and Stamina cost are decreased by 75%\nWhen removed, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5227,7 +5227,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+8/"
+          "text": "+8; "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5247,7 +5247,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+5/"
+          "text": "+5; "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5257,7 +5257,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Additional Skill Card Usage "
+          "text": "Skill card uses increase "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5293,7 +5293,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5313,7 +5313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": " increased "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5326,7 +5326,7 @@
           "text": ""
         }
       ],
-      "name": "Increased Good Impression Gain "
+      "name": "Good Impression Gain Increase "
     },
     {
       "id": "Label_ExamReviewMultiple",
@@ -5349,7 +5349,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "by "
+          "text": "-related "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5369,7 +5369,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Boost amount of "
+          "text": "gain is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5389,7 +5389,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": " increased "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5425,7 +5425,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases "
+          "text": "is decreased by this "
         }
       ],
       "name": "Good Impression Decrease "
@@ -5441,7 +5441,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of the turn, "
+          "text": "When the turn ends: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5461,7 +5461,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " "
+          "text": "by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5481,7 +5481,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "increases. At the start of the turn, decreases good impression by 1 "
+          "text": " is increased. When the turn starts: Good Impression is decreased by 1 "
         }
       ],
       "name": "Good Impression "
@@ -5497,7 +5497,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of the turn, increases by 1 for each good impression "
+          "text": "When the turn ends: increases by 1 for each good impression "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5517,7 +5517,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the start of the turn, decreases good impression by 1 "
+          "text": "is increased by 1. When the turn starts: Good Impression is decreased by 1 "
         }
       ],
       "name": "Good Impression "
@@ -5533,10 +5533,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Use exam_template "
+          "text": "For exam_template "
         }
       ],
-      "name": "Stamina Consumption Change "
+      "name": "Stamina cost change "
     },
     {
       "id": "Label_ExamSearchPlayCardValueBuff",
@@ -5549,7 +5549,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Use exam_template "
+          "text": "For exam_template "
         }
       ],
       "name": "Card Effect Increase "
@@ -5565,7 +5565,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina consumption increased by 100% "
+          "text": "Stamina cost is increased by 100% "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5578,7 +5578,7 @@
           "text": ""
         }
       ],
-      "name": "Increased Stamina Consumption "
+      "name": "Stamina cost increase "
     },
     {
       "id": "Label_ExamStaminaConsumptionAddDown",
@@ -5591,7 +5591,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Changes the effect of increased stamina consumption to 50% "
+          "text": "Changes the effect of Stamina cost increase to 50% "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5604,7 +5604,7 @@
           "text": ""
         }
       ],
-      "name": "Reduced Effect of Increased Stamina Consumption "
+      "name": "Stamina cost increase effect decrease "
     },
     {
       "id": "Label_ExamStaminaConsumptionAddFix",
@@ -5617,7 +5617,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina consumption of skill cards "
+          "text": "Skill card Stamina cost is  "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5637,7 +5637,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "increase "
+          "text": " increased "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5650,7 +5650,7 @@
           "text": ""
         }
       ],
-      "name": "Additional Stamina Consumption "
+      "name": "Stamina cost addition "
     },
     {
       "id": "Label_ExamStaminaConsumptionDown",
@@ -5663,7 +5663,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Reduces stamina consumption by 50% "
+          "text": "Stamina cost is decreased by 50% "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5676,7 +5676,7 @@
           "text": ""
         }
       ],
-      "name": "Stamina Consumption Decrease "
+      "name": "Stamina cost decrease "
     },
     {
       "id": "Label_ExamStaminaConsumptionDownAdd",
@@ -5689,7 +5689,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Changes the effect of reduced stamina consumption to 60% "
+          "text": "Changes the effect of Stamina cost decrease to 60% "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5702,7 +5702,7 @@
           "text": ""
         }
       ],
-      "name": "Increased Effect of Reduced Stamina Consumption "
+      "name": "Stamina cost decrease effect increase "
     },
     {
       "id": "Label_ExamStaminaConsumptionDownFix",
@@ -5715,7 +5715,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Reduces stamina consumption of skill cards "
+          "text": "Skill card Stamina cost is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5735,7 +5735,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreased "
+          "text": " decreased "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5748,7 +5748,7 @@
           "text": ""
         }
       ],
-      "name": "Stamina Consumption Reduction "
+      "name": "Stamina cost reduction "
     },
     {
       "id": "Label_ExamStaminaDamage",
@@ -5766,7 +5766,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina recovery effect "
+          "text": "Stamina Recovery effect is by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5786,7 +5786,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase "
+          "text": " increased "
         }
       ],
       "name": "Increased Stamina Recovery Effect "
@@ -5807,7 +5807,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not recover stamina "
+          "text": "Stamina will not be recovered "
         }
       ],
       "name": "Stamina Recovery Disabled "
@@ -5833,7 +5833,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Sets stamina consumption below this amount to 1 "
+          "text": " or below Stamina cost is set to 1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5869,7 +5869,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Ignores and consumes stamina "
+          "text": "is ignored, consumes Stamina directly "
         }
       ],
       "name": "Stamina Consumption "
@@ -5885,7 +5885,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not enter increased stamina consumption state "
+          "text": "Will not enter the Stamina cost increase state "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5898,7 +5898,7 @@
           "text": ""
         }
       ],
-      "name": "Stamina Consumption Increase Immunity "
+      "name": "Stamina cost increase immunity"
     },
     {
       "id": "Label_ExamStanceReset",
@@ -5931,7 +5931,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "] to ["
+          "text": "] and ["
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5951,10 +5951,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "] unlock "
+          "text": "] are reset "
         }
       ],
-      "name": "Guideline Removal "
+      "name": "Stance Removal "
     },
     {
       "id": "Label_ExamStatusEnchant",
@@ -5967,7 +5967,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Use exam_template "
+          "text": "For exam_template "
         }
       ],
       "name": "Ongoing Effect "
@@ -5983,7 +5983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of the turn, "
+          "text": "When the turn ends: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6003,7 +6003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " "
+          "text": "by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -6023,7 +6023,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases. When stamina decreases, reduces excitement by 1 "
+          "text": " increased. When stamina is decreased: Excitement is decreased by 1 "
         }
       ],
       "name": "Excitement "
@@ -6039,7 +6039,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of the turn, increases by 1 for each excitement "
+          "text": "When the turn ends: increases by 1 for each excitement "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6059,7 +6059,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "When stamina decreases, reduces excitement by 1 "
+          "text": "is increased by 1. When Stamina is decreased: Excitement is decreased by 1 "
         }
       ],
       "name": "Excitement "
@@ -6075,7 +6075,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Point "
+          "text": "Full Power points "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6085,7 +6085,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase value increased\n"
+          "text": "gain is increased\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6095,7 +6095,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Point "
+          "text": "Full Power points "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6105,7 +6105,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not affect skill cards without an increase effect"
+          "text": "gain effect-less skill cards are not affected\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6115,7 +6115,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Activation Reservation "
+          "text": "Delayed Activation "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6125,7 +6125,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " "
+          "text": "and "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6145,7 +6145,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Doesn't affect "
+          "text": "are not affected "
         }
       ],
       "name": "Full Power Point Increase "
@@ -6161,7 +6161,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Point "
+          "text": "Full Power points "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6171,7 +6171,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increase value decreased"
+          "text": "gain is decreased\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6181,7 +6181,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Point "
+          "text": "Full Power points "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6191,7 +6191,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not affect skill cards without an increase effect\nIncrease value does not become 0"
+          "text": "gain effect-less skill cards are not affected\nGain value will not drop to 0\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6201,7 +6201,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Activation Reservation "
+          "text": "Delayed Activation "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6211,7 +6211,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " "
+          "text": "and "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6231,7 +6231,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Doesn't affect "
+          "text": "are not affected "
         }
       ],
       "name": "Full Power Point Decrease "
@@ -6247,10 +6247,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Items to be acquired during \"Kunio Juo's Idol Enhancement Month - Revised\". It can be used in the event gacha."
+          "text": "This item can be acquired during \"Kunio Juo's Idol Enhancement Month - Revised\". It can be used in the event gacha."
         }
       ],
-      "name": "Starlight"
+      "name": "Starlight "
     },
     {
       "id": "Label_InitialAdd",
@@ -6263,10 +6263,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Start Hand Effect Grant "
+          "text": "Start Hand Effect Get "
         }
       ],
-      "name": "Start Hand Effect Grant "
+      "name": "Start Hand Effect Get "
     },
     {
       "id": "Label_LessonAdd",
@@ -6289,7 +6289,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases boost value \n"
+          "text": "gain is increased\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6309,7 +6309,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not affect skill cards without a boost effect"
+          "text": "gain effect-less skill cards are not affected\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6319,7 +6319,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Activation Reservation "
+          "text": "Delayed Activation "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6329,7 +6329,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " "
+          "text": "and "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6349,7 +6349,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Doesn't affect "
+          "text": "are not affected "
         }
       ],
       "name": "Parameter Value Increase "
@@ -6365,7 +6365,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases parameter boosts from lessons, self-training, and auditions "
+          "text": "Increases parameter gain from lessons, self-training, and auditions "
         }
       ],
       "name": "Parameter Bonus "
@@ -6381,10 +6381,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases focus increase value "
+          "text": "Concentration gain is increased "
         }
       ],
-      "name": "Focus Value Increase "
+      "name": "Concentration Value Increase "
     },
     {
       "id": "Label_LessonBuffReduce",
@@ -6397,10 +6397,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases focus increase value "
+          "text": "Concentration gain is decreased "
         }
       ],
-      "name": "Focus Value Decrease "
+      "name": "Concentration Value Decrease "
     },
     {
       "id": "Label_LessonCountAdd",
@@ -6423,7 +6423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases boost count \n"
+          "text": "gain count is increased\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6443,7 +6443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not affect skill cards without a boost effect"
+          "text": "gain effect-less skill cards are not affected\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6453,7 +6453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Activation Reservation "
+          "text": "Delayed Activation "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6463,7 +6463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " "
+          "text": "and "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6483,7 +6483,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Doesn't affect "
+          "text": "are not affected "
         }
       ],
       "name": "Parameter Increase Count Increase "
@@ -6509,7 +6509,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases boost count \n"
+          "text": "gain count is decreased\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6529,7 +6529,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not affect skill cards without a boost effect\nBoost count does not become 0"
+          "text": "gain effect-less skill cards are not affected\nGain count will not drop to 0\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6539,7 +6539,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Activation Reservation "
+          "text": "Delayed Activation "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6549,7 +6549,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " "
+          "text": "and "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6569,7 +6569,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Doesn't affect "
+          "text": "are not affected "
         }
       ],
       "name": "Parameter Increase Count Decrease "
@@ -6643,7 +6643,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases boost value "
+          "text": "gain is decreased\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6663,7 +6663,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Does not affect skill cards without a boost effect\nBoost value does not become 0"
+          "text": "gain effect-less skill cards are not affected\nGain value will not drop to 0\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6673,7 +6673,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Activation Reservation "
+          "text": "Delayed Activation "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6683,7 +6683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " "
+          "text": "and "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6703,7 +6703,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Doesn't affect "
+          "text": "are not affected "
         }
       ],
       "name": "Parameter Value Decrease "
@@ -6719,7 +6719,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Enhances until the end of the turn "
+          "text": "Upgraded until the end of the turn "
         }
       ],
       "name": "Temporary Upgrade "
@@ -6745,7 +6745,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards primarily focused on auxiliary effects such as "
+          "text": "and other auxiliary enhancement gain-focused skill cards"
         }
       ],
       "name": "Mental Skill Card "
@@ -6761,7 +6761,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Activates when this skill card moves to the designated location "
+          "text": "Activates when this skill card moves to the specified location "
         }
       ],
       "name": "[Move Effect] "
@@ -6777,10 +6777,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Cannot be held in multiples, and cannot be additionally obtained or copied "
+          "text": "Cannot have more than one, and cannot be additionally obtained or copied "
         }
       ],
-      "name": "No Dupe "
+      "name": "No dupe "
     },
     {
       "id": "Label_ParameterBuffMultiplePerTurnAdd",
@@ -6793,7 +6793,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases excellent condition increase value "
+          "text": "Excellent Shape gain is increased "
         }
       ],
       "name": "Excellent Shape Value Increase "
@@ -6809,7 +6809,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases excellent condition increase value "
+          "text": "Excellent Shape gain is decreased "
         }
       ],
       "name": "Excellent Shape Value Decrease "
@@ -6825,7 +6825,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases Good Shape increase value "
+          "text": "Good Shape gain is increased"
         }
       ],
       "name": "Good Shape Value Increase "
@@ -6841,7 +6841,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases Good Shape increase value "
+          "text": "Good Shape gain is decreased"
         }
       ],
       "name": "Good Shape Value Decrease "
@@ -6873,10 +6873,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Post-use Move Destination Change "
+          "text": "Post-use Destination Change "
         }
       ],
-      "name": "Post-use Move Destination Change "
+      "name": "Post-use Destination Change "
     },
     {
       "id": "Label_PlayTriggerChange",
@@ -6905,7 +6905,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Transforms a skill card into a different skill card and adds it to the deck until the end of the production (inherits enhancement stage) "
+          "text": "Transforms a skill card into a different skill card and adds it to the deck until the end of the production (Upgrade level is inherited) "
         }
       ],
       "name": "Change "
@@ -6953,10 +6953,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Removed skill cards will not appear again until the end of the production "
+          "text": "Banned skill cards will not appear again for the rest of the production "
         }
       ],
-      "name": "Skill Card Removal "
+      "name": "Skill Card Ban "
     },
     {
       "id": "Label_ProduceCardGrowEffect",
@@ -6979,7 +6979,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Changes skill card performance until the end\nDoes not affect skill cards without the target effect "
+          "text": "has not yet ended: Skill card ability is changed\nDoes not affect skill cards without the target effect "
         }
       ],
       "name": "[Growth Support] "
@@ -7005,7 +7005,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "After using once during, "
+          "text": ": When this card is used, this card is banished until the end of the "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7025,7 +7025,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "it moves to the removed pile until the "
+          "text": " "
         }
       ],
       "name": "Once During Lesson "
@@ -7076,7 +7076,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "When changed to, moves to the hand \n"
+          "text": "state change: Moves to the hand\n "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7086,15 +7086,15 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Can store up to 2 skill cards, and if exceeded, sends the oldest cards to the discard pile "
+          "text": "Can store up to 2 skill cards. If there are more than 2 skill cards, the oldest cards are sent to the discard pile "
         }
       ],
-      "name": "Hold "
+      "name": "Reserve "
     },
     {
       "id": "Label_ProduceCardPositionType_Lost",
       "produceDescriptions": [],
-      "name": "Exclusion"
+      "name": "Banished "
     },
     {
       "id": "Label_ProduceCardUpgrade",
@@ -7169,7 +7169,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Focus "
+          "text": "Concentration "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7179,7 +7179,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "] to develop plan "
+          "text": "] are used to develop in this plan "
         }
       ],
       "name": "Sense "
@@ -7235,7 +7235,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "] to develop plan "
+          "text": "] are used to develop in this plan "
         }
       ],
       "name": "Logic "
@@ -7251,7 +7251,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Guideline "
+          "text": "Stance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7321,7 +7321,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "] to develop plan "
+          "text": "] are used to develop in this plan "
         }
       ],
       "name": "Anomaly "
@@ -7337,7 +7337,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "plan "
+          "text": "Activates only when producing an idol under the "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -7357,7 +7357,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Activates only when producing idols under the "
+          "text": "plan "
         }
       ],
       "name": "【Sense Only】"
@@ -7373,7 +7373,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "plan "
+          "text": "Activates only when producing an idol under the "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -7393,7 +7393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Activates only when producing idols under the "
+          "text": "plan "
         }
       ],
       "name": "【Logic Only】"
@@ -7409,7 +7409,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "plan "
+          "text": "Activates only when producing an idol under the "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -7429,7 +7429,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Activates only when producing idols under the "
+          "text": "plan "
         }
       ],
       "name": "【Anomaly Only】"
@@ -7445,7 +7445,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Academy activities include the following schedule:\nClasses, Jobs tasks "
+          "text": "School activities include the following schedules:\nClasses, Jobs "
         }
       ],
       "name": "School Activities "
@@ -7461,7 +7461,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Presents include the following schedule:\nActivity, Rest "
+          "text": "Presents include the following schedules:\nActivity Support, Refreshments "
         }
       ],
       "name": "Present "
@@ -7477,7 +7477,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increases good impression increase value "
+          "text": "Good Impression gain is increased"
         }
       ],
       "name": "Good Impression Value Increase "
@@ -7493,7 +7493,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreases good impression increase value "
+          "text": "Good Impression gain is decreased"
         }
       ],
       "name": "Good Impression Value Decrease "
@@ -7529,7 +7529,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Discount on "
+          "text": " is discounted "
         }
       ],
       "name": "Consultation Skill Card Discount "
@@ -7545,10 +7545,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increased stamina consumption with decreased increase value "
+          "text": "Stamina cost increase gain is decreased "
         }
       ],
-      "name": "Decreased Stamina Consumption Increase "
+      "name": "Stamina cost gain decrease "
     },
     {
       "id": "Label_StaminaConsumptionAddTurnReduce",
@@ -7561,10 +7561,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Increased stamina consumption with increased increase value "
+          "text": "Stamina cost increase gain is increased "
         }
       ],
-      "name": "Increased Stamina Consumption Increase "
+      "name": "Stamina cost gain increase "
     },
     {
       "id": "Label_StaminaConsumptionDownTurnAdd",
@@ -7577,10 +7577,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreased stamina consumption with increased increase value "
+          "text": "Stamina cost decrease gain is increased "
         }
       ],
-      "name": "Increased Stamina Consumption Decrease "
+      "name": "Stamina cost reduction increase "
     },
     {
       "id": "Label_StaminaConsumptionDownTurnReduce",
@@ -7593,10 +7593,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Decreased stamina consumption with decreased increase value "
+          "text": "Stamina cost decrease gain is decreased "
         }
       ],
-      "name": "Decreased Stamina Consumption Decrease "
+      "name": "Stamina cost reduction decrease "
     },
     {
       "id": "Label_Stance",
@@ -7669,10 +7669,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Each has different effects "
+          "text": "] are stances, each has its own effects  "
         }
       ],
-      "name": "Guideline "
+      "name": "Stance "
     },
     {
       "id": "Label_StanceLock",
@@ -7685,7 +7685,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Guideline "
+          "text": "Stance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7695,7 +7695,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Cannot change stage or "
+          "text": "and Stance stage cannot be changed\nEven if "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7705,7 +7705,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Full Power Point "
+          "text": "Full Power points "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7715,7 +7715,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If it is 10 or more, during the effect "
+          "text": "is 10 or more: while this effect is active, the Stance will not change to "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7735,7 +7735,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "do not become "
+          "text": "state\nIf in "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7755,7 +7755,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "If in this state, removes "
+          "text": "state: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7775,7 +7775,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "at the end of the turn "
+          "text": "state is removed when the turn ends "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -7788,7 +7788,7 @@
           "text": ""
         }
       ],
-      "name": "Fixed Guideline "
+      "name": "Fixed Stance "
     },
     {
       "id": "Label_TroubleSkillCard",
@@ -7801,7 +7801,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Cannot be used, "
+          "text": "Skill cards that hinder the "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7821,7 +7821,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards that interfere with "
+          "text": ", like by preventing usage"
         }
       ],
       "name": "Trouble Card "
