@@ -5734,7 +5734,9 @@
     },
     {
       "id": "e_trigger-exam_start_exam-no_description",
-      "produceDescriptions": []
+      "produceDescriptions": [
+        ""
+      ]
     },
     {
       "id": "e_trigger-exam_start_exam-parameter_buff-1",
@@ -9513,7 +9515,9 @@
     },
     {
       "id": "e_trigger-exam_turn_timer-1",
-      "produceDescriptions": []
+      "produceDescriptions": [
+        ""
+      ]
     },
     {
       "id": "e_trigger-exam_turn_timer-1-description",
@@ -10131,7 +10135,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "not"
+          "text": "not "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
