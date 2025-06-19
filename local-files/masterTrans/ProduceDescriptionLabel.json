@@ -3951,7 +3951,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "whichever is smaller, increases by 1 per 10% (Temp) "
+          "text": "Increases by 10% for each 1 of the lowest value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3964,7 +3964,7 @@
           "text": ""
         }
       ],
-      "name": "Pride (Temp) "
+      "name": "Pride "
     },
     {
       "id": "Label_ExamLessonValueMultipleDown",
@@ -6279,7 +6279,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "This item can be acquired during \"Kunio Juo's Idol Enhancement Month - Revised\". It can be used in the event gacha."
+          "text": "An item obtainable in \"Kunio Juo's Idol enhancement Month〜Twinkling of the Stars〜\" Can be used in the event gacha."
         }
       ],
       "name": "Starlight "
@@ -6813,6 +6813,42 @@
         }
       ],
       "name": "No dupe "
+    },
+    {
+      "id": "Label_OnHitEffect",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "An effect that activates when using Skill Cards and P Drinks ("
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamStatusEnchant",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Ongoing Effect "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "excluding) "
+        }
+      ],
+      "name": "Direct Effect "
     },
     {
       "id": "Label_ParameterBuffMultiplePerTurnAdd",
