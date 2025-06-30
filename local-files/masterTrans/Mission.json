@@ -31,7 +31,7 @@
     },
     {
       "id": "dearness_event_ssmk-007",
-      "name": "Choose \"Special Training\" {threshold} times during Produce with Sumika Shiun"
+      "name": "Choose \"Sp. Training\" {threshold} times during Produce with Sumika Shiun"
     },
     {
       "id": "dearness_event_ssmk-008",
@@ -207,7 +207,7 @@
     },
     {
       "id": "hidden_mission-view-ending-a-hmsz",
-      "name": "View A End with Misuzu"
+      "name": "See A End with Misuzu"
     },
     {
       "id": "hidden_mission-view-ending-a-produce_group-002-amao",
@@ -216,6 +216,10 @@
     {
       "id": "hidden_mission-view-ending-a-produce_group-002-fktn",
       "name": "Reach A-End with Kotone"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-hmsz",
+      "name": "See A-End with Misuzu"
     },
     {
       "id": "hidden_mission-view-ending-a-produce_group-002-hrnm",
@@ -255,11 +259,11 @@
     },
     {
       "id": "hidden_mission-view-ending-b-hmsz",
-      "name": "View B End with Misuzu"
+      "name": "See B End with Misuzu"
     },
     {
       "id": "hidden_mission-view-ending-c-hmsz",
-      "name": "View C End with Misuzu"
+      "name": "See C End with Misuzu"
     },
     {
       "id": "hidden_mission-view-ending-normal-a-amao",
@@ -440,6 +444,10 @@
     {
       "id": "hidden_mission-view-ending-true-produce_group-002-fktn",
       "name": "Reach True End with Kotone"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-hmsz",
+      "name": "See True End with Misuzu"
     },
     {
       "id": "hidden_mission-view-ending-true-produce_group-002-hrnm",
@@ -4178,6 +4186,30 @@
       "name": "【Tsuki no Kame】Raise Misuzu Hataya's SP training stage to {threshold}"
     },
     {
+      "id": "achieve-i_card-hmsz-3-005-01",
+      "name": "【Campus mode!!】Pass the final exam in Misuzu Hataya's production"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-005-02",
+      "name": "【Campus mode!!】Set Misuzu Hataya's SP training stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-005-03",
+      "name": "【Campus mode!!】Get rating of A+ or higher in Misuzu Hataya's production {threshold} time(s)"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-005-04",
+      "name": "【Campus mode!!】Set Misuzu Hataya's SP training stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-005-05",
+      "name": "【Campus mode!!】Set Misuzu Hataya's SP training stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-005-06",
+      "name": "【Campus mode!!】Set Misuzu Hataya's SP training stage to {threshold}"
+    },
+    {
       "id": "achieve-i_card-hrnm-2-000-04",
       "name": "【Beginning of 『My Self』】Set Rinami Himesaki's SP training stage to {threshold}"
     },
@@ -5811,7 +5843,7 @@
     },
     {
       "id": "achieve-p_idol-amao-018",
-      "name": "Select special guidance {threshold} time(s) in production"
+      "name": "Select Sp. Guidance {threshold} time(s) in production"
     },
     {
       "id": "achieve-p_idol-amao-019",
@@ -6123,7 +6155,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-018",
-      "name": "Select special guidance {threshold} time(s) in production"
+      "name": "Select Sp. Guidance {threshold} time(s) in production"
     },
     {
       "id": "achieve-p_idol-fktn-019",
@@ -6214,8 +6246,20 @@
       "name": "Place 1st in Final Exam on Regular Live \"Hajime\" Master difficulty with Misuzu Hataya"
     },
     {
+      "id": "achieve-p_idol-hmsz-018",
+      "name": "Select Sp. Guidance {threshold} time(s) in production"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-019",
+      "name": "Earn {threshold} fan votes in production"
+    },
+    {
       "id": "achieve-p_idol-hmsz-020",
       "name": "Pass the final exam and earn SS Rank or higher {threshold} times with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-021",
+      "name": "Pass the final exam and earn SS+ Rank or higher {threshold} times with Misuzu Hataya"
     },
     {
       "id": "achieve-p_idol-hrnm-000",
@@ -6295,7 +6339,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-018",
-      "name": "Select special guidance {threshold} time(s) in production"
+      "name": "Select Sp. Guidance {threshold} time(s) in production"
     },
     {
       "id": "achieve-p_idol-hrnm-019",
@@ -6391,7 +6435,7 @@
     },
     {
       "id": "achieve-p_idol-hski-018",
-      "name": "Select special guidance {threshold} time(s) in production"
+      "name": "Select Sp. Guidance {threshold} time(s) in production"
     },
     {
       "id": "achieve-p_idol-hski-019",
@@ -6483,7 +6527,7 @@
     },
     {
       "id": "achieve-p_idol-hume-018",
-      "name": "Select special guidance {threshold} time(s) in production"
+      "name": "Select Sp. Guidance {threshold} time(s) in production"
     },
     {
       "id": "achieve-p_idol-hume-019",
@@ -6575,7 +6619,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-018",
-      "name": "Select special guidance {threshold} time(s) in production"
+      "name": "Select Sp. Guidance {threshold} time(s) in production"
     },
     {
       "id": "achieve-p_idol-jsna-019",
@@ -6667,7 +6711,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-018",
-      "name": "Select special guidance {threshold} time(s) in production"
+      "name": "Select Sp. Guidance {threshold} time(s) in production"
     },
     {
       "id": "achieve-p_idol-kcna-019",
@@ -6759,7 +6803,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-018",
-      "name": "Select special guidance {threshold} time(s) in production"
+      "name": "Select Sp. Guidance {threshold} time(s) in production"
     },
     {
       "id": "achieve-p_idol-kllj-019",
@@ -6851,7 +6895,7 @@
     },
     {
       "id": "achieve-p_idol-shro-018",
-      "name": "Select special guidance {threshold} time(s) in production"
+      "name": "Select Sp. Guidance {threshold} time(s) in production"
     },
     {
       "id": "achieve-p_idol-shro-019",
@@ -6947,7 +6991,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-018",
-      "name": "Select special guidance {threshold} time(s) in production"
+      "name": "Select Sp. Guidance {threshold} time(s) in production"
     },
     {
       "id": "achieve-p_idol-ssmk-019",
@@ -7039,7 +7083,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-018",
-      "name": "Select special guidance {threshold} time(s) in production"
+      "name": "Select Sp. Guidance {threshold} time(s) in production"
     },
     {
       "id": "achieve-p_idol-ttmr-019",
@@ -7975,7 +8019,7 @@
     },
     {
       "id": "main_task_group-03-01#71",
-      "name": "Select special training {threshold} times in Production"
+      "name": "Select Sp. Guidance {threshold} times in Production"
     },
     {
       "id": "main_task_group-03-01#72",

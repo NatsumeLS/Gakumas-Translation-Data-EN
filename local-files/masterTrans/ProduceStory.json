@@ -163,7 +163,7 @@
       "id": "p_story_002_hmsz_after-audition-a-normal-02",
       "title": "Still just the beginning!",
       "produceEventHintProduceConditionDescriptions": [
-        ""
+        " Pass the 1st audition by selecting \"MeloBang!\""
       ]
     },
     {
@@ -177,7 +177,7 @@
       "id": "p_story_002_hmsz_after-audition-b-normal-02",
       "title": "Further and further ahead!",
       "produceEventHintProduceConditionDescriptions": [
-        ""
+        " Pass the 2nd audition by selecting \"GALAXY Music\""
       ]
     },
     {
@@ -205,7 +205,7 @@
       "id": "p_story_002_hmsz_after-audition-mid-failure-01",
       "title": "Next time for sure.",
       "produceEventHintProduceConditionDescriptions": [
-        ""
+        " Fail the 1st/2nd audition"
       ]
     },
     {
@@ -226,7 +226,7 @@
       "id": "p_story_002_hmsz_ending-normal-02",
       "title": "Normal End",
       "produceEventHintProduceConditionDescriptions": [
-        ""
+        " Pass the final audition"
       ]
     },
     {
@@ -1320,7 +1320,7 @@
     },
     {
       "id": "p_story-001-fktn-ending-normal-01",
-      "title": "[A End] Gratitude through home cooking",
+      "title": "[A End] Thanking with a meal",
       "produceEventHintProduceConditionDescriptions": [
         " Reach Bond Lv 4 or higher ",
         " Place 1st in the final test"
@@ -1589,7 +1589,7 @@
     },
     {
       "id": "p_story-001-hmsz-ending-normal-03",
-      "title": "[C End] Every day is just as we wished",
+      "title": "[C End] Is just as we wished",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final test"
       ]
@@ -2109,7 +2109,7 @@
     },
     {
       "id": "p_story-001-hski-ending-normal-05",
-      "title": "[E End] Reflective frustration meeting",
+      "title": "[E End] Reflective meeting",
       "produceEventHintProduceConditionDescriptions": [
         " Place 6th in the final test"
       ]
@@ -3620,7 +3620,7 @@
     },
     {
       "id": "p_story-001-ssmk-ending-normal-04",
-      "title": "[D End] Just a little more, once again",
+      "title": "[D End] Just a little more, again",
       "produceEventHintProduceConditionDescriptions": [
         " Place 4th or 5th in the final test"
       ]
@@ -7740,6 +7740,510 @@
     },
     {
       "id": "p_story-event-002_fktn_business-4-6-2",
+      "title": "Autograph Signing",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-1",
+      "title": "Street Campaign",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-1-1",
+      "title": "Street Campaign",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-1-2",
+      "title": "Street Campaign",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-2",
+      "title": "Event Café PR",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-2-1",
+      "title": "Event Café PR",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-2-2",
+      "title": "Event Café PR",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-3",
+      "title": "Interviewer",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-3-1",
+      "title": "Interviewer",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-3-2",
+      "title": "Interviewer",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-4",
+      "title": "Hero Show Host",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-4-1",
+      "title": "Hero Show Host",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-4-2",
+      "title": "Hero Show Host",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-5",
+      "title": "Sample Sale",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-5-1",
+      "title": "Sample Sale",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-5-2",
+      "title": "Sample Sale",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-6",
+      "title": "Escape Room PR",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-6-1",
+      "title": "Escape Room PR",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-1-6-2",
+      "title": "Escape Room PR",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-1",
+      "title": "Cleanup Volunteer",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-1-1",
+      "title": "Cleanup Volunteer",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-1-2",
+      "title": "Cleanup Volunteer",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-2",
+      "title": "Shopping District Event",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-2-1",
+      "title": "Shopping District Event",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-2-2",
+      "title": "Shopping District Event",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-3",
+      "title": "Amakawa Tourism Ambassador",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-3-1",
+      "title": "Amakawa Tourism Ambassador",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-3-2",
+      "title": "Amakawa Tourism Ambassador",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-4",
+      "title": "Radio Live Recording",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-4-1",
+      "title": "Radio Live Recording",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-4-2",
+      "title": "Radio Live Recording",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-5",
+      "title": "Kids' Exercise Class",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-5-1",
+      "title": "Kids' Exercise Class",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-5-2",
+      "title": "Kids' Exercise Class",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-6",
+      "title": "Amakawa Event Girl",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-6-1",
+      "title": "Amakawa Event Girl",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-2-6-2",
+      "title": "Amakawa Event Girl",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-1",
+      "title": "Forest Bathing Photoshoot",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-1-1",
+      "title": "Forest Bathing Photoshoot",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-1-2",
+      "title": "Forest Bathing Photoshoot",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-2",
+      "title": "Spa Resort PR",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-2-1",
+      "title": "Spa Resort PR",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-2-2",
+      "title": "Spa Resort PR",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-3",
+      "title": "Aquarium Navigation Recording",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-3-1",
+      "title": "Aquarium Navigation Recording",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-3-2",
+      "title": "Aquarium Navigation Recording",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-4",
+      "title": "Yoga Experience",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-4-1",
+      "title": "Yoga Experience",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-4-2",
+      "title": "Yoga Experience",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-5",
+      "title": "Hot Spring PR",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-5-1",
+      "title": "Hot Spring PR",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-5-2",
+      "title": "Hot Spring PR",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-6",
+      "title": "Camping Experience",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-6-1",
+      "title": "Camping Experience",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-3-6-2",
+      "title": "Camping Experience",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-1",
+      "title": "Mini-Live Show",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-1-1",
+      "title": "Mini-Live Show",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-1-2",
+      "title": "Mini-Live Show",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-2",
+      "title": "Talk Event",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-2-1",
+      "title": "Talk Event",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-2-2",
+      "title": "Talk Event",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-3",
+      "title": "Handshake Meeting",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-3-1",
+      "title": "Handshake Meeting",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-3-2",
+      "title": "Handshake Meeting",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-4",
+      "title": "Movie Screening Event",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-4-1",
+      "title": "Movie Screening Event",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-4-2",
+      "title": "Movie Screening Event",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-5",
+      "title": "Game Experience",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-5-1",
+      "title": "Game Experience",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-5-2",
+      "title": "Game Experience",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-6",
+      "title": "Autograph Signing",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-6-1",
+      "title": "Autograph Signing",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-event-002_hmsz_business-4-6-2",
       "title": "Autograph Signing",
       "produceEventHintProduceConditionDescriptions": [
         ""
@@ -12534,6 +13038,27 @@
       ]
     },
     {
+      "id": "p_story-i_card-hmsz-3-005-01",
+      "title": "Campus mode!! Ep.1",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-i_card-hmsz-3-005-02",
+      "title": "Campus mode!! Ep.2",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-i_card-hmsz-3-005-03",
+      "title": "Campus mode!! Ep.3",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
       "id": "p_story-i_card-hrnm-3-000-01",
       "title": "clumsy trick Ep.1",
       "produceEventHintProduceConditionDescriptions": [
@@ -13627,7 +14152,7 @@
     },
     {
       "id": "p_story-s_card-1-0000-01",
-      "title": "A request? Saki Trainer!",
+      "title": "A request? Trainer Saki!",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -14691,21 +15216,21 @@
     },
     {
       "id": "p_story-s_card-3-0009-02",
-      "title": "Room visit—Hiro’s room",
+      "title": "Room visit - Hiro’s room",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-s_card-3-0009-03",
-      "title": "Room visit—Ume’s room",
+      "title": "Room visit - Ume’s room",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-s_card-3-0010-01",
-      "title": "Room visit—China’s room",
+      "title": "Room visit - China’s room",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -15812,6 +16337,27 @@
     {
       "id": "p_story-s_card-3-0064-03",
       "title": "Big-sister character?",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-s_card-3-0065-01",
+      "title": "I love you money ♪",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-s_card-3-0065-02",
+      "title": "Kind Solution",
+      "produceEventHintProduceConditionDescriptions": [
+        ""
+      ]
+    },
+    {
+      "id": "p_story-s_card-3-0065-03",
+      "title": "A frictionless relationship?",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
