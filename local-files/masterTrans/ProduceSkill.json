@@ -25145,7 +25145,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of a dance SP lesson, stamina recovery by"
+          "text": "At the end of a dance SP lesson, stamina recovery by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25171,7 +25171,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of a dance SP lesson, stamina recovery by"
+          "text": "At the end of a dance SP lesson, stamina recovery by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25197,7 +25197,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of a dance SP lesson, stamina recovery by"
+          "text": "At the end of a dance SP lesson, stamina recovery by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25223,7 +25223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of a dance SP lesson, stamina recovery by"
+          "text": "At the end of a dance SP lesson, stamina recovery by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25249,7 +25249,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of a dance SP lesson, stamina recovery by"
+          "text": "At the end of a dance SP lesson, stamina recovery by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25275,7 +25275,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of a dance SP lesson, stamina recovery by"
+          "text": "At the end of a dance SP lesson, stamina recovery by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25301,7 +25301,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of a dance SP lesson, stamina recovery by"
+          "text": "At the end of a dance SP lesson, stamina recovery by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25509,7 +25509,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of an SP lesson, stamina recovery by"
+          "text": "At the end of an SP lesson, stamina recovery by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25535,7 +25535,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of an SP lesson, stamina recovery by"
+          "text": "At the end of an SP lesson, stamina recovery by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25561,7 +25561,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the end of an SP lesson, stamina recovery by"
+          "text": "At the end of an SP lesson, stamina recovery by "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -28918,6 +28918,78 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "4 "
+        }
+      ]
+    },
+    {
+      "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_preservation-000-vocal_addition-02-001",
+      "level": 1,
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "Preservation "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "When acquiring a skill card effect, Vocal increase +"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "2 "
+        }
+      ]
+    },
+    {
+      "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_preservation-000-vocal_addition-02-001",
+      "level": 2,
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "Preservation "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "When acquiring a skill card effect, Vocal increase +"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "3 "
         }
       ]
     },
