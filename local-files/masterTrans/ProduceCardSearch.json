@@ -638,6 +638,31 @@
       ]
     },
     {
+      "id": "p_card_search-deck_grave-p_card-00-acc-0_002",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "from the deck or discard pile "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-00-acc-0_002",
+          "text": "Sleepiness "
+        }
+      ]
+    },
+    {
       "id": "p_card_search-deck-1",
       "produceDescriptions": [
         {
@@ -1038,7 +1063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_031",
-          "text": "Ei! Ei! Oh!"
+          "text": "Hip Hip Hooray!"
         }
       ]
     },
@@ -1609,6 +1634,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "Skill cards (SR)"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-ssr-deck_all-1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill cards (SSR)"
         }
       ]
     },
