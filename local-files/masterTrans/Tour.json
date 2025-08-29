@@ -1,0 +1,18 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "storyGroupId",
+      "tourStageTimelineId"
+    ]
+  },
+  "data": [
+    {
+      "id": "tour-event-001",
+      "storyGroupId": "livetour_event_group-001",
+      "tourStageTimelineId": "livetour-event-001_timeline-01",
+      "name": "Live Tour Event - Osaka",
+      "liveTicketName": "LIVE TOUR OSAKA"
+    }
+  ]
+}
