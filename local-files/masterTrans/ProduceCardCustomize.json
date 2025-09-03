@@ -2,968 +2,1548 @@
   "rules": {
     "primaryKeys": [
       "id",
-      "customizeCount"
+      "customizeCount",
+      "produceCardGrowEffectIds"
     ]
   },
   "data": [
     {
       "id": "p_card_custom-020-g_effect-cost_penetrate_reduce-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-cost_penetrate_reduce-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-020-g_effect-cost_reduce-2",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-cost_reduce-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-aggressive_add-1-g_effect-aggressive_add-2-g_effect-aggressive_add-5",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-aggressive_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-aggressive_add-1-g_effect-aggressive_add-2-g_effect-aggressive_add-5",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-aggressive_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-aggressive_add-1-g_effect-aggressive_add-2-g_effect-aggressive_add-5",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-aggressive_add-5"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-block_add-2-g_effect-block_add-4-g_effect-block_add-8",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-block_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-block_add-2-g_effect-block_add-4-g_effect-block_add-8",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-block_add-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-block_add-2-g_effect-block_add-4-g_effect-block_add-8",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-block_add-8"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-block_add-4-g_effect-block_add-8-g_effect-block_add-17",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-block_add-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-block_add-4-g_effect-block_add-8-g_effect-block_add-17",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-block_add-8"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-block_add-4-g_effect-block_add-8-g_effect-block_add-17",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-block_add-17"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-1-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-2-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-5",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-1"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-1-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-2-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-5",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-2"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-1-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-2-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-5",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-5"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-3-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-6-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-11",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-3"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-3-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-6-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-11",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-6"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-3-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-6-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-11",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-11"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-3-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-6-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-11",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-3"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-3-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-6-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-11",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-6"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-3-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-6-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-11",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-11"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-full_power_point_add-1-g_effect-full_power_point_add-2-g_effect-full_power_point_add-4",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-full_power_point_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-full_power_point_add-1-g_effect-full_power_point_add-2-g_effect-full_power_point_add-4",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-full_power_point_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-full_power_point_add-1-g_effect-full_power_point_add-2-g_effect-full_power_point_add-4",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-full_power_point_add-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_add-3-g_effect-lesson_add-6-g_effect-lesson_add-15",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_add-3"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_add-3-g_effect-lesson_add-6-g_effect-lesson_add-15",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_add-6"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_add-3-g_effect-lesson_add-6-g_effect-lesson_add-15",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_add-15"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_add-6-g_effect-lesson_add-12-g_effect-lesson_add-30",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_add-6"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_add-6-g_effect-lesson_add-12-g_effect-lesson_add-30",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_add-12"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_add-6-g_effect-lesson_add-12-g_effect-lesson_add-30",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_add-30"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_buff_add-1-g_effect-lesson_buff_add-2-g_effect-lesson_buff_add-4",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_buff_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_buff_add-1-g_effect-lesson_buff_add-2-g_effect-lesson_buff_add-4",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_buff_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_buff_add-1-g_effect-lesson_buff_add-2-g_effect-lesson_buff_add-4",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_buff_add-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_block_add-200-g_effect-lesson_depend_block_add-400-g_effect-lesson_depend_block_add-800",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_block_add-200"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_block_add-200-g_effect-lesson_depend_block_add-400-g_effect-lesson_depend_block_add-800",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_block_add-400"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_block_add-200-g_effect-lesson_depend_block_add-400-g_effect-lesson_depend_block_add-800",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_block_add-800"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_exam_card_play_aggressive_add-700-g_effect-lesson_depend_exam_card_play_aggressive_add-1400-g_effect-lesson_depend_exam_card_play_aggressive_add-2800",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_exam_card_play_aggressive_add-700"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_exam_card_play_aggressive_add-700-g_effect-lesson_depend_exam_card_play_aggressive_add-1400-g_effect-lesson_depend_exam_card_play_aggressive_add-2800",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_exam_card_play_aggressive_add-1400"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_exam_card_play_aggressive_add-700-g_effect-lesson_depend_exam_card_play_aggressive_add-1400-g_effect-lesson_depend_exam_card_play_aggressive_add-2800",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_exam_card_play_aggressive_add-2800"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_exam_review_add-350-g_effect-lesson_depend_exam_review_add-700-g_effect-lesson_depend_exam_review_add-1500",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_exam_review_add-350"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_exam_review_add-350-g_effect-lesson_depend_exam_review_add-700-g_effect-lesson_depend_exam_review_add-1500",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_exam_review_add-700"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-lesson_depend_exam_review_add-350-g_effect-lesson_depend_exam_review_add-700-g_effect-lesson_depend_exam_review_add-1500",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_exam_review_add-1500"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-p_card-02-act-1_037-enc_1"
+      ],
       "description": "Sustain Effect+"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-p_card-02-act-1_037-enc_2"
+      ],
       "description": "Sustain Effect+"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-p_card-02-act-1_037-enc_3"
+      ],
       "description": "Sustain Effect+"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-parameter_buff_multiple_per_turn_add-1-g_effect-parameter_buff_multiple_per_turn_add-2-g_effect-parameter_buff_multiple_per_turn_add-4",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_multiple_per_turn_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-parameter_buff_multiple_per_turn_add-1-g_effect-parameter_buff_multiple_per_turn_add-2-g_effect-parameter_buff_multiple_per_turn_add-4",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_multiple_per_turn_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-parameter_buff_multiple_per_turn_add-1-g_effect-parameter_buff_multiple_per_turn_add-2-g_effect-parameter_buff_multiple_per_turn_add-4",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_multiple_per_turn_add-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-parameter_buff_turn_add-1-g_effect-parameter_buff_turn_add-2-g_effect-parameter_buff_turn_add-4",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_turn_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-parameter_buff_turn_add-1-g_effect-parameter_buff_turn_add-2-g_effect-parameter_buff_turn_add-4",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_turn_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-parameter_buff_turn_add-1-g_effect-parameter_buff_turn_add-2-g_effect-parameter_buff_turn_add-4",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_turn_add-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-review_add-1-g_effect-review_add-2-g_effect-review_add-5",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-review_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-review_add-1-g_effect-review_add-2-g_effect-review_add-5",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-review_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-review_add-1-g_effect-review_add-2-g_effect-review_add-5",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-review_add-5"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-stamina_consumption_down_turn_add-1-g_effect-stamina_consumption_down_turn_add-2-g_effect-stamina_consumption_down_turn_add-4",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-stamina_consumption_down_turn_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-stamina_consumption_down_turn_add-1-g_effect-stamina_consumption_down_turn_add-2-g_effect-stamina_consumption_down_turn_add-4",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-stamina_consumption_down_turn_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-stamina_consumption_down_turn_add-1-g_effect-stamina_consumption_down_turn_add-2-g_effect-stamina_consumption_down_turn_add-4",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-stamina_consumption_down_turn_add-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-aggressive_add-1-g_effect-aggressive_add-4",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-aggressive_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-aggressive_add-1-g_effect-aggressive_add-4",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-aggressive_add-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-block_add-2-g_effect-block_add-6",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-block_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-block_add-2-g_effect-block_add-6",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-block_add-6"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-block_add-4-g_effect-block_add-13",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-block_add-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-block_add-4-g_effect-block_add-13",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-block_add-13"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-1-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-3",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-1"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-040_070-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-1-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-3",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-3"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-2-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-5",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-2"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-040_070-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-2-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-5",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-5"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-2-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-5",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-2"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-040_070-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-2-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-5",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-5"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-4-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-9",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-4"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-040_070-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-4-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-9",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-9"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-1-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-4",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-1"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-1-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-4",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-4"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-3-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-8",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-3"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-3-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-8",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-8"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-3-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-8",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-3"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-040_070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-3-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-8",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-8"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-040_070-g_effect-full_power_point_add-1-g_effect-full_power_point_add-3",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-full_power_point_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-full_power_point_add-1-g_effect-full_power_point_add-3",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-full_power_point_add-3"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_add-3-g_effect-lesson_add-11",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_add-3"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_add-3-g_effect-lesson_add-11",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_add-11"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_add-6-g_effect-lesson_add-22",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_add-6"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_add-6-g_effect-lesson_add-22",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_add-22"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_buff_add-1-g_effect-lesson_buff_add-3",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_buff_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_buff_add-1-g_effect-lesson_buff_add-3",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_buff_add-3"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_block_add-200-g_effect-lesson_depend_block_add-600",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_block_add-200"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_block_add-200-g_effect-lesson_depend_block_add-600",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_block_add-600"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_block_add-300-g_effect-lesson_depend_block_add-900",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_block_add-300"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_block_add-300-g_effect-lesson_depend_block_add-900",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_block_add-900"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_exam_card_play_aggressive_add-700-g_effect-lesson_depend_exam_card_play_aggressive_add-2100",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_exam_card_play_aggressive_add-700"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_exam_card_play_aggressive_add-700-g_effect-lesson_depend_exam_card_play_aggressive_add-2100",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_exam_card_play_aggressive_add-2100"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_exam_review_add-350-g_effect-lesson_depend_exam_review_add-1150",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_exam_review_add-350"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-lesson_depend_exam_review_add-350-g_effect-lesson_depend_exam_review_add-1150",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_exam_review_add-1150"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-parameter_buff_multiple_per_turn_add-1-g_effect-parameter_buff_multiple_per_turn_add-3",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_multiple_per_turn_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-parameter_buff_multiple_per_turn_add-1-g_effect-parameter_buff_multiple_per_turn_add-3",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_multiple_per_turn_add-3"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-parameter_buff_turn_add-1-g_effect-parameter_buff_turn_add-3",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_turn_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-parameter_buff_turn_add-1-g_effect-parameter_buff_turn_add-3",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_turn_add-3"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-review_add-1-g_effect-review_add-4",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-review_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-review_add-1-g_effect-review_add-4",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-review_add-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-stamina_consumption_down_turn_add-1-g_effect-stamina_consumption_down_turn_add-3",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-stamina_consumption_down_turn_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040_070-g_effect-stamina_consumption_down_turn_add-1-g_effect-stamina_consumption_down_turn_add-3",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-stamina_consumption_down_turn_add-3"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040-g_effect-cost_aggressive_reduce-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-cost_aggressive_reduce-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040-g_effect-cost_full_power_point_reduce-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-cost_full_power_point_reduce-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040-g_effect-cost_lesson_buff_reduce-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-cost_lesson_buff_reduce-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040-g_effect-cost_parameter_buff_reduce-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-cost_parameter_buff_reduce-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040-g_effect-cost_review_reduce-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-cost_review_reduce-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-040-g_effect-play_move_position_type_change-grave",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-play_move_position_type_change-grave"
+      ],
       "description": "Remove 1x limit\\nper lesson"
     },
     {
       "id": "p_card_custom-070-g_effect-aggressive_add-3",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-aggressive_add-3"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-block_add-4",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-block_add-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-block_add-9",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-block_add-9"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-3",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-3"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-070-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-5",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_add-5"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-070-g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_count_add-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-card_status_enchant_change-card_enchant-e_trigger-exam_stance_change_full_power-g_effect-lesson_count_add-1"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-3",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-3"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-5",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hand-all-0_0-g_effect-lesson_add-5"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-5",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-hold-all-0_0-g_effect-lesson_add-5"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_block-0004",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_block-0004"
+      ],
       "description": "Add Energy"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_block-0009",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_block-0009"
+      ],
       "description": "Add Energy"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_card_move-p_card_search-deck-hold-select-1_1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_card_move-p_card_search-deck-hold-select-1_1"
+      ],
       "description": "Add On Hold"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_card_play_aggressive-0002",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_card_play_aggressive-0002"
+      ],
       "description": "Add Motivation"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_card_upgrade-p_card_search-hand-all-0_0",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_card_upgrade-p_card_search-hand-all-0_0"
+      ],
       "description": "Upgrade Skill Card"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_concentration-0001",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_concentration-0001"
+      ],
       "description": "Add Confidence"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_effect_timer-0001-01-e_effect-exam_preservation-0001",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_effect_timer-0001-01-e_effect-exam_preservation-0001"
+      ],
       "description": "Add Preservation"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_full_power_point-0002",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_full_power_point-0002"
+      ],
       "description": "Add Full Power Point"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson_buff-0002",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_lesson_buff-0002"
+      ],
       "description": "Add Focus"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson_depend_block-0300-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_lesson_depend_block-0300-01"
+      ],
       "description": "Add Energy Parameter"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson_depend_exam_card_play_aggressive-1100-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_lesson_depend_exam_card_play_aggressive-1100-01"
+      ],
       "description": "Add Motivation Parameter"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson_depend_exam_review-0600-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_lesson_depend_exam_review-0600-01"
+      ],
       "description": "Add Good Impression Parameter"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson-0006-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_lesson-0006-01"
+      ],
       "description": "Add Parameter"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson-0012-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_lesson-0012-01"
+      ],
       "description": "Add Parameter"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_parameter_buff_multiple_per_turn-02",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_parameter_buff_multiple_per_turn-02"
+      ],
       "description": "Add Excellent Shape "
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_parameter_buff-02",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_parameter_buff-02"
+      ],
       "description": "Add Good Shape"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_preservation-0001",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_preservation-0001"
+      ],
       "description": "Add Preservation"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_review-0002",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_review-0002"
+      ],
       "description": "Add Good Impression"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_stamina_consumption_down-02",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_stamina_consumption_down-02"
+      ],
       "description": "Reduce Stamina Consumption"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_change-e_effect-exam_concentration-0001-e_effect-exam_concentration-0002",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_change-e_effect-exam_concentration-0001-e_effect-exam_concentration-0002"
+      ],
       "description": "Confidence+"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_change-e_effect-exam_preservation-0001-e_effect-exam_preservation-0002",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_change-e_effect-exam_preservation-0001-e_effect-exam_preservation-0002"
+      ],
       "description": "Preservation+"
     },
     {
       "id": "p_card_custom-070-g_effect-full_power_point_add-2",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-full_power_point_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-initial_add",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-initial_add"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-lesson_add-12",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_add-12"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-lesson_add-6",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_add-6"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-lesson_buff_add-2",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_buff_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-lesson_depend_block_add-400",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_block_add-400"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-lesson_depend_exam_card_play_aggressive_add-1400",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_exam_card_play_aggressive_add-1400"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-lesson_depend_exam_review_add-800",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_exam_review_add-800"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-parameter_buff_multiple_per_turn_add-2",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_multiple_per_turn_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-parameter_buff_turn_add-2",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_turn_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-play_effect_trigger_change-e_trigger-none-review_up-15-e_trigger-none-review_up-10",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-play_effect_trigger_change-e_trigger-none-review_up-15-e_trigger-none-review_up-10"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-block_up-30-e_trigger-none-block_up-15",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-play_trigger_change-e_trigger-none-block_up-30-e_trigger-none-block_up-15"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-parameter_buff_up-8-e_trigger-none-parameter_buff_up-4",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-play_trigger_change-e_trigger-none-parameter_buff_up-8-e_trigger-none-parameter_buff_up-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-preservation_change_count_up-2-e_trigger-none-preservation_change_count_up-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-play_trigger_change-e_trigger-none-preservation_change_count_up-2-e_trigger-none-preservation_change_count_up-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-review_add-2",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-review_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-review_add-3",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-review_add-3"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-070-g_effect-stamina_consumption_down_turn_add-2",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-stamina_consumption_down_turn_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-100-g_effect-effect_add-e_effect-exam_playable_value_add-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_playable_value_add-01"
+      ],
       "description": "Skill Card Usage+"
     },
     {
       "id": "p_card_custom-100-g_effect-lesson_count_add-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_count_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-100-g_effect-lesson_depend_block_add-1000",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_depend_block_add-1000"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-100-g_effect-p_card-02-act-3_001-enc_1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-p_card-02-act-3_001-enc_1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-100-g_effect-p_card-02-act-3_050-enc_1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-p_card-02-act-3_050-enc_1"
+      ],
       "description": "Sustain Effect+"
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_013-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_extra_turn"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_013-2",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_playable_value_add-01"
+      ],
       "description": "Skill Card Usage+"
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_014-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_status_enchant-03-enchant-p_card-01-ido-3_014-enc01"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_014-2",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_playable_value_add-01"
+      ],
       "description": "Skill Card Usage+"
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_016-1-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_change-e_effect-exam_lesson-0018-01-e_effect-exam_lesson_add_multiple_parameter_buff-0018-1000-01",
+        "g_effect-effect_change-e_effect-exam_lesson-0020-01-e_effect-exam_multiple_lesson_buff_lesson-0020-2000-01"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_016-1-2",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_change-e_effect-exam_lesson-0022-01-e_effect-exam_lesson_add_multiple_parameter_buff-0022-1000-01",
+        "g_effect-effect_change-e_effect-exam_lesson-0023-01-e_effect-exam_multiple_lesson_buff_lesson-0023-2000-01"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_016-1-3",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_change-e_effect-exam_lesson-0025-01-e_effect-exam_lesson_add_multiple_parameter_buff-0025-1000-01",
+        "g_effect-effect_change-e_effect-exam_lesson-0026-01-e_effect-exam_multiple_lesson_buff_lesson-0026-2000-01"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_016-2",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_playable_value_add-01"
+      ],
       "description": "Skill Card Usage+"
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_017-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_change-e_effect-exam_lesson_buff-0005-e_effect-exam_status_enchant-inf-enchant-p_card-01-ido-3_017-enc01"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_017-2",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_playable_value_add-01"
+      ],
       "description": "Skill Card Usage+"
     },
     {
       "id": "p_card_custom-p_card-02-ido-3_015-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_review_multiple-0500-05"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-p_card-02-ido-3_015-2",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_playable_value_add-01"
+      ],
       "description": "Skill Card Usage+"
     },
     {
       "id": "p_card_custom-p_card-02-ido-3_018-1",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_block_add_multiple_aggressive-0003-0500-01"
+      ],
       "description": "Add Energy"
     },
     {
       "id": "p_card_custom-p_card-02-ido-3_018-2",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-play_move_position_type_change-grave"
+      ],
       "description": "Remove 1x limit\\nper lesson"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_074-a-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_buff_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_074-a-01",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_buff_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_074-a-01",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_buff_add-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_074-b-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_turn_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_074-b-01",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_turn_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_074-b-01",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_turn_add-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_074-c-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_block-0009"
+      ],
       "description": "Add Energy"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-2_061-a-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-play_trigger_change-e_trigger-none-parameter_buff_up-8-e_trigger-none-parameter_buff_up-4"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-2_061-b-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_buff_add-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-2_061-b-01",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_buff_add-3"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-2_061-c-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_parameter_buff-02"
+      ],
       "description": "Add Good Shape"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-men-3_034-a-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-lesson_buff_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-men-3_034-b-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-parameter_buff_turn_add-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-1_050-a-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-cost_full_power_point_reduce-1"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-1_050-b-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-play_move_position_type_change-grave"
+      ],
       "description": "Remove 1x limit\\nper lesson"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-1_050-c-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-1"
+      ],
       "description": "Add Growth"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-1_050-c-01",
       "customizeCount": 2,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-2"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-1_050-c-01",
       "customizeCount": 3,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_add-e_effect-exam_add_grow_effect-p_card_search-deck_all-all-0_0-g_effect-lesson_add-5"
+      ],
       "description": "Growth +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-2_078-a-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-cost_reduce-2"
+      ],
       "description": ""
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-2_078-b-01",
       "customizeCount": 1,
+      "produceCardGrowEffectIds": [
+        "g_effect-effect_change-e_effect-exam_preservation-0001-e_effect-exam_preservation-0002"
+      ],
       "description": "Preservation+"
     }
   ]

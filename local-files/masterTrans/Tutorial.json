@@ -2,1679 +2,2394 @@
   "rules": {
     "primaryKeys": [
       "tutorialType",
+      "idolCardId",
       "step",
       "subStep",
-      "idolCardId",
       "navigationType",
+      "navigationPositionType",
+      "assetIds",
+      "advAssetId",
       "tutorialProduceCommandType"
     ]
   },
   "data": [
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Adv",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "adv_tutorial_first_cmmn-00",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 2,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Adv",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "adv_tutorial_first_cmmn-01",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 3,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Unknown",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Start",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 6,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         "Congratulations on clearing the lesson! You can earn rewards by achieving the lesson goals."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 6,
       "subStep": 2,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         "It looks like you can pick one from these. Let’s select this skill card as the reward!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 6,
       "subStep": 3,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 6,
       "subStep": 4,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-006"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         "Clearing the lesson goals grants you rewards useful for production."
-      ]
+      ],
+      "title": "Lesson Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 9,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Unknown",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 10,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "It seems like your stamina is low."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 10,
       "subStep": 2,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Lower",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Choose [Rest] to let the idol recover."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 10,
       "subStep": 3,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-009"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "When stamina is low, recover by selecting [Rest] to prepare for lessons and exams."
-      ]
+      ],
+      "title": "Stamina and Rest"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 10,
       "subStep": 4,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Adv",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "adv_tutorial_first_cmmn-04",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 11,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-010"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Compete with other idols, and placing in the top 3 will mean passing the exam."
-      ]
+      ],
+      "title": "Exam Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Use skill cards, just like during lessons, to increase your score and compete for rankings."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 2,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Here, you can check your current score and ranking."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 3,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "At the end of the exam, ranking in the top 3 will mean you pass."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 4,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Let’s use a skill card to raise your score!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 5,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Your score rose significantly compared to lessons. In exams, bonuses are applied based on your parameters."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 6,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "You can check bonuses here. Keep in mind they change every turn!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 7,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Character",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Only three turns left. Do your best in the exam!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 8,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-011"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "In exams, score bonuses are applied each turn. The higher the parameters, the greater the score bonuses."
-      ]
+      ],
+      "title": "Exam Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 9,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Unknown",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 13,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Unknown",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionEnd",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 14,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Unknown",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_CheckBeforeLiveProduceEvaluation",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 15,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "During live performances, you can take up to 50 photos. Capture the idol’s moments!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 16,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-012"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Result",
       "texts": [
         "The live shows you can participate in are determined by production results and idol growth."
-      ]
+      ],
+      "title": "About Lives"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 16,
       "subStep": 2,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Character",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Result",
       "texts": [
         "Production results can be obtained as [Memories]."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 16,
       "subStep": 3,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-013"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Result",
       "texts": [
         "The performance of the Memories depends on the evaluation of the production."
-      ]
+      ],
+      "title": "About Memories"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 16,
       "subStep": 4,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Character",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Result",
       "texts": [
         "You can choose a photo to turn into a [Memory]. Pick your favorite one!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 17,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Adv",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "adv_tutorial_first_cmmn-05",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 17,
       "subStep": 2,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-014"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "When your Producer Level increases, new skill cards and P-Drinks are unlocked, appearing during production."
-      ]
+      ],
+      "title": "Producer Lv"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 4,
       "subStep": 1,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Character",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s get started with production! This time, there’s only a final exam, so don’t worry, I’ll guide you!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 4,
       "subStep": 2,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-001",
+        "img_tutorial_produce_01_first-002",
+        "img_tutorial_produce_01_first-003"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Pass the exam and aim to perform in the live show. To participate, you must pass both the midterm and final exams.\n",
         "To pass exams, improving the idol’s parameters is key. Train their parameters to prepare.\n",
         "Each exam has specific criteria. Training to meet these criteria makes passing easier."
-      ]
+      ],
+      "title": "Purpose of Produce"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 4,
       "subStep": 3,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Check the idol’s parameters, advice, and evaluation criteria here."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 4,
       "subStep": 4,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
-        "まずはビジュアルレッスンで\nビジュアルをあげましょう！"
-      ]
+        "First, let’s do a Visual Lesson and raise Visual!"
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 1,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Adv",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "adv_tutorial_first_cmmn-02",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 2,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check the required parameters to clear the lesson and the idol’s current parameters here."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 3,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "During lessons, you can perform actions for a set number of turns. This time, it seems you have three turns left!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 4,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "In lessons, you can select and use skill cards from here."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 5,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Let’s use one now!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 6,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "ビジュアルのパラメータが上昇して\nレッスンクリアに近づきましたね！"
-      ]
+        "Your Visual parameter increased, bringing you closer to clearing the lesson!"
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 7,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Stamina is decreasing. Using skill cards sometimes requires stamina."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 8,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Next, try selecting this skill card!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 9,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for consumption instead."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 10,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-004",
+        "img_tutorial_produce_01_first-005"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "",
         "Using skill cards requires stamina. When Energy is available, it’s consumed instead of stamina."
-      ]
+      ],
+      "title": "Lesson Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 11,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Lastly, select one more card!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 7,
       "subStep": 1,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
-        "次はダンスレッスンを\n選択してみましょう"
-      ]
+        "Next, try selecting a Dance Lesson."
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 1,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Adv",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "adv_tutorial_first_cmmn-03",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 2,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The skill card you obtained from the previous lesson is in your hand. Try selecting it!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 3,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "スキルカードの効果で\n{ExamEffectType.ExamReview}好印象がつきましたね！"
-      ]
+        "Thanks to the Skill Card effect, {ExamEffectType.ExamReview}Good Impression was applied!"
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 4,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "ターン終了時に\nパラメータが上がりましたね！\n{ExamEffectType.ExamReview}好印象が発動したみたいです"
-      ]
+        "Your parameter increased at the end of the turn!\nLooks like {ExamEffectType.ExamReview}Good Impression activated."
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 5,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "現在の効果はアイコンをタップすると\n確認することができます\n{ExamEffectType.ExamReview}好印象の効果をみてみましょう！"
-      ]
+        "You can check your current effects by tapping the icon.\nLet’s look at the effect of {ExamEffectType.ExamReview}Good Impression!\n"
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 6,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "{ExamEffectType.ExamReview}好印象はターン終了時に\nパラメータを上昇させる\n効果のようですね"
-      ]
+        "{ExamEffectType.ExamReview}Good Impression seems to be an effect that increases parameters at the end of the turn."
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 7,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can also check the effects of P-items by tapping their icons."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 8,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "今持っているPアイテムは\n{ExamEffectType.ExamReview}好印象と相性が良さそうですね"
-      ]
+        "The P Item you have now seems to work well with {ExamEffectType.ExamReview}Good Impression."
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 9,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "今回は{ExamEffectType.ExamReview}好印象の効果がついている\nスキルカードを選択してみましょう！"
-      ]
+        "This time, try selecting a Skill Card with the effect {ExamEffectType.ExamReview}Good Impression!"
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 10,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "{ExamEffectType.ExamReview}好印象が増えたおかげで\nパラメータが大きく上がりましたね"
-      ]
+        "Thanks to the increased {ExamEffectType.ExamReview}Good Impression, your parameters went up a lot!"
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 11,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "さらに、Pアイテムの効果で\n{ExamEffectType.ExamReview}好印象が増えましたね！"
-      ]
+        "Also, thanks to the P Item effect, {ExamEffectType.ExamReview}Good Impression increased!"
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 12,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-007",
+        "img_tutorial_produce_01_first-008"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check detailed information on active effects during lessons by tapping the icons.\n",
         "P-items activate effects when conditions are met. Starting P-items depend on the produced idol."
-      ]
+      ],
+      "title": "Lesson Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 13,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Use everything you’ve learned to train the parameters as much as possible!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 14,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Don’t worry,you can do it!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 15,
-      "idolCardId": "i_card-fktn-1-000",
       "navigationType": "TutorialNavigationType_Unknown",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 4,
       "subStep": 1,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Character",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s get started with production! This time, there’s only a final exam, so don’t worry, I’ll guide you!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 4,
       "subStep": 2,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-001",
+        "img_tutorial_produce_01_first-002",
+        "img_tutorial_produce_01_first-003"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Pass the exam and aim to perform in the live show. To participate, you must pass both the midterm and final exams.\n",
         "To pass exams, improving the idol’s parameters is key. Train their parameters to prepare.\n",
         "Each exam has specific criteria. Training to meet these criteria makes passing easier."
-      ]
+      ],
+      "title": "Purpose of Produce"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 4,
       "subStep": 3,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Check the idol’s parameters, advice, and evaluation criteria here."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 4,
       "subStep": 4,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s start with a dance lesson to raise the Dance parameter!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 1,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Adv",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "adv_tutorial_first_cmmn-02",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 2,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check the required parameters to clear the lesson and the idol’s current parameters here."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 3,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "During lessons, you can perform actions for a set number of turns. This time, it seems you have three turns left!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 4,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "In lessons, you can select and use skill cards from here."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 5,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Let’s use one now!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 6,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Your Dance parameter increased, bringing you closer to clearing the lesson!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 7,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Stamina is decreasing. Using skill cards sometimes requires stamina."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 8,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Next, try selecting this skill card!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 9,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for consumption instead."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 10,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-004",
+        "img_tutorial_produce_01_first-005"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "",
         "Using skill cards requires stamina. When Energy is available, it’s consumed instead of stamina."
-      ]
+      ],
+      "title": "Lesson Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 11,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Lastly, select one more card!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 7,
       "subStep": 1,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
-        "次はビジュアルレッスンを選択してみましょう"
-      ]
+        "Next, try selecting a Visual Lesson."
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 1,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Adv",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "adv_tutorial_first_cmmn-03",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 2,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The skill card you obtained from the previous lesson is in your hand. Try selecting it!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 3,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "スキルカードの効果で\n{ExamEffectType.ExamParameterBuff}好調がつきましたね！"
-      ]
+        "Thanks to the Skill Card effect, {ExamEffectType.ExamParameterBuff}Good Shape was applied!"
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 4,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "こちらのPアイテムの効果で\nパラメータがあがりました！"
-      ]
+        "Thanks to this P-Item effect, your parameters increased!"
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 5,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "現在の効果はアイコンをタップすると\n確認することができます\n{ExamEffectType.ExamParameterBuff}好調の効果をみてみましょう！"
-      ]
+        "You can check your current effects by tapping the icon.\nLet’s look at the effect of {ExamEffectType.ExamParameterBuff}Good Shape!\n"
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 6,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "{ExamEffectType.ExamParameterBuff}好調は上がるパラメータの量を\n増やす効果のようですね"
-      ]
+        "{ExamEffectType.ExamParameterBuff}Good Shape seems to be an effect that increases the amount of parameter gain."
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 7,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can also check the effects of P-items by tapping their icons."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 8,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "今持っているPアイテムは\n{ExamEffectType.ExamParameterBuff}好調と相性が良さそうですね"
-      ]
+        "The P Item you have now seems to work well with {ExamEffectType.ExamParameterBuff}Good Shape."
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 9,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "{ExamEffectType.ExamParameterBuff}好調がついた状態で\nスキルカードを選択してみましょう！"
-      ]
+        "Try selecting a Skill Card while under the effect of {ExamEffectType.ExamParameterBuff}Good Shape!"
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 10,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "{ExamEffectType.ExamParameterBuff}好調のおかげで\nパラメータが大きく上がりましたね！"
-      ]
+        "Thanks to {ExamEffectType.ExamParameterBuff}Good Shape, your parameters went up a lot!"
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 11,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-007",
+        "img_tutorial_produce_01_first-008"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check detailed information on active effects during lessons by tapping the icons.\n",
         "P-items activate effects when conditions are met. Starting P-items depend on the produced idol."
-      ]
+      ],
+      "title": "Lesson Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 12,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Use everything you’ve learned to train the parameters as much as possible!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 13,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Don’t worry,you can do it!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 14,
-      "idolCardId": "i_card-hski-1-000",
       "navigationType": "TutorialNavigationType_Unknown",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 4,
       "subStep": 1,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Character",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s get started with production! This time, there’s only a final exam, so don’t worry, I’ll guide you!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 4,
       "subStep": 2,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-001",
+        "img_tutorial_produce_01_first-002",
+        "img_tutorial_produce_01_first-003"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Pass the exam and aim to perform in the live show. To participate, you must pass both the midterm and final exams.\n",
         "To pass exams, improving the idol’s parameters is key. Train their parameters to prepare.\n",
         "Each exam has specific criteria. Training to meet these criteria makes passing easier."
-      ]
+      ],
+      "title": "Purpose of Produce"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 4,
       "subStep": 3,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Check the idol’s parameters, advice, and evaluation criteria here."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 4,
       "subStep": 4,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s start with a dance lesson to raise the Dance parameter!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 1,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Adv",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "adv_tutorial_first_cmmn-02",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 2,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check the required parameters to clear the lesson and the idol’s current parameters here."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 3,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "During lessons, you can perform actions for a set number of turns. This time, it seems you have three turns left!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 4,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "In lessons, you can select and use skill cards from here."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 5,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Let’s use one now!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 6,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Your Dance parameter increased, bringing you closer to clearing the lesson!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 7,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Stamina is decreasing. Using skill cards sometimes requires stamina."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 8,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Next, try selecting this skill card!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 9,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for consumption instead."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 10,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-004",
+        "img_tutorial_produce_01_first-005"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "",
         "Using skill cards requires stamina. When Energy is available, it’s consumed instead of stamina."
-      ]
+      ],
+      "title": "Lesson Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 11,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Lastly, select one more card!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 7,
       "subStep": 1,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Next, try selecting a Vocal lesson."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 1,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Adv",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "adv_tutorial_first_cmmn-03",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 2,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The skill card you obtained from the previous lesson is in your hand. Try selecting it!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 3,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The skill card’s effect applied {ExamEffectType.ExamLessonBuff}Focus!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 4,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check the current effects by tapping the icon. Let’s view the {ExamEffectType.ExamLessonBuff}Focus effect!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 5,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "{ExamEffectType.ExamLessonBuff}Focus increases the amount of parameter growth."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 6,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can also check the effects of P-items by tapping their icons."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 7,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The P-item you currently have seems to synergize well with {ExamEffectType.ExamLessonBuff}Focus."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 8,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Try selecting a skill card while {ExamEffectType.ExamLessonBuff}Focus is active!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 9,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Thanks to {ExamEffectType.ExamLessonBuff}Focus, your parameters increased significantly!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 10,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Additionally, the effect of the P-item boosted {ExamEffectType.ExamLessonBuff}Focus!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 11,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_01_first-007",
+        "img_tutorial_produce_01_first-008"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check detailed information on active effects during lessons by tapping the icons.\n",
         "P-items activate effects when conditions are met. Starting P-items depend on the produced idol."
-      ]
+      ],
+      "title": "Lesson Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 12,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Use everything you’ve learned to train the parameters as much as possible!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 13,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Don’t worry,you can do it!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 14,
-      "idolCardId": "i_card-ttmr-1-000",
       "navigationType": "TutorialNavigationType_Unknown",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_MainTask",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_maintask_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Clearing tasks unlocks new features and Hatsuboshi Commu, as well as rewards like Producer Exp."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_Work",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_work_001",
+        "img_tutorial_work_002"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "By sending idols to work, you can earn various rewards.\n",
         "Work can sometimes result in great success, increasing reward amounts. Idols in Good Shape always achieve great success."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_IdolCard",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_idolcard_002"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "When you awaken the talents of produced idols, initial P-items and lesson bonuses are Upgraded."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_IdolCardSkin",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_another-idol_001",
+        "img_tutorial_another-idol_002",
+        "img_tutorial_another-idol_003"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_pvprate_001",
+        "img_tutorial_pvprate_002",
+        "img_tutorial_pvprate_003",
+        "img_tutorial_pvprate_004"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "You can compete against producers nationwide. In contests, you use parameters, skill cards, and P-items linked to Memories obtained from production.\n",
         "Compete on stage and aim for higher scores. The producer with the most stage wins emerges victorious.\n",
         "Contests have grades, with higher rankings leading to promotion. Higher grades offer better rewards.\n",
         "Collect contest medals to exchange for luxurious rewards at the item shop."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 2,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Lower",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "To participate in a contest, assemble a unit."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 3,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "You can use the [Auto] feature to assemble your unit quickly."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 4,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "You can use the [Auto] feature to assemble your unit quickly."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 5,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 6,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_pvprate_005",
+        "img_tutorial_pvprate_006",
+        "img_tutorial_pvprate_007"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Memories have plans set for each stage, dictating how they can be assembled.\n",
         "Main and sub Memories are assignable. The same idol’s Memories can be used in both.\n",
         "Main Memories reflect all their stats in performance matches, while sub Memories reflect only part of them."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 7,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Let’s head back and join the contest!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_CoinGasha",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_normalgasha_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "In the Coin Gacha, you can use coins obtained during production to draw for rewards like support cards and training items."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_MoneyReceive",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_moneyreceive_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Money accumulates over time and can be collected. The amount increases with your Producer Level, along with storage limits."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_MissionPass",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_missionpass_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Mission Pass rewards are earned as Mission Pass Points accumulate, obtainable through daily and weekly missions."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_Profile",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_profile_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "In your profile, set support cards and Memories that other producers can rent. Earn Friend Coins based on rental usage."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_Meishi",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_meishi_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         " You can create your own original business card and share its image on social media. Not only can you customize your profile, but you can also display images of your assigned idols, support cards, and photos.\n※SNS sharing is not available in the DMM GAMES version."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_Friend",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_friend_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "The Friend menu allows you to view followed and follower producers. Rented support cards and Memories can be used during production."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_Achievement",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_achievement_001",
+        "img_tutorial_achievement_002",
+        "img_tutorial_achievement_003"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Achievements are earned by meeting various conditions. Collecting them grants rewards like Producer Level experience, so aim to collect as many as possible."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_idolcard_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Training your produced idol strengthens their initial skill cards and parameters, making production more advantageous. Additionally, the produced idol's image will be unlocked."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_supportcard_001",
+        "img_tutorial_supportcard_002"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Leveling up support cards unlocks support abilities and support events. Support abilities are also Upgraded with higher levels. ",
         "When a support card is limit-broken, its maximum level increases."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_Tower",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_tower_001_01",
+        "img_tutorial_tower_001_02",
+        "img_tutorial_tower_001_03"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_Guild",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_guildjoin_001",
+        "img_tutorial_guildestablish_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "In a Circle, you can connect with producers across the country. ",
         "In a Circle, you can request training items from members, receive donated items, and earn Friend Coins by donating items yourself."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_TutorialReceiveIdolCard",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_tutorialreceiveidolcard_001",
+        "img_tutorial_tutorialreceiveidolcard_002"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_PhotoTop",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_photo_top-001_01"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_PhotoIdol",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_photo_idol-top-001_01",
+        "img_tutorial_photo_idol-top-001_02"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_PhotoPrepare",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_photo_prepare-001_01"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_Photo",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_photo_photo-001_01",
+        "img_tutorial_photo_photo-001_02",
+        "img_tutorial_photo_photo-001_03"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_MeishiEditCustom",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_meishi_custom-01",
+        "img_tutorial_meishi_custom-02",
+        "img_tutorial_meishi_custom-03",
+        "img_tutorial_meishi_custom-04",
+        "img_tutorial_meishi_custom-05",
+        "img_tutorial_meishi_custom-06"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         " Custom business cards can be created from [Business Card > Create New > Custom Business Card].\n",
@@ -1683,435 +2398,712 @@
         " Custom business cards allow for various edits.\nCreate your own unique business card!\nYou can check the operation method from the icon at the top left of the custom business card screen.\n",
         " The content currently in use for a custom business card can be checked in the layer window.\nYou can use up to 100 layers.\n",
         " When shared on social media, other producers can directly access your profile in Gakuen Idolmaster from the shared SNS link.\n※This feature is not available in the DMM GAMES version."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_MeishiEditCustomManual",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tips_meishi_custom-01",
+        "img_tips_meishi_custom-02",
+        "img_tips_meishi_custom-03",
+        "img_tips_meishi_custom-04",
+        "img_tips_meishi_custom-05",
+        "img_tips_meishi_custom-06",
+        "img_tips_meishi_custom-07"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_IdolCardSkinUnit",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_unit-idol_001",
+        "img_tutorial_unit-idol_002",
+        "img_tutorial_unit-idol_003",
+        "img_tutorial_unit-idol_004"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_DearnessTop",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_dearness_004"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_DearnessPoint",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_dearness_001",
+        "img_tutorial_dearness_002",
+        "img_tutorial_dearness_003"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceIdolCardSelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce-idolcardselect_001",
+        "img_tutorial_produce-idolcardselect_002"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "",
         "Each produced idol has a specific [Plan]. Skill cards and P items available during production differ depending on the Plan."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceSupportCardSelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce-supportcardselect_001",
+        "img_tutorial_produce-supportcardselect_002"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Support cards are cards you can include in your production team. They trigger various effects to assist production. ",
         "Support cards have types, which determine the parameters raised and effects triggered during production."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceMemorySelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce-memoryselect_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "For Memories, you can rent up to one Memory from friends or other producers. The number of rentals per day is limited."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceSchedule",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce-schedule_001",
+        "img_tutorial_produce-schedule_002",
+        "img_tutorial_produce-schedule_003",
+        "img_tutorial_produce-schedule_004"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Lessons include Vocal, Dance, and Visual, which increase their respective parameters. Achieving lesson goals rewards you with skill cards or P drinks. ",
         "In production, you can choose from various schedules. Select the most appropriate schedule for the situation. ",
         "Special lessons before exams provide a bonus if goals are achieved, equally boosting Vocal, Dance, and Visual parameters. ",
         "Before exams, stamina is automatically restored based on maximum stamina."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceEvent",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce-event_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Classes and outings have options that vary in effect. Check the costs and triggered effects to make situationally appropriate choices."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProducePresentStep",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce-presentstep_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Activity grants skill cards, P-Points, and P drinks as rewards."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceShopStep",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce-shopstep_001",
+        "img_tutorial_produce-shopstep_002"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "In consultations, you can exchange P-Points for skill cards or P drinks. The available items change each time. ",
         "Using P drinks boosts parameters or restores stamina, but they can only be used during lessons or exams."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceExamGimmick",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce-examgimmick_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Effects that automatically activate when conditions are met during specified turns. Tap the icons displayed during lessons to check activation conditions."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceExamGimmick",
+      "idolCardId": "",
       "step": 1,
       "subStep": 2,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Arrow",
+      "navigationPositionType": "TutorialNavigationPositionType_Upper",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Tap here to check the details of support and troubles."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceExamGimmick",
+      "idolCardId": "",
       "step": 1,
       "subStep": 3,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Focus",
+      "navigationPositionType": "TutorialNavigationPositionType_Lower",
+      "assetIds": [],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Review effect details and activation conditions to plan your strategy carefully!"
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceExamPerfect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce-examperfect_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "If you max out parameters after clearing lesson goals, it results in a Perfect Lesson. Perfect Lessons end the session, and your remaining turns restore stamina."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceBeforeLiveEvaluation",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce-beforeliveevaluation_001",
+        "img_tutorial_produce-beforeliveevaluation_002"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "True End is a special ending viewable by achieving specific achievements and ranking first in the final exam. ",
         "Tap [True End Conditions] to check the necessary achievements for True End."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceDifficultySelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce-difficultyselect_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "The [Pro] difficulty has been unlocked. [Pro] difficulty increases idol parameters more easily, but the challenge level is higher."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceCardUpgrade",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce-cardupgrade_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Skill cards can be strengthened using P-Points. Strengthening Upgrades the effects of skill cards. Only one card can be strengthened per consultation, and the required P-Points increase with each strengthening."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceCardDelete",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce-carddelete_001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Skill cards can be deleted using P-Points. Deleted cards are removed from your collection. Only one card can be deleted per consultation, and the required P-Points increase with each deletion."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceChallenge",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce-difficultyselect_002",
+        "img_tutorial_produce-difficultyselect_003",
+        "img_tutorial_produce-difficultyselect_004"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "The [Master] difficulty has been unlocked. [Master] difficulty is more challenging than [Pro] but increases idol parameters even further. Only idols with a Bond Lv of 10 or higher can attempt this. ",
         "Challenge P items can be selected before starting production in [Master] difficulty. They increase the PERFECT cap for lessons and SP lessons. ",
         "Up to three Challenge P items can be unlocked for each idol by meeting specific conditions and can be chosen accordingly."
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionTop",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_02-001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionSchedule",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_02-002",
+        "img_tutorial_produce_02-003",
+        "img_tutorial_produce_02-004"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionSelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_02_audition-001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionStart",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_02_audition-002",
+        "img_tutorial_produce_02_audition-003",
+        "img_tutorial_produce_02_audition-004"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionResult",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_02-005"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceStepBusiness",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_02_business-001",
+        "img_tutorial_produce_02_business-002"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceStepCustomize",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_02_customize-001",
+        "img_tutorial_produce_02_customize-002"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceStepFanPresent",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_02_present-001"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_MissionPanel",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_event_panel_event-panel-mission-001-01",
+        "img_tutorial_event_panel_event-panel-mission-001-02"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_ProduceHighScore",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_event_high-score-rush-event_004-01",
+        "img_tutorial_event_high-score-rush-event_004-02",
+        "img_tutorial_event_high-score-rush-event_004-03",
+        "img_tutorial_event_high-score-rush-event_004-04"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": "Kunio Juo's Idol Intensive Month 〜Twinkling of the Stars〜"
     },
     {
       "tutorialType": "TutorialType_StoryEvent",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_event_story_event-story-017-01",
+        "img_tutorial_event_story_event-story-017-02",
+        "img_tutorial_event_story_event-story-017-03",
+        "img_tutorial_event_story_event-story-017-04"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_StoryEventMainStroy",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_event_main-story_event-main-story-001-01",
+        "img_tutorial_event_main-story_event-main-story-001-02",
+        "img_tutorial_event_main-story_event-main-story-001-03",
+        "img_tutorial_event_main-story_event-main-story-001-04",
+        "img_tutorial_event_main-story_event-main-story-009-05"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_StoryEventBoxGasha",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_event_box-gasha-event-015_001",
+        "img_tutorial_event_box-gasha-event-015_002",
+        "img_tutorial_event_box-gasha-event-015_003"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_StoryEventGuildMission",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_event_circle-mission_circle-mission-001",
+        "img_tutorial_event_circle-mission_circle-mission-002"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     },
     {
       "tutorialType": "TutorialType_GvgRaid",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_event_circle-battle-event_circle-battle-event-001-01",
+        "img_tutorial_event_circle-battle-event_circle-battle-event-001-02",
+        "img_tutorial_event_circle-battle-event_circle-battle-event-001-03",
+        "img_tutorial_event_circle-battle-event_circle-battle-event-001-04",
+        "img_tutorial_event_circle-battle-event_circle-battle-event-001-05",
+        "img_tutorial_event_circle-battle-event_circle-battle-event-001-06"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": "Regional Tour"
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionMaster",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_02_difficultyselect-01",
+        "img_tutorial_produce_02_difficultyselect-02"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         " The [Master] difficulty level of [N.I.A] has been unlocked.\nAt the same time, the [N.I.A Master Ranking] has also been unlocked.\nThe difficulty level is higher than [Pro], but it is easier to increase parameters and collect fan votes.\nOnly idols who have achieved an bond level of 20 can challenge this. ",
         " Challenge P-Items are P-Items that can be selected before starting production on the [Master] difficulty level.\nThe effect of Challenge P-Items is to increase the amount of parameters acquired through audition bonuses when clearing an audition."
-      ]
+      ],
+      "title": "N.I.A Master"
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionMasterRanking",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_produce_02_master-ranking-01",
+        "img_tutorial_produce_02_master-ranking-02",
+        "img_tutorial_produce_02_master-ranking-05"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": "N.I.A Master Ranking"
     },
     {
       "tutorialType": "TutorialType_Tour",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
-      "idolCardId": "",
       "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "assetIds": [
+        "img_tutorial_event_tour_tour-002-01",
+        "img_tutorial_event_tour_tour-002-02",
+        "img_tutorial_event_tour_tour-002-03",
+        "img_tutorial_event_tour_tour-002-04",
+        "img_tutorial_event_tour_tour-002-05"
+      ],
+      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
-      ]
+      ],
+      "title": ""
     }
   ]
 }
