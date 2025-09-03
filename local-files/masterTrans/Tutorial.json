@@ -3,7 +3,10 @@
     "primaryKeys": [
       "tutorialType",
       "step",
-      "subStep"
+      "subStep",
+      "idolCardId",
+      "navigationType",
+      "tutorialProduceCommandType"
     ]
   },
   "data": [
@@ -11,6 +14,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Adv",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -19,6 +25,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 2,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Adv",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -27,6 +36,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 3,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Unknown",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Start",
       "texts": [
         ""
       ]
@@ -35,6 +47,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 6,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         "Congratulations on clearing the lesson! You can earn rewards by achieving the lesson goals."
       ]
@@ -43,6 +58,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 6,
       "subStep": 2,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         "It looks like you can pick one from these. Let’s select this skill card as the reward!"
       ]
@@ -51,6 +69,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 6,
       "subStep": 3,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         ""
       ]
@@ -59,6 +80,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 6,
       "subStep": 4,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         "Clearing the lesson goals grants you rewards useful for production."
       ]
@@ -67,6 +91,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 9,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Unknown",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         ""
       ]
@@ -75,6 +102,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 10,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "It seems like your stamina is low."
       ]
@@ -83,14 +113,20 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 10,
       "subStep": 2,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
-        "Choose 'Rest' to let the idol recover."
+        "Choose [Rest] to let the idol recover."
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 10,
       "subStep": 3,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "When stamina is low, recover by selecting [Rest] to prepare for lessons and exams."
       ]
@@ -99,6 +135,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 10,
       "subStep": 4,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Adv",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         ""
       ]
@@ -107,6 +146,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 11,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Compete with other idols, and placing in the top 3 will mean passing the exam."
       ]
@@ -115,6 +157,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Use skill cards, just like during lessons, to increase your score and compete for rankings."
       ]
@@ -123,6 +168,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 2,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Here, you can check your current score and ranking."
       ]
@@ -131,6 +179,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 3,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "At the end of the exam, ranking in the top 3 will mean you pass."
       ]
@@ -139,6 +190,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 4,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Let’s use a skill card to raise your score!"
       ]
@@ -147,6 +201,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 5,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Your score rose significantly compared to lessons. In exams, bonuses are applied based on your parameters."
       ]
@@ -155,6 +212,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 6,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "You can check bonuses here. Keep in mind they change every turn!"
       ]
@@ -163,6 +223,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 7,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Character",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Only three turns left. Do your best in the exam!"
       ]
@@ -171,6 +234,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 8,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "In exams, score bonuses are applied each turn. The higher the parameters, the greater the score bonuses."
       ]
@@ -179,6 +245,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 9,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Unknown",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         ""
       ]
@@ -187,6 +256,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 13,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Unknown",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionEnd",
       "texts": [
         ""
       ]
@@ -195,6 +267,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 14,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Unknown",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_CheckBeforeLiveProduceEvaluation",
       "texts": [
         ""
       ]
@@ -203,6 +278,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 15,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "During live performances, you can take up to 50 photos. Capture the idol’s moments!"
       ]
@@ -211,6 +289,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 16,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Result",
       "texts": [
         "The live shows you can participate in are determined by production results and idol growth."
       ]
@@ -219,6 +300,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 16,
       "subStep": 2,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Character",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Result",
       "texts": [
         "Production results can be obtained as [Memories]."
       ]
@@ -227,6 +311,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 16,
       "subStep": 3,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Result",
       "texts": [
         "The performance of the Memories depends on the evaluation of the production."
       ]
@@ -235,6 +322,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 16,
       "subStep": 4,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Character",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Result",
       "texts": [
         "You can choose a photo to turn into a [Memory]. Pick your favorite one!"
       ]
@@ -243,6 +333,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 17,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Adv",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -251,6 +344,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 17,
       "subStep": 2,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "When your Producer Level increases, new skill cards and P-Drinks are unlocked, appearing during production."
       ]
@@ -259,6 +355,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 1,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Character",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s get started with production! This time, there’s only a final exam, so don’t worry, I’ll guide you!"
       ]
@@ -267,6 +366,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 2,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Pass the exam and aim to perform in the live show. To participate, you must pass both the midterm and final exams.\n",
         "To pass exams, improving the idol’s parameters is key. Train their parameters to prepare.\n",
@@ -277,6 +379,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 3,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Check the idol’s parameters, advice, and evaluation criteria here."
       ]
@@ -285,14 +390,20 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 4,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
-        "Let’s start with a dance lesson to raise the Dance parameter!"
+        "まずはビジュアルレッスンで\nビジュアルをあげましょう！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 1,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Adv",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
       ]
@@ -301,6 +412,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 2,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check the required parameters to clear the lesson and the idol’s current parameters here."
       ]
@@ -309,6 +423,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 3,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "During lessons, you can perform actions for a set number of turns. This time, it seems you have three turns left!"
       ]
@@ -317,6 +434,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 4,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "In lessons, you can select and use skill cards from here."
       ]
@@ -325,6 +445,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 5,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Let’s use one now!"
       ]
@@ -333,14 +456,20 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 6,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Your Dance parameter increased, bringing you closer to clearing the lesson!"
+        "ビジュアルのパラメータが上昇して\nレッスンクリアに近づきましたね！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 7,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Stamina is decreasing. Using skill cards sometimes requires stamina."
       ]
@@ -349,6 +478,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 8,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Next, try selecting this skill card!"
       ]
@@ -357,14 +489,20 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 9,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "{ExamEffectType.ExamBlock}Energy has increased! When stamina decreases, Energy is prioritized for consumption instead."
+        "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for consumption instead."
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 10,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "",
         "Using skill cards requires stamina. When Energy is available, it’s consumed instead of stamina."
@@ -374,6 +512,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 11,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Lastly, select one more card!"
       ]
@@ -382,14 +523,20 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 7,
       "subStep": 1,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
-        "Next, try selecting a Vocal lesson."
+        "次はダンスレッスンを\n選択してみましょう"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 1,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Adv",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
       ]
@@ -398,6 +545,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 2,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The skill card you obtained from the previous lesson is in your hand. Try selecting it!"
       ]
@@ -406,30 +556,53 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 3,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "The skill card’s effect applied {ExamEffectType.ExamLessonBuff}Focus!"
+        "スキルカードの効果で\n{ExamEffectType.ExamReview}好印象がつきましたね！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 4,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "You can check the current effects by tapping the icon. Let’s view the {ExamEffectType.ExamLessonBuff}Focus effect!"
+        "ターン終了時に\nパラメータが上がりましたね！\n{ExamEffectType.ExamReview}好印象が発動したみたいです"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 5,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "{ExamEffectType.ExamLessonBuff}Focus increases the amount of parameter growth."
+        "現在の効果はアイコンをタップすると\n確認することができます\n{ExamEffectType.ExamReview}好印象の効果をみてみましょう！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 6,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
+      "texts": [
+        "{ExamEffectType.ExamReview}好印象はターン終了時に\nパラメータを上昇させる\n効果のようですね"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 7,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can also check the effects of P-items by tapping their icons."
       ]
@@ -437,39 +610,54 @@
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
-      "subStep": 7,
-      "texts": [
-        "The P-item you currently have seems to synergize well with {ExamEffectType.ExamLessonBuff}Focus."
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
       "subStep": 8,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Try selecting a skill card while {ExamEffectType.ExamLessonBuff}Focus is active!"
+        "今持っているPアイテムは\n{ExamEffectType.ExamReview}好印象と相性が良さそうですね"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 9,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Thanks to {ExamEffectType.ExamLessonBuff}Focus, your parameters increased significantly!"
+        "今回は{ExamEffectType.ExamReview}好印象の効果がついている\nスキルカードを選択してみましょう！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 10,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Additionally, the effect of the P-item boosted {ExamEffectType.ExamLessonBuff}Focus!"
+        "{ExamEffectType.ExamReview}好印象が増えたおかげで\nパラメータが大きく上がりましたね"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 11,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
+      "texts": [
+        "さらに、Pアイテムの効果で\n{ExamEffectType.ExamReview}好印象が増えましたね！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 12,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check detailed information on active effects during lessons by tapping the icons.\n",
         "P-items activate effects when conditions are met. Starting P-items depend on the produced idol."
@@ -478,7 +666,10 @@
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
-      "subStep": 12,
+      "subStep": 13,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Use everything you’ve learned to train the parameters as much as possible!"
       ]
@@ -486,23 +677,21 @@
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
-      "subStep": 13,
-      "texts": [
-        "Don’t worry—you can do it!"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
       "subStep": 14,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        ""
+        "Don’t worry,you can do it!"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 15,
+      "idolCardId": "i_card-fktn-1-000",
+      "navigationType": "TutorialNavigationType_Unknown",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
       ]
@@ -511,6 +700,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 1,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Character",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s get started with production! This time, there’s only a final exam, so don’t worry, I’ll guide you!"
       ]
@@ -519,6 +711,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 2,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Pass the exam and aim to perform in the live show. To participate, you must pass both the midterm and final exams.\n",
         "To pass exams, improving the idol’s parameters is key. Train their parameters to prepare.\n",
@@ -529,6 +724,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 3,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Check the idol’s parameters, advice, and evaluation criteria here."
       ]
@@ -537,6 +735,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 4,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s start with a dance lesson to raise the Dance parameter!"
       ]
@@ -545,6 +746,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 1,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Adv",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
       ]
@@ -553,6 +757,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 2,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check the required parameters to clear the lesson and the idol’s current parameters here."
       ]
@@ -561,6 +768,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 3,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "During lessons, you can perform actions for a set number of turns. This time, it seems you have three turns left!"
       ]
@@ -569,6 +779,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 4,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "In lessons, you can select and use skill cards from here."
       ]
@@ -577,6 +790,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 5,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Let’s use one now!"
       ]
@@ -585,6 +801,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 6,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Your Dance parameter increased, bringing you closer to clearing the lesson!"
       ]
@@ -593,6 +812,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 7,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Stamina is decreasing. Using skill cards sometimes requires stamina."
       ]
@@ -601,6 +823,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 8,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Next, try selecting this skill card!"
       ]
@@ -609,14 +834,20 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 9,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "{ExamEffectType.ExamBlock}Energy has increased! When stamina decreases, Energy is prioritized for consumption instead."
+        "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for consumption instead."
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 10,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "",
         "Using skill cards requires stamina. When Energy is available, it’s consumed instead of stamina."
@@ -626,6 +857,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 11,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Lastly, select one more card!"
       ]
@@ -634,14 +868,20 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 7,
       "subStep": 1,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
-        "Next, try selecting a Vocal lesson."
+        "次はビジュアルレッスンを選択してみましょう"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 1,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Adv",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
       ]
@@ -650,6 +890,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 2,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The skill card you obtained from the previous lesson is in your hand. Try selecting it!"
       ]
@@ -658,30 +901,53 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 3,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "The skill card’s effect applied {ExamEffectType.ExamLessonBuff}Focus!"
+        "スキルカードの効果で\n{ExamEffectType.ExamParameterBuff}好調がつきましたね！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 4,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "You can check the current effects by tapping the icon. Let’s view the {ExamEffectType.ExamLessonBuff}Focus effect!"
+        "こちらのPアイテムの効果で\nパラメータがあがりました！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 5,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "{ExamEffectType.ExamLessonBuff}Focus increases the amount of parameter growth."
+        "現在の効果はアイコンをタップすると\n確認することができます\n{ExamEffectType.ExamParameterBuff}好調の効果をみてみましょう！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 6,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
+      "texts": [
+        "{ExamEffectType.ExamParameterBuff}好調は上がるパラメータの量を\n増やす効果のようですね"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 7,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can also check the effects of P-items by tapping their icons."
       ]
@@ -689,39 +955,43 @@
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
-      "subStep": 7,
-      "texts": [
-        "The P-item you currently have seems to synergize well with {ExamEffectType.ExamLessonBuff}Focus."
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
       "subStep": 8,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Try selecting a skill card while {ExamEffectType.ExamLessonBuff}Focus is active!"
+        "今持っているPアイテムは\n{ExamEffectType.ExamParameterBuff}好調と相性が良さそうですね"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 9,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Thanks to {ExamEffectType.ExamLessonBuff}Focus, your parameters increased significantly!"
+        "{ExamEffectType.ExamParameterBuff}好調がついた状態で\nスキルカードを選択してみましょう！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 10,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Additionally, the effect of the P-item boosted {ExamEffectType.ExamLessonBuff}Focus!"
+        "{ExamEffectType.ExamParameterBuff}好調のおかげで\nパラメータが大きく上がりましたね！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 11,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check detailed information on active effects during lessons by tapping the icons.\n",
         "P-items activate effects when conditions are met. Starting P-items depend on the produced idol."
@@ -731,6 +1001,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 12,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Use everything you’ve learned to train the parameters as much as possible!"
       ]
@@ -739,14 +1012,20 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 13,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Don’t worry—you can do it!"
+        "Don’t worry,you can do it!"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 14,
+      "idolCardId": "i_card-hski-1-000",
+      "navigationType": "TutorialNavigationType_Unknown",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
       ]
@@ -755,6 +1034,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 1,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Character",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s get started with production! This time, there’s only a final exam, so don’t worry, I’ll guide you!"
       ]
@@ -763,6 +1045,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 2,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Pass the exam and aim to perform in the live show. To participate, you must pass both the midterm and final exams.\n",
         "To pass exams, improving the idol’s parameters is key. Train their parameters to prepare.\n",
@@ -773,6 +1058,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 3,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Check the idol’s parameters, advice, and evaluation criteria here."
       ]
@@ -781,6 +1069,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 4,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s start with a dance lesson to raise the Dance parameter!"
       ]
@@ -789,6 +1080,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 1,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Adv",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
       ]
@@ -797,6 +1091,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 2,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check the required parameters to clear the lesson and the idol’s current parameters here."
       ]
@@ -805,6 +1102,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 3,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "During lessons, you can perform actions for a set number of turns. This time, it seems you have three turns left!"
       ]
@@ -813,6 +1113,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 4,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "In lessons, you can select and use skill cards from here."
       ]
@@ -821,6 +1124,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 5,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Let’s use one now!"
       ]
@@ -829,6 +1135,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 6,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Your Dance parameter increased, bringing you closer to clearing the lesson!"
       ]
@@ -837,6 +1146,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 7,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Stamina is decreasing. Using skill cards sometimes requires stamina."
       ]
@@ -845,6 +1157,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 8,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Next, try selecting this skill card!"
       ]
@@ -853,14 +1168,20 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 9,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "{ExamEffectType.ExamBlock}Energy has increased! When stamina decreases, Energy is prioritized for consumption instead."
+        "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for consumption instead."
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 10,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "",
         "Using skill cards requires stamina. When Energy is available, it’s consumed instead of stamina."
@@ -870,6 +1191,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 11,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Lastly, select one more card!"
       ]
@@ -878,6 +1202,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 7,
       "subStep": 1,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Next, try selecting a Vocal lesson."
       ]
@@ -886,6 +1213,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 1,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Adv",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
       ]
@@ -894,6 +1224,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 2,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The skill card you obtained from the previous lesson is in your hand. Try selecting it!"
       ]
@@ -902,6 +1235,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 3,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The skill card’s effect applied {ExamEffectType.ExamLessonBuff}Focus!"
       ]
@@ -910,6 +1246,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 4,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check the current effects by tapping the icon. Let’s view the {ExamEffectType.ExamLessonBuff}Focus effect!"
       ]
@@ -918,6 +1257,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 5,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "{ExamEffectType.ExamLessonBuff}Focus increases the amount of parameter growth."
       ]
@@ -926,6 +1268,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 6,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can also check the effects of P-items by tapping their icons."
       ]
@@ -934,6 +1279,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 7,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The P-item you currently have seems to synergize well with {ExamEffectType.ExamLessonBuff}Focus."
       ]
@@ -942,6 +1290,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 8,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Try selecting a skill card while {ExamEffectType.ExamLessonBuff}Focus is active!"
       ]
@@ -950,6 +1301,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 9,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Thanks to {ExamEffectType.ExamLessonBuff}Focus, your parameters increased significantly!"
       ]
@@ -958,6 +1312,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 10,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Additionally, the effect of the P-item boosted {ExamEffectType.ExamLessonBuff}Focus!"
       ]
@@ -966,6 +1323,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 11,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check detailed information on active effects during lessons by tapping the icons.\n",
         "P-items activate effects when conditions are met. Starting P-items depend on the produced idol."
@@ -975,6 +1335,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 12,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Use everything you’ve learned to train the parameters as much as possible!"
       ]
@@ -983,14 +1346,20 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 13,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Don’t worry—you can do it!"
+        "Don’t worry,you can do it!"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 14,
+      "idolCardId": "i_card-ttmr-1-000",
+      "navigationType": "TutorialNavigationType_Unknown",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
       ]
@@ -999,6 +1368,9 @@
       "tutorialType": "TutorialType_MainTask",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Clearing tasks unlocks new features and Hatsuboshi Commu, as well as rewards like Producer Exp."
       ]
@@ -1007,6 +1379,9 @@
       "tutorialType": "TutorialType_Work",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "By sending idols to work, you can earn various rewards.\n",
         "Work can sometimes result in great success, increasing reward amounts. Idols in Good Shape always achieve great success."
@@ -1016,6 +1391,9 @@
       "tutorialType": "TutorialType_IdolCard",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "When you awaken the talents of produced idols, initial P-items and lesson bonuses are Upgraded."
       ]
@@ -1024,6 +1402,9 @@
       "tutorialType": "TutorialType_IdolCardSkin",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1032,6 +1413,9 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "You can compete against producers nationwide. In contests, you use parameters, skill cards, and P-items linked to Memories obtained from production.\n",
         "Compete on stage and aim for higher scores. The producer with the most stage wins emerges victorious.\n",
@@ -1043,6 +1427,9 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 2,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "To participate in a contest, assemble a unit."
       ]
@@ -1051,6 +1438,9 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 3,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "You can use the [Auto] feature to assemble your unit quickly."
       ]
@@ -1059,6 +1449,9 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 4,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "You can use the [Auto] feature to assemble your unit quickly."
       ]
@@ -1067,6 +1460,9 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 5,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1075,6 +1471,9 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 6,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Memories have plans set for each stage, dictating how they can be assembled.\n",
         "Main and sub Memories are assignable. The same idol’s Memories can be used in both.\n",
@@ -1085,6 +1484,9 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 7,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Let’s head back and join the contest!"
       ]
@@ -1093,6 +1495,9 @@
       "tutorialType": "TutorialType_CoinGasha",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "In the Coin Gacha, you can use coins obtained during production to draw for rewards like support cards and training items."
       ]
@@ -1101,6 +1506,9 @@
       "tutorialType": "TutorialType_MoneyReceive",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Money accumulates over time and can be collected. The amount increases with your Producer Level, along with storage limits."
       ]
@@ -1109,6 +1517,9 @@
       "tutorialType": "TutorialType_MissionPass",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Mission Pass rewards are earned as Mission Pass Points accumulate, obtainable through daily and weekly missions."
       ]
@@ -1117,6 +1528,9 @@
       "tutorialType": "TutorialType_Profile",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "In your profile, set support cards and Memories that other producers can rent. Earn Friend Coins based on rental usage."
       ]
@@ -1125,6 +1539,9 @@
       "tutorialType": "TutorialType_Meishi",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         " You can create your own original business card and share its image on social media. Not only can you customize your profile, but you can also display images of your assigned idols, support cards, and photos.\n※SNS sharing is not available in the DMM GAMES version."
       ]
@@ -1133,6 +1550,9 @@
       "tutorialType": "TutorialType_Friend",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "The Friend menu allows you to view followed and follower producers. Rented support cards and Memories can be used during production."
       ]
@@ -1141,6 +1561,9 @@
       "tutorialType": "TutorialType_Achievement",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Achievements are earned by meeting various conditions. Collecting them grants rewards like Producer Level experience, so aim to collect as many as possible."
       ]
@@ -1149,6 +1572,9 @@
       "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Training your produced idol strengthens their initial skill cards and parameters, making production more advantageous. Additionally, the produced idol's image will be unlocked."
       ]
@@ -1157,6 +1583,9 @@
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Leveling up support cards unlocks support abilities and support events. Support abilities are also Upgraded with higher levels. ",
         "When a support card is limit-broken, its maximum level increases."
@@ -1166,6 +1595,9 @@
       "tutorialType": "TutorialType_Tower",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1174,6 +1606,9 @@
       "tutorialType": "TutorialType_Guild",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "In a Circle, you can connect with producers across the country. ",
         "In a Circle, you can request training items from members, receive donated items, and earn Friend Coins by donating items yourself."
@@ -1183,6 +1618,9 @@
       "tutorialType": "TutorialType_TutorialReceiveIdolCard",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1191,6 +1629,9 @@
       "tutorialType": "TutorialType_PhotoTop",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1199,6 +1640,9 @@
       "tutorialType": "TutorialType_PhotoIdol",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1207,6 +1651,9 @@
       "tutorialType": "TutorialType_PhotoPrepare",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1215,6 +1662,9 @@
       "tutorialType": "TutorialType_Photo",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1223,6 +1673,9 @@
       "tutorialType": "TutorialType_MeishiEditCustom",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         " Custom business cards can be created from [Business Card > Create New > Custom Business Card].\n",
         " While template business cards could only specify a background, custom business cards allow multiple specifications.\n",
@@ -1236,6 +1689,9 @@
       "tutorialType": "TutorialType_MeishiEditCustomManual",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1244,6 +1700,9 @@
       "tutorialType": "TutorialType_IdolCardSkinUnit",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1252,6 +1711,9 @@
       "tutorialType": "TutorialType_DearnessTop",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1260,6 +1722,9 @@
       "tutorialType": "TutorialType_DearnessPoint",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1268,6 +1733,9 @@
       "tutorialType": "TutorialType_ProduceIdolCardSelect",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "",
         "Each produced idol has a specific [Plan]. Skill cards and P items available during production differ depending on the Plan."
@@ -1277,6 +1745,9 @@
       "tutorialType": "TutorialType_ProduceSupportCardSelect",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Support cards are cards you can include in your production team. They trigger various effects to assist production. ",
         "Support cards have types, which determine the parameters raised and effects triggered during production."
@@ -1286,6 +1757,9 @@
       "tutorialType": "TutorialType_ProduceMemorySelect",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "For Memories, you can rent up to one Memory from friends or other producers. The number of rentals per day is limited."
       ]
@@ -1294,17 +1768,23 @@
       "tutorialType": "TutorialType_ProduceSchedule",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Lessons include Vocal, Dance, and Visual, which increase their respective parameters. Achieving lesson goals rewards you with skill cards or P drinks. ",
         "In production, you can choose from various schedules. Select the most appropriate schedule for the situation. ",
         "Special lessons before exams provide a bonus if goals are achieved, equally boosting Vocal, Dance, and Visual parameters. ",
-        "Before exams, stamina is automatically restored based on maximum stamina.\""
+        "Before exams, stamina is automatically restored based on maximum stamina."
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceEvent",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Classes and outings have options that vary in effect. Check the costs and triggered effects to make situationally appropriate choices."
       ]
@@ -1313,6 +1793,9 @@
       "tutorialType": "TutorialType_ProducePresentStep",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Activity grants skill cards, P-Points, and P drinks as rewards."
       ]
@@ -1321,6 +1804,9 @@
       "tutorialType": "TutorialType_ProduceShopStep",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "In consultations, you can exchange P-Points for skill cards or P drinks. The available items change each time. ",
         "Using P drinks boosts parameters or restores stamina, but they can only be used during lessons or exams."
@@ -1330,6 +1816,9 @@
       "tutorialType": "TutorialType_ProduceExamGimmick",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Effects that automatically activate when conditions are met during specified turns. Tap the icons displayed during lessons to check activation conditions."
       ]
@@ -1338,6 +1827,9 @@
       "tutorialType": "TutorialType_ProduceExamGimmick",
       "step": 1,
       "subStep": 2,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Arrow",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Tap here to check the details of support and troubles."
       ]
@@ -1346,6 +1838,9 @@
       "tutorialType": "TutorialType_ProduceExamGimmick",
       "step": 1,
       "subStep": 3,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Focus",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Review effect details and activation conditions to plan your strategy carefully!"
       ]
@@ -1354,6 +1849,9 @@
       "tutorialType": "TutorialType_ProduceExamPerfect",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "If you max out parameters after clearing lesson goals, it results in a Perfect Lesson. Perfect Lessons end the session, and your remaining turns restore stamina."
       ]
@@ -1362,15 +1860,21 @@
       "tutorialType": "TutorialType_ProduceBeforeLiveEvaluation",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "True End is a special ending viewable by achieving specific achievements and ranking first in the final exam. ",
-        "Tap 'True End Conditions' to check the necessary achievements for True End."
+        "Tap [True End Conditions] to check the necessary achievements for True End."
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceDifficultySelect",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "The [Pro] difficulty has been unlocked. [Pro] difficulty increases idol parameters more easily, but the challenge level is higher."
       ]
@@ -1379,6 +1883,9 @@
       "tutorialType": "TutorialType_ProduceCardUpgrade",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Skill cards can be strengthened using P-Points. Strengthening Upgrades the effects of skill cards. Only one card can be strengthened per consultation, and the required P-Points increase with each strengthening."
       ]
@@ -1387,6 +1894,9 @@
       "tutorialType": "TutorialType_ProduceCardDelete",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Skill cards can be deleted using P-Points. Deleted cards are removed from your collection. Only one card can be deleted per consultation, and the required P-Points increase with each deletion."
       ]
@@ -1395,6 +1905,9 @@
       "tutorialType": "TutorialType_ProduceChallenge",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "The [Master] difficulty has been unlocked. [Master] difficulty is more challenging than [Pro] but increases idol parameters even further. Only idols with a Bond Lv of 10 or higher can attempt this. ",
         "Challenge P items can be selected before starting production in [Master] difficulty. They increase the PERFECT cap for lessons and SP lessons. ",
@@ -1405,6 +1918,9 @@
       "tutorialType": "TutorialType_ProduceNextIdolAuditionTop",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1413,6 +1929,9 @@
       "tutorialType": "TutorialType_ProduceNextIdolAuditionSchedule",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1421,6 +1940,9 @@
       "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionSelect",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1429,6 +1951,9 @@
       "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionStart",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1437,6 +1962,9 @@
       "tutorialType": "TutorialType_ProduceNextIdolAuditionResult",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1445,6 +1973,9 @@
       "tutorialType": "TutorialType_ProduceStepBusiness",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1453,6 +1984,9 @@
       "tutorialType": "TutorialType_ProduceStepCustomize",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1461,6 +1995,9 @@
       "tutorialType": "TutorialType_ProduceStepFanPresent",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1469,6 +2006,9 @@
       "tutorialType": "TutorialType_MissionPanel",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1477,6 +2017,9 @@
       "tutorialType": "TutorialType_ProduceHighScore",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1485,6 +2028,9 @@
       "tutorialType": "TutorialType_StoryEvent",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1493,6 +2039,9 @@
       "tutorialType": "TutorialType_StoryEventMainStroy",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1501,6 +2050,9 @@
       "tutorialType": "TutorialType_StoryEventBoxGasha",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1509,6 +2061,9 @@
       "tutorialType": "TutorialType_StoryEventGuildMission",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1517,6 +2072,9 @@
       "tutorialType": "TutorialType_GvgRaid",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1525,15 +2083,21 @@
       "tutorialType": "TutorialType_ProduceNextIdolAuditionMaster",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
-        " The \"Master\" difficulty level of \"N.I.A\" has been unlocked.\nAt the same time, the \"N.I.A Master Ranking\" has also been unlocked.\nThe difficulty level is higher than \"Pro,\" but it is easier to increase parameters and collect fan votes.\nOnly idols who have achieved an bond level of 20 can challenge this. ",
-        " Challenge P-Items are P-Items that can be selected before starting production on the \"Master\" difficulty level.\nThe effect of Challenge P-Items is to increase the amount of parameters acquired through audition bonuses when clearing an audition."
+        " The [Master] difficulty level of [N.I.A] has been unlocked.\nAt the same time, the [N.I.A Master Ranking] has also been unlocked.\nThe difficulty level is higher than [Pro], but it is easier to increase parameters and collect fan votes.\nOnly idols who have achieved an bond level of 20 can challenge this. ",
+        " Challenge P-Items are P-Items that can be selected before starting production on the [Master] difficulty level.\nThe effect of Challenge P-Items is to increase the amount of parameters acquired through audition bonuses when clearing an audition."
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionMasterRanking",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
@@ -1542,6 +2106,9 @@
       "tutorialType": "TutorialType_Tour",
       "step": 1,
       "subStep": 1,
+      "idolCardId": "",
+      "navigationType": "TutorialNavigationType_Tips",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
       ]
