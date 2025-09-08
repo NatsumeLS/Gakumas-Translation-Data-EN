@@ -3,28 +3,32 @@
     "primaryKeys": [
       "id",
       "number",
-      "overwriteProduceCardGrowEffectType"
+      "facialAssetId"
     ]
   },
   "data": [
     {
       "id": "photo_facial_motion_group-amao-001",
       "number": 1,
+      "facialAssetId": "mot_all_chr_cmmn_facial-all-toji2-egao2_in",
       "name": "Smile"
     },
     {
       "id": "photo_facial_motion_group-amao-001",
       "number": 2,
+      "facialAssetId": "mot_all_chr_cmmn_facial-all-ikari2-ikari1_in",
       "name": "Mad"
     },
     {
       "id": "photo_facial_motion_group-amao-001",
       "number": 3,
+      "facialAssetId": "mot_all_chr_cmmn_facial-all-yowaki2-yowaki1_in",
       "name": "Troubled"
     },
     {
       "id": "photo_facial_motion_group-amao-001",
       "number": 4,
+      "facialAssetId": "mot_all_chr_cmmn_facial-all-tere-yowaki1-egao1_in",
       "name": "Shy"
     }
   ]
