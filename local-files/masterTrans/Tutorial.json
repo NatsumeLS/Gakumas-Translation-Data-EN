@@ -7,8 +7,6 @@
       "subStep",
       "navigationType",
       "navigationPositionType",
-      "assetIds",
-      "advAssetId",
       "tutorialProduceCommandType"
     ]
   },
@@ -20,8 +18,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Adv",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "adv_tutorial_first_cmmn-00",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -35,8 +31,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Adv",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "adv_tutorial_first_cmmn-01",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -50,8 +44,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Unknown",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Start",
       "texts": [
         ""
@@ -65,8 +57,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         "Congratulations on clearing the lesson! You can earn rewards by achieving the lesson goals."
@@ -80,8 +70,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         "It looks like you can pick one from these. Let’s select this skill card as the reward!"
@@ -95,8 +83,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         ""
@@ -110,10 +96,6 @@
       "subStep": 4,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-006"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         "Clearing the lesson goals grants you rewards useful for production."
@@ -127,8 +109,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Unknown",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepPresentReceive",
       "texts": [
         ""
@@ -142,8 +122,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "It seems like your stamina is low."
@@ -157,8 +135,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Lower",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Choose [Rest] to let the idol recover."
@@ -172,10 +148,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-009"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "When stamina is low, recover by selecting [Rest] to prepare for lessons and exams."
@@ -189,8 +161,6 @@
       "subStep": 4,
       "navigationType": "TutorialNavigationType_Adv",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "adv_tutorial_first_cmmn-04",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         ""
@@ -204,10 +174,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-010"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Compete with other idols, and placing in the top 3 will mean passing the exam."
@@ -221,8 +187,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Use skill cards, just like during lessons, to increase your score and compete for rankings."
@@ -236,8 +200,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Here, you can check your current score and ranking."
@@ -251,8 +213,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "At the end of the exam, ranking in the top 3 will mean you pass."
@@ -266,8 +226,6 @@
       "subStep": 4,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Let’s use a skill card to raise your score!"
@@ -281,8 +239,6 @@
       "subStep": 5,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Your score rose significantly compared to lessons. In exams, bonuses are applied based on your parameters."
@@ -296,8 +252,6 @@
       "subStep": 6,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "You can check bonuses here. Keep in mind they change every turn!"
@@ -311,8 +265,6 @@
       "subStep": 7,
       "navigationType": "TutorialNavigationType_Character",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "Only three turns left. Do your best in the exam!"
@@ -326,10 +278,6 @@
       "subStep": 8,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-011"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         "In exams, score bonuses are applied each turn. The higher the parameters, the greater the score bonuses."
@@ -343,8 +291,6 @@
       "subStep": 9,
       "navigationType": "TutorialNavigationType_Unknown",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionExamEnd",
       "texts": [
         ""
@@ -358,8 +304,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Unknown",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepAuditionEnd",
       "texts": [
         ""
@@ -373,8 +317,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Unknown",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_CheckBeforeLiveProduceEvaluation",
       "texts": [
         ""
@@ -388,8 +330,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "During live performances, you can take up to 50 photos. Capture the idol’s moments!"
@@ -403,10 +343,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-012"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Result",
       "texts": [
         "The live shows you can participate in are determined by production results and idol growth."
@@ -420,8 +356,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Character",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Result",
       "texts": [
         "Production results can be obtained as [Memories]."
@@ -435,10 +369,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-013"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Result",
       "texts": [
         "The performance of the Memories depends on the evaluation of the production."
@@ -452,8 +382,6 @@
       "subStep": 4,
       "navigationType": "TutorialNavigationType_Character",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Result",
       "texts": [
         "You can choose a photo to turn into a [Memory]. Pick your favorite one!"
@@ -467,8 +395,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Adv",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "adv_tutorial_first_cmmn-05",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -482,10 +408,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-014"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "When your Producer Level increases, new skill cards and P-Drinks are unlocked, appearing during production."
@@ -499,8 +421,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Character",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s get started with production! This time, there’s only a final exam, so don’t worry, I’ll guide you!"
@@ -514,12 +434,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-001",
-        "img_tutorial_produce_01_first-002",
-        "img_tutorial_produce_01_first-003"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Pass the exam and aim to perform in the live show. To participate, you must pass both the midterm and final exams. ",
@@ -535,8 +449,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Check the idol’s parameters, advice, and evaluation criteria here."
@@ -550,8 +462,6 @@
       "subStep": 4,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "First, let’s do a Visual Lesson and raise Visual!"
@@ -565,8 +475,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Adv",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "adv_tutorial_first_cmmn-02",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
@@ -580,8 +488,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check the required parameters to clear the lesson and the idol’s current parameters here."
@@ -595,8 +501,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "During lessons, you can perform actions for a set number of turns. This time, it seems you have three turns left!"
@@ -610,8 +514,6 @@
       "subStep": 4,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "In lessons, you can select and use skill cards from here."
@@ -625,8 +527,6 @@
       "subStep": 5,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Let’s use one now!"
@@ -640,8 +540,6 @@
       "subStep": 6,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Your Visual parameter increased, bringing you closer to clearing the lesson!"
@@ -655,8 +553,6 @@
       "subStep": 7,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Stamina is decreasing. Using skill cards sometimes requires stamina."
@@ -670,8 +566,6 @@
       "subStep": 8,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Next, try selecting this skill card!"
@@ -685,8 +579,6 @@
       "subStep": 9,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for consumption instead."
@@ -700,11 +592,6 @@
       "subStep": 10,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-004",
-        "img_tutorial_produce_01_first-005"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "",
@@ -719,8 +606,6 @@
       "subStep": 11,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Lastly, select one more card!"
@@ -734,8 +619,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Next, try selecting a Dance Lesson."
@@ -749,8 +632,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Adv",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "adv_tutorial_first_cmmn-03",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
@@ -764,8 +645,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The skill card you obtained from the previous lesson is in your hand. Try selecting it!"
@@ -779,8 +658,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Thanks to the Skill Card effect, {ExamEffectType.ExamReview}Good Impression was applied!"
@@ -794,8 +671,6 @@
       "subStep": 4,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Your parameter increased at the end of the turn!\nLooks like {ExamEffectType.ExamReview}Good Impression activated."
@@ -809,8 +684,6 @@
       "subStep": 5,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check your current effects by tapping the icon.\nLet’s look at the effect of {ExamEffectType.ExamReview}Good Impression!\n"
@@ -824,8 +697,6 @@
       "subStep": 6,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "{ExamEffectType.ExamReview}Good Impression seems to be an effect that increases parameters at the end of the turn."
@@ -839,8 +710,6 @@
       "subStep": 7,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can also check the effects of P-items by tapping their icons."
@@ -854,8 +723,6 @@
       "subStep": 8,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The P Item you have now seems to work well with {ExamEffectType.ExamReview}Good Impression."
@@ -869,8 +736,6 @@
       "subStep": 9,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "This time, try selecting a Skill Card with the effect {ExamEffectType.ExamReview}Good Impression!"
@@ -884,8 +749,6 @@
       "subStep": 10,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Thanks to the increased {ExamEffectType.ExamReview}Good Impression, your parameters went up a lot!"
@@ -899,8 +762,6 @@
       "subStep": 11,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Also, thanks to the P Item effect, {ExamEffectType.ExamReview}Good Impression increased!"
@@ -914,11 +775,6 @@
       "subStep": 12,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-007",
-        "img_tutorial_produce_01_first-008"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check detailed information on active effects during lessons by tapping the icons. ",
@@ -933,8 +789,6 @@
       "subStep": 13,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Use everything you’ve learned to train the parameters as much as possible!"
@@ -948,8 +802,6 @@
       "subStep": 14,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Don’t worry,you can do it!"
@@ -963,8 +815,6 @@
       "subStep": 15,
       "navigationType": "TutorialNavigationType_Unknown",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
@@ -978,8 +828,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Character",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s get started with production! This time, there’s only a final exam, so don’t worry, I’ll guide you!"
@@ -993,12 +841,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-001",
-        "img_tutorial_produce_01_first-002",
-        "img_tutorial_produce_01_first-003"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Pass the exam and aim to perform in the live show. To participate, you must pass both the midterm and final exams. ",
@@ -1014,8 +856,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Check the idol’s parameters, advice, and evaluation criteria here."
@@ -1029,8 +869,6 @@
       "subStep": 4,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s start with a dance lesson to raise the Dance parameter!"
@@ -1044,8 +882,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Adv",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "adv_tutorial_first_cmmn-02",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
@@ -1059,8 +895,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check the required parameters to clear the lesson and the idol’s current parameters here."
@@ -1074,8 +908,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "During lessons, you can perform actions for a set number of turns. This time, it seems you have three turns left!"
@@ -1089,8 +921,6 @@
       "subStep": 4,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "In lessons, you can select and use skill cards from here."
@@ -1104,8 +934,6 @@
       "subStep": 5,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Let’s use one now!"
@@ -1119,8 +947,6 @@
       "subStep": 6,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Your Dance parameter increased, bringing you closer to clearing the lesson!"
@@ -1134,8 +960,6 @@
       "subStep": 7,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Stamina is decreasing. Using skill cards sometimes requires stamina."
@@ -1149,8 +973,6 @@
       "subStep": 8,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Next, try selecting this skill card!"
@@ -1164,8 +986,6 @@
       "subStep": 9,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for consumption instead."
@@ -1179,11 +999,6 @@
       "subStep": 10,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-004",
-        "img_tutorial_produce_01_first-005"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "",
@@ -1198,8 +1013,6 @@
       "subStep": 11,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Lastly, select one more card!"
@@ -1213,8 +1026,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Next, try selecting a Visual Lesson."
@@ -1228,8 +1039,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Adv",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "adv_tutorial_first_cmmn-03",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
@@ -1243,8 +1052,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The skill card you obtained from the previous lesson is in your hand. Try selecting it!"
@@ -1258,8 +1065,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Thanks to the Skill Card effect, {ExamEffectType.ExamParameterBuff}Good Shape was applied!"
@@ -1273,8 +1078,6 @@
       "subStep": 4,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Thanks to this P-Item effect, your parameters increased!"
@@ -1288,8 +1091,6 @@
       "subStep": 5,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check your current effects by tapping the icon. Let’s look at the effect of {ExamEffectType.ExamParameterBuff}Good Shape!\n"
@@ -1303,8 +1104,6 @@
       "subStep": 6,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "{ExamEffectType.ExamParameterBuff}Good Shape seems to be an effect that increases the amount of parameter gain."
@@ -1318,8 +1117,6 @@
       "subStep": 7,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can also check the effects of P-items by tapping their icons."
@@ -1333,8 +1130,6 @@
       "subStep": 8,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The P Item you have now seems to work well with {ExamEffectType.ExamParameterBuff}Good Shape."
@@ -1348,8 +1143,6 @@
       "subStep": 9,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Try selecting a Skill Card while under the effect of {ExamEffectType.ExamParameterBuff}Good Shape!"
@@ -1363,8 +1156,6 @@
       "subStep": 10,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Thanks to {ExamEffectType.ExamParameterBuff}Good Shape, your parameters went up a lot!"
@@ -1378,11 +1169,6 @@
       "subStep": 11,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-007",
-        "img_tutorial_produce_01_first-008"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check detailed information on active effects during lessons by tapping the icons. ",
@@ -1397,8 +1183,6 @@
       "subStep": 12,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Use everything you’ve learned to train the parameters as much as possible!"
@@ -1412,8 +1196,6 @@
       "subStep": 13,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Don’t worry,you can do it!"
@@ -1427,8 +1209,6 @@
       "subStep": 14,
       "navigationType": "TutorialNavigationType_Unknown",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
@@ -1442,8 +1222,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Character",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s get started with production! This time, there’s only a final exam, so don’t worry, I’ll guide you!"
@@ -1457,12 +1235,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-001",
-        "img_tutorial_produce_01_first-002",
-        "img_tutorial_produce_01_first-003"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Pass the exam and aim to perform in the live show. To participate, you must pass both the midterm and final exams. ",
@@ -1478,8 +1250,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Check the idol’s parameters, advice, and evaluation criteria here."
@@ -1493,8 +1263,6 @@
       "subStep": 4,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Let’s start with a dance lesson to raise the Dance parameter!"
@@ -1508,8 +1276,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Adv",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "adv_tutorial_first_cmmn-02",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
@@ -1523,8 +1289,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check the required parameters to clear the lesson and the idol’s current parameters here."
@@ -1538,8 +1302,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "During lessons, you can perform actions for a set number of turns. This time, it seems you have three turns left!"
@@ -1553,8 +1315,6 @@
       "subStep": 4,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "In lessons, you can select and use skill cards from here."
@@ -1568,8 +1328,6 @@
       "subStep": 5,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Let’s use one now!"
@@ -1583,8 +1341,6 @@
       "subStep": 6,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Your Dance parameter increased, bringing you closer to clearing the lesson!"
@@ -1598,8 +1354,6 @@
       "subStep": 7,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Stamina is decreasing. Using skill cards sometimes requires stamina."
@@ -1613,8 +1367,6 @@
       "subStep": 8,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Next, try selecting this skill card!"
@@ -1628,8 +1380,6 @@
       "subStep": 9,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for consumption instead."
@@ -1643,11 +1393,6 @@
       "subStep": 10,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-004",
-        "img_tutorial_produce_01_first-005"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "",
@@ -1662,8 +1407,6 @@
       "subStep": 11,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Lastly, select one more card!"
@@ -1677,8 +1420,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Next",
       "texts": [
         "Next, try selecting a Vocal lesson."
@@ -1692,8 +1433,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Adv",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "adv_tutorial_first_cmmn-03",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
@@ -1707,8 +1446,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The skill card you obtained from the previous lesson is in your hand. Try selecting it!"
@@ -1722,8 +1459,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The skill card’s effect applied {ExamEffectType.ExamLessonBuff}Focus!"
@@ -1737,8 +1472,6 @@
       "subStep": 4,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check the current effects by tapping the icon. Let’s view the {ExamEffectType.ExamLessonBuff}Focus effect!"
@@ -1752,8 +1485,6 @@
       "subStep": 5,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "{ExamEffectType.ExamLessonBuff}Focus increases the amount of parameter growth."
@@ -1767,8 +1498,6 @@
       "subStep": 6,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can also check the effects of P-items by tapping their icons."
@@ -1782,8 +1511,6 @@
       "subStep": 7,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "The P-item you currently have seems to synergize well with {ExamEffectType.ExamLessonBuff}Focus."
@@ -1797,8 +1524,6 @@
       "subStep": 8,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Try selecting a skill card while {ExamEffectType.ExamLessonBuff}Focus is active!"
@@ -1812,8 +1537,6 @@
       "subStep": 9,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Thanks to {ExamEffectType.ExamLessonBuff}Focus, your parameters increased significantly!"
@@ -1827,8 +1550,6 @@
       "subStep": 10,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Additionally, the effect of the P-item boosted {ExamEffectType.ExamLessonBuff}Focus!"
@@ -1842,11 +1563,6 @@
       "subStep": 11,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_01_first-007",
-        "img_tutorial_produce_01_first-008"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "You can check detailed information on active effects during lessons by tapping the icons. ",
@@ -1861,8 +1577,6 @@
       "subStep": 12,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Use everything you’ve learned to train the parameters as much as possible!"
@@ -1876,8 +1590,6 @@
       "subStep": 13,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         "Don’t worry,you can do it!"
@@ -1891,8 +1603,6 @@
       "subStep": 14,
       "navigationType": "TutorialNavigationType_Unknown",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
         ""
@@ -1906,10 +1616,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_maintask_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Clearing tasks unlocks new features and Hatsuboshi Commu, as well as rewards like Producer Exp."
@@ -1923,11 +1629,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_work_001",
-        "img_tutorial_work_002"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "By sending idols to work, you can earn various rewards.\n",
@@ -1942,10 +1643,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_idolcard_002"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "When you awaken the talents of produced idols, initial P-items and lesson bonuses are Upgraded."
@@ -1959,12 +1656,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_another-idol_001",
-        "img_tutorial_another-idol_002",
-        "img_tutorial_another-idol_003"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -1978,13 +1669,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_pvprate_001",
-        "img_tutorial_pvprate_002",
-        "img_tutorial_pvprate_003",
-        "img_tutorial_pvprate_004"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "You can compete against producers nationwide. In contests, you use parameters, skill cards, and P-items linked to Memories obtained from production. ",
@@ -2001,8 +1685,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Lower",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "To participate in a contest, assemble a unit."
@@ -2016,8 +1698,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "You can use the [Auto] feature to assemble your unit quickly."
@@ -2031,8 +1711,6 @@
       "subStep": 4,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "You can use the [Auto] feature to assemble your unit quickly."
@@ -2046,8 +1724,6 @@
       "subStep": 5,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2061,12 +1737,6 @@
       "subStep": 6,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_pvprate_005",
-        "img_tutorial_pvprate_006",
-        "img_tutorial_pvprate_007"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Memories have plans set for each stage, dictating how they can be assembled. ",
@@ -2082,8 +1752,6 @@
       "subStep": 7,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Let’s head back and join the contest!"
@@ -2097,10 +1765,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_normalgasha_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "In the Coin Gacha, you can use coins obtained during production to draw for rewards like support cards and training items."
@@ -2114,10 +1778,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_moneyreceive_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Money accumulates over time and can be collected. The amount increases with your Producer Level, along with storage limits."
@@ -2131,10 +1791,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_missionpass_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Mission Pass rewards are earned as Mission Pass Points accumulate, obtainable through daily and weekly missions."
@@ -2148,10 +1804,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_profile_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "In your profile, set support cards and Memories that other producers can rent. Earn Friend Coins based on rental usage."
@@ -2165,10 +1817,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_meishi_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         " You can create your own original business card and share its image on social media. Not only can you customize your profile, but you can also display images of your assigned idols, support cards, and photos.\n※SNS sharing is not available in the DMM GAMES version."
@@ -2182,10 +1830,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_friend_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "The Friend menu allows you to view followed and follower producers. Rented support cards and Memories can be used during production."
@@ -2199,12 +1843,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_achievement_001",
-        "img_tutorial_achievement_002",
-        "img_tutorial_achievement_003"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Achievements can be obtained by meeting various conditions. Since you can earn rewards such as experience points for raising Producer Lv, actively collect achievements!  ",
@@ -2220,10 +1858,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_idolcard_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Training your produced idol strengthens their initial skill cards and parameters, making production more advantageous. Additionally, the produced idol's image will be unlocked."
@@ -2237,11 +1871,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_supportcard_001",
-        "img_tutorial_supportcard_002"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Leveling up support cards unlocks support abilities and support events. Support abilities are also Upgraded with higher levels. ",
@@ -2256,12 +1885,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_tower_001_01",
-        "img_tutorial_tower_001_02",
-        "img_tutorial_tower_001_03"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2275,11 +1898,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_guildjoin_001",
-        "img_tutorial_guildestablish_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "In a Circle, you can connect with producers across the country. ",
@@ -2294,11 +1912,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_tutorialreceiveidolcard_001",
-        "img_tutorial_tutorialreceiveidolcard_002"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2312,10 +1925,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_photo_top-001_01"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2329,11 +1938,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_photo_idol-top-001_01",
-        "img_tutorial_photo_idol-top-001_02"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2347,10 +1951,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_photo_prepare-001_01"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2364,12 +1964,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_photo_photo-001_01",
-        "img_tutorial_photo_photo-001_02",
-        "img_tutorial_photo_photo-001_03"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2383,15 +1977,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_meishi_custom-01",
-        "img_tutorial_meishi_custom-02",
-        "img_tutorial_meishi_custom-03",
-        "img_tutorial_meishi_custom-04",
-        "img_tutorial_meishi_custom-05",
-        "img_tutorial_meishi_custom-06"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         " Custom business cards can be created from [Business Card > Create New > Custom Business Card]. ",
@@ -2410,16 +1995,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tips_meishi_custom-01",
-        "img_tips_meishi_custom-02",
-        "img_tips_meishi_custom-03",
-        "img_tips_meishi_custom-04",
-        "img_tips_meishi_custom-05",
-        "img_tips_meishi_custom-06",
-        "img_tips_meishi_custom-07"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2433,13 +2008,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_unit-idol_001",
-        "img_tutorial_unit-idol_002",
-        "img_tutorial_unit-idol_003",
-        "img_tutorial_unit-idol_004"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2453,10 +2021,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_dearness_004"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2470,12 +2034,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_dearness_001",
-        "img_tutorial_dearness_002",
-        "img_tutorial_dearness_003"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2489,11 +2047,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce-idolcardselect_001",
-        "img_tutorial_produce-idolcardselect_002"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "",
@@ -2508,11 +2061,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce-supportcardselect_001",
-        "img_tutorial_produce-supportcardselect_002"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Support cards are cards you can include in your production team. They trigger various effects to assist production. ",
@@ -2527,10 +2075,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce-memoryselect_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "For Memories, you can rent up to one Memory from friends or other producers. The number of rentals per day is limited."
@@ -2544,13 +2088,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce-schedule_001",
-        "img_tutorial_produce-schedule_002",
-        "img_tutorial_produce-schedule_003",
-        "img_tutorial_produce-schedule_004"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Lessons include Vocal, Dance, and Visual, which increase their respective parameters. Achieving lesson goals rewards you with skill cards or P drinks. ",
@@ -2567,10 +2104,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce-event_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Classes and outings have options that vary in effect. Check the costs and triggered effects to make situationally appropriate choices."
@@ -2584,10 +2117,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce-presentstep_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Activity grants skill cards, P-Points, and P drinks as rewards."
@@ -2601,11 +2130,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce-shopstep_001",
-        "img_tutorial_produce-shopstep_002"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "In consultations, you can exchange P-Points for skill cards or P drinks. The available items change each time. ",
@@ -2620,10 +2144,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce-examgimmick_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Effects that automatically activate when conditions are met during specified turns. Tap the icons displayed during lessons to check activation conditions."
@@ -2637,8 +2157,6 @@
       "subStep": 2,
       "navigationType": "TutorialNavigationType_Arrow",
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Tap here to check the details of support and troubles."
@@ -2652,8 +2170,6 @@
       "subStep": 3,
       "navigationType": "TutorialNavigationType_Focus",
       "navigationPositionType": "TutorialNavigationPositionType_Lower",
-      "assetIds": [],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Review effect details and activation conditions to plan your strategy carefully!"
@@ -2667,10 +2183,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce-examperfect_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "If you max out parameters after clearing lesson goals, it results in a Perfect Lesson. Perfect Lessons end the session, and your remaining turns restore stamina."
@@ -2684,11 +2196,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce-beforeliveevaluation_001",
-        "img_tutorial_produce-beforeliveevaluation_002"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "True End is a special ending viewable by achieving specific achievements and ranking first in the final exam. ",
@@ -2703,10 +2210,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce-difficultyselect_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "The [Pro] difficulty has been unlocked. [Pro] difficulty increases idol parameters more easily, but the challenge level is higher."
@@ -2720,10 +2223,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce-cardupgrade_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Skill cards can be customized using P-Points. Customized upgrades the effects of skill cards. Only one card can be costumized per consultation, and the required P-Points increase with each costumization."
@@ -2737,10 +2236,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce-carddelete_001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "Skill cards can be deleted using P-Points. Deleted cards are removed from your collection. Only one card can be deleted per consultation, and the required P-Points increase with each deletion."
@@ -2754,12 +2249,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce-difficultyselect_002",
-        "img_tutorial_produce-difficultyselect_003",
-        "img_tutorial_produce-difficultyselect_004"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         "The [Master] difficulty has been unlocked. [Master] difficulty is more challenging than [Pro] but increases idol parameters even further. Only idols with a Bond Lv of 10 or higher can attempt this. ",
@@ -2775,10 +2264,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_02-001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2792,12 +2277,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_02-002",
-        "img_tutorial_produce_02-003",
-        "img_tutorial_produce_02-004"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2811,10 +2290,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_02_audition-001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2828,12 +2303,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_02_audition-002",
-        "img_tutorial_produce_02_audition-003",
-        "img_tutorial_produce_02_audition-004"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2847,10 +2316,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_02-005"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2864,11 +2329,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_02_business-001",
-        "img_tutorial_produce_02_business-002"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2882,11 +2342,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_02_customize-001",
-        "img_tutorial_produce_02_customize-002"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2900,10 +2355,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_02_present-001"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2917,11 +2368,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_event_panel_event-panel-mission-001-01",
-        "img_tutorial_event_panel_event-panel-mission-001-02"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2935,13 +2381,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_event_high-score-rush-event_004-01",
-        "img_tutorial_event_high-score-rush-event_004-02",
-        "img_tutorial_event_high-score-rush-event_004-03",
-        "img_tutorial_event_high-score-rush-event_004-04"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2955,13 +2394,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_event_story_event-story-017-01",
-        "img_tutorial_event_story_event-story-017-02",
-        "img_tutorial_event_story_event-story-017-03",
-        "img_tutorial_event_story_event-story-017-04"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2975,14 +2407,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_event_main-story_event-main-story-001-01",
-        "img_tutorial_event_main-story_event-main-story-001-02",
-        "img_tutorial_event_main-story_event-main-story-001-03",
-        "img_tutorial_event_main-story_event-main-story-001-04",
-        "img_tutorial_event_main-story_event-main-story-009-05"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -2996,12 +2420,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_event_box-gasha-event-015_001",
-        "img_tutorial_event_box-gasha-event-015_002",
-        "img_tutorial_event_box-gasha-event-015_003"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -3015,11 +2433,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_event_circle-mission_circle-mission-001",
-        "img_tutorial_event_circle-mission_circle-mission-002"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -3033,15 +2446,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_event_circle-battle-event_circle-battle-event-001-01",
-        "img_tutorial_event_circle-battle-event_circle-battle-event-001-02",
-        "img_tutorial_event_circle-battle-event_circle-battle-event-001-03",
-        "img_tutorial_event_circle-battle-event_circle-battle-event-001-04",
-        "img_tutorial_event_circle-battle-event_circle-battle-event-001-05",
-        "img_tutorial_event_circle-battle-event_circle-battle-event-001-06"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -3055,11 +2459,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_02_difficultyselect-01",
-        "img_tutorial_produce_02_difficultyselect-02"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         " The [Master] difficulty level of [N.I.A] has been unlocked. At the same time, the [N.I.A Master Ranking] has also been unlocked. The difficulty level is higher than [Pro], but it is easier to increase parameters and collect fan votes. Only idols who have achieved an bond level of 20 can challenge this. ",
@@ -3074,12 +2473,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_produce_02_master-ranking-01",
-        "img_tutorial_produce_02_master-ranking-02",
-        "img_tutorial_produce_02_master-ranking-05"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -3093,14 +2486,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_event_tour_tour-002-01",
-        "img_tutorial_event_tour_tour-002-02",
-        "img_tutorial_event_tour_tour-002-03",
-        "img_tutorial_event_tour_tour-002-04",
-        "img_tutorial_event_tour_tour-002-05"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
@@ -3114,12 +2499,6 @@
       "subStep": 1,
       "navigationType": "TutorialNavigationType_Tips",
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
-      "assetIds": [
-        "img_tutorial_event_research_001",
-        "img_tutorial_event_research_002",
-        "img_tutorial_event_research_003"
-      ],
-      "advAssetId": "",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
         ""
