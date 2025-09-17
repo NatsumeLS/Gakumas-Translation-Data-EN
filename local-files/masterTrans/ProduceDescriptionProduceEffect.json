@@ -7,27 +7,27 @@
   "data": [
     {
       "type": "ProduceEffectType_VocalAddition",
-      "name": "Vocal Increase "
+      "name": "Vocal +"
     },
     {
       "type": "ProduceEffectType_DanceAddition",
-      "name": "Dance Increase "
+      "name": "Dance +"
     },
     {
       "type": "ProduceEffectType_VisualAddition",
-      "name": "Visual Increase "
+      "name": "Visual +"
     },
     {
       "type": "ProduceEffectType_VocalDown",
-      "name": "Vocal Decrease "
+      "name": "Vocal -"
     },
     {
       "type": "ProduceEffectType_DanceDown",
-      "name": "Dance Decrease "
+      "name": "Dance -"
     },
     {
       "type": "ProduceEffectType_VisualDown",
-      "name": "Visual Decrease "
+      "name": "Visual -"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateAddition",
@@ -63,7 +63,7 @@
     },
     {
       "type": "ProduceEffectType_StaminaReduceFix",
-      "name": "Stamina Decrease "
+      "name": "Stamina -"
     },
     {
       "type": "ProduceEffectType_StaminaReduceMultiple",
@@ -75,19 +75,19 @@
     },
     {
       "type": "ProduceEffectType_StaminaRecoverValueUp",
-      "name": "Stamina Recovery Amount Increase "
+      "name": "Stamina Recovery Amount +"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverValueDown",
-      "name": "Stamina Recovery Amount Decrease "
+      "name": "Stamina Recovery Amount -"
     },
     {
       "type": "ProduceEffectType_StaminaReduceValueUp",
-      "name": "Stamina Decrease Amount Increase "
+      "name": "Stamina Decrease Amount +"
     },
     {
       "type": "ProduceEffectType_StaminaReduceValueDown",
-      "name": "Stamina Decrease Amount Reduction "
+      "name": "Stamina Decrease Amount -"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverDisable",
@@ -95,23 +95,23 @@
     },
     {
       "type": "ProduceEffectType_MaxStaminaAddition",
-      "name": "Max Stamina Increase "
+      "name": "Max Stamina +"
     },
     {
       "type": "ProduceEffectType_MaxStaminaReduceFix",
-      "name": "Max Stamina Decrease "
+      "name": "Max Stamina -"
     },
     {
       "type": "ProduceEffectType_MaxStaminaReduceMultiple",
-      "name": "Max Stamina Percentage Decrease "
+      "name": "Max Stamina Percentage -"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceFix",
-      "name": "P-Points Decrease "
+      "name": "P-Points -"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceMultiple",
-      "name": "P-Points Percentage Decrease "
+      "name": "P-Points Percentage -"
     },
     {
       "type": "ProduceEffectType_ProducePointSpecify",
@@ -119,19 +119,19 @@
     },
     {
       "type": "ProduceEffectType_ProducePointAdditionValueUp",
-      "name": "P-Points Acquisition Amount Increase "
+      "name": "P-Points Gain Amount +"
     },
     {
       "type": "ProduceEffectType_ProducePointAdditionValueDown",
-      "name": "P-Points Acquisition Amount Decrease "
+      "name": "P-Points Gain Amount -"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceValueUp",
-      "name": "P-Points Decrease Amount Increase "
+      "name": "P-Points Decrease Amount +"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceValueDown",
-      "name": "P-Points Decrease Amount Decrease "
+      "name": "P-Points Decrease Amount -"
     },
     {
       "type": "ProduceEffectType_ProduceCardUpgrade",
@@ -159,27 +159,27 @@
     },
     {
       "type": "ProduceEffectType_ProducePointAddition",
-      "name": "P-Points Acquisition "
+      "name": "P-Points Gain"
     },
     {
       "type": "ProduceEffectType_ProducePointGetDisable",
-      "name": "P-Points Acquisition Inactive "
+      "name": "P-Points Gain Inactive "
     },
     {
       "type": "ProduceEffectType_ProduceItemGetDisable",
-      "name": "P-Item Acquisition Inactive "
+      "name": "P-Item Gain Inactive "
     },
     {
       "type": "ProduceEffectType_ProduceDrinkGetDisable",
-      "name": "P-Drink Acquisition Inactive "
+      "name": "P-Drink Gain Inactive "
     },
     {
       "type": "ProduceEffectType_ProduceReward",
-      "name": "Reward Acquisition "
+      "name": "Reward Gain "
     },
     {
       "type": "ProduceEffectType_ProduceRewardSet",
-      "name": "Reward Acquisition "
+      "name": "Reward Gain "
     },
     {
       "type": "ProduceEffectType_AuditionParameterBonusMultiple",
@@ -187,23 +187,23 @@
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilAddition",
-      "name": "SP Lesson Occurrence Rate Increase "
+      "name": "SP Lesson Occurrence Rate +"
     },
     {
       "type": "ProduceEffectType_LessonVocalSpChangeRatePermilAddition",
-      "name": "Vocal SP Lesson Occurrence Rate Increase "
+      "name": "Vocal SP Lesson Occurrence Rate +"
     },
     {
       "type": "ProduceEffectType_LessonDanceSpChangeRatePermilAddition",
-      "name": "Dance SP Lesson Occurrence Rate Increase "
+      "name": "Dance SP Lesson Occurrence Rate +"
     },
     {
       "type": "ProduceEffectType_LessonVisualSpChangeRatePermilAddition",
-      "name": "Visual SP Lesson Occurrence Rate Increase "
+      "name": "Visual SP Lesson Occurrence Rate +"
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilDown",
-      "name": "SP Lesson Occurrence Rate Decrease "
+      "name": "SP Lesson Occurrence Rate -"
     },
     {
       "type": "ProduceEffectType_ExamStatusEnchant",
@@ -211,11 +211,11 @@
     },
     {
       "type": "ProduceEffectType_LessonPresentProduceCardRewardCountUp",
-      "name": "Lesson Reward Skill Card Options Increase "
+      "name": "Lesson Reward Skill Card Options +"
     },
     {
       "type": "ProduceEffectType_LessonPresentProduceCardRewardCountDown",
-      "name": "Lesson Reward Skill Card Options Decrease "
+      "name": "Lesson Reward Skill Card Options -"
     },
     {
       "type": "ProduceEffectType_ShopPriceDiscountMultiple",
@@ -247,99 +247,99 @@
     },
     {
       "type": "ProduceEffectType_ProduceResultRewardMoneyUp",
-      "name": "Producer Completion Money Acquisition Increase "
+      "name": "Produce Completion Money Gain +"
     },
     {
       "type": "ProduceEffectType_ProduceResultRewardSupportCardEnhancePointUp",
-      "name": "Producer Completion Support Pt Increase "
+      "name": "Produce Completion Support Pt +"
     },
     {
       "type": "ProduceEffectType_SupportCardEventStaminaRecoverUp",
-      "name": "Support Event Stamina Recovery Increase "
+      "name": "Support Event Stamina Recovery +"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProducePointAdditionValueUp",
-      "name": "Support Event P-Points Acquisition Increase "
+      "name": "Support Event P-Points Gain +"
     },
     {
       "type": "ProduceEffectType_SupportCardEventParameterAdditionValueUp",
-      "name": "Support Event Parameter Increase Increase "
+      "name": "Support Event Param Increase +"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProbabilityUp",
-      "name": "Support Event Occurrence Rate Increase "
+      "name": "Support Event Occurrence Rate +"
     },
     {
       "type": "ProduceEffectType_LessonPresentProducePointUp",
-      "name": "Lesson Reward P-Points Acquisition Increase "
+      "name": "Lesson Reward P-Points Gain +"
     },
     {
       "type": "ProduceEffectType_SupportCardProduceCardUpgradeProbabilityUp",
-      "name": "Lesson Support Occurrence Rate Increase "
+      "name": "Lesson Support Occurrence Rate +"
     },
     {
       "type": "ProduceEffectType_ProduceCardSelectRerollCountUp",
-      "name": "Re-roll Count Increase "
+      "name": "Re-roll Count +"
     },
     {
       "type": "ProduceEffectType_ProducePointAdditionDisableTrigger",
-      "name": "Initial P-Points Increase "
+      "name": "Initial P-Points +"
     },
     {
       "type": "ProduceEffectType_ExamTurnUp",
-      "name": "Turn Count Increase "
+      "name": "Turn Count +"
     },
     {
       "type": "ProduceEffectType_ExamTurnDown",
-      "name": "Turn Count Decrease "
+      "name": "Turn Count -"
     },
     {
       "type": "ProduceEffectType_AuditionNpcEnhance",
-      "name": "Rival Score Increase "
+      "name": "Rival Score +"
     },
     {
       "type": "ProduceEffectType_ShopPriceUpMultiple",
-      "name": "Consultation All Items Increase "
+      "name": "Consultation All Items +"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardPriceUpMultiple",
-      "name": "Consultation Skill Card Increase "
+      "name": "Consultation Skill Card +"
     },
     {
       "type": "ProduceEffectType_ShopProduceDrinkPriceUpMultiple",
-      "name": "Consultation P-Drink Increase "
+      "name": "Consultation P-Drink +"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardUpgradePriceUpMultiple",
-      "name": "Consultation Skill Card Upgrade Increase "
+      "name": "Consultation Skill Card Upgrade +"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceUpMultiple",
-      "name": "Consultation Skill Card Deletion Increase "
+      "name": "Consultation Skill Card Deletion +"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaUp",
-      "name": "Class Consumption Stamina Increase "
+      "name": "Class Consumption Stamina +"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaDown",
-      "name": "Class Consumption Stamina Decrease "
+      "name": "Class Consumption Stamina -"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointUp",
-      "name": "Outing P-Points Consumption Increase "
+      "name": "Outing P-Points Consumption +"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointDown",
-      "name": "Outing P-Points Consumption Decrease "
+      "name": "Outing P-Points Consumption -"
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaUp",
-      "name": "Pre-exam Stamina Recovery Increase "
+      "name": "Pre-exam Stamina Recovery +"
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaDown",
-      "name": "Pre-exam Stamina Recovery Decrease "
+      "name": "Pre-exam Stamina Recovery -"
     },
     {
       "type": "ProduceEffectType_ProduceCardExcludeCountUp",
