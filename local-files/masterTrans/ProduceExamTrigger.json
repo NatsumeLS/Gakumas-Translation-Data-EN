@@ -623,7 +623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_038",
-          "text": "Perfect Appeal "
+          "text": "Just Appeal "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -668,7 +668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_038",
-          "text": "Perfect Appeal "
+          "text": "Just Appeal "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1133,6 +1133,56 @@
       ]
     },
     {
+      "id": "e_trigger-exam_card_play_after-p_card_search-plan2-target-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProducePlanType2",
+          "text": "Logic"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "After using the skill card, "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_card_play_after-p_card_search-plan3-target-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProducePlanType3",
+          "text": "Anomaly"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "After using the skill card, "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_card_play_after-p_card_search-playing-1-p_card-01-act-1_001-0_1",
       "produceDescriptions": [
         {
@@ -1168,7 +1218,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_002",
-          "text": "Light Steps "
+          "text": "Light Footsteps "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1218,7 +1268,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "Momentum "
+          "text": "Go with the flow "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1268,7 +1318,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "Reminiscing Smile "
+          "text": "Reminiscing Laughter "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1293,7 +1343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-3_002",
-          "text": "I'm the Star "
+          "text": "I am a star "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1508,7 +1558,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_002",
-          "text": "Light Steps "
+          "text": "Light Footsteps "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1558,7 +1608,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "Momentum "
+          "text": "Go with the flow "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1608,7 +1658,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "Reminiscing Smile "
+          "text": "Reminiscing Laughter "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1633,7 +1683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-3_002",
-          "text": "I'm the Star "
+          "text": "I am a star "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3573,7 +3623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-2_052",
-          "text": "Basking in the sun"
+          "text": "Sunbathing "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4253,7 +4303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_031",
-          "text": "Hip Hip Hooray! "
+          "text": "Cheer Up! "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5708,6 +5758,41 @@
       ]
     },
     {
+      "id": "e_trigger-exam_end_turn-review_up-15",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "At the end of the turn: "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamReview_Produce",
+          "text": "Good Impression "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "is 15 or more: "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_end_turn-review_up-20",
       "produceDescriptions": [
         {
@@ -6544,6 +6629,31 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "Within a turn, every 2 uses of a skill card: "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_play_turn_count_interval-2-review_up-6-p_card_search-target",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamReview_Produce",
+          "text": "Good Impression "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "If 6 or more, every 2 skill cards used in a turn, "
         }
       ]
     },

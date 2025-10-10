@@ -198,7 +198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-act-0_001",
-          "text": "Basic Appeal "
+          "text": "Appeal Basics "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -223,7 +223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-men-0_003",
-          "text": "Basics of Expression "
+          "text": "Expression Basics "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -673,7 +673,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-acc-0_002",
-          "text": "Sleepiness "
+          "text": "Trouble "
         }
       ]
     },
@@ -998,6 +998,56 @@
       ]
     },
     {
+      "id": "p_card_search-plan2-target",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProducePlanType2",
+          "text": "Logic"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card "
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-plan3-target",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProducePlanType3",
+          "text": "Anomaly"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill Card "
+        }
+      ]
+    },
+    {
       "id": "p_card_search-playing",
       "produceDescriptions": [
         {
@@ -1053,7 +1103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_002",
-          "text": "Light Steps "
+          "text": "Light Footsteps "
         }
       ]
     },
@@ -1083,7 +1133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "Momentum "
+          "text": "Go with the flow "
         }
       ]
     },
@@ -1128,7 +1178,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_031",
-          "text": "Hip Hip Hooray! "
+          "text": "Cheer Up! "
         }
       ]
     },
@@ -1143,7 +1193,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "Reminiscing Smile "
+          "text": "Reminiscing Laughter "
         }
       ]
     },
@@ -1173,7 +1223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_038",
-          "text": "Perfect Appeal "
+          "text": "Just Appeal "
         }
       ]
     },
@@ -1543,7 +1593,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-2_052",
-          "text": "Basking in the sun "
+          "text": "Sunbathing "
         }
       ]
     },
@@ -1848,7 +1898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_002",
-          "text": "Light Steps "
+          "text": "Light Footsteps "
         }
       ]
     },
@@ -1878,7 +1928,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-act-1_023",
-          "text": "Momentum "
+          "text": "Go with the flow "
         }
       ]
     },
@@ -1923,7 +1973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-1_032",
-          "text": "Reminiscing Smile "
+          "text": "Reminiscing Laughter "
         }
       ]
     },
@@ -1953,7 +2003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-1_038",
-          "text": "Perfect Appeal "
+          "text": "Just Appeal "
         }
       ]
     },
