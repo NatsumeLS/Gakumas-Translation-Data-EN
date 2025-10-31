@@ -1,1642 +1,1642 @@
 {
-    "rules": {
-        "primaryKeys": [
-            "helpCategoryId",
-            "id",
-            "order"
-        ]
-    },
-    "data": [
-        {
-            "helpCategoryId": "help-achievement",
-            "id": "achievement-achievement",
-            "order": 1,
-            "name": "Achievements",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-achievement_achievement-achievement_1_Achievements.html"
-        },
-        {
-            "helpCategoryId": "help-achievement",
-            "id": "achievement-idol",
-            "order": 2,
-            "name": "Idol Achievements",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-achievement_achievement-idol_2_Idol_Achievements.html"
-        },
-        {
-            "helpCategoryId": "help-achievement",
-            "id": "achievement-others",
-            "order": 4,
-            "name": "Other Achievements",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-achievement_achievement-others_4_Other_Achievements.html"
-        },
-        {
-            "helpCategoryId": "help-achievement",
-            "id": "achievement-produce-achievement",
-            "order": 3,
-            "name": "Produce Achievements",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-achievement_achievement-produce-achievement_3_Produce_Achievements.html"
-        },
-        {
-            "helpCategoryId": "help-box-gasha-event",
-            "id": "box-gasha-event",
-            "order": 1,
-            "name": "Live Tour Event",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-box-gasha-event_box-gasha-event_1_Live_Tour_Event.html"
-        },
-        {
-            "helpCategoryId": "help-box-gasha-event",
-            "id": "box-gasha-event-bonus",
-            "order": 3,
-            "name": "Event Bonuses",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-box-gasha-event_box-gasha-event-bonus_3_Event_Bonuses.html"
-        },
-        {
-            "helpCategoryId": "help-box-gasha-event",
-            "id": "box-gasha-event-finish",
-            "order": 8,
-            "name": "After the Event",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-box-gasha-event_box-gasha-event-finish_8_After_the_Event.html"
-        },
-        {
-            "helpCategoryId": "help-box-gasha-event",
-            "id": "box-gasha-event-gasha",
-            "order": 4,
-            "name": "Event Gacha",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-box-gasha-event_box-gasha-event-gasha_4_Event_Gacha.html"
-        },
-        {
-            "helpCategoryId": "help-box-gasha-event",
-            "id": "box-gasha-event-gasha-coin",
-            "order": 7,
-            "name": "Event Items",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-box-gasha-event_box-gasha-event-gasha-coin_7_Event_Items.html"
-        },
-        {
-            "helpCategoryId": "help-box-gasha-event",
-            "id": "box-gasha-event-idol",
-            "order": 2,
-            "name": "Event Rewards Produce Idol",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-box-gasha-event_box-gasha-event-idol_2_Event_Rewards_Produce_Idol.html"
-        },
-        {
-            "helpCategoryId": "help-box-gasha-event",
-            "id": "box-gasha-event-mission",
-            "order": 6,
-            "name": "Event Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-box-gasha-event_box-gasha-event-mission_6_Event_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-box-gasha-event",
-            "id": "box-gasha-event-story",
-            "order": 5,
-            "name": "Event Commu",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-box-gasha-event_box-gasha-event-story_5_Event_Commu.html"
-        },
-        {
-            "helpCategoryId": "help-circle-battle-event",
-            "id": "circle-battle-event-exchange",
-            "order": 5,
-            "name": "Regional Tour Medals",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-circle-battle-event_circle-battle-event-exchange_5_Regional_Tour_Medals.html"
-        },
-        {
-            "helpCategoryId": "help-circle-battle-event",
-            "id": "circle-battle-event-finish",
-            "order": 9,
-            "name": "After the Event",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-circle-battle-event_circle-battle-event-finish_9_After_the_Event.html"
-        },
-        {
-            "helpCategoryId": "help-circle-battle-event",
-            "id": "circle-battle-event-memory",
-            "order": 3,
-            "name": "Formation",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-circle-battle-event_circle-battle-event-memory_3_Formation.html"
-        },
-        {
-            "helpCategoryId": "help-circle-battle-event",
-            "id": "circle-battle-event-mission",
-            "order": 7,
-            "name": "Event Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-circle-battle-event_circle-battle-event-mission_7_Event_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-circle-battle-event",
-            "id": "circle-battle-event-ranking",
-            "order": 8,
-            "name": "Circle Rankings",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-circle-battle-event_circle-battle-event-ranking_8_Circle_Rankings.html"
-        },
-        {
-            "helpCategoryId": "help-circle-battle-event",
-            "id": "circle-battle-event-reward",
-            "order": 4,
-            "name": "Event Rewards",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-circle-battle-event_circle-battle-event-reward_4_Event_Rewards.html"
-        },
-        {
-            "helpCategoryId": "help-circle-battle-event",
-            "id": "circle-battle-event-rule",
-            "order": 1,
-            "name": "Regional Tour Events",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-circle-battle-event_circle-battle-event-rule_1_Regional_Tour_Events.html"
-        },
-        {
-            "helpCategoryId": "help-circle-battle-event",
-            "id": "circle-battle-event-stage",
-            "order": 2,
-            "name": "Stages",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-circle-battle-event_circle-battle-event-stage_2_Stages.html"
-        },
-        {
-            "helpCategoryId": "help-circle-battle-event",
-            "id": "circle-battle-event-story",
-            "order": 6,
-            "name": "Event Commu",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-circle-battle-event_circle-battle-event-story_6_Event_Commu.html"
-        },
-        {
-            "helpCategoryId": "help-contest",
-            "id": "contest-contest",
-            "order": 1,
-            "name": "Contests",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-contest_contest-contest_1_Contests.html"
-        },
-        {
-            "helpCategoryId": "help-contest",
-            "id": "contest-contest-ranking",
-            "order": 10,
-            "name": "Contest Rankings",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-contest_contest-contest-ranking_10_Contest_Rankings.html"
-        },
-        {
-            "helpCategoryId": "help-contest",
-            "id": "contest-grade",
-            "order": 8,
-            "name": "Grades",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-contest_contest-grade_8_Grades.html"
-        },
-        {
-            "helpCategoryId": "help-contest",
-            "id": "contest-preparation-period",
-            "order": 7,
-            "name": "Preparation Period",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-contest_contest-preparation-period_7_Preparation_Period.html"
-        },
-        {
-            "helpCategoryId": "help-contest",
-            "id": "contest-rate-pt",
-            "order": 9,
-            "name": "Rate Points",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-contest_contest-rate-pt_9_Rate_Points.html"
-        },
-        {
-            "helpCategoryId": "help-contest",
-            "id": "contest-rule",
-            "order": 2,
-            "name": "Contest Rules",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-contest_contest-rule_2_Contest_Rules.html"
-        },
-        {
-            "helpCategoryId": "help-contest",
-            "id": "contest-season",
-            "order": 6,
-            "name": "Seasons",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-contest_contest-season_6_Seasons.html"
-        },
-        {
-            "helpCategoryId": "help-contest",
-            "id": "contest-squad",
-            "order": 3,
-            "name": "Formation",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-contest_contest-squad_3_Formation.html"
-        },
-        {
-            "helpCategoryId": "help-contest",
-            "id": "contest-stage",
-            "order": 4,
-            "name": "Stages",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-contest_contest-stage_4_Stages.html"
-        },
-        {
-            "helpCategoryId": "help-contest",
-            "id": "contest-total",
-            "order": 5,
-            "name": "Total Strength",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-contest_contest-total_5_Total_Strength.html"
-        },
-        {
-            "helpCategoryId": "help-dearness-doost-campaign",
-            "id": "help-dearness-doost-campaign-info",
-            "order": 57,
-            "name": "Bond Boost Campaign",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-dearness-doost-campaign_help-dearness-doost-campaign-info_57_Bond_Boost_Campaign.html"
-        },
-        {
-            "helpCategoryId": "help-dearness-map",
-            "id": "help-dearness-map-info",
-            "order": 56,
-            "name": "Bond Map",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-dearness-map_help-dearness-map-info_56_Bond_Map.html"
-        },
-        {
-            "helpCategoryId": "help-dearness-top",
-            "id": "help-dearness-top-info",
-            "order": 55,
-            "name": "BondTOP",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-dearness-top_help-dearness-top-info_55_BondTOP.html"
-        },
-        {
-            "helpCategoryId": "help-event_mission",
-            "id": "event_mission-event_mission",
-            "order": 1,
-            "name": "Event Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-event_mission_event_mission-event_mission_1_Event_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-event-mission",
-            "id": "event-mission-rookie",
-            "order": 1,
-            "name": "Daily Unlock Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-event-mission_event-mission-rookie_1_Daily_Unlock_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-gasha",
-            "id": "gasha-Gasha",
-            "order": 1,
-            "name": "Gacha",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-gasha_gasha-Gasha_1_Gacha.html"
-        },
-        {
-            "helpCategoryId": "help-gasha",
-            "id": "gasha-gasha-pt",
-            "order": 2,
-            "name": "Exchange Points and Flowers",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-gasha_gasha-gasha-pt_2_Exchange_Points_and_Flowers.html"
-        },
-        {
-            "helpCategoryId": "help-guild",
-            "id": "guild-create",
-            "order": 2,
-            "name": "Circle Creation",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-guild_guild-create_2_Circle_Creation.html"
-        },
-        {
-            "helpCategoryId": "help-guild",
-            "id": "guild-Guild",
-            "order": 1,
-            "name": "Circles",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-guild_guild-Guild_1_Circles.html"
-        },
-        {
-            "helpCategoryId": "help-guild",
-            "id": "guild-join",
-            "order": 3,
-            "name": "Joining a Circle",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-guild_guild-join_3_Joining_a_Circle.html"
-        },
-        {
-            "helpCategoryId": "help-guild",
-            "id": "guild-leave",
-            "order": 6,
-            "name": "Leaving/Expelling from a Circle",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-guild_guild-leave_6_LeavingExpelling_from_a_Circle.html"
-        },
-        {
-            "helpCategoryId": "help-guild",
-            "id": "guild-message-board",
-            "order": 4,
-            "name": "Message Board",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-guild_guild-message-board_4_Message_Board.html"
-        },
-        {
-            "helpCategoryId": "help-guild",
-            "id": "guild-request",
-            "order": 5,
-            "name": "Requests",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-guild_guild-request_5_Requests.html"
-        },
-        {
-            "helpCategoryId": "help-highscore",
-            "id": "highscore-highscore",
-            "order": 1,
-            "name": "Idol Enhancement Month",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-highscore_highscore-highscore_1_Idol_Enhancement_Month.html"
-        },
-        {
-            "helpCategoryId": "help-highscore",
-            "id": "highscore-ranking",
-            "order": 2,
-            "name": "High Score Ranking Types",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-highscore_highscore-ranking_2_High_Score_Ranking_Types.html"
-        },
-        {
-            "helpCategoryId": "help-highscore",
-            "id": "highscore-score_reward",
-            "order": 3,
-            "name": "High Score Achievement Rewards",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-highscore_highscore-score_reward_3_High_Score_Achievement_Rewards.html"
-        },
-        {
-            "helpCategoryId": "help-highscorerush",
-            "id": "highscorerush-event-finish",
-            "order": 8,
-            "name": "After the Event",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-highscorerush_highscorerush-event-finish_8_After_the_Event.html"
-        },
-        {
-            "helpCategoryId": "help-highscorerush",
-            "id": "highscorerush-event-gasha",
-            "order": 6,
-            "name": "Event Gacha",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-highscorerush_highscorerush-event-gasha_6_Event_Gacha.html"
-        },
-        {
-            "helpCategoryId": "help-highscorerush",
-            "id": "highscorerush-event-item",
-            "order": 3,
-            "name": "Starlight",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-highscorerush_highscorerush-event-item_3_Starlight.html"
-        },
-        {
-            "helpCategoryId": "help-highscorerush",
-            "id": "highscorerush-event-mission",
-            "order": 7,
-            "name": "Event Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-highscorerush_highscorerush-event-mission_7_Event_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-highscorerush",
-            "id": "highscorerush-eventmode-produce",
-            "order": 2,
-            "name": "Event Mode Produce",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-highscorerush_highscorerush-eventmode-produce_2_Event_Mode_Produce.html"
-        },
-        {
-            "helpCategoryId": "help-highscorerush",
-            "id": "highscorerush-highscorerush",
-            "order": 1,
-            "name": "Kunio Juo's Idol Enhancement Month",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-highscorerush_highscorerush-highscorerush_1_Kunio_Juos_Idol_Enhancement_Month.html"
-        },
-        {
-            "helpCategoryId": "help-highscorerush",
-            "id": "highscorerush-ranking",
-            "order": 4,
-            "name": "High Score Ranking Types",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-highscorerush_highscorerush-ranking_4_High_Score_Ranking_Types.html"
-        },
-        {
-            "helpCategoryId": "help-highscorerush",
-            "id": "highscorerush-score-reward",
-            "order": 5,
-            "name": "High Score Achievement Rewards",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-highscorerush_highscorerush-score-reward_5_High_Score_Achievement_Rewards.html"
-        },
-        {
-            "helpCategoryId": "help-home",
-            "id": "home-ap",
-            "order": 3,
-            "name": "AP",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-home_home-ap_3_AP.html"
-        },
-        {
-            "helpCategoryId": "help-home",
-            "id": "home-day-reset",
-            "order": 9,
-            "name": "Date Reset",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-home_home-day-reset_9_Date_Reset.html"
-        },
-        {
-            "helpCategoryId": "help-home",
-            "id": "home-home",
-            "order": 1,
-            "name": "Home",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-home_home-home_1_Home.html"
-        },
-        {
-            "helpCategoryId": "help-home",
-            "id": "home-home-character-change",
-            "order": 7,
-            "name": "Home Idol Settings",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-home_home-home-character-change_7_Home_Idol_Settings.html"
-        },
-        {
-            "helpCategoryId": "help-home",
-            "id": "home-jewel",
-            "order": 4,
-            "name": "Jewels",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-home_home-jewel_4_Jewels.html"
-        },
-        {
-            "helpCategoryId": "help-home",
-            "id": "home-main-task",
-            "order": 8,
-            "name": "Challenges",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-home_home-main-task_8_Challenges.html"
-        },
-        {
-            "helpCategoryId": "help-home",
-            "id": "home-money-received",
-            "order": 5,
-            "name": "Activity Funds",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-home_home-money-received_5_Activity_Funds.html"
-        },
-        {
-            "helpCategoryId": "help-home",
-            "id": "home-p-lv",
-            "order": 2,
-            "name": "Producer Level",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-home_home-p-lv_2_Producer_Level.html"
-        },
-        {
-            "helpCategoryId": "help-home",
-            "id": "home-work",
-            "order": 6,
-            "name": "Jobs",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-home_home-work_6_Jobs.html"
-        },
-        {
-            "helpCategoryId": "help-idol",
-            "id": "idol-another",
-            "order": 2,
-            "name": "Another Idol",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-idol_idol-another_2_Another_Idol.html"
-        },
-        {
-            "helpCategoryId": "help-idol",
-            "id": "idol-dearness",
-            "order": 53,
-            "name": "Bond",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-idol_idol-dearness_53_Bond.html"
-        },
-        {
-            "helpCategoryId": "help-idol",
-            "id": "idol-dearness-pt",
-            "order": 54,
-            "name": "BondPT",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-idol_idol-dearness-pt_54_BondPT.html"
-        },
-        {
-            "helpCategoryId": "help-idol",
-            "id": "idol-idol-card",
-            "order": 1,
-            "name": "Produce Idol",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-idol_idol-idol-card_1_Produce_Idol.html"
-        },
-        {
-            "helpCategoryId": "help-idol",
-            "id": "idol-idol-card-level-limit",
-            "order": 50,
-            "name": "Training",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-idol_idol-idol-card-level-limit_50_Training.html"
-        },
-        {
-            "helpCategoryId": "help-idol",
-            "id": "idol-idol-card-potential-rank",
-            "order": 51,
-            "name": "Talent Bloom",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-idol_idol-idol-card-potential-rank_51_Talent_Bloom.html"
-        },
-        {
-            "helpCategoryId": "help-idol",
-            "id": "idol-idol-card-release",
-            "order": 52,
-            "name": "Unlocking Produce Idol",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-idol_idol-idol-card-release_52_Unlocking_Produce_Idol.html"
-        },
-        {
-            "helpCategoryId": "help-idol",
-            "id": "idol-parameter",
-            "order": 4,
-            "name": "Parameters",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-idol_idol-parameter_4_Parameters.html"
-        },
-        {
-            "helpCategoryId": "help-idol",
-            "id": "idol-plan1",
-            "order": 20,
-            "name": "Plan: Sense",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-idol_idol-plan1_20_Plan_Sense.html"
-        },
-        {
-            "helpCategoryId": "help-idol",
-            "id": "idol-plan2",
-            "order": 30,
-            "name": "Plan: Logic",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-idol_idol-plan2_30_Plan_Logic.html"
-        },
-        {
-            "helpCategoryId": "help-idol",
-            "id": "idol-plan3",
-            "order": 40,
-            "name": "Plan: Anomaly",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-idol_idol-plan3_40_Plan_Anomaly.html"
-        },
-        {
-            "helpCategoryId": "help-idol",
-            "id": "idol-true-end-bonus",
-            "order": 58,
-            "name": "True End Bonus",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-idol_idol-true-end-bonus_58_True_End_Bonus.html"
-        },
-        {
-            "helpCategoryId": "help-idol",
-            "id": "idol-unit",
-            "order": 3,
-            "name": "Unit Idol",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-idol_idol-unit_3_Unit_Idol.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-audition",
-            "order": 15,
-            "name": "Exams",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-audition_15_Exams.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-audition-flow",
-            "order": 16,
-            "name": "Exam Flow",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-audition-flow_16_Exam_Flow.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-audition-view",
-            "order": 17,
-            "name": "Exam Display",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-audition-view_17_Exam_Display.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-block",
-            "order": 4,
-            "name": "Energy",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-block_4_Energy.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-effect",
-            "order": 12,
-            "name": "Triggered Effects",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-effect_12_Triggered_Effects.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-gimmick",
-            "order": 13,
-            "name": "Support and Troubles",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-gimmick_13_Support_and_Troubles.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-health-lesson",
-            "order": 3,
-            "name": "Stamina (Lessons)",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-health-lesson_3_Stamina_Lessons.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-lesson",
-            "order": 1,
-            "name": "Lessons",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-lesson_1_Lessons.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-lesson-view",
-            "order": 2,
-            "name": "Lesson Display",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-lesson-view_2_Lesson_Display.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-p-drink",
-            "order": 9,
-            "name": "P-Items",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-p-drink_9_P-Items.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-p-item",
-            "order": 8,
-            "name": "P-Drinks",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-p-item_8_P-Drinks.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-perfect-lesson",
-            "order": 14,
-            "name": "Perfect Lessons",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-perfect-lesson_14_Perfect_Lessons.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-produce-card",
-            "order": 5,
-            "name": "Skill Cards",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-produce-card_5_Skill_Cards.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-produce-card-powerup",
-            "order": 6,
-            "name": "Skill Card Upgrade",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-produce-card-powerup_6_Skill_Card_Upgrade.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-produce-card-use",
-            "order": 7,
-            "name": "Skill Card Usage Procedure",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-produce-card-use_7_Skill_Card_Usage_Procedure.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-skip",
-            "order": 10,
-            "name": "SKIP",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-skip_10_SKIP.html"
-        },
-        {
-            "helpCategoryId": "help-lesson",
-            "id": "lesson-support",
-            "order": 11,
-            "name": "Skill Card Support",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-lesson_lesson-support_11_Skill_Card_Support.html"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "tour-exchange",
-            "order": 7,
-            "name": "Event Exchange Items",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-livetour-event_tour-exchange_7_Event_Exchange_Items.html"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "tour-finish",
-            "order": 9,
-            "name": "After the Event",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-livetour-event_tour-finish_9_After_the_Event.html"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "tour-idol",
-            "order": 4,
-            "name": "Event Rewards Produce Idol",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-livetour-event_tour-idol_4_Event_Rewards_Produce_Idol.html"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "tour-play-ticket",
-            "order": 3,
-            "name": "Live Challenge Ticket",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-livetour-event_tour-play-ticket_3_Live_Challenge_Ticket.html"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "tour-reward",
-            "order": 6,
-            "name": "Event Rewards",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-livetour-event_tour-reward_6_Event_Rewards.html"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "tour-stage",
-            "order": 2,
-            "name": "Event Stage",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-livetour-event_tour-stage_2_Event_Stage.html"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "tour-story",
-            "order": 5,
-            "name": "Event Commu",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-livetour-event_tour-story_5_Event_Commu.html"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "tour-tour",
-            "order": 1,
-            "name": "Live Tour Event",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-livetour-event_tour-tour_1_Live_Tour_Event.html"
-        },
-        {
-            "helpCategoryId": "help-main-story-event",
-            "id": "help-main-story-event-bonus",
-            "order": 4,
-            "name": "Event Bonuses",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-main-story-event_help-main-story-event-bonus_4_Event_Bonuses.html"
-        },
-        {
-            "helpCategoryId": "help-main-story-event",
-            "id": "help-main-story-event-coin",
-            "order": 6,
-            "name": "Event Exchange Items",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-main-story-event_help-main-story-event-coin_6_Event_Exchange_Items.html"
-        },
-        {
-            "helpCategoryId": "help-main-story-event",
-            "id": "help-main-story-event-finish",
-            "order": 7,
-            "name": "After the Event",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-main-story-event_help-main-story-event-finish_7_After_the_Event.html"
-        },
-        {
-            "helpCategoryId": "help-main-story-event",
-            "id": "help-main-story-event-main-story",
-            "order": 3,
-            "name": "Unlocking Hatsuboshi Commu",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-main-story-event_help-main-story-event-main-story_3_Unlocking_Hatsuboshi_Commu.html"
-        },
-        {
-            "helpCategoryId": "help-main-story-event",
-            "id": "help-main-story-event-mission",
-            "order": 2,
-            "name": "Event Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-main-story-event_help-main-story-event-mission_2_Event_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-main-story-event",
-            "id": "help-main-story-event-point",
-            "order": 5,
-            "name": "Cumulative Event Points Rewards",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-main-story-event_help-main-story-event-point_5_Cumulative_Event_Points_Rewards.html"
-        },
-        {
-            "helpCategoryId": "help-main-story-event",
-            "id": "help-main-story-event-story",
-            "order": 1,
-            "name": "Hatsuboshi Commu Events",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-main-story-event_help-main-story-event-story_1_Hatsuboshi_Commu_Events.html"
-        },
-        {
-            "helpCategoryId": "help-memory",
-            "id": "memory-memory",
-            "order": 1,
-            "name": "Memories",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-memory_memory-memory_1_Memories.html"
-        },
-        {
-            "helpCategoryId": "help-memory",
-            "id": "memory-memory-contest",
-            "order": 3,
-            "name": "Effects During Contest Formation",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-memory_memory-memory-contest_3_Effects_During_Contest_Formation.html"
-        },
-        {
-            "helpCategoryId": "help-memory",
-            "id": "memory-memory-convert",
-            "order": 5,
-            "name": "Memory Conversion",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-memory_memory-memory-convert_5_Memory_Conversion.html"
-        },
-        {
-            "helpCategoryId": "help-memory",
-            "id": "memory-memory-deck-edit",
-            "order": 4,
-            "name": "Memory Formation Screen",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-memory_memory-memory-deck-edit_4_Memory_Formation_Screen.html"
-        },
-        {
-            "helpCategoryId": "help-memory",
-            "id": "memory-memory-inherit",
-            "order": 6,
-            "name": "Memory Synthesis",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-memory_memory-memory-inherit_6_Memory_Synthesis.html"
-        },
-        {
-            "helpCategoryId": "help-memory",
-            "id": "memory-memory-produce",
-            "order": 2,
-            "name": "Effects During Produce Formation",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-memory_memory-memory-produce_2_Effects_During_Produce_Formation.html"
-        },
-        {
-            "helpCategoryId": "help-memory",
-            "id": "memory-memory-review",
-            "order": 7,
-            "name": "Produce Review",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-memory_memory-memory-review_7_Produce_Review.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-album-to-live",
-            "order": 9,
-            "name": "Photo Album",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-album-to-live_9_Photo_Album.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-costume",
-            "order": 7,
-            "name": "Outfits",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-costume_7_Outfits.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-data-linkage",
-            "order": 17,
-            "name": "Data Linking",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-data-linkage_17_Data_Linking.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-friend",
-            "order": 2,
-            "name": "Friends",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-friend_2_Friends.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-friend-invite",
-            "order": 3,
-            "name": "Friend Invitation Feature",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-friend-invite_3_Friend_Invitation_Feature.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-help",
-            "order": 13,
-            "name": "Help",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-help_13_Help.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-item",
-            "order": 5,
-            "name": "Inventory",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-item_5_Inventory.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-live-shooting",
-            "order": 8,
-            "name": "Photography",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-live-shooting_8_Photography.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-media",
-            "order": 12,
-            "name": "Media",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-media_12_Media.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-meishi",
-            "order": 4,
-            "name": "Business Cards",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-meishi_4_Business_Cards.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-music",
-            "order": 10,
-            "name": "Music",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-music_10_Music.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-predownload",
-            "order": 16,
-            "name": "Batch Download",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-predownload_16_Batch_Download.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-produce-collection",
-            "order": 6,
-            "name": "P-Encyclopedia",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-produce-collection_6_P-Encyclopedia.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-profile",
-            "order": 1,
-            "name": "Profile",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-profile_1_Profile.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-roster",
-            "order": 11,
-            "name": "Roster",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-roster_11_Roster.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-setting",
-            "order": 14,
-            "name": "Settings",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-setting_14_Settings.html"
-        },
-        {
-            "helpCategoryId": "help-menu",
-            "id": "menu-title",
-            "order": 15,
-            "name": "Title",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-menu_menu-title_15_Title.html"
-        },
-        {
-            "helpCategoryId": "help-mission",
-            "id": "mission-daily",
-            "order": 2,
-            "name": "Daily Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-mission_mission-daily_2_Daily_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-mission",
-            "id": "mission-event",
-            "order": 7,
-            "name": "Event Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-mission_mission-event_7_Event_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-mission",
-            "id": "mission-idol",
-            "order": 6,
-            "name": "Idol Mission",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-mission_mission-idol_6_Idol_Mission.html"
-        },
-        {
-            "helpCategoryId": "help-mission",
-            "id": "mission-mission",
-            "order": 1,
-            "name": "Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-mission_mission-mission_1_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-mission",
-            "id": "mission-normal",
-            "order": 4,
-            "name": "Normal Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-mission_mission-normal_4_Normal_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-mission",
-            "id": "mission-pass",
-            "order": 8,
-            "name": "Mission Pass",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-mission_mission-pass_8_Mission_Pass.html"
-        },
-        {
-            "helpCategoryId": "help-mission",
-            "id": "mission-special",
-            "order": 5,
-            "name": "Limited-Time Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-mission_mission-special_5_Limited-Time_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-mission",
-            "id": "mission-weekly",
-            "order": 3,
-            "name": "Weekly Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-mission_mission-weekly_3_Weekly_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-panel-mission",
-            "id": "panel-mission-panel-mission",
-            "order": 1,
-            "name": "Panel Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-panel-mission_panel-mission-panel-mission_1_Panel_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-003-add",
-            "order": 37,
-            "name": "Difficulty: Master (Hajime)",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-003-add_37_Difficulty_Master_Hajime.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-005-add",
-            "order": 47,
-            "name": "Difficulty: Master (NIA) ",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-005-add_47_Difficulty_Master_NIA.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-business",
-            "order": 40,
-            "name": "Job",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-business_40_Job.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-character-growth",
-            "order": 13,
-            "name": "Training Goals",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-character-growth_13_Training_Goals.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-confirm",
-            "order": 8,
-            "name": "Start Confirmation Screen",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-confirm_8_Start_Confirmation_Screen.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-costume-choice",
-            "order": 3,
-            "name": "Costume Selection",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-costume-choice_3_Costume_Selection.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-customize",
-            "order": 42,
-            "name": "Sp. Consult",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-customize_42_Sp._Consult.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-customize-customize",
-            "order": 43,
-            "name": "Skill Card Customization",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-customize-customize_43_Skill_Card_Customization.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-ending",
-            "order": 29,
-            "name": "Ending",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-ending_29_Ending.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-event",
-            "order": 22,
-            "name": "Idol Commu (Produce)",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-event_22_Idol_Commu_Produce.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-exam-audition",
-            "order": 27,
-            "name": "Exams (Produce)",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-exam-audition_27_Exams_Produce.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-fanpresent",
-            "order": 44,
-            "name": "Refreshments",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-fanpresent_44_Refreshments.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-fanvote",
-            "order": 39,
-            "name": "Fan Votes",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-fanvote_39_Fan_Votes.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-generate-memory",
-            "order": 32,
-            "name": "Memory Creation",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-generate-memory_32_Memory_Creation.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-growth-info",
-            "order": 4,
-            "name": "Training Info",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-growth-info_4_Training_Info.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-guide",
-            "order": 49,
-            "name": "Acquisition Guide",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-guide_49_Acquisition_Guide.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-hard-lesson",
-            "order": 26,
-            "name": "Intensive Lessons",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-hard-lesson_26_Intensive_Lessons.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-health-produce",
-            "order": 14,
-            "name": "Stamina (Produce)",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-health-produce_14_Stamina_Produce.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-idol-card-select",
-            "order": 2,
-            "name": "Produce Idol Selection",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-idol-card-select_2_Produce_Idol_Selection.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-judging-trend",
-            "order": 10,
-            "name": "Evaluation Criteria",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-judging-trend_10_Evaluation_Criteria.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-lesson",
-            "order": 24,
-            "name": "Lessons (Produce)",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-lesson_24_Lessons_Produce.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-live",
-            "order": 28,
-            "name": "P-Lives",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-live_28_P-Lives.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-memory-deck-edit",
-            "order": 7,
-            "name": "Memory Formation (Produce)",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-memory-deck-edit_7_Memory_Formation_Produce.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-menu",
-            "order": 33,
-            "name": "Menu",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-menu_33_Menu.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-nia_audition",
-            "order": 45,
-            "name": "Auditions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-nia_audition_45_Auditions.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-ppoint",
-            "order": 18,
-            "name": "P-Points",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-ppoint_18_P-Points.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-present",
-            "order": 21,
-            "name": "Activity Support",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-present_21_Activity_Support.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-produce",
-            "order": 1,
-            "name": "Produce",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-produce_1_Produce.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-produce-1",
-            "order": 34,
-            "name": "Hajime",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-produce-1_34_Hajime.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-produce-2",
-            "order": 38,
-            "name": "NEXT IDOL AUDITION",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-produce-2_38_NEXT_IDOL_AUDITION.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-produce-2-master-ranking",
-            "order": 48,
-            "name": "N.I.A Master Ranking",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-produce-2-master-ranking_48_N.I.A_Master_Ranking.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-produce-drink",
-            "order": 16,
-            "name": "P-Drinks",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-produce-drink_16_P-Drinks.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-produce-item",
-            "order": 17,
-            "name": "P-Items",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-produce-item_17_P-Items.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-produce-ranking",
-            "order": 35,
-            "name": "Produce Rankings",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-produce-ranking_35_Produce_Rankings.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-ProduceSchedule",
-            "order": 11,
-            "name": "P-Book",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-ProduceSchedule_11_P-Book.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-refresh",
-            "order": 15,
-            "name": "Rest",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-refresh_15_Rest.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-result",
-            "order": 31,
-            "name": "Produce Results",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-result_31_Produce_Results.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-schedule-confirm",
-            "order": 12,
-            "name": "Schedule",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-schedule-confirm_12_Schedule.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-schedule-select",
-            "order": 9,
-            "name": "Schedule Selection",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-schedule-select_9_Schedule_Selection.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-select-info",
-            "order": 5,
-            "name": "Formation Details",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-select-info_5_Formation_Details.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-self_lesson",
-            "order": 41,
-            "name": "Self-Lessons",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-self_lesson_41_Self-Lessons.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-seminar",
-            "order": 36,
-            "name": "Training",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-seminar_36_Training.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-shool-actibity",
-            "order": 20,
-            "name": "Lessons/Outings",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-shool-actibity_20_LessonsOutings.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-shop",
-            "order": 19,
-            "name": "Consultations",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-shop_19_Consultations.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-sp-lesson",
-            "order": 25,
-            "name": "SP-Lessons",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-sp-lesson_25_SP-Lessons.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-support-card-deck-edit",
-            "order": 6,
-            "name": "Support Card Formation (Produce)",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-support-card-deck-edit_6_Support_Card_Formation_Produce.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-support-event",
-            "order": 23,
-            "name": "Support Card Events",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-support-event_23_Support_Card_Events.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-true-end",
-            "order": 30,
-            "name": "True End: Hajime",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-true-end_30_True_End_Hajime.html"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-true-end-2",
-            "order": 46,
-            "name": "True End: N.I.A",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-produce_produce-true-end-2_46_True_End_N.I.A.html"
-        },
-        {
-            "helpCategoryId": "help-producer-ranking",
-            "id": "producer-ranking",
-            "order": 1,
-            "name": "Producer Ranking",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-producer-ranking_producer-ranking_1_Producer_Ranking.html"
-        },
-        {
-            "helpCategoryId": "help-producer-ranking",
-            "id": "producer-ranking-season",
-            "order": 2,
-            "name": "Seasons",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-producer-ranking_producer-ranking-season_2_Seasons.html"
-        },
-        {
-            "helpCategoryId": "help-research-event",
-            "id": "research-event-event-produce",
-            "order": 2,
-            "name": "Event Mode Produce",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-research-event_research-event-event-produce_2_Event_Mode_Produce.html"
-        },
-        {
-            "helpCategoryId": "help-research-event",
-            "id": "research-event-reroll",
-            "order": 3,
-            "name": "Memory Ability Reroll",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-research-event_research-event-reroll_3_Memory_Ability_Reroll.html"
-        },
-        {
-            "helpCategoryId": "help-research-event",
-            "id": "research-event-research-event",
-            "order": 1,
-            "name": "Asari-Sensei's Produce Seminar",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-research-event_research-event-research-event_1_Asari-Senseis_Produce_Seminar.html"
-        },
-        {
-            "helpCategoryId": "help-shop",
-            "id": "shop-coingasha",
-            "order": 5,
-            "name": "Coin Gacha",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-shop_shop-coingasha_5_Coin_Gacha.html"
-        },
-        {
-            "helpCategoryId": "help-shop",
-            "id": "shop-costume",
-            "order": 9,
-            "name": "Costume Shop",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-shop_shop-costume_9_Costume_Shop.html"
-        },
-        {
-            "helpCategoryId": "help-shop",
-            "id": "shop-exchange",
-            "order": 7,
-            "name": "Item Exchange",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-shop_shop-exchange_7_Item_Exchange.html"
-        },
-        {
-            "helpCategoryId": "help-shop",
-            "id": "shop-exchange-daily",
-            "order": 6,
-            "name": "Daily Exchange",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-shop_shop-exchange-daily_6_Daily_Exchange.html"
-        },
-        {
-            "helpCategoryId": "help-shop",
-            "id": "shop-exchange-ticket",
-            "order": 8,
-            "name": "Ticket Exchange",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-shop_shop-exchange-ticket_8_Ticket_Exchange.html"
-        },
-        {
-            "helpCategoryId": "help-shop",
-            "id": "shop-itemshop",
-            "order": 3,
-            "name": "Packs",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-shop_shop-itemshop_3_Packs.html"
-        },
-        {
-            "helpCategoryId": "help-shop",
-            "id": "shop-jewel",
-            "order": 2,
-            "name": "Jewels",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-shop_shop-jewel_2_Jewels.html"
-        },
-        {
-            "helpCategoryId": "help-shop",
-            "id": "shop-mission-pass",
-            "order": 4,
-            "name": "Passes",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-shop_shop-mission-pass_4_Passes.html"
-        },
-        {
-            "helpCategoryId": "help-shop",
-            "id": "shop-shop-all",
-            "order": 1,
-            "name": "Shop",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-shop_shop-shop-all_1_Shop.html"
-        },
-        {
-            "helpCategoryId": "help-story",
-            "id": "story-story",
-            "order": 1,
-            "name": "Commu",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-story_story-story_1_Commu.html"
-        },
-        {
-            "helpCategoryId": "help-story",
-            "id": "story-story-event-story",
-            "order": 5,
-            "name": "Event Commu",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-story_story-story-event-story_5_Event_Commu.html"
-        },
-        {
-            "helpCategoryId": "help-story",
-            "id": "story-story-idol",
-            "order": 3,
-            "name": "Idol Commu",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-story_story-story-idol_3_Idol_Commu.html"
-        },
-        {
-            "helpCategoryId": "help-story",
-            "id": "story-story-main",
-            "order": 2,
-            "name": "Hatsuboshi Commu",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-story_story-story-main_2_Hatsuboshi_Commu.html"
-        },
-        {
-            "helpCategoryId": "help-story",
-            "id": "story-story-support-card",
-            "order": 4,
-            "name": "Support Commu",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-story_story-story-support-card_4_Support_Commu.html"
-        },
-        {
-            "helpCategoryId": "help-story-event",
-            "id": "story-event-event-coin",
-            "order": 6,
-            "name": "Event Exchange Items",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-story-event_story-event-event-coin_6_Event_Exchange_Items.html"
-        },
-        {
-            "helpCategoryId": "help-story-event",
-            "id": "story-event-event-finish",
-            "order": 7,
-            "name": "After the Event",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-story-event_story-event-event-finish_7_After_the_Event.html"
-        },
-        {
-            "helpCategoryId": "help-story-event",
-            "id": "story-event-event-mission",
-            "order": 5,
-            "name": "Event Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-story-event_story-event-event-mission_5_Event_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-story-event",
-            "id": "story-event-event-point",
-            "order": 3,
-            "name": "Cumulative Event Points Rewards",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-story-event_story-event-event-point_3_Cumulative_Event_Points_Rewards.html"
-        },
-        {
-            "helpCategoryId": "help-story-event",
-            "id": "story-event-event-story",
-            "order": 1,
-            "name": "Story Events",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-story-event_story-event-event-story_1_Story_Events.html"
-        },
-        {
-            "helpCategoryId": "help-story-event",
-            "id": "story-event-event-story-bonus",
-            "order": 2,
-            "name": "Event Bonuses",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-story-event_story-event-event-story-bonus_2_Event_Bonuses.html"
-        },
-        {
-            "helpCategoryId": "help-story-event",
-            "id": "story-event-event-story-story-unlock",
-            "order": 4,
-            "name": "Event Commu",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-story-event_story-event-event-story-story-unlock_4_Event_Commu.html"
-        },
-        {
-            "helpCategoryId": "help-story-event-guild-mission",
-            "id": "guild-mission",
-            "order": 1,
-            "name": "Linked Missions",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-story-event-guild-mission_guild-mission_1_Linked_Missions.html"
-        },
-        {
-            "helpCategoryId": "help-support",
-            "id": "support-lesson-support",
-            "order": 2,
-            "name": "Skill Card Support",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-support_support-lesson-support_2_Skill_Card_Support.html"
-        },
-        {
-            "helpCategoryId": "help-support",
-            "id": "support-produce-upgrade-select",
-            "order": 5,
-            "name": "Level Upgrade",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-support_support-produce-upgrade-select_5_Level_Upgrade.html"
-        },
-        {
-            "helpCategoryId": "help-support",
-            "id": "support-support-ability",
-            "order": 4,
-            "name": "Support Abilities",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-support_support-support-ability_4_Support_Abilities.html"
-        },
-        {
-            "helpCategoryId": "help-support",
-            "id": "support-support-bonus",
-            "order": 9,
-            "name": "Support Bonuses",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-support_support-support-bonus_9_Support_Bonuses.html"
-        },
-        {
-            "helpCategoryId": "help-support",
-            "id": "support-support-card",
-            "order": 1,
-            "name": "Support Cards",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-support_support-support-card_1_Support_Cards.html"
-        },
-        {
-            "helpCategoryId": "help-support",
-            "id": "support-support-card-deck-edit",
-            "order": 7,
-            "name": "Support Card Formation",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-support_support-support-card-deck-edit_7_Support_Card_Formation.html"
-        },
-        {
-            "helpCategoryId": "help-support",
-            "id": "support-support-card-exchange",
-            "order": 8,
-            "name": "Support Conversion",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-support_support-support-card-exchange_8_Support_Conversion.html"
-        },
-        {
-            "helpCategoryId": "help-support",
-            "id": "support-support-card-level-limit-rank",
-            "order": 6,
-            "name": "Limit Break",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-support_support-support-card-level-limit-rank_6_Limit_Break.html"
-        },
-        {
-            "helpCategoryId": "help-support",
-            "id": "support-support-event",
-            "order": 3,
-            "name": "Support Events",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-support_support-support-event_3_Support_Events.html"
-        },
-        {
-            "helpCategoryId": "help-tower",
-            "id": "clear-rank",
-            "order": 3,
-            "name": "Clear Condition Stars",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-tower_clear-rank_3_Clear_Condition_Stars.html"
-        },
-        {
-            "helpCategoryId": "help-tower",
-            "id": "memory-memory-tower",
-            "order": 4,
-            "name": "Memory Formation for Idol Road",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-tower_memory-memory-tower_4_Memory_Formation_for_Idol_Road.html"
-        },
-        {
-            "helpCategoryId": "help-tower",
-            "id": "tower",
-            "order": 1,
-            "name": "Idol Road",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-tower_tower_1_Idol_Road.html"
-        },
-        {
-            "helpCategoryId": "help-tower",
-            "id": "tower-achivement",
-            "order": 5,
-            "name": "Idol Road Achievements",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-tower_tower-achivement_5_Idol_Road_Achievements.html"
-        },
-        {
-            "helpCategoryId": "help-tower",
-            "id": "tower-ranking",
-            "order": 6,
-            "name": "Idol Road Ranking",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-tower_tower-ranking_6_Idol_Road_Ranking.html"
-        },
-        {
-            "helpCategoryId": "help-tower",
-            "id": "tower-rule",
-            "order": 2,
-            "name": "Rules for Idol Road",
-            "detailUrl": "https://toastybuns3939.github.io/CampusHelp/Pages/help-tower_tower-rule_2_Rules_for_Idol_Road.html"
-        }
+  "rules": {
+    "primaryKeys": [
+      "helpCategoryId",
+      "id",
+      "order"
     ]
+  },
+  "data": [
+    {
+      "helpCategoryId": "help-achievement",
+      "id": "achievement-achievement",
+      "order": 1,
+      "name": "Achievements",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9386f5f942dfa05aba3098e43a988f4828b21c9f86118f9194c5c3a5dbd635c3/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-achievement",
+      "id": "achievement-idol",
+      "order": 2,
+      "name": "Idol Achievements",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/696f88b3357c9c547697f4d3131e783f4c0001181ef70c6f9aeb37f940a6fd33/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-achievement",
+      "id": "achievement-others",
+      "order": 4,
+      "name": "Other Achievements",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5c049150e00aad2531d72b1cf66483a60e5a7b7ec6d93e559f24b84ac10f206b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-achievement",
+      "id": "achievement-produce-achievement",
+      "order": 3,
+      "name": "Produce Achievements",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9f91b8fe31a6571d893fd1ad8bdaa7dfc937300014f640f9c5958fd29a8895a1/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event",
+      "order": 1,
+      "name": "Live Tour Event",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5718ca277c0e55876721f6565da942a63d9f7c62339a0506ca1d68b7b1ed00bd/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event-bonus",
+      "order": 3,
+      "name": "Event Bonuses",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/efbe80af0702cdf5153f3d81799588dadf31ea28b61e7bd61d03bf170f831404/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event-finish",
+      "order": 8,
+      "name": "After the Event",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/61a3ad2ed9fce3180615ec76a2c6751bdc8f537b81e84c1dbb59d19f3ae349d3/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event-gasha",
+      "order": 4,
+      "name": "Event Gacha",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0f8de71942e90d3d380be5ab9979aa7e45227d1d5a61c45fd47a44e21eac459e/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event-gasha-coin",
+      "order": 7,
+      "name": "Event Items",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/d7080b3612525ef3bdf7a852ba3ccb2a94a940222baa37250bcab35289b346b1/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event-idol",
+      "order": 2,
+      "name": "Event Rewards Produce Idol",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e9519748305956c629ae431161d52de1f765fd0df69e46f582f880e9604a0396/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event-mission",
+      "order": 6,
+      "name": "Event Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/97eb593d69a39aa5e54935a63ffc55b69d387cc7d710333c4742319680915a1c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-box-gasha-event",
+      "id": "box-gasha-event-story",
+      "order": 5,
+      "name": "Event Commu",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4d74ef61854d742ff34de31dc842d430a531d4be8719f6bd439e58d52aecee23/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-exchange",
+      "order": 5,
+      "name": "Regional Tour Medals",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/970877bc6b8009997efbc9788eb5abd69dfb272c9291c03e3ed511b9ddb8aef5/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-finish",
+      "order": 9,
+      "name": "After the Event",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/fafe494dbb5f236ab4ba38d6eac73e9a332c6d4e995518ae84cf14a8be018230/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-memory",
+      "order": 3,
+      "name": "Formation",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/efcb654c5d38acf2851f2d268a2c6434104dd171557f7d3e716e01957213eba3/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-mission",
+      "order": 7,
+      "name": "Event Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0bd4695fe42edf37fc92d37413f131afab505b060a454af65f942a890d0d8cf6/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-ranking",
+      "order": 8,
+      "name": "Circle Rankings",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c2482ea0b746cc6bc9d44b0e51732c391313d69e191b45b0ff60dedf5b74b6b7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-reward",
+      "order": 4,
+      "name": "Event Rewards",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c898fbd5a76e2797e564f5fe0720422f46edcba3ded7cdc5171ae68f6399bf3f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-rule",
+      "order": 1,
+      "name": "Regional Tour Events",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/f5c599d710e4df06a3ebb24ca6fd704bb49ad1e766eca8c9d587685005b2f2ce/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-stage",
+      "order": 2,
+      "name": "Stages",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7f2d49b71b804509363a8847a94e31be0f89938d5fa43aadf52185f28a4064b3/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-circle-battle-event",
+      "id": "circle-battle-event-story",
+      "order": 6,
+      "name": "Event Commu",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/20c208df7b7ff6ec7af42582b19bbdcee4c718ff83f57c5e6ec38a0e9a988311/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-contest",
+      "order": 1,
+      "name": "Contests",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/59cb73d0e7617c2f890a2962b7733f20a7eda7e7d060e9dbcf79719a65a0d3ca/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-contest-ranking",
+      "order": 10,
+      "name": "Contest Rankings",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3a57e1bf2f700b0a8004adde8d492764294bd2f71d156ae976f396216c122b25/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-grade",
+      "order": 8,
+      "name": "Grades",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/62d0e0ace86216d3be88dd829a5d0e8316e35cad34f9c8b88584196484f5d8e5/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-preparation-period",
+      "order": 7,
+      "name": "Preparation Period",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/db5d5853b7c9026fd06d7f0ce4027f678c4dc472eedbbf61fd6ab98d63b4a580/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-rate-pt",
+      "order": 9,
+      "name": "Rate Points",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e1d38000dd6380a7de108890d4d2af4dc982c0d2ebadf373810fbb4e7fd932b5/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-rule",
+      "order": 2,
+      "name": "Contest Rules",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e88125f4aab736ec3faf39fb5426792332248cb35d8951527da9fd82376e431c/index.html?_cb=39174970686372a53afaa2bab2c1512a38c2f3978ecc285ec036d508e415b36c"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-season",
+      "order": 6,
+      "name": "Seasons",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5367990ac62fb3816b1f7ad749825adbedd375283fb3c07d2ef3f5c266dbd304/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-squad",
+      "order": 3,
+      "name": "Formation",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ec68677676e530de45b4f553eb80b81ad58eec0195a4dbf2194140f98aa3c426/index.html?_cb=39174970686372a53afaa2bab2c1512a38c2f3978ecc285ec036d508e415b36c"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-stage",
+      "order": 4,
+      "name": "Stages",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b7647fded0089b12932e4a89a19c957b4645055a1d3f5ede4b87801bf7767a5e/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-contest",
+      "id": "contest-total",
+      "order": 5,
+      "name": "Total Strength",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/1588a6c8d2269a61effa6b56d73430fa1284f96799f9f104cf55018306abedf4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-dearness-doost-campaign",
+      "id": "help-dearness-doost-campaign-info",
+      "order": 57,
+      "name": "Bond Boost Campaign",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/124013cd1ef4053d618fe3fd184aefd8f105dc41c8fd76898c686f0dbf6d3d51/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-dearness-map",
+      "id": "help-dearness-map-info",
+      "order": 56,
+      "name": "Bond Map",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a6b7c96963ab0063249f2040abb6f6a25b450aa5363faa5b3f4d4323f4422688/index.html?_cb=93108200b5035a17c9f42b4e053ad6863628f473e3f646b98521368a002dfa57"
+    },
+    {
+      "helpCategoryId": "help-dearness-top",
+      "id": "help-dearness-top-info",
+      "order": 55,
+      "name": "BondTOP",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/82c916c8a754a503bd2785ba8464dc07b93c171a30b83aa69b132a132a258419/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-event_mission",
+      "id": "event_mission-event_mission",
+      "order": 1,
+      "name": "Event Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/807ee7e79b72ab256195db206b2d7b6b80884d261709c6cf19ce91baf2036cb4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-event-mission",
+      "id": "event-mission-rookie",
+      "order": 1,
+      "name": "Daily Unlock Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/48ab0a181d0325246b2c3893fe9b77185097398b2234f872885ccac116fe47e9/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-gasha",
+      "id": "gasha-Gasha",
+      "order": 1,
+      "name": "Gacha",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9f65f79c15b1ac008104c50c51740e6433fc97074af1bb5815db913ebe829545/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-gasha",
+      "id": "gasha-gasha-pt",
+      "order": 2,
+      "name": "Exchange Points and Flowers",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/173642794a3d08beab154fb6db2b3f32f62fc407029b5a4787a8f9d4998bbc1d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-guild",
+      "id": "guild-create",
+      "order": 2,
+      "name": "Circle Creation",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/750e998a0f4f609f3cc290848dce4059ec9e9fae1403f88bc6213e936bfcff06/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-guild",
+      "id": "guild-Guild",
+      "order": 1,
+      "name": "Circles",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/fb292097472eb10d0cafee447f7b1e3e89f16cd603633e26d716382c3606aba1/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-guild",
+      "id": "guild-join",
+      "order": 3,
+      "name": "Joining a Circle",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6c9268073be3283b9395c95d472171a341f855d083a3c2957e9586606c0e9c99/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-guild",
+      "id": "guild-leave",
+      "order": 6,
+      "name": "Leaving/Expelling from a Circle",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7faca849c3b50c9039cfd8b484adfe2f11bcb0b9bf92be0ad8de8b68a16c7b76/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-guild",
+      "id": "guild-message-board",
+      "order": 4,
+      "name": "Message Board",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/fba2bc77f81f6ac08a9838eb9fadbbb2667077a3cf08bbff7f3be39b7e4b2445/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-guild",
+      "id": "guild-request",
+      "order": 5,
+      "name": "Requests",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/1cd0f89b4790d019d2b3b5103703a2e9c74fa190ee02071ecd4975c7d2865102/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-highscore",
+      "id": "highscore-highscore",
+      "order": 1,
+      "name": "Idol Enhancement Month",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e38cd1c76b10c41d827e56eb7e13703b02dac556efaf462a8ce69a3f0404e210/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-highscore",
+      "id": "highscore-ranking",
+      "order": 2,
+      "name": "High Score Ranking Types",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ecb57403b28ed8ff02acbd5ce44303fc23dafc1873ac3854104f9b35e2ec96e2/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-highscore",
+      "id": "highscore-score_reward",
+      "order": 3,
+      "name": "High Score Achievement Rewards",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/29f23aa0fa37596ab7f21d25b4f5ce722ab69ccfde5ef3b1e1e169b989e7540d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-event-finish",
+      "order": 8,
+      "name": "After the Event",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8a2afa49a59e6874499845f58adfc59b8c7e9d78d4e818092577489d2d172768/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-event-gasha",
+      "order": 6,
+      "name": "Event Gacha",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/26b77d1896624a24e10d923d59276cbd45ccb78372d52509ed6af794f51a19f6/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-event-item",
+      "order": 3,
+      "name": "Starlight",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8c594ad52dd0af89e6c07b3fdfbcb5eb23ead5eb4553fe72f0b7c61c8c6af8dd/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-event-mission",
+      "order": 7,
+      "name": "Event Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/794f06605f1ea1f6fcf44101bfeeeb220e6d01a9776e6c6afff50df4dfaeb2e0/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-eventmode-produce",
+      "order": 2,
+      "name": "Event Mode Produce",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/809feebe485b9ecc15222c8cccc416aea33aa00ebd0a4a5ab357ee21e01e5b8b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-highscorerush",
+      "order": 1,
+      "name": "Kunio Juo's Idol Enhancement Month",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/04b998ed18867919e9a0873ad318f12655374fc58cc145fb8d4408eaad5461a4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-ranking",
+      "order": 4,
+      "name": "High Score Ranking Types",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/69d9c06ac25042e74b316ca1594da4fac87ca70ea2dda2881a458413022bcdae/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-score-reward",
+      "order": 5,
+      "name": "High Score Achievement Rewards",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4c55a12bdecbbd992e0e017a755226ca29f1013d0e7536167d4d2a8014ddc4f7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-ap",
+      "order": 3,
+      "name": "AP",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/da7931b7e78105d7c328c90c178ecc3675714c7272e9a935148d3577aaaa73c8/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-day-reset",
+      "order": 9,
+      "name": "Date Reset",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7e7065e553c4fb514535b18a264e1015e613b93045c89d79bbec0caae1bcb63b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-home",
+      "order": 1,
+      "name": "Home",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/2b78ebbb004539a5ee9d3d3d441082a3343d9f12e4c4ed5a062c9756e0607e4d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-home-character-change",
+      "order": 7,
+      "name": "Home Idol Settings",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/26c5d63ef0827cb61bebb7b69884029fc50b509c293b1297c3038f3eb88aa7cf/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-jewel",
+      "order": 4,
+      "name": "Jewels",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a1fa796178c4e39f334946c0b8203f2f12ed607fd91dbd13cf205fe53b3b1f6b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-main-task",
+      "order": 8,
+      "name": "Challenges",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/fa025897784040453a97a52f21095e3e45b5c14129e666f12e1738dde0bc0189/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-money-received",
+      "order": 5,
+      "name": "Activity Funds",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4bdcb748a914c214eb2ee34234159b9d3ec692d7ec5b17e53948c828d34d0c8d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-p-lv",
+      "order": 2,
+      "name": "Producer Level",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/35813c0edfab0645384f933531bfbdc06d293c47875aba47b90cedf2dea39ecf/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-home",
+      "id": "home-work",
+      "order": 6,
+      "name": "Jobs",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9ef3baefbbf19689115c56b91b12f87a060d4c296ee406bb5c5e91e20d4dba2d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-another",
+      "order": 2,
+      "name": "Another Idol",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5ebf2428cfaa4d1dbdc456311a18711b5b68d0713dc984fa70bf09fb99d7ba3b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-dearness",
+      "order": 53,
+      "name": "Bond",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7e27f781d0aaee6b304644ec706cefa5e7e8519e5dfb58d7c86a6ca8ad275d10/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-dearness-pt",
+      "order": 54,
+      "name": "BondPT",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/f4f7406c4cab626ed608ba3ad0f68221497e661db5912478f6e7df938490f9e8/index.html?_cb=93108200b5035a17c9f42b4e053ad6863628f473e3f646b98521368a002dfa57"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-idol-card",
+      "order": 1,
+      "name": "Produce Idol",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/2f0444bf8d40903d97dfd61d6aa87fac089679aed16e777bff25b54182575b97/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-idol-card-level-limit",
+      "order": 50,
+      "name": "Training",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/d107a885766a81999453d0a34b67d9a47dcaac56fbd9112654e23308b61de0d1/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-idol-card-potential-rank",
+      "order": 51,
+      "name": "Talent Bloom",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/658470b38139f3bd2e41269672e91c54e2244d702948677e7194a6354fc5d52c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-idol-card-release",
+      "order": 52,
+      "name": "Unlocking Produce Idol",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/00221c617592b91bc7ff63936a6fa404435704045a26abbc4896d66fa9121416/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-parameter",
+      "order": 4,
+      "name": "Parameters",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6e9b228b5ed98d0a3705a2e3b3567584238dfb77cc8b5e7c70fc166c0cadfa0a/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-plan1",
+      "order": 20,
+      "name": "Plan: Sense",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/24130d7154868b7744558f3d35ba852aa1c366967b4234b88d85ccdeccc327ed/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-plan2",
+      "order": 30,
+      "name": "Plan: Logic",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9b5f95645cbfd1055d82e7948d94320789971137c5ed6611f625b41db53c2619/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-plan3",
+      "order": 40,
+      "name": "Plan: Anomaly",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/253a501a312a5d58465f690aa46274697ec93521a895545f67ac1b103edc0061/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-true-end-bonus",
+      "order": 58,
+      "name": "True End Bonus",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/39a9d240de0718e998b4ee4c5c8a5430c43cec7aaab05cf8e47d6ecdc38235a6/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-idol",
+      "id": "idol-unit",
+      "order": 3,
+      "name": "Unit Idol",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/cfd559cee9d7995f8159fcc268eb193c593fe7b5da5338d7b51242885caa9915/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-audition",
+      "order": 15,
+      "name": "Exams",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b56b3fcbe0ed538326d734a36802ef02bf8b3f1be04d10935150d55a557ff2b0/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-audition-flow",
+      "order": 16,
+      "name": "Exam Flow",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c6b4e29fae184f1405f50b3bf53c1b74c2dcff351fa8d56e35551e779be2dc60/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-audition-view",
+      "order": 17,
+      "name": "Exam Display",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4e387ab1d1985be9ecba611d1d0a675658ec1f22815a4b2008b1e29ef9cfb93f/index.html?_cb=39174970686372a53afaa2bab2c1512a38c2f3978ecc285ec036d508e415b36c"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-block",
+      "order": 4,
+      "name": "Energy",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/16e904e35cc12e3e143b336d76660e973f5b815ca2d12bf8869854a6b26a9b80/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-effect",
+      "order": 12,
+      "name": "Triggered Effects",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/24dcbdb60cd262e5c106ec02a5e802735a3a5892246b6b48a05c97b53aaf8ac1/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-gimmick",
+      "order": 13,
+      "name": "Support and Troubles",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8dc10c87061f57a3a5e1b86508293b656397f10cf84400826d8a97808f763f09/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-health-lesson",
+      "order": 3,
+      "name": "Stamina (Lessons)",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/d25ecfd8c9cdc112a8e8833651454c674a552318aaedbcd9a299214f5fa709da/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-lesson",
+      "order": 1,
+      "name": "Lessons",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/952aacc9e77bda96bb30a987cc8db9d4f34e43206e38ad2c8fa5c4308948228c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-lesson-view",
+      "order": 2,
+      "name": "Lesson Display",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ab2e90318b6810814e1b45f8533a38cacbba969f57ed38753c79e4882eec2ee9/index.html?_cb=39174970686372a53afaa2bab2c1512a38c2f3978ecc285ec036d508e415b36c"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-p-drink",
+      "order": 9,
+      "name": "P-Items",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c05bd5db643cb99d12bb006c3dd7366a5c40f519f79ca7dcb3a08a6da699c6ba/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-p-item",
+      "order": 8,
+      "name": "P-Drinks",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b4e130e4c39a81b9a7baa79ca99b2623e1ffaaa4ed43074e33489672cc7f992c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-perfect-lesson",
+      "order": 14,
+      "name": "Perfect Lessons",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a29f839406d03abcc6c425f62d478f70cb1289e85a8ca0f4688d881b2474fd2e/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-produce-card",
+      "order": 5,
+      "name": "Skill Cards",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/48b9a896df5b82b8af3dcb4da3378614f620a46e7b519b3747ed280c12d75e19/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-produce-card-powerup",
+      "order": 6,
+      "name": "Skill Card Upgrade",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/2603b24d15603a0b1c6e07941d591b2aa93810fd9749199994d2f340edbb8669/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-produce-card-use",
+      "order": 7,
+      "name": "Skill Card Usage Procedure",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b9cde558b51e1db3128dd515a881af02eb080284731bf95a4433deed87176a6a/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-skip",
+      "order": 10,
+      "name": "SKIP",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/45f7c8d3a792e55e0f6d7facd56cdd21f151995260fc3cf2402d4f70fa652e5b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
+      "id": "lesson-support",
+      "order": 11,
+      "name": "Skill Card Support",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/de981107974c8be1fa0bded5f65719119028432059d3d52fe4ca95677d74b6ce/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "tour-exchange",
+      "order": 7,
+      "name": "Event Exchange Items",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b38633936836fe60fc56485c5c2874ae860c2bb128418774b5ae194c8d033515/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "tour-finish",
+      "order": 9,
+      "name": "After the Event",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/52df56d15b86ad800428a2f261267a3bbd87836953119c6da2331867327dde4d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "tour-idol",
+      "order": 4,
+      "name": "Event Rewards Produce Idol",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/1a199cb4bebb7ec8cf3770851744839c660e156f85aa2ee5651e32ce4f0fdec5/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "tour-play-ticket",
+      "order": 3,
+      "name": "Live Challenge Ticket",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c6cc293ad9ff12c986fb0b5381f3eea7b63202696a13d48d29d290f7a1c4f821/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "tour-reward",
+      "order": 6,
+      "name": "Event Rewards",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e7b5e26de203b45a229fc8a4ae0cd4e722b959d809103103c672e5f1c2933101/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "tour-stage",
+      "order": 2,
+      "name": "Event Stage",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7f84888cd10558e6b4741295b634b0f12c27536d1f1dd33d4c74320b126d91bf/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "tour-story",
+      "order": 5,
+      "name": "Event Commu",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/f63e5591f0202933c0a7f3187aa05eab52d9fce9e4c79050d47b5612d78c2c16/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-livetour-event",
+      "id": "tour-tour",
+      "order": 1,
+      "name": "Live Tour Event",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6961d91f3b558c4c7706a8729a1a17850d0d0127d486b8b5c4e4e8cba65bfdb4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-main-story-event",
+      "id": "help-main-story-event-bonus",
+      "order": 4,
+      "name": "Event Bonuses",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5a7c99dc93a7aeb838daf577be189f3aa48d2d057649f50790a4028b7a4607d6/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-main-story-event",
+      "id": "help-main-story-event-coin",
+      "order": 6,
+      "name": "Event Exchange Items",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b1ba36ee1cdf715e65b4b5a127bb8bf9c6d4a75c3b7f9063291786827cd6a759/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-main-story-event",
+      "id": "help-main-story-event-finish",
+      "order": 7,
+      "name": "After the Event",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/99290a774cf77e64edf0ff809117ca0f585dae0a6ffb571c7334eb74039fdcaa/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-main-story-event",
+      "id": "help-main-story-event-main-story",
+      "order": 3,
+      "name": "Unlocking Hatsuboshi Commu",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/970489851815c3bf44c549253376df0f8fc4e28375c0f342d395b7aa6ec8e50c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-main-story-event",
+      "id": "help-main-story-event-mission",
+      "order": 2,
+      "name": "Event Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0ee6ebdaf7014b85cd1797169cd9aa6633c2620e3c20789599ac0c8cce00c0b9/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-main-story-event",
+      "id": "help-main-story-event-point",
+      "order": 5,
+      "name": "Cumulative Event Points Rewards",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a641ab474c493fe1feb9ed77aaebdee70f334f5d2a5fde33a75873acba225be7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-main-story-event",
+      "id": "help-main-story-event-story",
+      "order": 1,
+      "name": "Hatsuboshi Commu Events",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b6a21942d458c858eb6f6d72ab94f98b5b24ad71a5002465b4be6c928f74642b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "memory-memory",
+      "order": 1,
+      "name": "Memories",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5597f96b1017578d35bf8a7db9189c2c1fdb6c5449373c3027c20838ec7d87bb/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "memory-memory-contest",
+      "order": 3,
+      "name": "Effects During Contest Formation",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e93bd3c6581a3b5e277a166a3fa5d95c8a8d95a6ef166b4aa52b90bef758c6b4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "memory-memory-convert",
+      "order": 5,
+      "name": "Memory Conversion",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c060228c94dd7368ba56aa293c518c1246562c5df2176f7dacac2d7828c58460/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "memory-memory-deck-edit",
+      "order": 4,
+      "name": "Memory Formation Screen",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e9827ebf5ff4a34c2f112ccb1b4a27b02dbd20c58a83d2cbe8415086904a7f40/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "memory-memory-inherit",
+      "order": 6,
+      "name": "Memory Synthesis",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6434f55e2fa5aea6a5a725dd2417b813648becdd792dadaa124f8fccd0186034/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "memory-memory-produce",
+      "order": 2,
+      "name": "Effects During Produce Formation",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/f55ad8e5c496ac39b7d4fa3ac94ba36c2326b9cfefd425b894e070e60ecc8536/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-memory",
+      "id": "memory-memory-review",
+      "order": 7,
+      "name": "Produce Review",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9ddc76a5ddd7466b8cbaefa04120648f992a6eeaecccf996081c64a320eec8b4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-album-to-live",
+      "order": 9,
+      "name": "Photo Album",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/178ef7246d35d802793c39cdd207e1b51de9be40f927767f42fc653cfc20df86/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-costume",
+      "order": 7,
+      "name": "Outfits",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/2d0e673f6a34c5affa90735959db01f3e9ce51319ab950abff6e31f0bf4df320/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-data-linkage",
+      "order": 17,
+      "name": "Data Linking",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3fe79e9445e2b349016d13ca9da5ac914ac739391c5bf501fda846774ad6f99b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-friend",
+      "order": 2,
+      "name": "Friends",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ed8c41f787d960b10863f834ac7486c2e499627835365bdd7eec22ce53ee0a11/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-friend-invite",
+      "order": 3,
+      "name": "Friend Invitation Feature",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e50a9be5443b2744159b8900aa7aeeeb94093dee43ba407cbd6f07a49079d9ea/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-help",
+      "order": 13,
+      "name": "Help",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3a6245e5297c500107caf1d882025c142d3a29eab83cf1cdddd8607595319312/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-item",
+      "order": 5,
+      "name": "Inventory",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/25d16940c3ab62fc371ddb9d408c5abdd4a96ca98ab237a58fa80489e9406902/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-live-shooting",
+      "order": 8,
+      "name": "Photography",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/caaeeca53c2edd56aff23dd646ff7677a8b0ef51f65939e90ff61267d07a558f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-media",
+      "order": 12,
+      "name": "Media",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/617e07f11efb6c5218e69e5038108e57a19beb013c0c02c058caf380f45db8bd/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-meishi",
+      "order": 4,
+      "name": "Business Cards",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/08bcfe42111b092c722c37cc5c6cb94d874bbeb9d654514edefa8c2948cc809e/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-music",
+      "order": 10,
+      "name": "Music",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/2c05e0ce913adcda43581684318da52f35d5da4c2d79432c61e7995bce527030/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-predownload",
+      "order": 16,
+      "name": "Batch Download",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/62357b8804000d57d44aab5e9d9f3a25d18c13952d26b75b76e9de8b19cbdb8c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-produce-collection",
+      "order": 6,
+      "name": "P-Encyclopedia",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0665f9a890abc579d8e825e3b214950ac46b8020bbc718e36e5df6bd47d9dc1b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-profile",
+      "order": 1,
+      "name": "Profile",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/246c2eaf6690bc463a1e7d5039f60d116d868b7632709dbc583c690aa8cc8814/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-roster",
+      "order": 11,
+      "name": "Roster",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/93dd5f019bc4faf29b7801907a3f9a82f90f29873f7c25597bfca525a5766c44/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-setting",
+      "order": 14,
+      "name": "Settings",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6655d17ae53d825107e703f206d22cce23037e831bc4b0331b37c11a69fa0be2/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-menu",
+      "id": "menu-title",
+      "order": 15,
+      "name": "Title",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3c8f57827cb87885aa570e0351fbe226916e3266a207a1b0a55bce3e3e737f70/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-daily",
+      "order": 2,
+      "name": "Daily Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3b8d4ed61ab7b47fe28bb2a2de167505441eb843760ecf573405841bb8bb464b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-event",
+      "order": 7,
+      "name": "Event Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/46ca8fd39d3001f8ce198cd801fdb8cf7e4f7a9fad2257d0c95d080344cb2702/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-idol",
+      "order": 6,
+      "name": "Idol Mission",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0d1cdd97bdd1d541ef341e0b8c12b912564c12325016315db96ea693130eff64/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-mission",
+      "order": 1,
+      "name": "Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3a1251b6635e45afb695f87b2478741aaded1daa6f66d06066af59bce178fcfe/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-normal",
+      "order": 4,
+      "name": "Normal Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/710cfe9fe2181902c6aa71775ae58c9f2230cd5efd4ea03f662d417fa6e5a959/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-pass",
+      "order": 8,
+      "name": "Mission Pass",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/20089854976f5844e39ddaa28ec744cf38722cfeb01bca499ab7187259a88d83/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-special",
+      "order": 5,
+      "name": "Limited-Time Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/52e50d023d982af1119c133285ca2c2a43328aed2add4a5733096403039ec73c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-mission",
+      "id": "mission-weekly",
+      "order": 3,
+      "name": "Weekly Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/089cc62bb48a9f27488817ae126306a5a2485bdd2b32c8731654b225e638e3c7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-panel-mission",
+      "id": "panel-mission-panel-mission",
+      "order": 1,
+      "name": "Panel Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/2ccd50a397b72c117d6750c52a6af1d076e04acfd2ef99502b8afd55ed0a840a/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-003-add",
+      "order": 37,
+      "name": "Difficulty: Master (Hajime)",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ab05085dd912f6739b407371ba30d30d6ed3f50ecab338d2928e2523276120de/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-005-add",
+      "order": 47,
+      "name": "Difficulty: Master (NIA) ",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0971306c95a87639730221e2aa4fc718af6ac3374e19c4397801bf6a3b322dc5/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-business",
+      "order": 40,
+      "name": "Job",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b01c7d6a961f49e80b54fe448bb5fdd209219e0f835ddb52b2735af9f19d13ed/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-character-growth",
+      "order": 13,
+      "name": "Training Goals",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/091ac92ec1a22d229da90a9406a1319ec8fcc5a656a15082c3b0630d51dc3914/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-confirm",
+      "order": 8,
+      "name": "Start Confirmation Screen",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/24d2f815b5a0bec2ec7917413174593a8c3f5eff4c457d6166b7c9c18d774622/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-costume-choice",
+      "order": 3,
+      "name": "Costume Selection",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/89b56b018015280e1dfe15462ae8432f176dd7d9ea4c141ca4eb06f7baff4265/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-customize",
+      "order": 42,
+      "name": "Sp. Consult",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a8ee5d71a163252de84346f4085e9a590ea98113ad9c5feb528d0384920cd754/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-customize-customize",
+      "order": 43,
+      "name": "Skill Card Customization",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6c34c22b152aca5c514a8070664d52a3004ecb92c40cfe956b96f7c3f0457528/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-ending",
+      "order": 29,
+      "name": "Ending",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/610a7142651ff3ecd04fdff4a93d02086d3f94adedb2bfae61b7d0345e19f6c7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-event",
+      "order": 22,
+      "name": "Idol Commu (Produce)",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9c0da5c845b18b7f9207880e219058d86768205317fd240297d7c831d510c2f5/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-exam-audition",
+      "order": 27,
+      "name": "Exams (Produce)",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a8dfe40efac4adf6414b1c51a29521459c1da988301b587c8da3b95083007f51/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-fanpresent",
+      "order": 44,
+      "name": "Refreshments",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9ee0bd0006500c79527809acc5eb7a3800f130e9c9bb0756581e424f1abfa29f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-fanvote",
+      "order": 39,
+      "name": "Fan Votes",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5291f4bc8c1d8dfcd84a1a21099aa5efe0a563fdb8f35dad4de58cbed73e6e90/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-generate-memory",
+      "order": 32,
+      "name": "Memory Creation",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/57518177f6e31bea30b483caf16ea057793b78e9864a63d5131bb40b7e5a773c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-growth-info",
+      "order": 4,
+      "name": "Training Info",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/371001e91c9b5c4b31f35bee03269e702df7bcfe345b79203beb2e68330bb908/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-guide",
+      "order": 49,
+      "name": "Acquisition Guide",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0569c934f9e234ab1f0699f131ea156fc58e9172e9a58743f101ce1488f8ec45/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-hard-lesson",
+      "order": 26,
+      "name": "Intensive Lessons",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9c0b6089d701ad711364de4627be389a2aa4f7ac1be4109d7b23e1dbb73496db/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-health-produce",
+      "order": 14,
+      "name": "Stamina (Produce)",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/d7433fc6a04e517ef4c5185b37bb34a3254c234b1568ea1e41c834dedd88ab12/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-idol-card-select",
+      "order": 2,
+      "name": "Produce Idol Selection",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/642bcd0ee6a0bab393819883fea27e2f39a60d043e8addb02da49c454f6c1b0d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-judging-trend",
+      "order": 10,
+      "name": "Evaluation Criteria",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5755d467b58af6af1fad6ab08bc12bc4a3a58b74a3090e97b9913e8ce7722546/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-lesson",
+      "order": 24,
+      "name": "Lessons (Produce)",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/703bdc24cd4c0d3402297c0faf47996470f8c2141d88cf49ff8e04da799f6525/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-live",
+      "order": 28,
+      "name": "P-Lives",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/16a6f47bd59c4b893c25414ab10fa0972753ee23666d3b028f456f008b26384c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-memory-deck-edit",
+      "order": 7,
+      "name": "Memory Formation (Produce)",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c58501efcd746446af0e9bcdf838f5f9aefc36e9d03b8ec6066a6c0883376608/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-menu",
+      "order": 33,
+      "name": "Menu",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6a0caafaabbc2c95612be9fd206e9ccc72c88e72accafefa3d37800b5a88975c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-nia_audition",
+      "order": 45,
+      "name": "Auditions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8950993e0f2566d3e973153c130b924328e964cc4f716cef106c88f27d70efed/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-ppoint",
+      "order": 18,
+      "name": "P-Points",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/39c66ac949cb9cf2551f6371d7e18e3506e838a88a00b086f21ac6cc985afeea/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-present",
+      "order": 21,
+      "name": "Activity Support",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/1f9824eba32662fcd0d13fd801ba1103054e23bc8eb6f3c4f52b4e96492e7b97/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-produce",
+      "order": 1,
+      "name": "Produce",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/f62762b4d51ca5d9b1b01f6e334a7fe06c4628700e6e311bb9d97e0fb8243224/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-produce-1",
+      "order": 34,
+      "name": "Hajime",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/1f0865f03e182116b16559973da9003b8edd978a56e4158d2f5d92839f16e722/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-produce-2",
+      "order": 38,
+      "name": "NEXT IDOL AUDITION",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/815922fdd8a986b4990787000fe743adc62dbfb22f3490a0d381774472e29a99/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-produce-2-master-ranking",
+      "order": 48,
+      "name": "N.I.A Master Ranking",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5636ad3bab49339ebcc9ecea437be8489ed6a0838a254548dbd27144fe9e46d8/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-produce-drink",
+      "order": 16,
+      "name": "P-Drinks",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/18153e1564b37807532c144ce77376fde49d0a20571240bad7849a2c262ac6d2/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-produce-item",
+      "order": 17,
+      "name": "P-Items",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4e85c926d879241b2181a28e1b58e6f357f41426e1d172d31f612c29f5ae52af/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-produce-ranking",
+      "order": 35,
+      "name": "Produce Rankings",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ec39c5bd2f6da408df7a62e759f6a75c704004d2a0ec56b6ba02eda581b9fd46/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-ProduceSchedule",
+      "order": 11,
+      "name": "P-Book",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9e9f06d5d30e2451fe5be29abcb54899a95afac0f87b9110f6df988b0fab5264/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-refresh",
+      "order": 15,
+      "name": "Rest",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e3d4f372f1ae3672ca4af2a35ba552d10ba2bb1196f25c2740cd4291d40652ec/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-result",
+      "order": 31,
+      "name": "Produce Results",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8d868f07da05a39f5881f01a6cd2d5ed796abb14cec520d152278928102d88d4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-schedule-confirm",
+      "order": 12,
+      "name": "Schedule",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/49129ce7a7c5a15ca94b0b607e7301e755cdaac0034a4e6ff7b26635ac84dcbf/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-schedule-select",
+      "order": 9,
+      "name": "Schedule Selection",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/76a702194371ac6094b16e5f5edfb3877bb6f55836aaeec568009eb78dbc3d42/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-select-info",
+      "order": 5,
+      "name": "Formation Details",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9de55f3f418d6da89bacf9017f817424207a2a29b8d8356d6e87f82a461e1bd6/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-self_lesson",
+      "order": 41,
+      "name": "Self-Lessons",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5cf3c83601ff180df543eb7c05cb865df9df7efbf0afc90646faf3014d39d7c7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-seminar",
+      "order": 36,
+      "name": "Training",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7cc161280dee4c5a841d297ab0ba4faf0d8b302ea0e9f44ce818c0eb4972d401/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-shool-actibity",
+      "order": 20,
+      "name": "Lessons/Outings",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/fdd91c9d8dc50475a5ec4523ab81999a96eec89b733c651f315d477b38cf3075/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-shop",
+      "order": 19,
+      "name": "Consultations",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b7db60a48469ba11bfe78ff24adf226089ee61c9618baf83b777fca72901c8fa/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-sp-lesson",
+      "order": 25,
+      "name": "SP-Lessons",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/866a82568980d12d7b128344ddefdf6e6de8758f98f82b92f743e21b23835fa0/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-support-card-deck-edit",
+      "order": 6,
+      "name": "Support Card Formation (Produce)",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/67b2c3941f3f59b4edf0008285eff0bae79966982f2333253fdd6032bd00b3a4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-support-event",
+      "order": 23,
+      "name": "Support Card Events",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/74b138401b3780833b9bbd5096dd3d962f8cd47d141f28b57a3ac5aa75505468/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-true-end",
+      "order": 30,
+      "name": "True End: Hajime",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/39376f54bc6658f055f3ca3572cd103a6addaaa9e1972f866cd01caba9c940b2/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-produce",
+      "id": "produce-true-end-2",
+      "order": 46,
+      "name": "True End: N.I.A",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/2f1c9cb33821bc605f6b71e9a8f3a3d0ab456e779a41e8e2f3b673d0aafbb127/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-producer-ranking",
+      "id": "producer-ranking",
+      "order": 1,
+      "name": "Producer Ranking",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/24339460f5106eb18b80c0e08070d2f910b76f85d246202582b4decc2f62f714/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-producer-ranking",
+      "id": "producer-ranking-season",
+      "order": 2,
+      "name": "Seasons",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/547bbb580caa4b53b4890d062528f0c60f17e6dcf7751bb5daa75041fe6017fe/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-event-produce",
+      "order": 2,
+      "name": "Event Mode Produce",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/53d911c994321cf4012b0a5025ef29ea4debd538a72c883486b423f293c827cd/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-reroll",
+      "order": 3,
+      "name": "Memory Ability Reroll",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8262699f0ea3f82c468712b81b657670179ef6726bd778ade528afd5c74fce0c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-research-event",
+      "order": 1,
+      "name": "Asari-Sensei's Produce Seminar",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8b329388918a9179f7dd8d3e4a249f76872135055703548cc96f153b789aff16/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-coingasha",
+      "order": 5,
+      "name": "Coin Gacha",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7284b1b9c3487104ec03df3bd6e01bc458cd68ce8f6a1458204cf1c23d0b0fb8/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-costume",
+      "order": 9,
+      "name": "Costume Shop",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9950ec860fe8c7271c8ad465a63f6a5fd5a072fd51cc454eb27055dcee2a965f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-exchange",
+      "order": 7,
+      "name": "Item Exchange",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/240089810cd581169cac11edd9050cb850156fdf57f5bbc47655981578f1c7e0/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-exchange-daily",
+      "order": 6,
+      "name": "Daily Exchange",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c8963d9e3cc422e9b420544f6b65282a8531b7ab7579a041d11a3ef1b383c276/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-exchange-ticket",
+      "order": 8,
+      "name": "Ticket Exchange",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/cd72e0cf81c5b7ac5a9eee32fde09adaf56b4a65a3aae283830ce428a1690c7a/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-itemshop",
+      "order": 3,
+      "name": "Packs",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ddd84f7386d5042fd2e3167533357d11532ffb6ac065dac98bde07dffd7c2b73/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-jewel",
+      "order": 2,
+      "name": "Jewels",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c318aecda93c21f5fe893e48f01af369ba8b860dbc8a7cf1473bfcf32af3753a/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-mission-pass",
+      "order": 4,
+      "name": "Passes",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/768da0242bfba47305409e0c2dd68089491e52d916e28cec74ad7b7e58fea15f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-shop",
+      "id": "shop-shop-all",
+      "order": 1,
+      "name": "Shop",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c2534b34b4a52629c80ae458297c23c9f7e1a849f6abbbfd69389ecf9d86c723/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-story",
+      "id": "story-story",
+      "order": 1,
+      "name": "Commu",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3b4a20f32eb91ce3cc00dcaf838acfab515b62b191cfa9d58cc554aa6e15d0c3/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-story",
+      "id": "story-story-event-story",
+      "order": 5,
+      "name": "Event Commu",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b83d73d654f16d498b7a2f5cebef214abcbeabecf5e895faf8903428fb3efe26/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-story",
+      "id": "story-story-idol",
+      "order": 3,
+      "name": "Idol Commu",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/d5429c5704179444c78ec9d5d61cfb1da5dfe0f824f86a51bdf595c3114cabae/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-story",
+      "id": "story-story-main",
+      "order": 2,
+      "name": "Hatsuboshi Commu",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7255ebcb3ba84c0f4ba4084c1b8dfeb2f31a2283b36107561cf22dbc4cdc2313/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-story",
+      "id": "story-story-support-card",
+      "order": 4,
+      "name": "Support Commu",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6c7842fa9d871444d97989c82f637d861e035c84b0b236dd5b1f32638ff7cb32/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-story-event",
+      "id": "story-event-event-coin",
+      "order": 6,
+      "name": "Event Exchange Items",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/933da18b573607d542beb60780b60f8b28413f2346e83872a5d938af419c893a/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-story-event",
+      "id": "story-event-event-finish",
+      "order": 7,
+      "name": "After the Event",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/beddcb43c8c14d4c804981013b310d4d7ee39c803829d2e99d14d5ab7a870fb8/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-story-event",
+      "id": "story-event-event-mission",
+      "order": 5,
+      "name": "Event Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/acae3544777787c490e9bd1ae6cda0010a3d0d58c3ceeebcbc279c04bebf896f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-story-event",
+      "id": "story-event-event-point",
+      "order": 3,
+      "name": "Cumulative Event Points Rewards",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/1b463aedce761d20d514d51761f2865a191fa9eed394b4b2ab18b046f9cb8f04/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-story-event",
+      "id": "story-event-event-story",
+      "order": 1,
+      "name": "Story Events",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/38ff07b3fa6b2636953560c595129892572fc043730c2835aef199ed8441e484/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-story-event",
+      "id": "story-event-event-story-bonus",
+      "order": 2,
+      "name": "Event Bonuses",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b910beb4027ce06d9f60a0528d4afd4104eb951958704857680c285853ae040d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-story-event",
+      "id": "story-event-event-story-story-unlock",
+      "order": 4,
+      "name": "Event Commu",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3cb663d2655076e8acaa5c0b6e69cb5d8ad8dee76dd0593f3d7e6a515f0ad04a/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-story-event-guild-mission",
+      "id": "guild-mission",
+      "order": 1,
+      "name": "Linked Missions",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/016a1e23f1525519c8ecb35d46b9e2e851d75de269a649fdbcdc098f45d697a3/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-lesson-support",
+      "order": 2,
+      "name": "Skill Card Support",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3ed53b2dddb2b9b8e6a01b7fc695b1546a1ed504563b58fb167265651749b3a6/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-produce-upgrade-select",
+      "order": 5,
+      "name": "Level Upgrade",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/97d9fc16d9dad67c2200741d4c59601cbd8b104108751e30a555c326b5da3bcd/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-support-ability",
+      "order": 4,
+      "name": "Support Abilities",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6a0030c8b63c1109f80744fe7b3530caf933dda661369d802974548fd6bbf7b7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-support-bonus",
+      "order": 9,
+      "name": "Support Bonuses",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ea037c1b55c7d21c698c2724a2fecdd4749c6338ccd485dbf23b77f3d1005f7a/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-support-card",
+      "order": 1,
+      "name": "Support Cards",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/04d3385d8bc107805f7e661b5675c050bfbbf3434817f486ba1ee6a5df7e9218/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-support-card-deck-edit",
+      "order": 7,
+      "name": "Support Card Formation",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/2d2058c46e1e7f78802e3e30ad35f703859667c7a7e858d62f0ee4733a397b79/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-support-card-exchange",
+      "order": 8,
+      "name": "Support Conversion",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a02e1832b70efb8ba0e1837c384ee04a194b40438f5d6ee340ca53b2b0a7cf98/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-support-card-level-limit-rank",
+      "order": 6,
+      "name": "Limit Break",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3c7fb6bda20452a5231ec846c7d86ed2ea84e957200977ef54f9f26026c518d8/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-support",
+      "id": "support-support-event",
+      "order": 3,
+      "name": "Support Events",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/97530cbc3d1d2699efa19a746ea52dec4065d37cdab3788b9c74380799d83adf/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-tower",
+      "id": "clear-rank",
+      "order": 3,
+      "name": "Clear Condition Stars",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ef4b13222933e6a963be5b9e3a19d7dcf74aa6e2b6a9162fec3755be31df9503/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-tower",
+      "id": "memory-memory-tower",
+      "order": 4,
+      "name": "Memory Formation for Idol Road",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/fb33b03f0b4fb366a7f80c9c476238516c4e8027ae51fa6095ceb1c63a0e2384/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-tower",
+      "id": "tower",
+      "order": 1,
+      "name": "Idol Road",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/668ab4737da9c51929275f801c7f998a8578e5af3d58d8d73d963dc9875d5e4b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-tower",
+      "id": "tower-achivement",
+      "order": 5,
+      "name": "Idol Road Achievements",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/bd7dbecc36d63a5ee0f8bd07f2fb17093c50188963188e75daab51c5499c3a2e/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-tower",
+      "id": "tower-ranking",
+      "order": 6,
+      "name": "Idol Road Ranking",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c0eb9fd62719ac1940a91d6f2868e4896e2b9ff92a1d1403836b553e160a59b3/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-tower",
+      "id": "tower-rule",
+      "order": 2,
+      "name": "Rules for Idol Road",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b5e4178d9a7ddabb5b0c82258acf4830459e35d0928499d25b65e43193b1dc69/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    }
+  ]
 }
