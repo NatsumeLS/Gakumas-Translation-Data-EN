@@ -354,6 +354,10 @@
       "name": "Get B Rank with SSR Mao"
     },
     {
+      "id": "hidden_mission-normal-produce-clear-i_card-atbm-3-000-b",
+      "name": "Achieve a B-Rank with SSR Tsubame"
+    },
+    {
       "id": "hidden_mission-normal-produce-clear-i_card-fktn-3-000-b",
       "name": "Get B Rank with SSR Kotone"
     },
@@ -530,6 +534,10 @@
       "name": "See A-End with Mao"
     },
     {
+      "id": "hidden_mission-view-ending-normal-a-atbm",
+      "name": "View the A End with Tsubame"
+    },
+    {
       "id": "hidden_mission-view-ending-normal-a-fktn",
       "name": "Achieve A-End with Kotone"
     },
@@ -572,6 +580,10 @@
     {
       "id": "hidden_mission-view-ending-normal-b-amao",
       "name": "See B-End with Mao"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-atbm",
+      "name": "View the B End with Tsubame"
     },
     {
       "id": "hidden_mission-view-ending-normal-b-fktn",
@@ -618,6 +630,10 @@
       "name": "See C-End with Mao"
     },
     {
+      "id": "hidden_mission-view-ending-normal-c-atbm",
+      "name": "View the C End with Tsubame"
+    },
+    {
       "id": "hidden_mission-view-ending-normal-c-fktn",
       "name": "Achieve C-End with Kotone"
     },
@@ -660,6 +676,10 @@
     {
       "id": "hidden_mission-view-ending-true-amao",
       "name": "See True End with Mao"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-atbm",
+      "name": "View the True End with Tsubame"
     },
     {
       "id": "hidden_mission-view-ending-true-fktn",
@@ -1323,7 +1343,7 @@
     },
     {
       "id": "mission-daily-incrementpvpratewincount-1",
-      "name": "Participate in a contest {threshold} time(s)"
+      "name": "Enter Link Contests {threshold} times"
     },
     {
       "id": "mission-daily-incrementreceivemoney-1",
@@ -3639,31 +3659,31 @@
     },
     {
       "id": "mission-normal-absolutepvprategrade-2",
-      "name": "Reach Grade 2 in a contest"
+      "name": "Reach Grade 2 in a Link Contest"
     },
     {
       "id": "mission-normal-absolutepvprategrade-3",
-      "name": "Reach Grade 3 in a contest"
+      "name": "Reach Grade 3 in a Link Contest"
     },
     {
       "id": "mission-normal-absolutepvprategrade-4",
-      "name": "Reach Grade 4 in a contest"
+      "name": "Reach Grade 4 in a Link Contest"
     },
     {
       "id": "mission-normal-absolutepvprategrade-5",
-      "name": "Reach Grade 5 in a contest"
+      "name": "Reach Grade 5 in a Link Contest"
     },
     {
       "id": "mission-normal-absolutepvprategrade-6",
-      "name": "Reach Grade 6 in a contest"
+      "name": "Reach Grade 6 in a Link Contest"
     },
     {
       "id": "mission-normal-absolutepvprategrade-7",
-      "name": "Reach Grade 7 in a contest"
+      "name": "Reach Grade 7 in a Link Contest"
     },
     {
       "id": "mission-normal-absolutepvprateunitoverallpower-1",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "mission-normal-absolutesupportcardcount-1",
@@ -3747,11 +3767,11 @@
     },
     {
       "id": "mission-normal-incrementpvpratelivebattlescorecount-01",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "mission-normal-incrementpvpratewincount-1",
-      "name": "Win {threshold} time(s) in contests"
+      "name": "Win {threshold} times in Link Contests"
     },
     {
       "id": "mission-normal-incrementreceivemoney-1",
@@ -3854,6 +3874,10 @@
       "name": "Achieve C rating with Mao"
     },
     {
+      "id": "mission-normal-produce-clear-atbm-c",
+      "name": "Achieve a C Rank with Tsubame"
+    },
+    {
       "id": "mission-normal-produce-clear-fktn-c",
       "name": "Achieve C Rank with Kotone"
     },
@@ -3900,6 +3924,10 @@
     {
       "id": "mission-normal-profileupdate-1",
       "name": "Set a profile"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_atbm-0001",
+      "name": "Tsubame Piece Pack Activation Condition"
     },
     {
       "id": "mission-normal-view-shop_pack_hmsz-0001",
@@ -4083,7 +4111,7 @@
     },
     {
       "id": "mission-release_mission-3-3",
-      "name": "Participate in a contest {threshold} time(s)"
+      "name": "Use Skill Cards {threshold} times in Link Contests"
     },
     {
       "id": "mission-release_mission-3-4",
@@ -4506,6 +4534,10 @@
       "name": "Clear SP Lessons {threshold} time(s)"
     },
     {
+      "id": "mission-weekly-competitionplaycount-1",
+      "name": "Enter Link Contests {threshold} times"
+    },
+    {
       "id": "mission-weekly-incrementgashadrawcount-1",
       "name": "Draw Coin Gacha {threshold} time(s)"
     },
@@ -4799,7 +4831,7 @@
     },
     {
       "id": "panel_mission-event-niv-mission_4",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "panel_mission-event-niv-mission_5",
@@ -4988,6 +5020,54 @@
     {
       "id": "achieve-i_card-amao-3-015-06",
       "name": "【Look】Raise Mao Arimura's Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-01",
+      "name": "【Single-Minded】Pass the Final Exam while producing Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-02",
+      "name": "【Single-Minded】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-03",
+      "name": "【Single-Minded】Earn A+ or higher {threshold} times while producing Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-04",
+      "name": "【Single-Minded】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-05",
+      "name": "【Single-Minded】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-06",
+      "name": "【Single-Minded】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-01",
+      "name": "【Rironbusou Shite】Pass the Final Exam while producing Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-02",
+      "name": "【Rironbusou Shite】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-03",
+      "name": "【Rironbusou Shite】Earn A+ or higher {threshold} times while producing Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-04",
+      "name": "【Rironbusou Shite】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-05",
+      "name": "【Rironbusou Shite】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-06",
+      "name": "【Rironbusou Shite】Raise Tsubame Amaya’s Training Stage to {threshold}"
     },
     {
       "id": "achieve-i_card-fktn-2-000-04",
@@ -6794,6 +6874,10 @@
       "name": "Earn {threshold} stars in Mao Arimura's achievements"
     },
     {
+      "id": "achieve-m_atbm-001",
+      "name": "Earn {threshold} Achievement Stars for Tsubame Amaya"
+    },
+    {
       "id": "achieve-m_fktn-001",
       "name": "Earn {threshold} stars in Kotone Fujita's achievements"
     },
@@ -6883,59 +6967,59 @@
     },
     {
       "id": "achieve-o_014",
-      "name": "Rank 1st in a contest"
+      "name": "Place 1st in a Link Contest"
     },
     {
       "id": "achieve-o_015",
-      "name": "Rank within the top 100 in a contest"
+      "name": "Place within the Top 100 in a Link Contest"
     },
     {
       "id": "achieve-o_016",
-      "name": "Reach Grade 1 in a contest"
+      "name": "Reach Grade 1 in a Link Contest"
     },
     {
       "id": "achieve-o_017",
-      "name": "Reach Grade 2 in a contest"
+      "name": "Reach Grade 2 in a Link Contest"
     },
     {
       "id": "achieve-o_018",
-      "name": "Reach Grade 3 in a contest"
+      "name": "Reach Grade 3 in a Link Contest"
     },
     {
       "id": "achieve-o_019",
-      "name": "Reach Grade 4 in a contest"
+      "name": "Reach Grade 4 in a Link Contest"
     },
     {
       "id": "achieve-o_020",
-      "name": "Reach Grade 5 in a contest"
+      "name": "Reach Grade 5 in a Link Contest"
     },
     {
       "id": "achieve-o_021",
-      "name": "Reach Grade 6 in a contest"
+      "name": "Reach Grade 6 in a Link Contest"
     },
     {
       "id": "achieve-o_022",
-      "name": "Reach Grade 7 in a contest"
+      "name": "Reach Grade 7 in a Link Contest"
     },
     {
       "id": "achieve-o_023",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "achieve-o_024",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "achieve-o_025",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "achieve-o_026",
-      "name": "Rank 1st in Grade 7 of a contest"
+      "name": "Place 1st at Link Contest Grade 7"
     },
     {
       "id": "achieve-o_027",
-      "name": "Rank within the top 100 in Grade 7 of a contest"
+      "name": "Place within the Top 100 at Link Contest Grade 7"
     },
     {
       "id": "achieve-p_common-001",
@@ -7144,6 +7228,86 @@
     {
       "id": "achieve-p_idol-amao-022",
       "name": "Raise Mao Arimura's training stage to {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-atbm-000",
+      "name": "View the True End with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-000-1",
+      "name": "View True End: N.I.A with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-001",
+      "name": "Use Skill Cards {threshold} times while producing Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-002",
+      "name": "Clear Lessons {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-003",
+      "name": "Clear SP Lessons {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-004",
+      "name": "Pass the Final Exam and earn B or higher {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-005",
+      "name": "Pass the Final Exam and earn A or higher {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-006",
+      "name": "Pass the Final Exam and earn S or higher {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-007",
+      "name": "Complete production {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-008",
+      "name": "Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-atbm-009",
+      "name": "Pass the Final Exam {threshold} times while producing Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-010",
+      "name": "Gain {threshold} fans for Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-011",
+      "name": "Raise Tsubame Amaya’s Affection Level to {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-atbm-012",
+      "name": "Use P-Drinks {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-013",
+      "name": "Gain a total of {threshold} Energy while producing Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-014",
+      "name": "Finish producing Tsubame Amaya with Dance raised to 1000 or higher"
+    },
+    {
+      "id": "achieve-p_idol-atbm-015",
+      "name": "Obtained {threshold}★  in 【The Idol Road】"
+    },
+    {
+      "id": "achieve-p_idol-atbm-016",
+      "name": "Pass the Final Exam and earn S+ or higher {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-017",
+      "name": "Take 1st place in the Final Exam on Tsubame Amaya’s Regular Live “First” (Master difficulty)"
+    },
+    {
+      "id": "achieve-p_idol-atbm-020",
+      "name": "Pass the Final Exam and earn SS or higher {threshold} times with Tsubame Amaya"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -8507,7 +8671,7 @@
     },
     {
       "id": "main_task_group-01-01#26",
-      "name": "Form a team for a contest"
+      "name": "Create a Formation for Link Contests"
     },
     {
       "id": "main_task_group-01-01#27",
@@ -8595,7 +8759,7 @@
     },
     {
       "id": "main_task_group-01-01#48",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "main_task_group-01-01#49",
@@ -8647,7 +8811,7 @@
     },
     {
       "id": "main_task_group-02-01#1",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "main_task_group-02-01#2",
@@ -8659,7 +8823,7 @@
     },
     {
       "id": "main_task_group-02-01#4",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "main_task_group-02-01#5",
@@ -8727,11 +8891,11 @@
     },
     {
       "id": "main_task_group-02-01#21",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "main_task_group-02-01#22",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "main_task_group-02-01#23",
@@ -8751,7 +8915,7 @@
     },
     {
       "id": "main_task_group-02-01#27",
-      "name": "Participate in a contest"
+      "name": "Use Skill Cards {threshold} times in Link Contests"
     },
     {
       "id": "main_task_group-02-01#28",
@@ -8767,7 +8931,7 @@
     },
     {
       "id": "main_task_group-02-01#31",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "main_task_group-02-01#32",
@@ -8795,7 +8959,7 @@
     },
     {
       "id": "main_task_group-02-01#38",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "main_task_group-02-01#39",
@@ -8811,7 +8975,7 @@
     },
     {
       "id": "main_task_group-02-01#42",
-      "name": "Participate in a contest"
+      "name": "Use Skill Cards {threshold} times in Link Contests"
     },
     {
       "id": "main_task_group-02-01#43",
@@ -8839,7 +9003,7 @@
     },
     {
       "id": "main_task_group-02-01#49",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "main_task_group-02-01#50",
@@ -8867,11 +9031,11 @@
     },
     {
       "id": "main_task_group-02-01#56",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "main_task_group-02-01#57",
-      "name": "Participate in a contest"
+      "name": "Use Skill Cards {threshold} times in Link Contests"
     },
     {
       "id": "main_task_group-02-01#58",
@@ -8895,7 +9059,7 @@
     },
     {
       "id": "main_task_group-02-01#63",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "main_task_group-02-01#64",
@@ -8931,7 +9095,7 @@
     },
     {
       "id": "main_task_group-02-01#72",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "main_task_group-02-01#73",
@@ -8947,7 +9111,7 @@
     },
     {
       "id": "main_task_group-02-01#76",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "main_task_group-02-01#77",
@@ -8963,7 +9127,7 @@
     },
     {
       "id": "main_task_group-02-01#80",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "main_task_group-02-01#81",
@@ -8991,7 +9155,7 @@
     },
     {
       "id": "main_task_group-02-01#87",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "main_task_group-02-01#88",
@@ -9103,7 +9267,7 @@
     },
     {
       "id": "main_task_group-03-01#15",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "main_task_group-03-01#16",
@@ -9123,7 +9287,7 @@
     },
     {
       "id": "main_task_group-03-01#20",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "main_task_group-03-01#21",
@@ -9143,7 +9307,7 @@
     },
     {
       "id": "main_task_group-03-01#25",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "main_task_group-03-01#26",
@@ -9167,7 +9331,7 @@
     },
     {
       "id": "main_task_group-03-01#31",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "main_task_group-03-01#32",
@@ -9187,7 +9351,7 @@
     },
     {
       "id": "main_task_group-03-01#36",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "main_task_group-03-01#37",
@@ -9259,15 +9423,15 @@
     },
     {
       "id": "main_task_group-03-01#54",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "main_task_group-03-01#55",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "main_task_group-03-01#56",
-      "name": "Participate in a contest"
+      "name": "Use Skill Cards {threshold} times in Link Contests"
     },
     {
       "id": "main_task_group-03-01#57",
@@ -9291,11 +9455,11 @@
     },
     {
       "id": "main_task_group-03-01#62",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "main_task_group-03-01#63",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "main_task_group-03-01#64",
@@ -9343,11 +9507,11 @@
     },
     {
       "id": "main_task_group-03-01#75",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "main_task_group-03-01#76",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "main_task_group-03-01#77",
@@ -9427,11 +9591,11 @@
     },
     {
       "id": "main_task_group-03-01#96",
-      "name": "Increase your unit's overall strength in the contest to {threshold} or higher"
+      "name": "Raise the Unit Total Power in a Link Contest to {threshold} or higher"
     },
     {
       "id": "main_task_group-03-01#97",
-      "name": "Score {threshold} or higher in a contest"
+      "name": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "main_task_group-03-01#98",

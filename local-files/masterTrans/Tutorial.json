@@ -2461,8 +2461,8 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
-        " The [Master] difficulty level of [N.I.A] has been unlocked. At the same time, the [N.I.A Master Ranking] has also been unlocked. The difficulty level is higher than [Pro], but it is easier to increase parameters and collect fan votes. Only idols who have achieved an bond level of 20 can challenge this. ",
-        " Challenge P-Items are P-Items that can be selected before starting production on the [Master] difficulty level. The effect of Challenge P-Items is to increase the amount of parameters acquired through audition bonuses when clearing an audition."
+        " The “Master” difficulty for “N.I.A” has been unlocked.\nIt is more difficult than “Pro,” but parameters increase more easily, and fan votes are easier to gather.\nOnly idols who have reached Affection Level 20 can attempt it. ",
+        " Challenge P Items are P Items that can be selected before starting Produce on “Master” difficulty.\nTheir effects increase the amount of parameters gained from the Audition Bonus when clearing auditions.\n"
       ],
       "title": "N.I.A Master"
     },
@@ -2517,6 +2517,20 @@
         ""
       ],
       "title": "Producer Ranking"
+    },
+    {
+      "tutorialType": "TutorialType_CompetitionPreOpen",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
+      "texts": [
+        "",
+        " Select one stage and perform.\nUp to three idols can participate in a relay-style performance,\nand you compete for the highest score based on the total score earned.\n\n※The number of idols you can use changes depending on the Grade."
+      ],
+      "title": ""
     }
   ]
 }

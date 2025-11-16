@@ -216,6 +216,66 @@
       "description": "【Mite】Raise Mao Arimura's Training Stage to {threshold}"
     },
     {
+      "id": "achieve-i_card-atbm-2-000-01",
+      "name": "Flash of Violet Lightning",
+      "description": "【Single-Minded】Pass the Final Exam while producing Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-02",
+      "name": "Single-Minded",
+      "description": "【Single-Minded】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-03",
+      "name": "Because I’m Your Assigned Idol!",
+      "description": "【Single-Minded】Earn A+ or higher {threshold} times while producing Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-04",
+      "name": "Single-Minded +",
+      "description": "【Single-Minded】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-05",
+      "name": "Single-Minded ++",
+      "description": "【Single-Minded】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-06",
+      "name": "Single-Minded +++",
+      "description": "【Single-Minded】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-01",
+      "name": "I Will Never",
+      "description": "【Rironbusou Shite】Pass the Final Exam while producing Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-02",
+      "name": "Rironbusou Shite",
+      "description": "【Rironbusou Shite】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-03",
+      "name": "I Want to Do This",
+      "description": "【Rironbusou Shite】Earn A+ or higher {threshold} times while producing Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-04",
+      "name": "Rironbusou Shite +",
+      "description": "【Rironbusou Shite】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-05",
+      "name": "Rironbusou Shite ++",
+      "description": "【Rironbusou Shite】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-06",
+      "name": "Rironbusou Shite +++",
+      "description": "【Rironbusou Shite】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
       "id": "achieve-i_card-fktn-2-000-04",
       "name": "Started Being Cute♡ +",
       "description": "【Started Being Cute♡】Raise Kotone Fujita's SP training stage to {threshold}"
@@ -2471,6 +2531,11 @@
       "description": "Mao Arimura's achievements: Collect {threshold}★"
     },
     {
+      "id": "achieve-m_atbm-001",
+      "name": "Master Achievement",
+      "description": "Earn {threshold} Achievement Stars for Tsubame Amaya"
+    },
+    {
       "id": "achieve-m_fktn-001",
       "name": "Master Achievement",
       "description": "Kotone Fujita's achievements: Collect {threshold}★"
@@ -2583,72 +2648,72 @@
     {
       "id": "achieve-o_014",
       "name": "Champion",
-      "description": "Place 1st in a contest"
+      "description": "Place 1st in a Link Contest"
     },
     {
       "id": "achieve-o_015",
       "name": "Top 100",
-      "description": "Place within the top 100 in a contest"
+      "description": "Place within the Top 100 in a Link Contest"
     },
     {
       "id": "achieve-o_016",
       "name": "The first step toward dreams",
-      "description": "Reach Grade 1 in a contest"
+      "description": "Reach Grade 1 in a Link Contest"
     },
     {
       "id": "achieve-o_017",
       "name": "Efforts of the inexperienced",
-      "description": "Reach Grade 2 in a contest"
+      "description": "Reach Grade 2 in a Link Contest"
     },
     {
       "id": "achieve-o_018",
       "name": "Patience pays off",
-      "description": "Reach Grade 3 in a contest"
+      "description": "Reach Grade 3 in a Link Contest"
     },
     {
       "id": "achieve-o_019",
       "name": "Idol around the clock",
-      "description": "Reach Grade 4 in a contest"
+      "description": "Reach Grade 4 in a Link Contest"
     },
     {
       "id": "achieve-o_020",
       "name": "Using all your senses",
-      "description": "Reach Grade 5 in a contest"
+      "description": "Reach Grade 5 in a Link Contest"
     },
     {
       "id": "achieve-o_021",
       "name": "Master of six arts",
-      "description": "Reach Grade 6 in a contest"
+      "description": "Reach Grade 6 in a Link Contest"
     },
     {
       "id": "achieve-o_022",
       "name": "Reverberating across seas",
-      "description": "Reach Grade 7 in a contest"
+      "description": "Reach Grade 7 in a Link Contest"
     },
     {
       "id": "achieve-o_023",
       "name": "Promising rookie",
-      "description": "Earn a contest score of {threshold} or more"
+      "description": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "achieve-o_024",
       "name": "Dark horse",
-      "description": "Earn a contest score of {threshold} or more"
+      "description": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "achieve-o_025",
       "name": "Main contender",
-      "description": "Earn a contest score of {threshold} or more"
+      "description": "Earn a total Stage High Score of {threshold} or higher in a Link Contest"
     },
     {
       "id": "achieve-o_026",
       "name": "Contest champion",
-      "description": "Place 1st in Grade 7 in a contest"
+      "description": "Place 1st at Link Contest Grade 7"
     },
     {
       "id": "achieve-o_027",
       "name": "Elite",
-      "description": "Place within the top 100 in Grade 7 in a contest"
+      "description": "Place within the Top 100 at Link Contest Grade 7"
     },
     {
       "id": "achieve-p_common-001",
@@ -2909,6 +2974,106 @@
       "id": "achieve-p_idol-amao-022",
       "name": "Ideal and reality",
       "description": "Set Mao Arimura's SP training stage to {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-atbm-000",
+      "name": "Proof of Worth",
+      "description": "View the True End with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-000-1",
+      "name": "Without You, I...",
+      "description": "View True End: N.I.A with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-001",
+      "name": "Grasping the Situation",
+      "description": "Use Skill Cards {threshold} times while producing Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-002",
+      "name": "School's No. 2 Talent",
+      "description": "Clear Lessons {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-003",
+      "name": "Innate Talent",
+      "description": "Clear SP Lessons {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-004",
+      "name": "Pride Far Too High",
+      "description": "Pass the Final Exam and earn B or higher {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-005",
+      "name": "The Path to Surpass",
+      "description": "Pass the Final Exam and earn A or higher {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-006",
+      "name": "Resolve to Devour the Pinnacle",
+      "description": "Pass the Final Exam and earn S or higher {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-007",
+      "name": "Signal of Rebellion",
+      "description": "Complete production {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-008",
+      "name": "Beyond the Shell",
+      "description": "Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-atbm-009",
+      "name": "Unending Flame",
+      "description": "Pass the Final Exam {threshold} times while producing Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-010",
+      "name": "Villain-Type Idol",
+      "description": "Gain {threshold} fans for Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-011",
+      "name": "You Will Support Me",
+      "description": "Raise Tsubame Amaya’s Bond Level to {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-atbm-012",
+      "name": "Vitality Boost",
+      "description": "Use P-Drinks {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-013",
+      "name": "To Defeat Them",
+      "description": "Gain a total of {threshold} Energy while producing Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-014",
+      "name": "Everything First-Class",
+      "description": "Finish producing Tsubame Amaya with Dance raised to 1000 or higher"
+    },
+    {
+      "id": "achieve-p_idol-atbm-015",
+      "name": "「The Idol Road 」Tsubame Amaya",
+      "description": "Earn {threshold} stars by clearing「The Idol Road 」"
+    },
+    {
+      "id": "achieve-p_idol-atbm-016",
+      "name": "Supreme Joy",
+      "description": "Pass the Final Exam and earn S+ or higher {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-017",
+      "name": "Tsubame Amaya Master",
+      "description": "Take 1st place in the Final Exam on Tsubame Amaya’s Regular Live “First” (Master difficulty)"
+    },
+    {
+      "id": "achieve-p_idol-atbm-020",
+      "name": "The Path to Follow",
+      "description": "Pass the Final Exam and earn SS or higher {threshold} times with Tsubame Amaya"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
