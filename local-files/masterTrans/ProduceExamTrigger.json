@@ -3838,6 +3838,41 @@
       ]
     },
     {
+      "id": "e_trigger-exam_card_play-parameter_buff_multiple_per_turn_up-1-p_card_search-playing-idol-unique-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "When using an idol-exclusive skill card: "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamParameterBuffMultiplePerTurn",
+          "text": "Excellent shape"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "In this state: "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_card_play-parameter_buff_up-4",
       "produceDescriptions": [
         {
@@ -6613,6 +6648,31 @@
       ]
     },
     {
+      "id": "e_trigger-exam_play_count_interval-3-p_card_search-active_skill-target",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ActiveSkillCard",
+          "text": "Active skill card "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Every 3 uses of, "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_play_count_interval-3-p_card_search-mental_skill-target",
       "produceDescriptions": [
         {
@@ -7754,9 +7814,7 @@
     },
     {
       "id": "e_trigger-exam_start_exam-no_description",
-      "produceDescriptions": [
-        ""
-      ]
+      "produceDescriptions": []
     },
     {
       "id": "e_trigger-exam_start_exam-parameter_buff-1",
@@ -12540,9 +12598,7 @@
     },
     {
       "id": "e_trigger-exam_turn_timer-1",
-      "produceDescriptions": [
-        ""
-      ]
+      "produceDescriptions": []
     },
     {
       "id": "e_trigger-exam_turn_timer-1-description",

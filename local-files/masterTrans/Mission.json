@@ -203,31 +203,31 @@
     },
     {
       "id": "dearness_event_ssmk-002",
-      "name": "Choose \"Consultation\" {threshold} times during Produce with Sumika Shiun"
+      "name": "Choose Consultation {threshold} times in Sumika Shiun’s Produce"
     },
     {
       "id": "dearness_event_ssmk-003",
-      "name": "Choose \"Outing\" {threshold} times during Produce with Sumika Shiun"
+      "name": "Choose Outing {threshold} times in Sumika Shiun’s Produce"
     },
     {
       "id": "dearness_event_ssmk-004",
-      "name": "Choose \"Work\" {threshold} times during Produce with Sumika Shiun"
+      "name": "Choose Job {threshold} times in Sumika Shiun’s Produce"
     },
     {
       "id": "dearness_event_ssmk-005",
-      "name": "Choose \"Gift\" {threshold} times during Produce with Sumika Shiun"
+      "name": "Choose Gift {threshold} times in Sumika Shiun’s Produce"
     },
     {
       "id": "dearness_event_ssmk-006",
-      "name": "Clear Dance Lessons {threshold} times with Sumika Shiun"
+      "name": "Clear Dance Lesson {threshold} times with Sumika Shiun"
     },
     {
       "id": "dearness_event_ssmk-007",
-      "name": "Choose \"Sp. Consult\" {threshold} times during Produce with Sumika Shiun"
+      "name": "Choose Sp. Consult {threshold} times in Sumika Shiun’s Produce"
     },
     {
       "id": "dearness_event_ssmk-008",
-      "name": "Pass the Final Exam and earn SS rank or higher {threshold} times with Sumika Shiun"
+      "name": "Pass the Final Exam and earn SS or higher {threshold} times with Sumika Shiun"
     },
     {
       "id": "dearness_normal-mission_amao-001",
@@ -378,6 +378,14 @@
       "name": "Place within 1st in a Contest"
     },
     {
+      "id": "hidden_mission-achieve-o_015_001",
+      "name": "Place within the Top 100 in a Link Contest"
+    },
+    {
+      "id": "hidden_mission-achieve-o_015_002",
+      "name": "Place within the Top 100 in a Contest"
+    },
+    {
       "id": "hidden_mission-achieve-o_016_001",
       "name": "Reach Grade 1 in a Link Contest"
     },
@@ -432,6 +440,22 @@
     {
       "id": "hidden_mission-achieve-o_022_002",
       "name": "Reach Grade 7 in a contest"
+    },
+    {
+      "id": "hidden_mission-achieve-o_026_001",
+      "name": "hidden_mission-achieve-o_026_001"
+    },
+    {
+      "id": "hidden_mission-achieve-o_026_002",
+      "name": "hidden_mission-achieve-o_026_002"
+    },
+    {
+      "id": "hidden_mission-achieve-o_027_001",
+      "name": "hidden_mission-achieve-o_027_001"
+    },
+    {
+      "id": "hidden_mission-achieve-o_027_002",
+      "name": "hidden_mission-achieve-o_027_002"
     },
     {
       "id": "hidden_mission-app-review-main-task-clear",
@@ -4508,6 +4532,38 @@
     {
       "id": "mission-research-event-002-mission_9",
       "name": "Clear a Produce while owning the Skill Card \"Mind, Skill, Body\""
+    },
+    {
+      "id": "mission-research-event-003-mission_1",
+      "name": "Let's log in for {threshold} days!"
+    },
+    {
+      "id": "mission-research-event-003-mission_10",
+      "name": "Clear the Produce while owning the Skill Card “Stardust Sensation”"
+    },
+    {
+      "id": "mission-research-event-003-mission_11",
+      "name": "Clear the Produce while owning the Skill Card “Scribbled in the Margins”"
+    },
+    {
+      "id": "mission-research-event-003-mission_12",
+      "name": "Clear SP Lessons {threshold} time(s)"
+    },
+    {
+      "id": "mission-research-event-003-mission_2",
+      "name": "Plan: Pass the Final Exam {threshold} times with a Sense-type Produce Idol"
+    },
+    {
+      "id": "mission-research-event-003-mission_3",
+      "name": "Exchange consultations {threshold} time(s) in production"
+    },
+    {
+      "id": "mission-research-event-003-mission_8",
+      "name": "Clear the Produce while owning the Skill Card “I am a star”"
+    },
+    {
+      "id": "mission-research-event-003-mission_9",
+      "name": "Clear the Produce while owning the Skill Card “Rainbow Dreamer”"
     },
     {
       "id": "mission-story-event-001-mission_1",
@@ -8848,6 +8904,10 @@
     {
       "id": "achieve-p_idol-ttmr-022",
       "name": "Set Temari Tsukimura’s training stage to {threshold}"
+    },
+    {
+      "id": "achievement_char_hume-024",
+      "name": "Raise Ume Hanami's training stage to {threshold}"
     },
     {
       "id": "achievement_char_kcna-024",
