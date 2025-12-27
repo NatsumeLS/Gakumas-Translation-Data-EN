@@ -1631,9 +1631,9 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
-        "You can compete against producers nationwide. In contests, you use parameters, skill cards, and P-items linked to Memories obtained from production. ",
-        "Compete on stage and aim for higher scores. The producer with the most stage wins emerges victorious. ",
-        "Contests have grades, with higher rankings leading to promotion. Higher grades offer better rewards. ",
+        "You can compete against producers nationwide.\nIn contests, you use parameters, skill cards, and P-items linked to Memories obtained from production.\n",
+        "Compete on stage and aim for higher scores. The producer with the most stage wins emerges victorious.\n",
+        "Contests have grades, with higher rankings leading to promotion. Higher grades offer better rewards.\n",
         "Collect contest medals to exchange for luxurious rewards at the item shop."
       ],
       "title": ""
@@ -2284,6 +2284,17 @@
       "title": ""
     },
     {
+      "tutorialType": "TutorialType_ProduceLegendTop",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
+      "texts": [],
+      "title": "\"Hajime\" Difficulty: Legend"
+    },
+    {
       "tutorialType": "TutorialType_MissionPanel",
       "idolCardId": "",
       "step": 1,
@@ -2417,6 +2428,17 @@
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [],
       "title": "Producer Ranking"
+    },
+    {
+      "tutorialType": "TutorialType_ProduceCardConvert",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
+      "texts": [],
+      "title": "Skill Card Switch"
     },
     {
       "tutorialType": "TutorialType_CompetitionPreOpen",

@@ -566,6 +566,10 @@
       "name": "Received a star on 【The Idol Road】"
     },
     {
+      "id": "hidden_mission-tower_atbm-clear_star_40",
+      "name": "Received a star on 【The Idol Road】"
+    },
+    {
       "id": "hidden_mission-tower_fktn-clear_star_40",
       "name": "Received a star on 【The Idol Road】"
     },
@@ -616,6 +620,10 @@
     {
       "id": "hidden_mission-view-ending-a-produce_group-002-amao",
       "name": "Achieve A-End with Mao"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-atbm",
+      "name": "Achieve A-End with Tsubame"
     },
     {
       "id": "hidden_mission-view-ending-a-produce_group-002-fktn",
@@ -862,6 +870,10 @@
       "name": "Achieve True End with Mao"
     },
     {
+      "id": "hidden_mission-view-ending-true-produce_group-002-atbm",
+      "name": "Achieve True End with Tsubame"
+    },
+    {
       "id": "hidden_mission-view-ending-true-produce_group-002-fktn",
       "name": "Reach True End with Kotone"
     },
@@ -932,6 +944,10 @@
     {
       "id": "hidden_mission-view-gasha-00640-pickup-002",
       "name": "1.5th Anniversary Season-Limited & Re;IRIS Debut! Draw the 15% SSR Gacha {threshold} times"
+    },
+    {
+      "id": "hidden_mission-view-gasha-200limit-select-pickup-001",
+      "name": "Draw the Story of Re;IRIS Broadcast Commemoration SSR 1.5x Select Pickup Gacha {threshold} times"
     },
     {
       "id": "mission-box-gasha-event-001-mission_1",
@@ -1304,6 +1320,18 @@
     {
       "id": "mission-comeback_daily_release_mission_001-mission_77",
       "name": "Clear all Day 7 missions"
+    },
+    {
+      "id": "mission-continuous-gasha-mission_001-mission_1",
+      "name": "Pass the final exam {threshold} time(s)"
+    },
+    {
+      "id": "mission-continuous-gasha-mission_001-mission_2",
+      "name": "Pass the final exam {threshold} time(s)"
+    },
+    {
+      "id": "mission-continuous-gasha-mission_001-mission_3",
+      "name": "Pass the final exam {threshold} time(s)"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_11",
@@ -4251,7 +4279,7 @@
     },
     {
       "id": "mission-panel-mission-1-7",
-      "name": "Select outings {threshold} time(s) in production"
+      "name": "Choose Outing {threshold} times in Produce"
     },
     {
       "id": "mission-panel-mission-1-8",
@@ -4927,7 +4955,7 @@
     },
     {
       "id": "panel_mission-event-002-mission_7",
-      "name": "Select outings {threshold} time(s) in production"
+      "name": "Choose Outing {threshold} times in Produce"
     },
     {
       "id": "panel_mission-event-002-mission_8",
@@ -5035,7 +5063,7 @@
     },
     {
       "id": "panel_mission-event-004-mission_7",
-      "name": "Select outings {threshold} time(s) in production"
+      "name": "Choose Outing {threshold} times in Produce"
     },
     {
       "id": "panel_mission-event-004-mission_8",
@@ -5107,7 +5135,7 @@
     },
     {
       "id": "panel_mission-event-006-mission_7",
-      "name": "Select outings {threshold} time(s) in production"
+      "name": "Choose Outing {threshold} times in Produce"
     },
     {
       "id": "panel_mission-event-006-mission_8",
@@ -5116,6 +5144,150 @@
     {
       "id": "panel_mission-event-006-mission_9",
       "name": "Use P-Drinks {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-007-mission_1",
+      "name": "Choose Vocal Lesson {threshold} times in N.I.A"
+    },
+    {
+      "id": "panel_mission-event-007-mission_11",
+      "name": "Pass the final exam with a score of A+ or higher {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-007-mission_12",
+      "name": "Pass the Final Exam with a Score of S or higher {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-007-mission_13",
+      "name": "Pass the Final Exam with a Score of S+ or higher {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-007-mission_14",
+      "name": "Collect a total of {threshold} P-Drinks"
+    },
+    {
+      "id": "panel_mission-event-007-mission_15",
+      "name": "Collect a total of {threshold} P-Points"
+    },
+    {
+      "id": "panel_mission-event-007-mission_16",
+      "name": "Consume a total of {threshold} stamina in production"
+    },
+    {
+      "id": "panel_mission-event-007-mission_17",
+      "name": "Raise the Bond Lv of any idol to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-007-mission_18",
+      "name": "Raise the Bond Lv of any idol to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-007-mission_19",
+      "name": "Watch N.I.A true end {threshold} times."
+    },
+    {
+      "id": "panel_mission-event-007-mission_2",
+      "name": "Choose Dance Lesson {threshold} times in N.I.A"
+    },
+    {
+      "id": "panel_mission-event-007-mission_3",
+      "name": "Choose Visual Lesson {threshold} times in N.I.A"
+    },
+    {
+      "id": "panel_mission-event-007-mission_4",
+      "name": "Choose SP Lesson {threshold} times in N.I.A"
+    },
+    {
+      "id": "panel_mission-event-007-mission_5",
+      "name": "Customize Skill Cards {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-007-mission_6",
+      "name": "Gain {threshold} fan votes in N.I.A"
+    },
+    {
+      "id": "panel_mission-event-007-mission_7",
+      "name": "Raise the Bond Lv of any idol to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-007-mission_8",
+      "name": "Raise the Bond Lv of any idol to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-007-mission_9",
+      "name": "Raise the Bond Lv of any idol to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-008-mission_1",
+      "name": "Clear vocal lessons {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-008-mission_11",
+      "name": "Pass the Final Exam with a Score of S+ or higher {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-008-mission_12",
+      "name": "Pass the Final Exam with a Score of SS or higher {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-008-mission_13",
+      "name": "Choose Promotion {threshold} times in N.I.A"
+    },
+    {
+      "id": "panel_mission-event-008-mission_14",
+      "name": "Choose Gift {threshold} times in N.I.A"
+    },
+    {
+      "id": "panel_mission-event-008-mission_15",
+      "name": "Select Sp. Consult {threshold} times in Production"
+    },
+    {
+      "id": "panel_mission-event-008-mission_16",
+      "name": "Raise the Bond Lv of any idol to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-008-mission_17",
+      "name": "Raise the Bond Lv of any idol to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-008-mission_18",
+      "name": "Raise the Bond Lv of any idol to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-008-mission_19",
+      "name": "Raise the Bond Lv of any idol to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-008-mission_2",
+      "name": "Clear dance lessons {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-008-mission_3",
+      "name": "Clear visual lessons {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-008-mission_4",
+      "name": "Clear SP Lessons {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-008-mission_5",
+      "name": "Choose Outing {threshold} times in Produce"
+    },
+    {
+      "id": "panel_mission-event-008-mission_6",
+      "name": "Hold a consultation {threshold} time(s) in production"
+    },
+    {
+      "id": "panel_mission-event-008-mission_7",
+      "name": "Raise the Bond Lv of any idol to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-008-mission_8",
+      "name": "Raise the Bond Lv of any idol to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-008-mission_9",
+      "name": "Raise the Bond Lv of any idol to {threshold}"
     },
     {
       "id": "panel_mission-event-niv-mission_1",
@@ -5368,6 +5540,30 @@
     {
       "id": "achieve-i_card-atbm-3-000-06",
       "name": "【Rironbusou Shite】Raise Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-01",
+      "name": "【Campus mode!!】Pass the Final Exam in Tsubame Amaya’s Produce"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-02",
+      "name": "【Campus mode!!】Set Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-03",
+      "name": "【Campus mode!!】Earn A+ or higher {threshold} times in Tsubame Amaya’s Produce"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-04",
+      "name": "【Campus mode!!】Set Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-05",
+      "name": "【Campus mode!!】Set Tsubame Amaya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-012-06",
+      "name": "【Campus mode!!】Set Tsubame Amaya’s Training Stage to {threshold}"
     },
     {
       "id": "achieve-i_card-fktn-2-000-04",
@@ -7482,6 +7678,10 @@
       "name": "Pass the Final Exam with SSS Score {threshold} times"
     },
     {
+      "id": "achieve-p_common-029",
+      "name": "Pass the Final Exam with a Score of SSS+ or higher {threshold} times"
+    },
+    {
       "id": "achieve-p_idol-amao-000",
       "name": "View True End with Mao Arimura"
     },
@@ -7578,6 +7778,14 @@
       "name": "Raise Mao Arimura's training stage to {threshold}"
     },
     {
+      "id": "achieve-p_idol-amao-023",
+      "name": "Pass the Final Exam and earn SS or higher {threshold} times with Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-024",
+      "name": "Pass the Final Exam and earn SS+ or higher {threshold} times with Mao Arimura"
+    },
+    {
       "id": "achieve-p_idol-atbm-000",
       "name": "View the True End with Tsubame Amaya"
     },
@@ -7654,8 +7862,28 @@
       "name": "Take 1st place in the Final Exam on Tsubame Amaya’s Regular Live “First” (Master difficulty)"
     },
     {
+      "id": "achieve-p_idol-atbm-018",
+      "name": "Select Sp. Consult {threshold} time(s) in production"
+    },
+    {
+      "id": "achieve-p_idol-atbm-019",
+      "name": "Earn {threshold} fan votes in production"
+    },
+    {
       "id": "achieve-p_idol-atbm-020",
       "name": "Pass the Final Exam and earn SS or higher {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-021",
+      "name": "Pass the Final Exam and earn SS+ or higher {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-023",
+      "name": "Pass the Final Exam and earn SSS or higher {threshold} times with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-024",
+      "name": "Pass the Final Exam and earn SSS+ or higher {threshold} times with Tsubame Amaya"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -7970,6 +8198,14 @@
       "name": "Raise Kotone Fujita's training stage to {threshold}"
     },
     {
+      "id": "achieve-p_idol-fktn-023",
+      "name": "Pass the Final Exam and earn SSS or higher {threshold} times with Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-024",
+      "name": "Pass the Final Exam and earn SSS+ or higher {threshold} times with Kotone Fujita"
+    },
+    {
       "id": "achieve-p_idol-hmsz-000",
       "name": "View the True End with Misuzu Hataya"
     },
@@ -8060,6 +8296,14 @@
     {
       "id": "achieve-p_idol-hmsz-021",
       "name": "Pass the final exam and earn SS+ Rank or higher {threshold} times with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-023",
+      "name": "Pass the Final Exam and earn SSS or higher {threshold} times with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-024",
+      "name": "Pass the Final Exam and earn SSS+ or higher {threshold} times with Misuzu Hataya"
     },
     {
       "id": "achieve-p_idol-hrnm-000",
@@ -8158,6 +8402,14 @@
       "name": "Set Rinami Himesaki’s training stage to {threshold}"
     },
     {
+      "id": "achieve-p_idol-hrnm-023",
+      "name": "Pass the Final Exam and earn SSS or higher {threshold} times with Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-024",
+      "name": "Pass the Final Exam and earn SSS+ or higher {threshold} times with Rinami Himesaki"
+    },
+    {
       "id": "achieve-p_idol-hski-000",
       "name": "See True End with Saki Hanami"
     },
@@ -8254,6 +8506,14 @@
       "name": "Raise Saki Hanami's training stage to {threshold}"
     },
     {
+      "id": "achieve-p_idol-hski-023",
+      "name": "Pass the Final Exam and earn SSS or higher {threshold} times with Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-024",
+      "name": "Pass the Final Exam and earn SSS+ or higher {threshold} times with Saki Hanami"
+    },
+    {
       "id": "achieve-p_idol-hume-000",
       "name": "View True End with Ume Hanami"
     },
@@ -8344,6 +8604,14 @@
     {
       "id": "achieve-p_idol-hume-021",
       "name": "Pass the Final Exam with SS+ rating as Ume Hanami {threshold} times"
+    },
+    {
+      "id": "achieve-p_idol-hume-023",
+      "name": "Pass the Final Exam and earn SSS or higher {threshold} times with Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-024",
+      "name": "Pass the Final Exam and earn SSS+ or higher {threshold} times with Ume Hanami"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -8438,6 +8706,14 @@
       "name": "Pass the Final Exam with SS+ rating as Sena Juo {threshold} times"
     },
     {
+      "id": "achieve-p_idol-jsna-023",
+      "name": "Pass the Final Exam and earn SSS or higher {threshold} times with Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-024",
+      "name": "Pass the Final Exam and earn SSS+ or higher {threshold} times with Sena Juo"
+    },
+    {
       "id": "achieve-p_idol-kcna-000",
       "name": "View True End with China Kuramoto"
     },
@@ -8530,6 +8806,14 @@
       "name": "Pass the Final Exam with SS+ rating as China Kuramoto {threshold} times"
     },
     {
+      "id": "achieve-p_idol-kcna-023",
+      "name": "Pass the Final Exam and earn SSS or higher {threshold} times with China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-024",
+      "name": "Pass the Final Exam and earn SSS+ or higher {threshold} times with China Kuramoto"
+    },
+    {
       "id": "achieve-p_idol-kllj-000",
       "name": "See True End with Lilja Katsuragi"
     },
@@ -8620,6 +8904,14 @@
     {
       "id": "achieve-p_idol-kllj-021",
       "name": "Pass the Final Exam with SS+ rating as Lilja Katsuragi {threshold} times"
+    },
+    {
+      "id": "achieve-p_idol-kllj-023",
+      "name": "Pass the Final Exam and earn SSS or higher {threshold} times with Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-024",
+      "name": "Pass the Final Exam and earn SSS+ or higher {threshold} times with Lilja Katsuragi"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -8718,6 +9010,14 @@
       "name": "Raise Hiro Shinosawa's training stage to {threshold}"
     },
     {
+      "id": "achieve-p_idol-shro-023",
+      "name": "Pass the Final Exam and earn SSS or higher {threshold} times with Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-024",
+      "name": "Pass the Final Exam and earn SSS+ or higher {threshold} times with Hiro Shinosawa"
+    },
+    {
       "id": "achieve-p_idol-ssmk-000",
       "name": "View True End with Sumika Shiun"
     },
@@ -8808,6 +9108,14 @@
     {
       "id": "achieve-p_idol-ssmk-021",
       "name": "Pass the Final Exam with SS+ rating as Sumika Shiun {threshold} times"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-023",
+      "name": "Pass the Final Exam and earn SSS or higher {threshold} times with Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-024",
+      "name": "Pass the Final Exam and earn SSS+ or higher {threshold} times with Sumika Shiun"
     },
     {
       "id": "achieve-p_idol-ttmr-000",
@@ -8904,6 +9212,14 @@
     {
       "id": "achieve-p_idol-ttmr-022",
       "name": "Set Temari Tsukimura’s training stage to {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-023",
+      "name": "Pass the Final Exam and earn SSS or higher {threshold} times with Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-024",
+      "name": "Pass the Final Exam and earn SSS+ or higher {threshold} times with Temari Tsukimura"
     },
     {
       "id": "achievement_char_hume-024",
@@ -9787,7 +10103,7 @@
     },
     {
       "id": "main_task_group-03-01#57",
-      "name": "Customize skill cards in N.I.A {threshold} times"
+      "name": "Customize Skill Cards {threshold} times"
     },
     {
       "id": "main_task_group-03-01#58",
@@ -9835,7 +10151,7 @@
     },
     {
       "id": "main_task_group-03-01#69",
-      "name": "Customize skill cards in N.I.A {threshold} times"
+      "name": "Customize Skill Cards {threshold} times"
     },
     {
       "id": "main_task_group-03-01#70",
@@ -9931,7 +10247,7 @@
     },
     {
       "id": "main_task_group-03-01#93",
-      "name": "Customize skill cards in N.I.A {threshold} times"
+      "name": "Customize Skill Cards {threshold} times"
     },
     {
       "id": "main_task_group-03-01#94",
@@ -10059,7 +10375,7 @@
     },
     {
       "id": "main_task_group-04-01#25",
-      "name": "Customize skill cards in N.I.A {threshold} times"
+      "name": "Customize Skill Cards {threshold} times"
     },
     {
       "id": "main_task_group-04-01#26",
@@ -10139,7 +10455,7 @@
     },
     {
       "id": "main_task_group-04-01#45",
-      "name": "Customize skill cards in N.I.A {threshold} times"
+      "name": "Customize Skill Cards {threshold} times"
     },
     {
       "id": "main_task_group-04-01#46",
