@@ -1,220 +1,327 @@
 {
   "rules": {
     "primaryKeys": [
-      "type"
+      "type",
+      "produceDescriptionLabelId"
     ]
   },
   "data": [
     {
       "type": "ProduceCardGrowEffectType_LessonAdd",
+      "produceDescriptionLabelId": "Label_LessonAdd",
+      "name": "Param +",
       "produceCardCustomizeDescription": "Parameter +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonReduce",
+      "produceDescriptionLabelId": "Label_LessonReduce",
+      "name": "Param -",
       "produceCardCustomizeDescription": "Parameter –"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonCountAdd",
+      "produceDescriptionLabelId": "Label_LessonCountAdd",
+      "name": "Param Increase Count +",
       "produceCardCustomizeDescription": "Parameter Increase Count +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonCountReduce",
+      "produceDescriptionLabelId": "Label_LessonCountReduce",
+      "name": "Param Increase Count -",
       "produceCardCustomizeDescription": "Parameter Increase Count –"
     },
     {
       "type": "ProduceCardGrowEffectType_BlockAdd",
+      "produceDescriptionLabelId": "Label_BlockAdd",
+      "name": "Energy +",
       "produceCardCustomizeDescription": "Energy +"
     },
     {
       "type": "ProduceCardGrowEffectType_BlockReduce",
+      "produceDescriptionLabelId": "Label_BlockReduce",
+      "name": "Energy -",
       "produceCardCustomizeDescription": "Energy –"
     },
     {
       "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
+      "produceDescriptionLabelId": "Label_FullPowerPointAdd",
+      "name": "Full Power +",
       "produceCardCustomizeDescription": "Full Power Point +"
     },
     {
       "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
+      "produceDescriptionLabelId": "Label_FullPowerPointReduce",
+      "name": "Full Power -",
       "produceCardCustomizeDescription": "Full Power Point –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostBuffReduce",
+      "produceDescriptionLabelId": "Label_CostBuffReduce",
+      "name": "Upgraded State Cost -",
       "produceCardCustomizeDescription": "Enhancement State Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostBuffAdd",
+      "produceDescriptionLabelId": "Label_CostBuffAdd",
+      "name": "Upgraded State Cost +",
       "produceCardCustomizeDescription": "Enhancement State Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReduce",
+      "produceDescriptionLabelId": "Label_CostReduce",
+      "name": "Cost Decrease ",
       "produceCardCustomizeDescription": "Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAdd",
+      "produceDescriptionLabelId": "Label_CostAdd",
+      "name": "Cost Increase ",
       "produceCardCustomizeDescription": "Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
+      "produceDescriptionLabelId": "Label_CostPenetrateReduce",
+      "name": "Stamina Consumption Cost -",
       "produceCardCustomizeDescription": "Stamina Consumption Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
+      "produceDescriptionLabelId": "Label_CostPenetrateAdd",
+      "name": "Stamina Consumption Cost +",
       "produceCardCustomizeDescription": "Stamina Consumption Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
+      "produceDescriptionLabelId": "Label_ParameterBuffTurnAdd",
+      "name": "Good Shape +",
       "produceCardCustomizeDescription": "Good Shape +"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
+      "produceDescriptionLabelId": "Label_ParameterBuffTurnReduce",
+      "name": "Good Shape -",
       "produceCardCustomizeDescription": "Good Shape –"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonBuffAdd",
+      "produceDescriptionLabelId": "Label_LessonBuffAdd",
+      "name": "Focus +",
       "produceCardCustomizeDescription": "Focus +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonBuffReduce",
+      "produceDescriptionLabelId": "Label_LessonBuffReduce",
+      "name": "Focus -",
       "produceCardCustomizeDescription": "Focus –"
     },
     {
       "type": "ProduceCardGrowEffectType_ReviewAdd",
+      "produceDescriptionLabelId": "Label_ReviewAdd",
+      "name": "Good Impression +",
       "produceCardCustomizeDescription": "Good Impression +"
     },
     {
       "type": "ProduceCardGrowEffectType_ReviewReduce",
+      "produceDescriptionLabelId": "Label_ReviewReduce",
+      "name": "Good Impression -",
       "produceCardCustomizeDescription": "Good Impression –"
     },
     {
       "type": "ProduceCardGrowEffectType_AggressiveAdd",
+      "produceDescriptionLabelId": "Label_AggressiveAdd",
+      "name": "Motivation +",
       "produceCardCustomizeDescription": "Motivation +"
     },
     {
       "type": "ProduceCardGrowEffectType_AggressiveReduce",
+      "produceDescriptionLabelId": "Label_AggressiveReduce",
+      "name": "Motivation -",
       "produceCardCustomizeDescription": "Motivation –"
     },
     {
       "type": "ProduceCardGrowEffectType_CardDrawAdd",
+      "produceDescriptionLabelId": "Label_CardDrawAdd",
+      "name": "Draw Count +",
       "produceCardCustomizeDescription": "Draw Cards +"
     },
     {
       "type": "ProduceCardGrowEffectType_CardDrawReduce",
+      "produceDescriptionLabelId": "Label_CardDrawReduce",
+      "name": "Draw Count -",
       "produceCardCustomizeDescription": "Draw Cards –"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
+      "produceDescriptionLabelId": "Label_ParameterBuffMultiplePerTurnAdd",
+      "name": "Excellent Shape +",
       "produceCardCustomizeDescription": "Excellent Condition +"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
+      "produceDescriptionLabelId": "Label_ParameterBuffMultiplePerTurnReduce",
+      "name": "Excellent Shape -",
       "produceCardCustomizeDescription": "Excellent Condition –"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
+      "produceDescriptionLabelId": "Label_StaminaConsumptionDownTurnAdd",
+      "name": "Reduced Stamina Consumption +",
       "produceCardCustomizeDescription": "Stamina Consumption Decrease +"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
+      "produceDescriptionLabelId": "Label_StaminaConsumptionDownTurnReduce",
+      "name": "Reduced Stamina Consumption -",
       "produceCardCustomizeDescription": "Stamina Consumption Decrease –"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
+      "produceDescriptionLabelId": "Label_StaminaConsumptionAddTurnAdd",
+      "name": "Increased Stamina Consumption -",
       "produceCardCustomizeDescription": "Stamina Consumption Increase +"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
+      "produceDescriptionLabelId": "Label_StaminaConsumptionAddTurnReduce",
+      "name": "Increased Stamina Consumption +",
       "produceCardCustomizeDescription": "Stamina Consumption Increase –"
     },
     {
       "type": "ProduceCardGrowEffectType_EffectAdd",
+      "produceDescriptionLabelId": "Label_EffectAdd",
+      "name": "Effect Addition ",
       "produceCardCustomizeDescription": "Effect Addition "
     },
     {
       "type": "ProduceCardGrowEffectType_EffectDelete",
+      "produceDescriptionLabelId": "Label_EffectDelete",
+      "name": "Effect Deletion ",
       "produceCardCustomizeDescription": "Effect Deletion "
     },
     {
       "type": "ProduceCardGrowEffectType_EffectChange",
+      "produceDescriptionLabelId": "Label_EffectChange",
+      "name": "Effect Replacement ",
       "produceCardCustomizeDescription": "Effect Change"
     },
     {
       "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
+      "produceDescriptionLabelId": "Label_CardStatusEnchantChange",
+      "name": "Growth Effect Replacement ",
       "produceCardCustomizeDescription": "Growth"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayTriggerChange",
+      "produceDescriptionLabelId": "Label_PlayTriggerChange",
+      "name": "Use Condition Replacement ",
       "produceCardCustomizeDescription": "Condition Change"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
+      "produceDescriptionLabelId": "Label_PlayEffectTriggerChange",
+      "name": "Effect Activation Condition",
       "produceCardCustomizeDescription": "Condition Change"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
+      "produceDescriptionLabelId": "Label_PlayMovePositionTypeChange",
+      "name": "Move Destination Change ",
       "produceCardCustomizeDescription": "Move Destination Change"
     },
     {
       "type": "ProduceCardGrowEffectType_InitialAdd",
+      "produceDescriptionLabelId": "Label_InitialAdd",
+      "name": "Start Hand Effect Grant ",
       "produceCardCustomizeDescription": "Added to Hand at Start"
     },
     {
       "type": "ProduceCardGrowEffectType_CostLessonBuffReduce",
+      "produceDescriptionLabelId": "Label_CostLessonBuffReduce",
+      "name": "Focus Cost +",
       "produceCardCustomizeDescription": "Focus Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostLessonBuffAdd",
+      "produceDescriptionLabelId": "Label_CostLessonBuffAdd",
+      "name": "Focus Cost -",
       "produceCardCustomizeDescription": "Focus Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReviewReduce",
+      "produceDescriptionLabelId": "Label_CostReviewReduce",
+      "name": "Good Impression Cost -",
       "produceCardCustomizeDescription": "Good Impression Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReviewAdd",
+      "produceDescriptionLabelId": "Label_CostReviewAdd",
+      "name": "Good Impression Cost +",
       "produceCardCustomizeDescription": "Good Impression Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAggressiveReduce",
+      "produceDescriptionLabelId": "Label_CostAggressiveReduce",
+      "name": "Motivation Cost -",
       "produceCardCustomizeDescription": "Motivation Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAggressiveAdd",
+      "produceDescriptionLabelId": "Label_CostAggressiveAdd",
+      "name": "Motivation Cost +",
       "produceCardCustomizeDescription": "Motivation Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffReduce",
+      "produceDescriptionLabelId": "Label_CostParameterBuffReduce",
+      "name": "Good Shape Cost -",
       "produceCardCustomizeDescription": "Good Shape Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffAdd",
+      "produceDescriptionLabelId": "Label_CostParameterBuffAdd",
+      "name": "Good Shape Cost +",
       "produceCardCustomizeDescription": "Good Shape Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostFullPowerPointReduce",
+      "produceDescriptionLabelId": "Label_CostFullPowerPointReduce",
+      "name": "Full Power Cost -",
       "produceCardCustomizeDescription": "Full Power Point Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostFullPowerPointAdd",
+      "produceDescriptionLabelId": "Label_CostFullPowerPointAdd",
+      "name": "Full Power Cost +",
       "produceCardCustomizeDescription": "Full Power Point Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependBlockAdd",
+      "produceDescriptionLabelId": "Label_LessonDependBlockAdd",
+      "name": "Energy Param Multiplier +",
       "produceCardCustomizeDescription": "Energy-Based Parameter +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
+      "produceDescriptionLabelId": "Label_LessonDependExamCardPlayAggressiveAdd",
+      "name": "Motivation Param Multiplier +",
       "produceCardCustomizeDescription": "Motivation-Based Parameter +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
+      "produceDescriptionLabelId": "Label_LessonDependExamReviewAdd",
+      "name": "Good Imp Impression Param Multiplier +",
       "produceCardCustomizeDescription": "Good Impression-Based Parameter +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnAdd",
+      "produceDescriptionLabelId": "Label_CostParameterBuffMultiplePerTurnAdd",
+      "name": "Excellent shape Cost +",
       "produceCardCustomizeDescription": "Excellent Condition Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnReduce",
+      "produceDescriptionLabelId": "Label_CostParameterBuffMultiplePerTurnReduce",
+      "name": "Excellent shape Cost -",
       "produceCardCustomizeDescription": "Excellent Condition Cost –"
     }
   ]
