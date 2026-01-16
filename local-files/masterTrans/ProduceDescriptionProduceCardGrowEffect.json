@@ -10,25 +10,25 @@
       "type": "ProduceCardGrowEffectType_LessonAdd",
       "produceDescriptionLabelId": "Label_LessonAdd",
       "name": "Param +",
-      "produceCardCustomizeDescription": "Parameter +"
+      "produceCardCustomizeDescription": "Param +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonReduce",
       "produceDescriptionLabelId": "Label_LessonReduce",
       "name": "Param -",
-      "produceCardCustomizeDescription": "Parameter –"
+      "produceCardCustomizeDescription": "Param –"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonCountAdd",
       "produceDescriptionLabelId": "Label_LessonCountAdd",
       "name": "Param Increase Count +",
-      "produceCardCustomizeDescription": "Parameter Increase Count +"
+      "produceCardCustomizeDescription": "Param Increase Count +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonCountReduce",
       "produceDescriptionLabelId": "Label_LessonCountReduce",
       "name": "Param Increase Count -",
-      "produceCardCustomizeDescription": "Parameter Increase Count –"
+      "produceCardCustomizeDescription": "Param Increase Count –"
     },
     {
       "type": "ProduceCardGrowEffectType_BlockAdd",
@@ -81,14 +81,14 @@
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
       "produceDescriptionLabelId": "Label_CostPenetrateReduce",
-      "name": "Stamina Consumption Cost -",
-      "produceCardCustomizeDescription": "Stamina Consumption Cost –"
+      "name": "Stamina Usage Cost -",
+      "produceCardCustomizeDescription": "Stamina Usage Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
       "produceDescriptionLabelId": "Label_CostPenetrateAdd",
-      "name": "Stamina Consumption Cost +",
-      "produceCardCustomizeDescription": "Stamina Consumption Cost +"
+      "name": "Stamina Usage Cost +",
+      "produceCardCustomizeDescription": "Stamina Usage Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
@@ -165,26 +165,26 @@
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
       "produceDescriptionLabelId": "Label_StaminaConsumptionDownTurnAdd",
-      "name": "Reduced Stamina Consumption +",
-      "produceCardCustomizeDescription": "Stamina Consumption Decrease +"
+      "name": "Reduced Stamina Usage +",
+      "produceCardCustomizeDescription": "Stamina Usage Decrease +"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
       "produceDescriptionLabelId": "Label_StaminaConsumptionDownTurnReduce",
-      "name": "Reduced Stamina Consumption -",
-      "produceCardCustomizeDescription": "Stamina Consumption Decrease –"
+      "name": "Reduced Stamina Usage -",
+      "produceCardCustomizeDescription": "Stamina Usage Decrease –"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
       "produceDescriptionLabelId": "Label_StaminaConsumptionAddTurnAdd",
-      "name": "Increased Stamina Consumption -",
-      "produceCardCustomizeDescription": "Stamina Consumption Increase +"
+      "name": "Increased Stamina Usage -",
+      "produceCardCustomizeDescription": "Stamina Usage Increase +"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
       "produceDescriptionLabelId": "Label_StaminaConsumptionAddTurnReduce",
-      "name": "Increased Stamina Consumption +",
-      "produceCardCustomizeDescription": "Stamina Consumption Increase –"
+      "name": "Increased Stamina Usage +",
+      "produceCardCustomizeDescription": "Stamina Usage Increase –"
     },
     {
       "type": "ProduceCardGrowEffectType_EffectAdd",
@@ -298,19 +298,19 @@
       "type": "ProduceCardGrowEffectType_LessonDependBlockAdd",
       "produceDescriptionLabelId": "Label_LessonDependBlockAdd",
       "name": "Energy Param Multiplier +",
-      "produceCardCustomizeDescription": "Energy-Based Parameter +"
+      "produceCardCustomizeDescription": "Energy-Based Param +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
       "produceDescriptionLabelId": "Label_LessonDependExamCardPlayAggressiveAdd",
       "name": "Motivation Param Multiplier +",
-      "produceCardCustomizeDescription": "Motivation-Based Parameter +"
+      "produceCardCustomizeDescription": "Motivation-Based Param +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
       "produceDescriptionLabelId": "Label_LessonDependExamReviewAdd",
-      "name": "Good Imp Impression Param Multiplier +",
-      "produceCardCustomizeDescription": "Good Impression-Based Parameter +"
+      "name": "Good Imp Param Multiplier +",
+      "produceCardCustomizeDescription": "Good Imp-Based Param +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnAdd",
