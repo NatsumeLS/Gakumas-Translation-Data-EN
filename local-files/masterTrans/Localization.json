@@ -78,6 +78,34 @@
       "description": "Weekly Points earned have reached the maximum."
     },
     {
+      "id": "produce_prepare.easy_mode_apply",
+      "description": "Assist Mode Active"
+    },
+    {
+      "id": "produce_prepare.easy_mode.continue_sheet.message",
+      "description": "Do you want to disable assist mode?"
+    },
+    {
+      "id": "produce_prepare.easy_mode.continue_sheet.title",
+      "description": "Assist Mode Confirmation"
+    },
+    {
+      "id": "produce_prepare.easy_mode.setting_sheet.confirm",
+      "description": "Apply\nAssist Mode"
+    },
+    {
+      "id": "produce_prepare.easy_mode.setting_sheet.message",
+      "description": "You can start producing with Assist Mode applied to the next play of {0} difficulty: {1}"
+    },
+    {
+      "id": "produce_prepare.easy_mode.setting_sheet.title",
+      "description": "Assist Mode Settings"
+    },
+    {
+      "id": "produce_prepare.easy_mode.start_produce_sheet.message",
+      "description": "Start producing in Assist Mode\nProceed?"
+    },
+    {
       "id": "produce_prepare.edit.warning",
       "description": "Formations can be set individually for each Produce. If you set a formation for one Produce, it will not apply to others."
     },
@@ -124,6 +152,26 @@
     {
       "id": "research_event.target_idol_sheet.description",
       "description": "Only P-idols eligible can challenge the event mode."
+    },
+    {
+      "id": "setting.produce.easy_mode_confirm",
+      "description": "Assist Mode Display"
+    },
+    {
+      "id": "setting.produce.easy_mode_confirm.description",
+      "description": "When this option is ON, a message to apply Assist Mode will appear when conditions are met."
+    },
+    {
+      "id": "setting.produce.easy_mode_setting",
+      "description": "Assist Mode Settings"
+    },
+    {
+      "id": "setting.produce.easy_mode_setting.description",
+      "description": "When this option is ON,\nAssist Mode will be applied when challenging NEXT IDOL AUDITION difficulty: PRO."
+    },
+    {
+      "id": "setting.produce.easy_mode.title",
+      "description": "【Produce】Assist Mode"
     },
     {
       "id": "shop.web_store.confirm.description",
