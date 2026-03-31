@@ -5757,6 +5757,99 @@
       ]
     },
     {
+      "id": "e_trigger-exam_card_play_after-parameter_buff_multiple_per_turn_up-5-p_card_search-target-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "After using a skill card: "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamParameterBuffMultiplePerTurn",
+          "text": "Excellent shape"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "if there are 5 turns or more, "
+        }
+      ],
+      "playProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamParameterBuffMultiplePerTurn",
+          "text": "Excellent shape"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If it is 5 turns or more, usable "
+        }
+      ],
+      "playEffectProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamParameterBuffMultiplePerTurn",
+          "text": "Excellent shape"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "if there are 5 turns or more, "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_card_play_after-parameter_buff_up-4-p_card_search-playing-effect_group-visible-exam_parameter_buff_multiple_per_turn-000-0_1",
       "produceDescriptions": [
         {
@@ -6173,6 +6266,111 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
           "text": "In Stage 2: "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_card_play_after-preservation_up-p_card_search-mental_skill-target-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_MentalSkill",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_MentalSkillCard",
+          "text": "Mental skill card "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "After use: "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "Preservation "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": ": "
+        }
+      ],
+      "playProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "Preservation "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If so, usable "
+        }
+      ],
+      "playEffectProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "Preservation "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": ": "
         }
       ]
     },
@@ -11234,6 +11432,111 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
           "text": "4 turns or more: "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_card_play-parameter_buff_up-7-p_card_search-playing-effect_group-visible-exam_parameter_buff-000-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamParameterBuff",
+          "text": "Good Shape "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "When using an effective skill card: "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamParameterBuff",
+          "text": "Good Shape "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If it is 7 turns or more, "
+        }
+      ],
+      "playProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamParameterBuff",
+          "text": "Good Shape "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "Usable if it is 7 turns or more, "
+        }
+      ],
+      "playEffectProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamParameterBuff",
+          "text": "Good Shape "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If it is 7 turns or more, "
         }
       ]
     },
@@ -21438,6 +21741,147 @@
       ]
     },
     {
+      "id": "e_trigger-exam_stance_change_concentration-no_block-lesson_dance",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Convert_StepLessonType_DanceLesson",
+          "text": "【Dance Lesson/Dance Turn Only】"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_OnHitEffect",
+          "text": "Direct Effect "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": " "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "Confident "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "When becoming: "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamBlock",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamBlock",
+          "text": "Energy "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If 0: "
+        }
+      ],
+      "playProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamBlock",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamBlock",
+          "text": "Energy "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If it is 0, usable "
+        }
+      ],
+      "playEffectProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamBlock",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamBlock",
+          "text": "Energy "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If 0: "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_stance_change_count_interval-1",
       "produceDescriptions": [
         {
@@ -24573,6 +25017,63 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
           "text": "is 8 or more: "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_start_turn-card_search_count_up-7-p_card_search-lost-lesson_visual",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Convert_StepLessonType_VisualLesson",
+          "text": "【Visual Lesson/Visual Turn Only】"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "At the start of the turn, if there are 7 or more Skill Cards in exile, "
+        }
+      ],
+      "playProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If there are 7 or more Skill Cards in the removed pile, usable "
+        }
+      ],
+      "playEffectProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If there are 7 or more Skill Cards in the removed pile, "
         }
       ]
     },
@@ -31900,6 +32401,135 @@
       ]
     },
     {
+      "id": "e_trigger-exam_status_change-7-lesson_buff_up-13-exam_parameter_buff",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_OnHitEffect",
+          "text": "Direct Effect "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": " "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamParameterBuff",
+          "text": "Good Shape "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "increases by 7 or more, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "Focus"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If it is 13 or higher: "
+        }
+      ],
+      "playProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "Focus"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If it is 13 or higher, usable "
+        }
+      ],
+      "playEffectProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "Focus"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If it is 13 or higher: "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_status_change-block_up-7-exam_card_play_aggressive",
       "produceDescriptions": [
         {
@@ -34663,6 +35293,99 @@
       ]
     },
     {
+      "id": "e_trigger-exam_turn_interval-3-lesson_buff_up-8",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "Every 3 turns: "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "Focus"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "is 8 or more: "
+        }
+      ],
+      "playProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "Focus"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If it is 8 or higher, usable "
+        }
+      ],
+      "playEffectProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "Focus"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "is 8 or more: "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_turn_interval-3-review_up-3",
       "produceDescriptions": [
         {
@@ -34890,6 +35613,51 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
           "text": "If stamina is 50% or higher, "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_turn_interval-4",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "Every 4 turns, "
+        }
+      ],
+      "playProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If so, usable "
+        }
+      ],
+      "playEffectProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": ": "
         }
       ]
     },
@@ -39027,6 +39795,87 @@
       ]
     },
     {
+      "id": "e_trigger-none-not-lesson_buff_up-16",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "Focus"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If it is 15 or less, "
+        }
+      ],
+      "playProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "Focus"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "Usable if it is 15 or less, "
+        }
+      ],
+      "playEffectProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "Focus"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If it is 15 or less, "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-none-not-no_stance",
       "produceDescriptions": [
         {
@@ -39302,6 +40151,123 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
           "text": "If 7 turns or fewer, "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-none-not-preservation_up",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "not "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "Preservation "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "In this state: "
+        }
+      ],
+      "playProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "not "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "Preservation "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "If in that state, usable "
+        }
+      ],
+      "playEffectProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "not "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "Preservation "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "In this state: "
         }
       ]
     },
