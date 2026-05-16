@@ -1,0 +1,152 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "produceType",
+      "type",
+      "produceSplitTypes",
+      "targetCharacterId"
+    ]
+  },
+  "data": [
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "",
+      "title": "Before the 3rd Qualifier"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "",
+      "title": "Before Round 2 of the finals"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "",
+      "title": "Before the 1st Qualifier"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "",
+      "title": "To the Final Stage!"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "",
+      "title": "Before the 2nd Qualifier"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_Opening",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "",
+      "title": "H.I.F Qealifier"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_Opening",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "",
+      "title": "H.I.F Finals"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultTrueEnd",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "",
+      "title": "The results of the qualifier are..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultTrueEnd",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "",
+      "title": "The results of the H.I.F finals are..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultA",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "",
+      "title": "The results of the qualifier are..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultA",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "",
+      "title": "The results of the H.I.F finals are..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultB",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "",
+      "title": "The results of the qualifier are..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultB",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "",
+      "title": "The results of the H.I.F finals are..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultC",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "",
+      "title": "The results of the qualifier are..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultC",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "",
+      "title": "The results of the H.I.F finals are..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultFailedFinal",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "",
+      "title": "The results of the qualifier are..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultFailedFinal",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "",
+      "title": "The results of the H.I.F finals are..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultFailedMid1",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "",
+      "title": "The results of the qualifier are..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultFailedMid1",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "",
+      "title": "The results of the H.I.F finals are..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultFailedMid2",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "",
+      "title": "The results of the qualifier are..."
+    }
+  ]
+}

@@ -31,27 +31,27 @@
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateAddition",
-      "name": "Vocal Lesson Bonus +"
+      "name": "Vocal Param Bonus +"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateAddition",
-      "name": "Dance Lesson Bonus +"
+      "name": "Dance Param Bonus +"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateAddition",
-      "name": "Visual Lesson Bonus +"
+      "name": "Visual Param Bonus +"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateDown",
-      "name": "Vocal Lesson Bonus -"
+      "name": "Vocal Param Bonus -"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateDown",
-      "name": "Dance Lesson Bonus -"
+      "name": "Dance Param Bonus -"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateDown",
-      "name": "Visual Lesson Bonus -"
+      "name": "Visual Param Bonus -"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverFix",
@@ -286,6 +286,10 @@
       "name": "Initial P-Points +"
     },
     {
+      "type": "ProduceEffectType_ParameterLimitUp",
+      "name": "Param Limit Increase "
+    },
+    {
       "type": "ProduceEffectType_ExamTurnUp",
       "name": "Turn Count +"
     },
@@ -319,19 +323,19 @@
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaUp",
-      "name": "Class Consumption Stamina +"
+      "name": "Class Stamina usage +"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaDown",
-      "name": "Class Consumption Stamina -"
+      "name": "Class Stamina usage -"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointUp",
-      "name": "Outing P-Points Consumption +"
+      "name": "Outing P-Points usage +"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointDown",
-      "name": "Outing P-Points Consumption -"
+      "name": "Outing P-Points usage -"
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaUp",
@@ -348,6 +352,26 @@
     {
       "type": "ProduceEffectType_AuditionNpcWeaken",
       "name": "Rival's score "
+    },
+    {
+      "type": "ProduceEffectType_StarPermilUp",
+      "name": "Star Quality Gain Increase "
+    },
+    {
+      "type": "ProduceEffectType_StarAddition",
+      "name": "Gain Star Quality "
+    },
+    {
+      "type": "ProduceEffectType_ProduceCardChangeSelect",
+      "name": "Select Change "
+    },
+    {
+      "type": "ProduceEffectType_ProduceDrinkPossessLimitUp",
+      "name": "P Drink Carry Limit Increase "
+    },
+    {
+      "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiplePermanent",
+      "name": "Consultation Skill Card Discount "
     }
   ]
 }

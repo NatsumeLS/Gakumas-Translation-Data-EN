@@ -1,0 +1,35 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "produceType",
+      "produceSplitType"
+    ]
+  },
+  "data": [
+    {
+      "produceType": "ProduceType_FirstStar",
+      "produceSplitType": "ProduceSplitType_Unknown",
+      "name": "Hajime Only"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "produceSplitType": "ProduceSplitType_Unknown",
+      "name": "N.I.A Only"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "produceSplitType": "ProduceSplitType_Unknown",
+      "name": "H.I.F Only"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "produceSplitType": "ProduceSplitType_Selection",
+      "name": "H.I.F Qualifier Only"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "produceSplitType": "ProduceSplitType_Final",
+      "name": "H.I.F Finals Only"
+    }
+  ]
+}

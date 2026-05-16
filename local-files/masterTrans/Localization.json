@@ -18,6 +18,14 @@
       "description": "Not enough training Pts."
     },
     {
+      "id": "card.idol_card.prima_stella.unlock_confirm_sheet.limit_level_condition_text",
+      "description": "Training Stage {0}"
+    },
+    {
+      "id": "card.idol_card.prima_stella.unlock_confirm_sheet.list.empty_label",
+      "description": "There are no eligible P-Idols"
+    },
+    {
       "id": "card.produce_card_customize.detail_sheet.nia_condition",
       "description": "※Customization can be performed through Special Guidance"
     },
@@ -47,11 +55,11 @@
     },
     {
       "id": "home.gasha.continuous_share.share_text",
-      "description": "＼ TVCM Broadcast Commemoration Unlimited Gacha Ongoing ／\n\nYou can pull the gacha for free as long as the prompt allows it!\nGuarantees at least 1 SSR!\n\n#学マス #引き放題って好き"
+      "description": "＼ H.I.F開幕記念引き放題ガシャ開催中 ／\n\n「継続」が続く限り、無料でガシャ引き放題!\nガシャはSSR1枚以上確定!\n\n#学マス引き放題ガシャ #祝学マス2周年"
     },
     {
       "id": "home.gasha.continuous_share.title",
-      "description": "TVCM Broadcast Unlimited Gacha Results "
+      "description": "H.I.F Launch Unlimited Gacha Results"
     },
     {
       "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
@@ -59,7 +67,7 @@
     },
     {
       "id": "home.gasha.draw_button.item",
-      "description": "Ticket "
+      "description": "Items "
     },
     {
       "id": "home.gasha.item_confirm_sheet.ticket.short_balance_alert",
@@ -92,6 +100,10 @@
     {
       "id": "mission.panel.mission_text",
       "description": "{0}"
+    },
+    {
+      "id": "picturebook.live.select.skin.lock",
+      "description": " "
     },
     {
       "id": "produce_prepare.easy_mode_apply",
@@ -146,16 +158,60 @@
       "description": "Legend "
     },
     {
+      "id": "produce.hif.audition.qualify.audition_final.title",
+      "description": "Qualifier 3"
+    },
+    {
+      "id": "produce.hif.audition.qualify.audition_mid1.title",
+      "description": "Qualifier 1"
+    },
+    {
+      "id": "produce.hif.audition.qualify.audition_mid2.title",
+      "description": "Qualifier 2"
+    },
+    {
+      "id": "produce.hif.audition.qualify.title",
+      "description": "H.I.F Qualifier "
+    },
+    {
+      "id": "produce.hif.result.qualify.title",
+      "description": "Qualifier Cleared"
+    },
+    {
       "id": "produce.high_score_rush.gold.description",
       "description": "An item obtainable in \"Kunio Juo's Idol Intensive Month 〜Twinkling of the Stars〜\" Can be used in the event gacha."
+    },
+    {
+      "id": "produce.interval.reroll_sheet.description",
+      "description": "Use P-Points to refresh the Skill Card and P Drink lineup, customization count, and enhancement count?"
     },
     {
       "id": "produce.lesson.no_effect.stance_over_preservation",
       "description": "Because the guideline is set to “Relaxed”, the effect to change it to “Preservation” will not activate."
     },
     {
+      "id": "produce.schedule.step_exam_final_audition3.qualify",
+      "description": "Qualifier 3"
+    },
+    {
+      "id": "produce.schedule.step_exam_mid1_audition3.qualify",
+      "description": "Qualifier 1"
+    },
+    {
+      "id": "produce.schedule.step_exam_mid2_audition3.qualify",
+      "description": "Qualifier 2"
+    },
+    {
+      "id": "produce.select.restrict.change",
+      "description": "Skill Card cannot be changed"
+    },
+    {
       "id": "produce.server_force_reset.confirm.description",
       "description": "The Produce data in progress has been discarded."
+    },
+    {
+      "id": "produce.sheet.drink_max.description",
+      "description": "The P-Drink carry limit has been reached.\nPlease select the drinks you want to keep."
     },
     {
       "id": "producer_ranking.character_reward.description",
@@ -167,7 +223,7 @@
     },
     {
       "id": "profile.report.share.text",
-      "description": "#学マス #初星学園通知表"
+      "description": "#祝学マス2周年 #初星学園通知表"
     },
     {
       "id": "research_event.target_idol_sheet.description",
@@ -175,23 +231,23 @@
     },
     {
       "id": "setting.preference.other.produce_growth_panel.level_up_confirm.description",
-      "description": "Preparing"
+      "description": "Display a confirmation message when unlocking or enhancing H.I.F Bonuses."
     },
     {
       "id": "setting.preference.other.produce_growth_panel.level_up_confirm.title",
-      "description": "Preparing"
+      "description": "Display Confirmation Message"
     },
     {
       "id": "setting.preference.other.produce_growth_panel.title",
-      "description": "Preparing"
+      "description": "H.I.F Bonus Settings"
     },
     {
       "id": "setting.produce.custom_item_customize_confirm",
-      "description": "Preparing"
+      "description": "Custom P Item Selection Confirmation"
     },
     {
       "id": "setting.produce.custom_item_customize_confirm.description",
-      "description": "Preparing"
+      "description": "Display a confirmation message when obtaining or enhancing Custom P Items."
     },
     {
       "id": "setting.produce.easy_mode_confirm",
@@ -215,27 +271,27 @@
     },
     {
       "id": "setting.produce.exit_interval_confirm",
-      "description": "Preparing"
+      "description": "Interval End Confirmation"
     },
     {
       "id": "setting.produce.exit_interval_confirm.description",
-      "description": "Preparing"
+      "description": "Display a confirmation message when ending the interval."
     },
     {
       "id": "setting.produce.reroll_interval_confirm",
-      "description": "Preparing"
+      "description": "Refresh Confirmation"
     },
     {
       "id": "setting.produce.reroll_interval_confirm.description",
-      "description": "Preparing"
+      "description": "Display a confirmation message when refreshing during an interval."
     },
     {
       "id": "setting.produce.select_change_card_confirm",
-      "description": "Preparing"
+      "description": "Skill Card Change Confirmation"
     },
     {
       "id": "setting.produce.select_change_card_confirm.description",
-      "description": "Preparing"
+      "description": "Display a confirmation message when selecting and changing a Skill Card."
     },
     {
       "id": "shop.web_store.confirm.description",
@@ -264,6 +320,10 @@
     {
       "id": "tour.top.user_status.point_complete_label",
       "description": " "
+    },
+    {
+      "id": "voice.idol_use_prima_stella_produce_card",
+      "description": "Use P-Idol Exclusive Legend Skill Card"
     },
     {
       "id": "voice.idol_use_produce_card",

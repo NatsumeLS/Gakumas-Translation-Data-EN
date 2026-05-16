@@ -574,7 +574,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina Consumption "
+          "text": "Stamina usage "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1002,7 +1002,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina Consumption "
+          "text": "Stamina usage "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1015,7 +1015,7 @@
           "text": "is increased "
         }
       ],
-      "name": "Stamina Consumption cost increase "
+      "name": "Stamina usage cost increase "
     },
     {
       "id": "Label_CostPenetrateReduce",
@@ -1038,7 +1038,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina Consumption "
+          "text": "Stamina usage "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1051,7 +1051,7 @@
           "text": "is decreased "
         }
       ],
-      "name": "Stamina Consumption cost decrease "
+      "name": "Stamina usage cost decrease "
     },
     {
       "id": "Label_CostReduce",
@@ -1074,7 +1074,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina Consumption "
+          "text": "Stamina usage "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1966,7 +1966,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina Consumption "
+          "text": "Stamina usage "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2082,7 +2082,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stamina Consumption "
+          "text": "Stamina usage "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5857,7 +5857,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill card Stamina cost is  "
+          "text": "Skill card Stamina cost is "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -6086,7 +6086,7 @@
           "text": ""
         }
       ],
-      "name": "Reduced Stamina Consumption "
+      "name": "Reduced Stamina usage "
     },
     {
       "id": "Label_ExamStaminaReduceFix",
@@ -6112,7 +6112,7 @@
           "text": "is ignored, consumes Stamina directly "
         }
       ],
-      "name": "Stamina Consumption "
+      "name": "Stamina usage "
     },
     {
       "id": "Label_ExamStaminaThresholdAddRestriction",
@@ -6211,6 +6211,72 @@
         }
       ],
       "name": "Ongoing Effect "
+    },
+    {
+      "id": "Label_ExamStatusEnchantEncore",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamStatusEnchantEncore",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Replay "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Convert_002",
+          "text": "Lesson "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "While active, only activates the first time this card itself is used\nthereafter, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Convert_002",
+          "text": "Lesson "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "While active, when the specified condition is met, reuse this card once per turn (does not consume Skill Card cost) "
+        }
+      ],
+      "name": "Replay "
     },
     {
       "id": "Label_ExamUplifting_Exam",
@@ -6965,6 +7031,11 @@
       "name": "Temporary Upgrade "
     },
     {
+      "id": "Label_MemoryAbilityIsUniqueActivation",
+      "produceDescriptions": [],
+      "name": "Can't Activate Multiple Times "
+    },
+    {
       "id": "Label_MentalSkillCard",
       "produceDescriptions": [
         {
@@ -7001,10 +7072,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Activates when this Skill Card moves to the designated location. (Activates once per turn) "
+          "text": "Activates when this Skill Card is moved to the specified location\n(activates up to once per turn) "
         }
       ],
-      "name": "[On-Move Effect] "
+      "name": "On Move Effect "
     },
     {
       "id": "Label_NoDeckDuplication",
@@ -7185,6 +7256,22 @@
         }
       ],
       "name": "Change "
+    },
+    {
+      "id": "Label_ProduceCardChangeSelect",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Change a selected Skill Card into a different Skill Card and add it to the deck until the end of produce (inherits enhancement stage) "
+        }
+      ],
+      "name": "Select Change "
     },
     {
       "id": "Label_ProduceCardDelete",
@@ -7741,6 +7828,31 @@
         }
       ],
       "name": "Present "
+    },
+    {
+      "id": "Label_ProduceType_FirstStar",
+      "produceDescriptions": [],
+      "name": "Hajime Only "
+    },
+    {
+      "id": "Label_ProduceType_HatsuboshiIdolFestival",
+      "produceDescriptions": [],
+      "name": "H.I.F Only "
+    },
+    {
+      "id": "Label_ProduceType_HatsuboshiIdolFestival_Final",
+      "produceDescriptions": [],
+      "name": "H.I.F Finals Only "
+    },
+    {
+      "id": "Label_ProduceType_HatsuboshiIdolFestival_Selection",
+      "produceDescriptions": [],
+      "name": "H.I.F Qualifier Only "
+    },
+    {
+      "id": "Label_ProduceType_NextIdolAudition",
+      "produceDescriptions": [],
+      "name": "N.I.A Only "
     },
     {
       "id": "Label_ReviewAdd",

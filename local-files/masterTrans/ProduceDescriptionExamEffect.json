@@ -23,7 +23,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDown",
-      "name": "Reduced Stamina Consumption "
+      "name": "Reduced Stamina usage "
     },
     {
       "type": "ProduceExamEffectType_ExamCardCreateId",
@@ -31,7 +31,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaReduceFix",
-      "name": "Stamina Consumption "
+      "name": "Stamina Usage "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuff",
@@ -51,7 +51,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamCardStaminaConsumptionChange",
-      "name": "Stamina Consumption Change "
+      "name": "Stamina Usage Change "
     },
     {
       "type": "ProduceExamEffectType_ExamBlockRestriction",
@@ -63,7 +63,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamCardStaminaConsumptionDownSpecify",
-      "name": "Reduced Stamina Consumption "
+      "name": "Reduced Stamina usage "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaDamage",
@@ -123,7 +123,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamSearchPlayCardStaminaConsumptionChange",
-      "name": "Stamina Consumption Change "
+      "name": "Stamina Usage Change "
     },
     {
       "type": "ProduceExamEffectType_ExamUplifting",
@@ -139,7 +139,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAdd",
-      "name": "Increased Stamina Consumption "
+      "name": "Increased Stamina Usage "
     },
     {
       "type": "ProduceExamEffectType_ExamBlockAddDown",
@@ -155,7 +155,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaReduceChange",
-      "name": "Reduced Stamina Consumption "
+      "name": "Reduced Stamina Usage"
     },
     {
       "type": "ProduceExamEffectType_ExamPanic",
@@ -171,11 +171,11 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAddFix",
-      "name": "Additional Stamina Consumption "
+      "name": "Additional Stamina Usage "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAddDown",
-      "name": "Reduced Effect of Increased Stamina Consumption "
+      "name": "Reduced Effect of Increased Stamina Usage "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverRestriction",
@@ -183,7 +183,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownAdd",
-      "name": "Increased Effect of Reduced Stamina Consumption "
+      "name": "Increased Effect of Reduced Stamina Usage "
     },
     {
       "type": "ProduceExamEffectType_ExamGetCardUpgrade",
@@ -191,7 +191,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownFix",
-      "name": "Stamina Consumption Reduction "
+      "name": "Reduce Stamina Usage "
     },
     {
       "type": "ProduceExamEffectType_ExamHandGraveCountCardDraw",
@@ -332,6 +332,10 @@
     {
       "type": "ProduceExamEffectType_ExamReviewCountAdd",
       "name": "Good impression added "
+    },
+    {
+      "type": "ProduceExamEffectType_ExamStatusEnchantEncore",
+      "name": "Replay"
     }
   ]
 }
