@@ -15,7 +15,7 @@
     },
     {
       "id": "card.detail.enhance.invalid.point.exp.short",
-      "description": "Not enough training Pts."
+      "description": "Not enough Training Points."
     },
     {
       "id": "card.idol_card.prima_stella.unlock_confirm_sheet.limit_level_condition_text",
@@ -67,7 +67,7 @@
     },
     {
       "id": "home.gasha.draw_button.item",
-      "description": "Items "
+      "description": "Ticket "
     },
     {
       "id": "home.gasha.item_confirm_sheet.ticket.short_balance_alert",
@@ -140,6 +140,10 @@
     {
       "id": "produce_prepare.edit.warning",
       "description": "Formations can be set individually for each Produce. If you set a formation for one Produce, it will not apply to others."
+    },
+    {
+      "id": "produce_prepare.produce_character_unit.costume_change_sheet.warning1",
+      "description": "※If the \"{0}\" performance is selected, the live costume for the P-idol cannot be set.\n※There are no changes to the P-Live performance."
     },
     {
       "id": "produce_prepare.top.event_icon.high_score_rush.description",
@@ -279,7 +283,7 @@
     },
     {
       "id": "setting.produce.exit_interval_confirm",
-      "description": "\n  Confirm End of Interval"
+      "description": "Interval End Confirmation"
     },
     {
       "id": "setting.produce.exit_interval_confirm.description",
