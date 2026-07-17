@@ -87,7 +87,7 @@
     },
     {
       "id": "dearness_event_hmsz-005",
-      "name": "Choose Present / Gifts {threshold} times in Misuzu Hataya’s Produce"
+      "name": "Choose Allowance/Gifts {threshold} times in Misuzu Hataya’s Produce"
     },
     {
       "id": "dearness_event_hmsz-006",
@@ -151,7 +151,7 @@
     },
     {
       "id": "dearness_event_hski-005",
-      "name": "In Saki Hanami’s Produce, choose Present/Gift {threshold} times"
+      "name": "In Saki Hanami’s Produce, choose Allowance/Gift {threshold} times"
     },
     {
       "id": "dearness_event_hski-006",
@@ -183,7 +183,7 @@
     },
     {
       "id": "dearness_event_hume-005",
-      "name": "Choose Present / Gifts {threshold} times in Ume Hanami’s Produce"
+      "name": "Choose Allowance/Gifts {threshold} times in Ume Hanami’s Produce"
     },
     {
       "id": "dearness_event_hume-006",
@@ -215,7 +215,7 @@
     },
     {
       "id": "dearness_event_jsna-005",
-      "name": "In Sena Juo’s Produce, choose Present/Gift {threshold} times"
+      "name": "In Sena Juo’s Produce, choose Allowance/Gift {threshold} times"
     },
     {
       "id": "dearness_event_jsna-006",
@@ -567,7 +567,7 @@
     },
     {
       "id": "dearness_event_ttmr-005",
-      "name": "In Tsukimura Temari’s Produce, choose Present/Gifts {threshold} times"
+      "name": "In Tsukimura Temari’s Produce, choose Allowance/Gifts {threshold} times"
     },
     {
       "id": "dearness_event_ttmr-006",
@@ -5679,7 +5679,7 @@
     },
     {
       "id": "mission-panel-mission-1-8",
-      "name": "Select Present {threshold} time(s) in production"
+      "name": "Choose Allowance/Gift {threshold} times during Produce"
     },
     {
       "id": "mission-panel-mission-1-9",
@@ -6555,7 +6555,7 @@
     },
     {
       "id": "panel_mission-event-002-mission_8",
-      "name": "Select Present {threshold} time(s) in production"
+      "name": "Choose Allowance/Gift {threshold} times during Produce"
     },
     {
       "id": "panel_mission-event-002-mission_9",
@@ -6663,7 +6663,7 @@
     },
     {
       "id": "panel_mission-event-004-mission_8",
-      "name": "Select Present {threshold} time(s) in production"
+      "name": "Choose Allowance/Gift {threshold} times during Produce"
     },
     {
       "id": "panel_mission-event-004-mission_9",
@@ -6735,7 +6735,7 @@
     },
     {
       "id": "panel_mission-event-006-mission_8",
-      "name": "Select Present {threshold} time(s) in production"
+      "name": "Choose Allowance/Gift {threshold} times during Produce"
     },
     {
       "id": "panel_mission-event-006-mission_9",
@@ -6956,6 +6956,78 @@
     {
       "id": "panel_mission-event-009-mission_9",
       "name": "Increase Hiro Shinosawa's Bond Lv to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-010-mission_1",
+      "name": "Clear vocal lessons {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-010-mission_11",
+      "name": "Complete Produce with a Sense Plan idol {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-010-mission_12",
+      "name": "Complete Produce with a Logic Plan idol {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-010-mission_13",
+      "name": "Complete Produce with an Anomaly Plan idol {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-010-mission_14",
+      "name": "Finish production {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-010-mission_15",
+      "name": "Upgrade skill cards {threshold} time(s) in production"
+    },
+    {
+      "id": "panel_mission-event-010-mission_16",
+      "name": "Collect a total of {threshold} P-Drinks"
+    },
+    {
+      "id": "panel_mission-event-010-mission_17",
+      "name": "Acquire a total of {threshold} skill cards"
+    },
+    {
+      "id": "panel_mission-event-010-mission_18",
+      "name": "Consume a total of {threshold} stamina in production"
+    },
+    {
+      "id": "panel_mission-event-010-mission_19",
+      "name": "Collect a total of {threshold} P-Points"
+    },
+    {
+      "id": "panel_mission-event-010-mission_2",
+      "name": "Clear dance lessons {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-010-mission_3",
+      "name": "Clear visual lessons {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-010-mission_4",
+      "name": "Clear SP Lessons {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-010-mission_5",
+      "name": "Choose Outing {threshold} times in Produce"
+    },
+    {
+      "id": "panel_mission-event-010-mission_6",
+      "name": "Choose Allowance/Gift {threshold} times during Produce"
+    },
+    {
+      "id": "panel_mission-event-010-mission_7",
+      "name": "Hold a consultation {threshold} time(s) in production"
+    },
+    {
+      "id": "panel_mission-event-010-mission_8",
+      "name": "Exchange consultations {threshold} time(s) in production"
+    },
+    {
+      "id": "panel_mission-event-010-mission_9",
+      "name": "Use P-Drinks {threshold} time(s)"
     },
     {
       "id": "panel_mission-event-niv-mission_1",
@@ -8312,6 +8384,30 @@
     {
       "id": "achieve-i_card-hume-3-017-06",
       "name": "【Masshiroi Page to Suisai no Shujinkou】Set Ume Hanami’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-01",
+      "name": "【GO MY WAY!!】Pass the Final Exam in Ume Hanami's Produce"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-02",
+      "name": "【GO MY WAY!!】Reach Training Stage {threshold} for  Ume Hanami"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-03",
+      "name": "【GO MY WAY!!】Earn an A+ Evaluation or higher {threshold} times in Ume Hanami's Produce"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-04",
+      "name": "【GO MY WAY!!】Reach Training Stage {threshold} for  Ume Hanami"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-05",
+      "name": "【GO MY WAY!!】Reach Training Stage {threshold} for  Ume Hanami"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-06",
+      "name": "【GO MY WAY!!】Reach Training Stage {threshold} for  Ume Hanami"
     },
     {
       "id": "achieve-i_card-jsna-2-000-01",
@@ -9787,7 +9883,7 @@
     },
     {
       "id": "achieve-p_common-012",
-      "name": "Select Present {threshold} time(s) in production"
+      "name": "Choose Allowance/Gift {threshold} times during Produce"
     },
     {
       "id": "achieve-p_common-013",
