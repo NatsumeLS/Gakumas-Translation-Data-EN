@@ -50,6 +50,14 @@
       "description": "Exchanged"
     },
     {
+      "id": "grade_mission.top.button.idol.disabled",
+      "description": "No Produce Results"
+    },
+    {
+      "id": "grade_mission.top.next_mission.description",
+      "description": "Earn an Rate of {0} or higher with {1} idols"
+    },
+    {
       "id": "high_score_event.top.adv.title_label",
       "description": "Idol Enhancement Month\n〜Twinkling of the Stars〜"
     },
@@ -246,6 +254,26 @@
       "description": "Only P-idols eligible can challenge the event mode."
     },
     {
+      "id": "setting.preference.live.camera.angle_horizontal",
+      "description": "Preparing"
+    },
+    {
+      "id": "setting.preference.live.camera.angle_vertical",
+      "description": "Preparing"
+    },
+    {
+      "id": "setting.preference.live.camera.description",
+      "description": "When this option is ON, camera movement will be inverted when using gesture controls during Live recording."
+    },
+    {
+      "id": "setting.preference.live.camera.description_panorama",
+      "description": ""
+    },
+    {
+      "id": "setting.preference.live.camera.position_depth",
+      "description": "Preparing"
+    },
+    {
       "id": "setting.preference.other.produce_growth_panel.level_up_confirm.description",
       "description": "Display a confirmation message when unlocking or enhancing H.I.F Bonuses."
     },
@@ -287,7 +315,7 @@
     },
     {
       "id": "setting.produce.exit_interval_confirm",
-      "description": "\n  Confirm End of Interval"
+      "description": "Confirm End of Interval"
     },
     {
       "id": "setting.produce.exit_interval_confirm.description",
@@ -308,6 +336,14 @@
     {
       "id": "setting.produce.select_change_card_confirm.description",
       "description": "Display a confirmation message when selecting and changing a Skill Card."
+    },
+    {
+      "id": "shop.need_init.description",
+      "description": "Retrieving information.\nPlease update."
+    },
+    {
+      "id": "shop.need_init.title",
+      "description": "Info"
     },
     {
       "id": "shop.web_store.confirm.description",

@@ -1158,6 +1158,21 @@
       ]
     },
     {
+      "id": "p_card_search-deck_all-p_card-03-ido-3_197",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-ido-3_197",
+          "text": "Reaching out my hand "
+        }
+      ]
+    },
+    {
       "id": "p_card_search-deck_all-starter",
       "produceDescriptions": [
         {
@@ -2579,6 +2594,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "2 Random Skill Cards in Hand (R) "
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-r-sr-lost",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Skill cards (R, SR) that are excluded "
         }
       ]
     },
@@ -4729,6 +4759,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-2_106",
           "text": "Andante"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-target-p_card-03-ido-3_197",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-ido-3_197",
+          "text": "Reaching out my hand "
         }
       ]
     },

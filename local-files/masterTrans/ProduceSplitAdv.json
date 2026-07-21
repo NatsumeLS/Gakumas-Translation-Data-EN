@@ -53,8 +53,22 @@
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "hski",
+      "title": "H.I.F Qualifier"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
+      "title": "H.I.F Finals"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_Opening",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "hski",
       "title": "H.I.F Finals"
     },
     {
