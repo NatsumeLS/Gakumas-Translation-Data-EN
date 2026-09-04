@@ -112994,6 +112994,18 @@
       "produceDescriptions": []
     },
     {
+      "id": "event-detail-p_story-i_card-amao-3-018-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-amao-3-018-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-amao-3-018-03",
+      "produceDescriptions": []
+    },
+    {
       "id": "event-detail-p_story-i_card-atbm-3-000-01",
       "produceDescriptions": []
     },
@@ -113738,6 +113750,18 @@
       "produceDescriptions": []
     },
     {
+      "id": "event-detail-p_story-i_card-kcna-3-018-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-kcna-3-018-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-kcna-3-018-03",
+      "produceDescriptions": []
+    },
+    {
       "id": "event-detail-p_story-i_card-kllj-3-001-01",
       "produceDescriptions": []
     },
@@ -114023,6 +114047,18 @@
     },
     {
       "id": "event-detail-p_story-i_card-ssmk-3-017-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-ssmk-3-018-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-ssmk-3-018-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-ssmk-3-018-03",
       "produceDescriptions": []
     },
     {
@@ -126870,6 +126906,81 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
           "text": "upgrade "
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0110-01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "pitem_02-3-353-0",
+          "text": "All-you-can-eat sushi♪"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Get "
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0110-02",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Visual Increase +"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "20 "
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0110-03",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Select a \"Basic\" skill card and change to a different skill card "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardChange",
+          "text": " "
         }
       ]
     },
