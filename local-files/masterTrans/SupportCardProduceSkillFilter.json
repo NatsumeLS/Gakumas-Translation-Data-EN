@@ -57,6 +57,11 @@
       "title": "Param increase when changing Skill Cards"
     },
     {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-change_produce_card-p_card_search-deck_all-starter",
+      "order": 38,
+      "title": "Param Increase when changing a Basic Card"
+    },
+    {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-customize_produce_card",
       "order": 32,
       "title": "Increase Param when Customizing Skill Cards"
@@ -80,6 +85,11 @@
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition",
       "order": 25,
       "title": "Param increase after Exams/Auditions"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition-produce_card_search_count-p_card_search-deck_all-0015_0000",
+      "order": 39,
+      "title": "Param Increase if 15 or more Skill Cards when the Exam/Audition ends"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_sp-produce_card_count-0020_0000",
