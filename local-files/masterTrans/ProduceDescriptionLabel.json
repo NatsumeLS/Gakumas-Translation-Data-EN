@@ -1576,6 +1576,48 @@
       "name": "Energy Increase Disabled "
     },
     {
+      "id": "Label_ExamBuffConsumptionAdd_Exam",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Enhanced State consumption as Skill Card cost is increased by 100% "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamTurn",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ],
+      "name": "Increased Enhanced State Cost "
+    },
+    {
+      "id": "Label_ExamBuffConsumptionAdd_Produce",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Enhanced State consumption as Skill Card cost is increased by 100% "
+        }
+      ],
+      "name": "Increased Enhanced State Cost "
+    },
+    {
       "id": "Label_ExamCardCreateId",
       "produceDescriptions": [
         {
@@ -3267,7 +3309,7 @@
           "text": "decreased "
         }
       ],
-      "name": "Timidness"
+      "name": "Timid "
     },
     {
       "id": "Label_ExamGimmickSleepy_Produce",
@@ -3280,7 +3322,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "For every +1 Timidness, "
+          "text": "For every +1 Timid, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3303,7 +3345,7 @@
           "text": "gain is decreased by 1"
         }
       ],
-      "name": "Timidness"
+      "name": "Timid "
     },
     {
       "id": "Label_ExamGimmickSlump",

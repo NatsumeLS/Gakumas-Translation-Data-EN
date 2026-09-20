@@ -211,7 +211,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickSleepy",
-      "name": "Low Confidence "
+      "name": "Timid "
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickEnthusiastic",
@@ -332,6 +332,10 @@
     {
       "type": "ProduceExamEffectType_ExamReviewCountAdd",
       "name": "Good impression added "
+    },
+    {
+      "type": "ProduceExamEffectType_ExamBuffConsumptionAdd",
+      "name": "Increased Enhanced State Cost "
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",

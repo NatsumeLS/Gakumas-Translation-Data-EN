@@ -47,6 +47,11 @@
       "title": "Stamina recovers when selecting Allowance/Gift"
     },
     {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-buy_shop_item_produce_card",
+      "order": 42,
+      "title": "Param Increase after changing a Skill Card in Consultation "
+    },
+    {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-buy_shop_item_produce_drink",
       "order": 29,
       "title": "Param increase after P Drink exchange in Consult"
@@ -59,7 +64,7 @@
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-change_produce_card-p_card_search-deck_all-starter",
       "order": 38,
-      "title": "Param Increase when changing a Basic Card"
+      "title": "Param Increase when changing a Basic Card "
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-customize_produce_card",
@@ -89,7 +94,7 @@
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition-produce_card_search_count-p_card_search-deck_all-0015_0000",
       "order": 39,
-      "title": "Param Increase if 15 or more Skill Cards when the Exam/Audition ends"
+      "title": "Param Increase if 15 or more Skill Cards when the Exam/Audition ends "
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_sp-produce_card_count-0020_0000",
@@ -180,6 +185,16 @@
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-p_card_search-ssr-deck_all-1",
       "order": 34,
       "title": "Increase Param when obtaining a Skill Card (SSR)"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_full_power-000-0008_0000",
+      "order": 40,
+      "title": "Param Increase when obtaining a Skill Card if you have 8 or more Skill Cards with Full Power effects "
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_preservation-000-0008_0000",
+      "order": 41,
+      "title": "Param Increase when obtaining a Skill Card if you have 8 or more Skill Cards with Preservation effects "
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_drink",
