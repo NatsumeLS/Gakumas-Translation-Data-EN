@@ -3,8 +3,6 @@
     "primaryKeys": [
       "id",
       "level",
-      "produceGrowthPanelSheetId",
-      "produceSplitType",
       "produceDescriptions.produceDescriptionType",
       "produceDescriptions.examDescriptionType",
       "produceDescriptions.examEffectType",
@@ -12,15 +10,14 @@
       "produceDescriptions.produceCardCategory",
       "produceDescriptions.produceCardMovePositionType",
       "produceDescriptions.produceStepType",
-      "produceDescriptions.produceStepBusinessType"
+      "produceDescriptions.produceStepBusinessType",
+      "produceDescriptions.targetId"
     ]
   },
   "data": [
     {
       "id": "produce_growth_panel_sheet-hif-01",
       "level": 1,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31,6 +28,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Vocal Increase +"
         },
         {
@@ -42,6 +40,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "20 "
         },
         {
@@ -53,6 +52,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nVocal "
         },
         {
@@ -64,6 +64,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -75,6 +76,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -86,16 +88,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "2% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-01",
       "level": 2,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -106,6 +106,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Vocal Increase +"
         },
         {
@@ -117,6 +118,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "40 "
         },
         {
@@ -128,6 +130,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nVocal "
         },
         {
@@ -139,6 +142,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -150,6 +154,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -161,16 +166,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "4% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-01",
       "level": 3,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -181,6 +184,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Vocal Increase +"
         },
         {
@@ -192,6 +196,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "60 "
         },
         {
@@ -203,6 +208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nVocal "
         },
         {
@@ -214,6 +220,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -225,6 +232,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -236,16 +244,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "6% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-01",
       "level": 4,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -256,6 +262,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Vocal Increase +"
         },
         {
@@ -267,6 +274,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "80 "
         },
         {
@@ -278,6 +286,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nVocal "
         },
         {
@@ -289,6 +298,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -300,6 +310,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -311,16 +322,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "8% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-01",
       "level": 5,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -331,6 +340,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Vocal Increase +"
         },
         {
@@ -342,6 +352,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "100 "
         },
         {
@@ -353,6 +364,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nVocal "
         },
         {
@@ -364,6 +376,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -375,6 +388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -386,16 +400,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "10% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-02",
       "level": 1,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -406,6 +418,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Dance Increase +"
         },
         {
@@ -417,6 +430,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "20 "
         },
         {
@@ -428,6 +442,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nDance "
         },
         {
@@ -439,6 +454,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -450,6 +466,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -461,16 +478,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "2% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-02",
       "level": 2,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -481,6 +496,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Dance Increase +"
         },
         {
@@ -492,6 +508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "40 "
         },
         {
@@ -503,6 +520,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nDance "
         },
         {
@@ -514,6 +532,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -525,6 +544,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -536,16 +556,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "4% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-02",
       "level": 3,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -556,6 +574,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Dance Increase +"
         },
         {
@@ -567,6 +586,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "60 "
         },
         {
@@ -578,6 +598,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nDance "
         },
         {
@@ -589,6 +610,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -600,6 +622,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -611,16 +634,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "6% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-02",
       "level": 4,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -631,6 +652,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Dance Increase +"
         },
         {
@@ -642,6 +664,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "80 "
         },
         {
@@ -653,6 +676,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nDance "
         },
         {
@@ -664,6 +688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -675,6 +700,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -686,16 +712,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "8% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-02",
       "level": 5,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -706,6 +730,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Dance Increase +"
         },
         {
@@ -717,6 +742,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "100 "
         },
         {
@@ -728,6 +754,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nDance "
         },
         {
@@ -739,6 +766,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -750,6 +778,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -761,16 +790,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "10% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-03",
       "level": 1,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -781,6 +808,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Visual Increase +"
         },
         {
@@ -792,6 +820,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "20 "
         },
         {
@@ -803,6 +832,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nVisual "
         },
         {
@@ -814,6 +844,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -825,6 +856,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -836,16 +868,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "2% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-03",
       "level": 2,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -856,6 +886,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Visual Increase +"
         },
         {
@@ -867,6 +898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "40 "
         },
         {
@@ -878,6 +910,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nVisual "
         },
         {
@@ -889,6 +922,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -900,6 +934,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -911,16 +946,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "4% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-03",
       "level": 3,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -931,6 +964,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Visual Increase +"
         },
         {
@@ -942,6 +976,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "60 "
         },
         {
@@ -953,6 +988,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nVisual "
         },
         {
@@ -964,6 +1000,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -975,6 +1012,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -986,16 +1024,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "6% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-03",
       "level": 4,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1006,6 +1042,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Visual Increase +"
         },
         {
@@ -1017,6 +1054,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "80 "
         },
         {
@@ -1028,6 +1066,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nVisual "
         },
         {
@@ -1039,6 +1078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -1050,6 +1090,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -1061,16 +1102,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "8% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-03",
       "level": 5,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1081,6 +1120,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Visual Increase +"
         },
         {
@@ -1092,6 +1132,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "100 "
         },
         {
@@ -1103,6 +1144,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "\nVisual "
         },
         {
@@ -1114,6 +1156,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "Label_LessonBonus",
           "text": "Param Bonus "
         },
         {
@@ -1125,6 +1168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -1136,16 +1180,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "10% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-04",
       "level": 1,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1156,6 +1198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Increase SP Lesson Rate for Vocal, Dance, and Visual +"
         },
         {
@@ -1167,16 +1210,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "1% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-04",
       "level": 2,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1187,6 +1228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Increase SP Lesson Rate for Vocal, Dance, and Visual +"
         },
         {
@@ -1198,16 +1240,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "2% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-04",
       "level": 3,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1218,6 +1258,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Increase SP Lesson Rate for Vocal, Dance, and Visual +"
         },
         {
@@ -1229,16 +1270,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "3% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-04",
       "level": 4,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1249,6 +1288,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Increase SP Lesson Rate for Vocal, Dance, and Visual +"
         },
         {
@@ -1260,16 +1300,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "4% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-04",
       "level": 5,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1280,6 +1318,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Increase SP Lesson Rate for Vocal, Dance, and Visual +"
         },
         {
@@ -1291,16 +1330,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "5% "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-05",
       "level": 1,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1311,6 +1348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Pre-Exam Stamina Recovery Amount "
         },
         {
@@ -1322,6 +1360,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "5% "
         },
         {
@@ -1333,16 +1372,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Gain "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-05",
       "level": 2,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1353,6 +1390,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Pre-Exam Stamina Recovery Amount "
         },
         {
@@ -1364,6 +1402,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "7% "
         },
         {
@@ -1375,16 +1414,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Gain "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-05",
       "level": 3,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1395,6 +1432,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Pre-Exam Stamina Recovery Amount "
         },
         {
@@ -1406,6 +1444,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "9% "
         },
         {
@@ -1417,16 +1456,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Gain "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-05",
       "level": 4,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1437,6 +1474,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Pre-Exam Stamina Recovery Amount "
         },
         {
@@ -1448,6 +1486,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "11% "
         },
         {
@@ -1459,16 +1498,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Gain "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-05",
       "level": 5,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1479,6 +1516,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Pre-Exam Stamina Recovery Amount "
         },
         {
@@ -1490,6 +1528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "13% "
         },
         {
@@ -1501,16 +1540,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Gain "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-05",
       "level": 6,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1521,6 +1558,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Pre-Exam Stamina Recovery Amount "
         },
         {
@@ -1532,6 +1570,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "15% "
         },
         {
@@ -1543,16 +1582,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Gain "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-06",
       "level": 1,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1563,6 +1600,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Increase the cap of Vocal, Dance, and Visual +"
         },
         {
@@ -1574,16 +1612,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "50 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-06",
       "level": 2,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1594,6 +1630,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Increase the cap of Vocal, Dance, and Visual +"
         },
         {
@@ -1605,16 +1642,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "80 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-06",
       "level": 3,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1625,6 +1660,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Increase the cap of Vocal, Dance, and Visual +"
         },
         {
@@ -1636,16 +1672,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "110 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-06",
       "level": 4,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1656,6 +1690,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Increase the cap of Vocal, Dance, and Visual +"
         },
         {
@@ -1667,16 +1702,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "140 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-06",
       "level": 5,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1687,6 +1720,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Increase the cap of Vocal, Dance, and Visual +"
         },
         {
@@ -1698,16 +1732,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "170 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-06",
       "level": 6,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1718,6 +1750,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Increase the cap of Vocal, Dance, and Visual +"
         },
         {
@@ -1729,16 +1762,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "200 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-07",
       "level": 1,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Selection",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1749,6 +1780,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "P-Points +"
         },
         {
@@ -1760,16 +1792,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "50 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-07",
       "level": 2,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Selection",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1780,6 +1810,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "P-Points +"
         },
         {
@@ -1791,16 +1822,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "80 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-07",
       "level": 3,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Selection",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1811,6 +1840,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "P-Points +"
         },
         {
@@ -1822,16 +1852,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "110 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-07",
       "level": 4,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Selection",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1842,6 +1870,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "P-Points +"
         },
         {
@@ -1853,16 +1882,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "140 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-07",
       "level": 5,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Selection",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1873,6 +1900,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "P-Points +"
         },
         {
@@ -1884,16 +1912,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "170 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-07",
       "level": 6,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Selection",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1904,6 +1930,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "P-Points +"
         },
         {
@@ -1915,16 +1942,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "200 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-08",
       "level": 1,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1935,6 +1960,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "P-Points +"
         },
         {
@@ -1946,16 +1972,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "50 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-08",
       "level": 2,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1966,6 +1990,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "P-Points +"
         },
         {
@@ -1977,16 +2002,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "80 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-08",
       "level": 3,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1997,6 +2020,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "P-Points +"
         },
         {
@@ -2008,16 +2032,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "110 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-08",
       "level": 4,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2028,6 +2050,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "P-Points +"
         },
         {
@@ -2039,16 +2062,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "140 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-08",
       "level": 5,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2059,6 +2080,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "P-Points +"
         },
         {
@@ -2070,16 +2092,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "170 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-08",
       "level": 6,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2090,6 +2110,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "P-Points +"
         },
         {
@@ -2101,16 +2122,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "200 "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-09",
       "level": 1,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2121,6 +2140,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Consultation Skill Card "
         },
         {
@@ -2132,6 +2152,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "5% "
         },
         {
@@ -2143,16 +2164,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Discount "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-09",
       "level": 2,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2163,6 +2182,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Consultation Skill Card "
         },
         {
@@ -2174,6 +2194,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "10% "
         },
         {
@@ -2185,16 +2206,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Discount "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-09",
       "level": 3,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2205,6 +2224,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Consultation Skill Card "
         },
         {
@@ -2216,6 +2236,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "15% "
         },
         {
@@ -2227,16 +2248,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Discount "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-09",
       "level": 4,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2247,6 +2266,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Consultation Skill Card "
         },
         {
@@ -2258,6 +2278,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "20% "
         },
         {
@@ -2269,16 +2290,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Discount "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-09",
       "level": 5,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2289,6 +2308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Consultation Skill Card "
         },
         {
@@ -2300,6 +2320,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "25% "
         },
         {
@@ -2311,16 +2332,14 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Discount "
         }
-      ],
-      "name": ""
+      ]
     },
     {
       "id": "produce_growth_panel_sheet-hif-09",
       "level": 6,
-      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
-      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2331,6 +2350,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Consultation Skill Card "
         },
         {
@@ -2342,6 +2362,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "30% "
         },
         {
@@ -2353,10 +2374,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "Discount "
         }
-      ],
-      "name": ""
+      ]
     }
   ]
 }
