@@ -30,8 +30,16 @@
       "description": "※Customization can be performed through Special Guidance"
     },
     {
+      "id": "card.sort.research_event_consumption_item_bonus",
+      "description": "Asari-sensei’s Produce Seminar Event Bonus "
+    },
+    {
+      "id": "card.sort.story_event_point_bonus",
+      "description": "Kanae Himawatari Ep.0 Event Bonus "
+    },
+    {
       "id": "common.story_event_point",
-      "description": "Asari-sensei's Production Seminar"
+      "description": "Event Points"
     },
     {
       "id": "competition.rehearsal_battle_confirm.label.description",
@@ -112,6 +120,10 @@
     {
       "id": "idol_dearness.top.mission_unlock_description",
       "description": "Unlocks on {0}"
+    },
+    {
+      "id": "login_bonus.selectable.cancel_sheet.description",
+      "description": "If you choose [Choose Later], you can claim it from [Home > Gifts > Selectable Login Bonus].\\n\\nWould you like to go to the Home screen without choosing now?\n\\n<color=#u:Strong>※ Claim deadline: {0}\\n※ If you miss the deadline, log in again during the login bonus period and the \"Guaranteed SSR Produce Idol Gacha Ticket\" will be sent to your Gifts automatically.\\</color>"
     },
     {
       "id": "memory.inherit.select_produce_card.before_select.message",
@@ -364,6 +376,10 @@
     {
       "id": "story.idol.others.birthday",
       "description": "Other"
+    },
+    {
+      "id": "story.story_event.section.main_story_condition_lock_text",
+      "description": "Unlocked by earning Mission Pts"
     },
     {
       "id": "story.story_event.section.normal_condition_lock_text",
