@@ -22,7 +22,7 @@
       "description": "10-Time Gacha",
       "appealText": "",
       "highAppealText": "",
-      "bottomAppealText": "1 Guaranteed SR or Higher "
+      "bottomAppealText": "1 SR or Higher "
     },
     {
       "id": "gasha_button_00980-ssr-idol-001",
@@ -70,12 +70,30 @@
       "bottomAppealText": "{0}x More"
     },
     {
+      "id": "gasha_button_01070-ssr-idol-001",
+      "order": 1,
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": "{0}x More"
+    },
+    {
       "id": "gasha_button_animate-ssr-00630",
       "order": 1,
       "name": "Paid 10-Time gacha",
       "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button_item-gachaticket-2.5th-anniv-10-001",
+      "order": 1,
+      "name": "Pull using a 2.5th Anniversary 10-Pull Gacha Ticket",
+      "description": "10-Time Gacha",
+      "appealText": "1 SR or Higher ",
+      "highAppealText": "1 SR or Higher ",
       "bottomAppealText": ""
     },
     {
@@ -173,7 +191,7 @@
       "order": 3,
       "name": "10-Time Gacha",
       "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -236,7 +254,7 @@
       "order": 3,
       "name": "10-Time Ticket Gacha",
       "description": "10-Time Ticket Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -254,7 +272,7 @@
       "order": 3,
       "name": "10-Time Ticket Gacha",
       "description": "10-Time Ticket Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -272,7 +290,7 @@
       "order": 3,
       "name": "10-Time Ticket Gacha",
       "description": "10-Time Ticket Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -344,7 +362,7 @@
       "order": 3,
       "name": "10-Time Ticket Gacha",
       "description": "10-Time Ticket Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -443,7 +461,7 @@
       "order": 1,
       "name": "10-Time Gacha",
       "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -497,7 +515,7 @@
       "order": 3,
       "name": "10-Time Item Gacha",
       "description": "10-Time Item Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -506,7 +524,7 @@
       "order": 3,
       "name": "10-Time Ticket Gacha",
       "description": "10-Time Ticket Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -569,6 +587,51 @@
       "order": 1,
       "name": "Use a ticket with a 10x higher SSR P-Idol drop rate",
       "description": "Use a ticket with a 10x higher SSR P-Idol drop rate",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ssr-idol-002",
+      "order": 1,
+      "name": "Pull using a Guaranteed SSR Produce Idol Gacha Ticket with 2.5th Anniversary Season-Limited Idols",
+      "description": "Pull using a Guaranteed SSR Produce Idol Gacha Ticket with 2.5th Anniversary Season-Limited Idols",
+      "appealText": "Guaranteed SSR ",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ssr-support-002",
+      "order": 1,
+      "name": "Pull using a Guaranteed SSR Support Card Gacha Ticket with 2.5th Anniversary Season-Limited Cards",
+      "description": "Pull using a Guaranteed SSR Support Card Gacha Ticket with 2.5th Anniversary Season-Limited Cards",
+      "appealText": "Guaranteed SSR ",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ticket-001",
+      "order": 1,
+      "name": "Pull using a Gacha Ticket that Guarantees 2 SSR Produce Idols! (2-Pull)",
+      "description": "Pull using a Gacha Ticket that Guarantees 2 SSR Produce Idols! (2-Pull)",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ticket-002",
+      "order": 1,
+      "name": "Pull using a 10-Pull Gacha Ticket with a 10× SSR Produce Idol Appearance Rate",
+      "description": "Pull using a 10-Pull Gacha Ticket with a 10× SSR Produce Idol Appearance Rate",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-wednesday-001",
+      "order": 1,
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -731,7 +794,7 @@
       "order": 3,
       "name": "10-Time Gacha",
       "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -776,7 +839,7 @@
       "order": 3,
       "name": "10-Time Gacha",
       "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -785,7 +848,7 @@
       "order": 1,
       "name": "10-Time Gacha",
       "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -794,7 +857,7 @@
       "order": 3,
       "name": "10-Time Gacha",
       "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
     },
@@ -893,8 +956,8 @@
       "order": 3,
       "name": "Pull with 10 tickets for the 1st anniversary gacha",
       "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
-      "highAppealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
+      "highAppealText": "1 SR or Higher ",
       "bottomAppealText": ""
     },
     {
@@ -902,8 +965,8 @@
       "order": 1,
       "name": "Pull with a 2nd Anniversary 10-Pull Gacha Ticket",
       "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
-      "highAppealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
+      "highAppealText": "1 SR or Higher ",
       "bottomAppealText": ""
     },
     {
@@ -920,8 +983,8 @@
       "order": 3,
       "name": "Use the Christmas login bonus gacha ticket",
       "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
-      "highAppealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
+      "highAppealText": "1 SR or Higher ",
       "bottomAppealText": ""
     },
     {
@@ -1037,8 +1100,8 @@
       "order": 3,
       "name": "Use Valentine's Login Bonus Gacha Tickets",
       "description": "10-Time Gacha",
-      "appealText": "1 Guaranteed SR or Higher ",
-      "highAppealText": "1 Guaranteed SR or Higher ",
+      "appealText": "1 SR or Higher ",
+      "highAppealText": "1 SR or Higher ",
       "bottomAppealText": ""
     },
     {

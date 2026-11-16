@@ -2798,6 +2798,41 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-017-01-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Stamina recovery, 10% of max stamina\n100% chance to select and get 1 skill card "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardUpgrade",
+          "text": "and upgrade "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\nRetry possible with lower probability"
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-017-01-hmsz",
       "produceDescriptions": [
         {
@@ -2883,6 +2918,21 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-017-02-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Do nothing and return to production "
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-017-02-hmsz",
       "produceDescriptions": [
         {
@@ -2914,6 +2964,41 @@
     },
     {
       "id": "p_s_e_s-event-detail-activity-001-017-1-01-atbm",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Stamina recovery, 10% of max stamina\n70% chance of success and select 1 skill card "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardUpgrade",
+          "text": "and upgrade "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n30% chance of failure with no effect "
+        }
+      ]
+    },
+    {
+      "id": "p_s_e_s-event-detail-activity-001-017-1-01-hkne",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3033,6 +3118,21 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-017-1-02-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Do nothing and return to production "
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-017-1-02-hmsz",
       "produceDescriptions": [
         {
@@ -3064,6 +3164,21 @@
     },
     {
       "id": "p_s_e_s-event-detail-activity-001-018-01-atbm",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Stamina recovery, 40% of max stamina\n100% chance to succeed and select a skill card (high chance of SSR)\nChance decreases, retry possible "
+        }
+      ]
+    },
+    {
+      "id": "p_s_e_s-event-detail-activity-001-018-01-hkne",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3123,6 +3238,21 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-018-02-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Do nothing and return to production "
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-018-02-hmsz",
       "produceDescriptions": [
         {
@@ -3168,6 +3298,21 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-018-1-01-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Stamina recovery, 40% of max stamina\n70% chance of success and select a skill card (high chance of SSR)\n30% chance of failure and get trouble card \"Sleepiness\" "
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-018-1-01-hmsz",
       "produceDescriptions": [
         {
@@ -3199,6 +3344,21 @@
     },
     {
       "id": "p_s_e_s-event-detail-activity-001-018-1-02-atbm",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Do nothing and return to production "
+        }
+      ]
+    },
+    {
+      "id": "p_s_e_s-event-detail-activity-001-018-1-02-hkne",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

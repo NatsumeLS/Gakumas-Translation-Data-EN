@@ -66,7 +66,7 @@
       "routeDescription": "You can check this from the Home BondLv"
     },
     {
-      "tutorialType": 32,
+      "tutorialType": "TutorialType_GradeMission",
       "name": "P-Rating\nAchievements",
       "description": "P-Rating Achievements \nunlocked",
       "routeDescription": "You can check them from the normal missions menu"
@@ -82,6 +82,12 @@
       "name": "Skill Card Switch",
       "description": "\"Skill Card Switch\" unlocked",
       "routeDescription": "Available in produce"
+    },
+    {
+      "tutorialType": "TutorialType_Refine",
+      "name": "　",
+      "description": "　",
+      "routeDescription": "　"
     }
   ]
 }

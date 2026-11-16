@@ -1,0 +1,21 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "mediaMovieType"
+    ]
+  },
+  "data": [
+    {
+      "mediaMovieType": "MediaMovieType_Movie",
+      "name": "Movie"
+    },
+    {
+      "mediaMovieType": "MediaMovieType_Birthday",
+      "name": "Birthday"
+    },
+    {
+      "mediaMovieType": "MediaMovieType_Story",
+      "name": "Commu"
+    }
+  ]
+}

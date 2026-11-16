@@ -31,7 +31,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaReduceFix",
-      "name": "Stamina Usage "
+      "name": "Fixed Stamina Cost "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuff",
@@ -251,19 +251,19 @@
     },
     {
       "type": "ProduceExamEffectType_ExamReviewReduce",
-      "name": "Good Impression Reduction "
+      "name": "Good Impressions Cost "
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveReduce",
-      "name": "Motivation Decrease "
+      "name": "Motivation Cost "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffReduce",
-      "name": "Focus Decrease "
+      "name": "Focus Cost "
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffReduce",
-      "name": "Good Shape Decrease "
+      "name": "Good Shape Cost "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultipleDown",
@@ -319,7 +319,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurnReduce",
-      "name": "Great decrease "
+      "name": "Excellent Shape Cost "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive",
@@ -346,6 +346,10 @@
       "name": "Increased Enhanced State Cost "
     },
     {
+      "type": "ProduceExamEffectType_ExamFullPowerPointReduceCancellable",
+      "name": "Full Power Decrease "
+    },
+    {
       "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
       "name": "Additional Good Shape Increase"
     },
@@ -368,6 +372,18 @@
     {
       "type": "ProduceExamEffectType_ExamStatusEnchantEncore",
       "name": "Replay"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamMetamorphose",
+      "name": "Metamorphose (Prep) "
+    },
+    {
+      "type": "ProduceExamEffectType_ExamMetamorphoseAfter",
+      "name": "Metamorphose (Performance) "
+    },
+    {
+      "type": "ProduceExamEffectType_ExamStaminaReduceFixAffected",
+      "name": "Stamina Usage "
     }
   ]
 }

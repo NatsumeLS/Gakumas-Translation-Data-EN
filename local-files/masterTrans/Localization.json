@@ -123,7 +123,7 @@
     },
     {
       "id": "login_bonus.selectable.cancel_sheet.description",
-      "description": "If you choose [Choose Later], you can claim it from [Home > Gifts > Selectable Login Bonus].\\n\\nWould you like to go to the Home screen without choosing now?\n\\n<color=#u:Strong>※ Claim deadline: {0}\\n※ If you miss the deadline, log in again during the login bonus period and the \"Guaranteed SSR Produce Idol Gacha Ticket\" will be sent to your Gifts automatically.\\</color>"
+      "description": "If you choose [Choose Later], you can claim it from [Home > Gifts > Selectable Login Bonus].\\n\\nGo to the Home screen without choosing now?\n\\n<color=#u:Strong>※ Claim by: {0}\\n※ If you miss the claim deadline, log in again during the login bonus period. The “Guaranteed 2 SSR Produce Idols! Gacha Ticket” will be sent to your Gifts automatically.</color>"
     },
     {
       "id": "memory.inherit.select_produce_card.before_select.message",
@@ -264,6 +264,10 @@
     {
       "id": "produce.sheet.drink_max.description",
       "description": "The P-Drink carry limit has been reached.\nPlease select the drinks you want to keep."
+    },
+    {
+      "id": "producer_ranking.character_detail_sheet.tower_no_layers",
+      "description": "Planned for a future update"
     },
     {
       "id": "producer_ranking.character_reward.description",

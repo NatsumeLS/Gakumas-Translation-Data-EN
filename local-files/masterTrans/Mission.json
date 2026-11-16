@@ -1314,6 +1314,10 @@
       "name": "Get B Rank with SSR Kotone"
     },
     {
+      "id": "hidden_mission-normal-produce-clear-i_card-hkne-3-000-b",
+      "name": "Earn a B rating with SSR Kanae"
+    },
+    {
       "id": "hidden_mission-normal-produce-clear-i_card-hmsz-3-000-b",
       "name": "SSR Misuzu with B Rank"
     },
@@ -1438,6 +1442,10 @@
       "name": "Received a star on 【The Idol Road】"
     },
     {
+      "id": "hidden_mission-view-ending-a-hkne",
+      "name": "See the A End with Kanae"
+    },
+    {
       "id": "hidden_mission-view-ending-a-hmsz",
       "name": "See A End with Misuzu"
     },
@@ -1494,8 +1502,16 @@
       "name": "Achieve A-End with Temari Tsukimura"
     },
     {
+      "id": "hidden_mission-view-ending-b-hkne",
+      "name": "See the B End with Kanae"
+    },
+    {
       "id": "hidden_mission-view-ending-b-hmsz",
       "name": "See B End with Misuzu"
+    },
+    {
+      "id": "hidden_mission-view-ending-c-hkne",
+      "name": "See the C End with Kanae"
     },
     {
       "id": "hidden_mission-view-ending-c-hmsz",
@@ -1708,6 +1724,10 @@
     {
       "id": "hidden_mission-view-ending-true-fktn",
       "name": "Achieve True End with Kotone"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-hkne",
+      "name": "See the True End with Kanae"
     },
     {
       "id": "hidden_mission-view-ending-true-hmsz",
@@ -6262,6 +6282,10 @@
       "name": "Tsubame Piece Pack Activation Condition"
     },
     {
+      "id": "mission-normal-view-shop_pack_hkne-0001",
+      "name": "Kanae Piece Pack Unlock Condition"
+    },
+    {
       "id": "mission-normal-view-shop_pack_hmsz-0001",
       "name": "Misuzu Piece Pack trigger conditions"
     },
@@ -6931,7 +6955,7 @@
     },
     {
       "id": "mission-story-character-introduction-001-mission_32",
-      "name": "Gain {threshold} fans for Hiro Shinozawa"
+      "name": "Gain {threshold} fans for Hiro Shinosawa"
     },
     {
       "id": "mission-story-character-introduction-001-mission_33",
@@ -8006,6 +8030,78 @@
       "name": "Pass the final exam {threshold} time(s)"
     },
     {
+      "id": "panel_mission-event-012-mission_1",
+      "name": "Complete Produce with Saki Hanami {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-012-mission_11",
+      "name": "Exchange {threshold} time(s) at the Money Exchange"
+    },
+    {
+      "id": "panel_mission-event-012-mission_12",
+      "name": "Complete Produce with Lilja Katsuragi {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-012-mission_13",
+      "name": "Complete Produce with Sumika Shiun {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-012-mission_14",
+      "name": "Complete Produce with Tsubame Amaya {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-012-mission_15",
+      "name": "Complete Produce with Sena Juo {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-012-mission_16",
+      "name": "Complete Produce with Misuzu Hataya {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-012-mission_17",
+      "name": "Participate in a contest {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-012-mission_18",
+      "name": "Complete Produce with Mao Arimura {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-012-mission_19",
+      "name": "Complete Produce with Rinami Himesaki {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-012-mission_2",
+      "name": "Complete Produce with Temari Tsukimura {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-012-mission_3",
+      "name": "Complete Produce with Kotone Fujita {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-012-mission_4",
+      "name": "Collect money"
+    },
+    {
+      "id": "panel_mission-event-012-mission_5",
+      "name": "Complete Produce with Kanae Hiwatari {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-012-mission_6",
+      "name": "Start {threshold} jobs"
+    },
+    {
+      "id": "panel_mission-event-012-mission_7",
+      "name": "Complete Produce with Ume Hanami {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-012-mission_8",
+      "name": "Complete Produce with China Kuramoto {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-012-mission_9",
+      "name": "Complete Produce with Hiro Shinosawa {threshold} times"
+    },
+    {
       "id": "panel_mission-event-niv-mission_1",
       "name": "Pass the final exam with a score of B+ or higher {threshold} time(s)"
     },
@@ -8592,6 +8688,54 @@
     {
       "id": "achieve-i_card-fktn-3-019-06",
       "name": "【GO MY WAY!!】Raise Kotone Fujita's Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-01",
+      "name": "【Taking it one step at a time】Pass the Final Exam while producing Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-02",
+      "name": "【Taking it one step at a time】Raise the Training Level of Kanae Hiwatari to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-03",
+      "name": "【Taking it one step at a time】Earn an A+ or higher {threshold} times while producing Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-04",
+      "name": "【Taking it one step at a time】Raise the Training Level of Kanae Hiwatari to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-05",
+      "name": "【Taking it one step at a time】Raise the Training Level of Kanae Hiwatari to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-06",
+      "name": "【Taking it one step at a time】Raise the Training Level of Kanae Hiwatari to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-01",
+      "name": "【Metamorphose】Pass the Final Exam while producing Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-02",
+      "name": "【Metamorphose】Raise the Training Level of Kanae Hiwatari to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-03",
+      "name": "【Metamorphose】Earn an A+ or higher {threshold} times while producing Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-04",
+      "name": "【Metamorphose】Raise the Training Level of Kanae Hiwatari to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-05",
+      "name": "【Metamorphose】Raise the Training Level of Kanae Hiwatari to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-06",
+      "name": "【Metamorphose】Raise the Training Level of Kanae Hiwatari to {threshold}"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-01",
@@ -11078,6 +11222,10 @@
       "name": "Earn {threshold} stars in Kotone Fujita's achievements"
     },
     {
+      "id": "achieve-m_hkne-001",
+      "name": "Earn {threshold} stars in Kanae Hiwatari’s Achievements"
+    },
+    {
       "id": "achieve-m_hmsz-001",
       "name": "Earn {threshold}★ Achievements for Misuzu Hataya"
     },
@@ -11470,6 +11618,42 @@
       "name": "Pass the Final Exam with Mao Arimura and earn an S4 or higher evaluation {threshold} times"
     },
     {
+      "id": "achieve-p_idol-amao-030",
+      "name": "Obtain a total of {threshold} costumes for Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-031",
+      "name": "Obtain a total of {threshold} hairstyles for Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-033",
+      "name": "Unlock a total of {threshold} songs for Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-034",
+      "name": "Place in the top 2,000 in Mao Arimura’s Producer Ranking for {threshold} seasons"
+    },
+    {
+      "id": "achieve-p_idol-amao-035",
+      "name": "Obtain a total of {threshold} Produce Idols for Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-036",
+      "name": "Watch {threshold} different True Lives for Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-037",
+      "name": "Work for a total of {threshold} hours with Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-038",
+      "name": "Take {threshold} photos of Mao Arimura"
+    },
+    {
+      "id": "achieve-p_idol-amao-039",
+      "name": "Enter the Contest {threshold} times with Mao Arimura"
+    },
+    {
       "id": "achieve-p_idol-atbm-000",
       "name": "View the True End with Tsubame Amaya"
     },
@@ -11584,6 +11768,42 @@
     {
       "id": "achieve-p_idol-atbm-027",
       "name": "Pass the Final Exam with Tsubame Amaya and earn an S4 or higher evaluation {threshold} times"
+    },
+    {
+      "id": "achieve-p_idol-atbm-030",
+      "name": "Obtain a total of {threshold} costumes for Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-031",
+      "name": "Obtain a total of {threshold} hairstyles for Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-033",
+      "name": "Unlock a total of {threshold} songs for Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-034",
+      "name": "Place in the top 2,000 in Tsubame Amaya’s Producer Ranking for {threshold} seasons"
+    },
+    {
+      "id": "achieve-p_idol-atbm-035",
+      "name": "Obtain a total of {threshold} Produce Idols for Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-036",
+      "name": "Watch {threshold} different True Lives for Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-037",
+      "name": "Work for a total of {threshold} hours with Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-038",
+      "name": "Take {threshold} photos of Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-039",
+      "name": "Enter the Contest {threshold} times with Tsubame Amaya"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -11922,6 +12142,174 @@
       "name": "Pass the Final Exam with Kotone Fujita and earn an S4 or higher evaluation {threshold} times"
     },
     {
+      "id": "achieve-p_idol-fktn-030",
+      "name": "Obtain a total of {threshold} costumes for Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-031",
+      "name": "Obtain a total of {threshold} hairstyles for Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-033",
+      "name": "Unlock a total of {threshold} songs for Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-034",
+      "name": "Place in the top 2,000 in Kotone Fujita’s Producer Ranking for {threshold} seasons"
+    },
+    {
+      "id": "achieve-p_idol-fktn-035",
+      "name": "Obtain a total of {threshold} Produce Idols for Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-036",
+      "name": "Watch {threshold} different True Lives for Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-037",
+      "name": "Work for a total of {threshold} hours with Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-038",
+      "name": "Take {threshold} photos of Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-039",
+      "name": "Enter the Contest {threshold} times with Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-hkne-000",
+      "name": "See Kanae Hiwatari’s True End"
+    },
+    {
+      "id": "achieve-p_idol-hkne-001",
+      "name": "Use skill cards {threshold} times while producing Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-002",
+      "name": "Clear Lessons {threshold} times with Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-003",
+      "name": "Clear SP Lessons {threshold} times with Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-004",
+      "name": "Pass the Final Exam with a rating of B or higher {threshold} times with Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-005",
+      "name": "Pass the Final Exam with a rating of A or higher {threshold} times with Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-006",
+      "name": "Pass the Final Exam with a rating of S or higher {threshold} times with Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-007",
+      "name": "Complete Produce with Kanae Hiwatari {threshold} times"
+    },
+    {
+      "id": "achieve-p_idol-hkne-008",
+      "name": "Raise Kanae Hiwatari’s Training Level to {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hkne-009",
+      "name": "Pass the Final Exam {threshold} times while producing Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-010",
+      "name": "Gain {threshold} fans for Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-011",
+      "name": "Raise Kanae Hiwatari’s Affinity Level to {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hkne-012",
+      "name": "Earn a total Produce Rating of {threshold} with Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-013",
+      "name": "Upgrade skill cards {threshold} times while producing Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-014",
+      "name": "Complete Produce with Kanae Hiwatari after raising her Visual to at least 1,000"
+    },
+    {
+      "id": "achieve-p_idol-hkne-015",
+      "name": "Obtained {threshold}★  in 【The Idol Road】"
+    },
+    {
+      "id": "achieve-p_idol-hkne-016",
+      "name": "Pass the Final Exam with a rating of S+ or higher {threshold} times with Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-017",
+      "name": "Take 1st place in the Final Exam on Master difficulty in Kanae Hiwatari’s Regular Performance “Hajime”"
+    },
+    {
+      "id": "achieve-p_idol-hkne-018",
+      "name": "Select Sp. Consult {threshold} time(s) in production"
+    },
+    {
+      "id": "achieve-p_idol-hkne-020",
+      "name": "Pass the Final Exam with a rating of SS or higher {threshold} times with Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-021",
+      "name": "Pass the Final Exam with a rating of SS+ or higher {threshold} times with Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-023",
+      "name": "Pass the Final Exam with a rating of SSS or higher {threshold} times with Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-024",
+      "name": "Pass the Final Exam with a rating of SSS+ or higher {threshold} times with Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-027",
+      "name": "Pass the Final Exam with a rating of S4 or higher {threshold} times with Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-030",
+      "name": "Obtain a total of {threshold} costumes for Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-031",
+      "name": "Obtain a total of {threshold} hairstyles for Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-033",
+      "name": "Unlock a total of {threshold} songs for Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-034",
+      "name": "Place in the top 2,000 in Kanae Hiwatari’s Producer Ranking for {threshold} seasons"
+    },
+    {
+      "id": "achieve-p_idol-hkne-035",
+      "name": "Obtain a total of {threshold} Produce Idols for Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-036",
+      "name": "Watch {threshold} different True Lives for Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-037",
+      "name": "Work for a total of {threshold} hours with Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-038",
+      "name": "Take {threshold} photos of Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-p_idol-hkne-039",
+      "name": "Enter the Contest {threshold} times with Kanae Hiwatari"
+    },
+    {
       "id": "achieve-p_idol-hmsz-000",
       "name": "View the True End with Misuzu Hataya"
     },
@@ -12036,6 +12424,42 @@
     {
       "id": "achieve-p_idol-hmsz-027",
       "name": "Pass the Final Exam with Misuzu Hataya and earn an S4 or higher evaluation {threshold} times"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-030",
+      "name": "Obtain a total of {threshold} costumes for Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-031",
+      "name": "Obtain a total of {threshold} hairstyles for Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-033",
+      "name": "Unlock a total of {threshold} songs for Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-034",
+      "name": "Place in the top 2,000 in Misuzu Hataya’s Producer Ranking for {threshold} seasons"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-035",
+      "name": "Obtain a total of {threshold} Produce Idols for Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-036",
+      "name": "Watch {threshold} different True Lives for Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-037",
+      "name": "Work for a total of {threshold} hours with Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-038",
+      "name": "Take {threshold} photos of Misuzu Hataya"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-039",
+      "name": "Enter the Contest {threshold} times with Misuzu Hataya"
     },
     {
       "id": "achieve-p_idol-hrnm-000",
@@ -12158,6 +12582,42 @@
       "name": "Pass the Final Exam with Rinami Himesaki and earn an S4 or higher evaluation {threshold} times"
     },
     {
+      "id": "achieve-p_idol-hrnm-030",
+      "name": "Obtain a total of {threshold} costumes for Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-031",
+      "name": "Obtain a total of {threshold} hairstyles for Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-033",
+      "name": "Unlock a total of {threshold} songs for Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-034",
+      "name": "Place in the top 2,000 in Rinami Himesaki’s Producer Ranking for {threshold} seasons"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-035",
+      "name": "Obtain a total of {threshold} Produce Idols for Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-036",
+      "name": "Watch {threshold} different True Lives for Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-037",
+      "name": "Work for a total of {threshold} hours with Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-038",
+      "name": "Take {threshold} photos of Rinami Himesaki"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-039",
+      "name": "Enter the Contest {threshold} times with Rinami Himesaki"
+    },
+    {
       "id": "achieve-p_idol-hski-000",
       "name": "See True End with Saki Hanami"
     },
@@ -12278,6 +12738,42 @@
       "name": "Pass the Final Exam with Saki Hanami and earn an S4 or higher evaluation {threshold} times"
     },
     {
+      "id": "achieve-p_idol-hski-030",
+      "name": "Obtain a total of {threshold} costumes for Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-031",
+      "name": "Obtain a total of {threshold} hairstyles for Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-033",
+      "name": "Unlock a total of {threshold} songs for Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-034",
+      "name": "Place in the top 2,000 in Saki Hanami’s Producer Ranking for {threshold} seasons"
+    },
+    {
+      "id": "achieve-p_idol-hski-035",
+      "name": "Obtain a total of {threshold} Produce Idols for Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-036",
+      "name": "Watch {threshold} different True Lives for Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-037",
+      "name": "Work for a total of {threshold} hours with Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-038",
+      "name": "Take {threshold} photos of Saki Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hski-039",
+      "name": "Enter the Contest {threshold} times with Saki Hanami"
+    },
+    {
       "id": "achieve-p_idol-hume-000",
       "name": "View True End with Ume Hanami"
     },
@@ -12392,6 +12888,42 @@
     {
       "id": "achieve-p_idol-hume-027",
       "name": "Pass the Final Exam with Ume Hanami and earn an S4 or higher evaluation {threshold} times"
+    },
+    {
+      "id": "achieve-p_idol-hume-030",
+      "name": "Obtain a total of {threshold} costumes for Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-031",
+      "name": "Obtain a total of {threshold} hairstyles for Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-033",
+      "name": "Unlock a total of {threshold} songs for Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-034",
+      "name": "Place in the top 2,000 in Ume Hanami’s Producer Ranking for {threshold} seasons"
+    },
+    {
+      "id": "achieve-p_idol-hume-035",
+      "name": "Obtain a total of {threshold} Produce Idols for Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-036",
+      "name": "Watch {threshold} different True Lives for Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-037",
+      "name": "Work for a total of {threshold} hours with Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-038",
+      "name": "Take {threshold} photos of Ume Hanami"
+    },
+    {
+      "id": "achieve-p_idol-hume-039",
+      "name": "Enter the Contest {threshold} times with Ume Hanami"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -12514,6 +13046,42 @@
       "name": "Pass the Final Exam with Sena Juo and earn an S4 or higher evaluation {threshold} times"
     },
     {
+      "id": "achieve-p_idol-jsna-030",
+      "name": "Obtain a total of {threshold} costumes for Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-031",
+      "name": "Obtain a total of {threshold} hairstyles for Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-033",
+      "name": "Unlock a total of {threshold} songs for Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-034",
+      "name": "Place in the top 2,000 in Sena Juo’s Producer Ranking for {threshold} seasons"
+    },
+    {
+      "id": "achieve-p_idol-jsna-035",
+      "name": "Obtain a total of {threshold} Produce Idols for Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-036",
+      "name": "Watch {threshold} different True Lives for Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-037",
+      "name": "Work for a total of {threshold} hours with Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-038",
+      "name": "Take {threshold} photos of Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-039",
+      "name": "Enter the Contest {threshold} times with Sena Juo"
+    },
+    {
       "id": "achieve-p_idol-kcna-000",
       "name": "View True End with China Kuramoto"
     },
@@ -12630,6 +13198,42 @@
       "name": "Pass the Final Exam with China Kuramoto and earn an S4 or higher evaluation {threshold} times"
     },
     {
+      "id": "achieve-p_idol-kcna-030",
+      "name": "Obtain a total of {threshold} costumes for China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-031",
+      "name": "Obtain a total of {threshold} hairstyles for China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-033",
+      "name": "Unlock a total of {threshold} songs for China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-034",
+      "name": "Place in the top 2,000 in China Kuramoto’s Producer Ranking for {threshold} seasons"
+    },
+    {
+      "id": "achieve-p_idol-kcna-035",
+      "name": "Obtain a total of {threshold} Produce Idols for China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-036",
+      "name": "Watch {threshold} different True Lives for China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-037",
+      "name": "Work for a total of {threshold} hours with China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-038",
+      "name": "Take {threshold} photos of China Kuramoto"
+    },
+    {
+      "id": "achieve-p_idol-kcna-039",
+      "name": "Enter the Contest {threshold} times with China Kuramoto"
+    },
+    {
       "id": "achieve-p_idol-kllj-000",
       "name": "See True End with Lilja Katsuragi"
     },
@@ -12744,6 +13348,42 @@
     {
       "id": "achieve-p_idol-kllj-027",
       "name": "Pass the Final Exam with Lilja Katsuragi and earn an S4 or higher evaluation {threshold} times"
+    },
+    {
+      "id": "achieve-p_idol-kllj-030",
+      "name": "Obtain a total of {threshold} costumes for Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-031",
+      "name": "Obtain a total of {threshold} hairstyles for Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-033",
+      "name": "Unlock a total of {threshold} songs for Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-034",
+      "name": "Place in the top 2,000 in Lilja Katsuragi’s Producer Ranking for {threshold} seasons"
+    },
+    {
+      "id": "achieve-p_idol-kllj-035",
+      "name": "Obtain a total of {threshold} Produce Idols for Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-036",
+      "name": "Watch {threshold} different True Lives for Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-037",
+      "name": "Work for a total of {threshold} hours with Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-038",
+      "name": "Take {threshold} photos of Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-p_idol-kllj-039",
+      "name": "Enter the Contest {threshold} times with Lilja Katsuragi"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -12866,6 +13506,42 @@
       "name": "Pass the Final Exam with Hiro Shinosawa and earn an S4 or higher evaluation {threshold} times"
     },
     {
+      "id": "achieve-p_idol-shro-030",
+      "name": "Obtain a total of {threshold} costumes for Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-031",
+      "name": "Obtain a total of {threshold} hairstyles for Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-033",
+      "name": "Unlock a total of {threshold} songs for Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-034",
+      "name": "Place in the top 2,000 in Hiro Shinosawa’s Producer Ranking for {threshold} seasons"
+    },
+    {
+      "id": "achieve-p_idol-shro-035",
+      "name": "Obtain a total of {threshold} Produce Idols for Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-036",
+      "name": "Watch {threshold} different True Lives for Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-037",
+      "name": "Work for a total of {threshold} hours with Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-038",
+      "name": "Take {threshold} photos of Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-p_idol-shro-039",
+      "name": "Enter the Contest {threshold} times with Hiro Shinosawa"
+    },
+    {
       "id": "achieve-p_idol-ssmk-000",
       "name": "View True End with Sumika Shiun"
     },
@@ -12980,6 +13656,42 @@
     {
       "id": "achieve-p_idol-ssmk-027",
       "name": "Pass the Final Exam with Sumika Shiun and earn an S4 or higher evaluation {threshold} times"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-030",
+      "name": "Obtain a total of {threshold} costumes for Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-031",
+      "name": "Obtain a total of {threshold} hairstyles for Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-033",
+      "name": "Unlock a total of {threshold} songs for Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-034",
+      "name": "Place in the top 2,000 in Sumika Shiun’s Producer Ranking for {threshold} seasons"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-035",
+      "name": "Obtain a total of {threshold} Produce Idols for Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-036",
+      "name": "Watch {threshold} different True Lives for Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-037",
+      "name": "Work for a total of {threshold} hours with Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-038",
+      "name": "Take {threshold} photos of Sumika Shiun"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-039",
+      "name": "Enter the Contest {threshold} times with Sumika Shiun"
     },
     {
       "id": "achieve-p_idol-ttmr-000",
@@ -13100,6 +13812,42 @@
     {
       "id": "achieve-p_idol-ttmr-027",
       "name": "Pass the Final Exam with Temari Tsukimura and earn an S4 or higher evaluation {threshold} times"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-030",
+      "name": "Obtain a total of {threshold} costumes for Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-031",
+      "name": "Obtain a total of {threshold} hairstyles for Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-033",
+      "name": "Unlock a total of {threshold} songs for Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-034",
+      "name": "Place in the top 2,000 in Temari Tsukimura’s Producer Ranking for {threshold} seasons"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-035",
+      "name": "Obtain a total of {threshold} Produce Idols for Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-036",
+      "name": "Watch {threshold} different True Lives for Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-037",
+      "name": "Work for a total of {threshold} hours with Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-038",
+      "name": "Take {threshold} photos of Temari Tsukimura"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-039",
+      "name": "Enter the Contest {threshold} times with Temari Tsukimura"
     },
     {
       "id": "achievement_char_hume-024",

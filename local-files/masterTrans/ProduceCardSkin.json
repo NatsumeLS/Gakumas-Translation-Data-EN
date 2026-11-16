@@ -1,0 +1,40 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "produceCardId",
+      "characterId",
+      "idolCardSkinId"
+    ]
+  },
+  "data": [
+    {
+      "id": "p-card-skin_ido-3_069_mid-ssmk-01",
+      "produceCardId": "p_card-02-ido-3_069",
+      "characterId": "ssmk",
+      "idolCardSkinId": "i_card-skin-ssmk-3-001",
+      "name": "Afternoon Breeze"
+    },
+    {
+      "id": "p-card-skin_ido-3_070_mid-hrnm-01",
+      "produceCardId": "p_card-01-ido-3_070",
+      "characterId": "hrnm",
+      "idolCardSkinId": "i_card-skin-hrnm-3-001",
+      "name": "Cumulonimbus and You"
+    },
+    {
+      "id": "p-card-skin_ido-3_073_mid-fktn-01",
+      "produceCardId": "p_card-02-ido-3_073",
+      "characterId": "fktn",
+      "idolCardSkinId": "i_card-skin-fktn-3-002",
+      "name": "Summer Evening Sparklers"
+    },
+    {
+      "id": "p-card-skin_ido-3_074_mid-kllj-01",
+      "produceCardId": "p_card-01-ido-3_074",
+      "characterId": "kllj",
+      "idolCardSkinId": "i_card-skin-kllj-3-001",
+      "name": "My First Ramune"
+    }
+  ]
+}
